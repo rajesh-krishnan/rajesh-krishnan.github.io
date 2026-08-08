@@ -34,15 +34,15 @@ This avoids semantic loss or errors in translation on my part, arising out of an
 Such issues are confined to the fitness of match of the verses, and my comments if you pay any heed to them.
 
 I am attempting this because I thought this would be a fun exercise. 
-I have no axe to grind, no agenda to set, or desire to gain fame or notoriety with this work. 
+I have no axe to grind, no agenda to set, and no desire to gain fame or notoriety from this work. 
 I find Tamil, Samskrutam, English, and a few other languages all enjoyable in their own way.
-I do not claim the flow of original ideas from or to the kural; rather I just rejoice in the abundance we have bequeathed.
+I do not claim the original ideas flowed directly between the kural and the matched verse; rather I just rejoice in the abundance we have bequeathed.
 I do not to claim congruence to any single shastra, such as dharma shastra or niti shastra.
 I do not explore congruences outside of ancient Indic literature, religious or otherwise.
 There are extant scholarly works that explore such congruences.
 
-I am sharing this freely because I can. I am merely a compiler and a pattern matcher, the results of which effort I am sharing here.
-All the wisdom shared are from ancient Indic sages, and I use Indic in the plate tectonic sense of geography.  
+I am sharing this freely because I can.
+All the wisdom shared are from ancient Indic sages, where a sage is Indic if he lived on the Indian tectonic plate and ancient if he is older than me.  
 
 As I begin, I seek the blessings of God (Ishvara, who has neither religion nor denomination).
 I bow to my birth nation which produced the wisdom tradition we are discussing here, and my adopted nation for the innumerable blessings it has given me.
