@@ -1,5 +1,10 @@
-# Sanskrit Verses Similar to the Thirukkural
-Rajesh Krishnan
+---
+layout: post
+title:  "Welcome to my blog"
+author: "Rajesh Krishnan"
+categories: [kuralmatch]
+tags: [kuralmatch]
+---
 
 ## Preface
 
