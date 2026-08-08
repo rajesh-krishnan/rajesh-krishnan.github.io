@@ -52,9 +52,4 @@ A shoutout to my friend and mentor Ram Ramanathan who suggested a few years ago 
 
 Verses will follow as independent posts.
 
-See also:
-
-- अकारो वै सर्वा वाक् is from the Aitareya Aranyaka 3.6.
-- अकारः सर्ववर्णाग्र्यः प्रकाशः परमः शिवः in the Shiva Purana Kailāsa-saṃhitā 19.1–3 (verify). 
-- अक्षराणामकारोऽस्मि — अहं सर्वस्य प्रभवः from Bhagavad Gita 10.33 and 10.8
 
