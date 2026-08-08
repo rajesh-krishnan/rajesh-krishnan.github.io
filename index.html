@@ -9,7 +9,7 @@ title: "Blog"
   <div id={{ category | first }} style="overflow-y:scroll; height:100px;">
     {% assign sorted_by_title = category.last | sort:'title' %}
     {% for post in sorted_by_title %}
-      {{ post.date | date: "%B %-d, %Y" }} &nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ post.url }}">{{ post.title }}</a><p>
+      {{ post.date | date: "%B %-d, %Y" }} &nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ post.url }}">{{ post.title }}</a><br>
     {% endfor %}
   </div>
 {% endfor %}
