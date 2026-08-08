@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my blog"
+title:  "Sanskrit Verses Similar to Thirukkural - Preface"
 author: "Rajesh Krishnan"
 categories: [kuralmatch]
 tags: [kuralmatch]
