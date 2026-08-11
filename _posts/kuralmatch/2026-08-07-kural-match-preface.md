@@ -33,6 +33,8 @@ Translations and scholarly commentaries are available for both the kural and for
 This avoids semantic loss or errors in translation on my part, arising out of any 'vikalpa' or 'viparyaya' (as defined by Patanjali in his Yoga Sutras).
 Such issues are confined to the fitness of match of the verses, and my comments if you pay any heed to them.
 
+It is my observation that the Thirukkural uses metaphors judiciously and favors a general and abstract presentation; in contrast, many of the Sanskrit shlokas I picked tend to use concrete examples, similes, and metaphors more liberally. Sanskrit sutra-style literature tend to be far more abstract and typically require supporting commentary, so I have chosen shlokas mostly, which can stand alone like the kural can.
+
 I am attempting this because I thought this would be a fun exercise. 
 I have no axe to grind, no agenda to set, and no desire to gain fame or notoriety from this work. 
 I find Tamil, Samskrutam, English, and a few other languages all enjoyable in their own way.
