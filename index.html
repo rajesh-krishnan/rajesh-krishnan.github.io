@@ -6,7 +6,7 @@ title: "Blog"
 <h2>Articles</h2>
 {% for category in site.categories %}
   <h3> {{ category | first }} </h3>
-  <div id={{ category | first }} style="overflow-y:scroll; height:500px;">
+  <div id={{ category | first }} style="overflow-y:scroll; height:400px;">
     {% assign sorted_by_title = category.last | sort:'title' %}
     {% for post in sorted_by_title %}
       {{ post.date | date: "%B %-d, %Y" }} &nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ post.url }}">{{ post.title }}</a><br>
