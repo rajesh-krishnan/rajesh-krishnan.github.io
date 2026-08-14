@@ -15,18 +15,13 @@ The verse matching is not being done starting from verse 1 to 1330 in linear ord
 
 To get the most out of this work, the reader would:
 
-- have some familiarity with Tamil, Samskrit, and English  
-- have an appreciation of ancient Indic thought, preferably from an emic perspective
+- have some familiarity with Tamil, Sanskrit, and English  
+- have an emic appreciation of ancient Indic knowledge traditions
 - be willing and able to look up meanings and scholarly commentaries of the verses using traditional or modern (e.g., AI-assisted search) means
 
-The "compactly structured kural pierces the atom and loads the seven seas into it" said the great Tamil poetess Avvaiyar. 
-Given the enormity of wisdom the kural distills into two short lines, I am in no delusion that the verse match I suggest is semantically
-isomorphic. Even most direct translations fail that standard. No claim is being made that the match is unique or best; the selection reflects my best judgment and scope of research at present. 
-I may switch out verses with better matching alternatives if I find any.
+The "compactly structured kural pierces the atom and loads the seven seas into it" said the great Tamil poetess Avvaiyar. Given the enormity of wisdom the kural distills into two short lines, I am in no delusion that the verse match I suggest is semantically isomorphic. Even most direct translations fail that standard. No claim is being made that the match is unique or best; the selection reflects my best judgment and scope of research at present. I may switch out verses with better matching alternatives if I find any.
 
-I do include comments, however, on some gaps identified between the kural and its proposed matching verse, as well as
-some research notes that may offer insight into my sources and interpretive bias in matching.
-Please feel free to ignore them and draw your own conclusions of the fitness of match, and gaps in semantic coverage.
+I do include comments, however, on some gaps identified between the kural and its proposed matching verse, as well as some research notes that may offer insight into my sources and interpretive bias in matching. Please feel free to ignore them and draw your own conclusions of the fitness of match, and gaps in semantic coverage.
 
 I offer no translations of the kural or matched verses. Translations of the kural in Sanskrit, English, and other languages are widely available. 
 Translations and scholarly commentaries are available for both the kural and for many of the matched Sanskrit verses as well.
