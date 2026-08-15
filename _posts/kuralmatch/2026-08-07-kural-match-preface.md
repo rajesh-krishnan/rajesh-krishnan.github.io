@@ -23,9 +23,9 @@ The "compactly structured kural pierces the atom and loads the seven seas into i
 
 I do include comments, however, on some gaps identified between the kural and its proposed matching verse, as well as some research notes that may offer insight into my sources and interpretive bias in matching. Please feel free to ignore them and draw your own conclusions of the fitness of match, and gaps in semantic coverage.
 
-I offer no translations of the kural or matched verses. Translations of the kural in Sanskrit, English, and other languages are widely available. 
-Translations and scholarly commentaries are available for both the kural and for many of the matched Sanskrit verses as well.
-This avoids semantic loss or errors in translation on my part, arising out of any 'vikalpa' or 'viparyaya' (as defined by Patanjali in his Yoga Sutras).
+I offer no translations of the kural or matched verses. Translations of the kural in Sanskrit, English, and other languages are widely available, as are commentaries on it. 
+Translations and scholarly commentaries are available for many, if not all, of the matched Sanskrit verses as well.
+This approach avoids semantic loss or errors in translation on my part, arising out of any 'vikalpa' or 'viparyaya' (as defined by Patanjali in his Yoga Sutras).
 Such issues are confined to the fitness of match of the verses, and my comments if you pay any heed to them.
 
 It is my observation that the Thirukkural uses metaphors judiciously and favors a general and abstract presentation; in contrast, many of the Sanskrit shlokas I picked tend to use concrete examples, similes, and metaphors more liberally. Sanskrit sutra-style literature tend to be far more abstract and typically require supporting commentary, so I have chosen shlokas mostly, which can stand alone like the kural can.
@@ -33,7 +33,7 @@ It is my observation that the Thirukkural uses metaphors judiciously and favors 
 I am attempting this because I thought this would be a fun exercise. 
 I have no axe to grind, no agenda to set, and no desire to gain fame or notoriety from this work. 
 I find Tamil, Samskrutam, English, and a few other languages all enjoyable in their own way.
-I do not claim the original ideas flowed directly between the kural and the matched verse; rather I just rejoice in the abundance we have bequeathed.
+I do not claim the original ideas flowed directly between the kural and the matched verse; rather I just rejoice in the abundance we have been bequeathed with.
 I do not to claim congruence to any single shastra, such as dharma shastra or niti shastra.
 I do not explore congruences outside of ancient Indic literature, religious or otherwise.
 There are extant scholarly works that explore such congruences.
