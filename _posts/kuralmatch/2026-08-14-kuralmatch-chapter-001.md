@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thirukkural Chapter 001"
+title: "Thirukkural Chapter 001: Congruent Shlokas"
 author: "Rajesh Krishnan"
 categories: [Sanskrit Verses Similar to Thirukkural]
 tags: [kuralmatch]
