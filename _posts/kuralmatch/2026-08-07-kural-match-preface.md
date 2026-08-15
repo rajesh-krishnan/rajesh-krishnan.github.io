@@ -6,8 +6,6 @@ categories: [Sanskrit Verses Similar to Thirukkural]
 tags: [kuralmatch]
 ---
 
-## Foreword 
-
 The goal of this effort is to identify Sanskrit verses that approximate the idea of each verse of the Thirukkural.
 The matched verses are from various Sanskrit texts of wide ranging antiquity, including some newer than the Thirukkural.
 This work is made available in the public domain, and I will not be responding to comments until the work is complete.
