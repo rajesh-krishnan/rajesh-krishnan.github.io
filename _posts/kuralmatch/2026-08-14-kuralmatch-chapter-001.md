@@ -107,7 +107,7 @@ Another strikingly similar shloka that is an equally good match is Verse 4 of th
 
 The kurals in this chapter are striking not because any one of their theological ideas is unprecedented, but because they juxtapose jnana and bhakti so tightly.  The Lord is first identified through a series of attributes, then learning is declared fruitless without worship of His feet, and finally devotion is associated with freedom from death, sorrow, and afflictions, and crossing the ocean of samsara. 
 
-The essence of this chapter may be seen through the lens of the Vishnu Sahasranamam and Bhaja Govindam taken together:
+The essence of this chapter may be seen through the alternative lens of the Vishnu Sahasranamam and Bhaja Govindam taken together:
 
  - The Sahasranamam provides Sanskrit vocabulary for the identity and salvific attributes of the Lord that are in the alignment with the epithets used by the kural. Particularly relevant to the last Kurals is its own framing question, किं जपन्मुच्यते जन्तुर्जन्मसंसारबन्धनात्? Thus तारणः is not merely a generic crossing metaphor but belongs to the text's explicit salvific vocabulary.
 
