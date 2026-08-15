@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sanskrit Verses Similar to Thirukkural - Chapter 001"
+title: "Thirukkural Chapter 001"
 author: "Rajesh Krishnan"
 categories: [Sanskrit Verses Similar to Thirukkura]
 tags: [kuralmatch]
