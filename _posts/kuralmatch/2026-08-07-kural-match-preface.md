@@ -2,7 +2,7 @@
 layout: post
 title:  "An Introduction"
 author: "Rajesh Krishnan"
-categories: [Sanskrit Verses Similar to Thirukkura]
+categories: [Sanskrit Verses Similar to Thirukkural]
 tags: [kuralmatch]
 ---
 
