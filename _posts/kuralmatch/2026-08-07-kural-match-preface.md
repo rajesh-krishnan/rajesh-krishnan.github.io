@@ -47,6 +47,6 @@ I express my sincere gratitude to everyone who developed and made available the 
 I express my gratitude to my mother, father, teachers, gurus, friends, colleagues, and others including authors and video content creators from whom I have learned.
 A shoutout to my friend and mentor Ram Ramanathan who suggested a few years ago that I should consider blogging or something like that.
 
-Verses will follow as independent posts.
+Verse matchings follow as independent posts.
 
 
