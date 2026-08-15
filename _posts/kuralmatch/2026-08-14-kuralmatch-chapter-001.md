@@ -7,11 +7,9 @@ tags: [kuralmatch]
 ---
 
 
-# Adhikaram 1 
+## Adhikaram 1
 
 குறள் பால்: அறத்துப்பால். குறள் இயல்: பாயிரவியல். அதிகாரம்: கடவுள் வாழ்த்து.
-
-## Matched Verses
 
 |No.| Kural | Shloka |
 |----|-------|--------|
