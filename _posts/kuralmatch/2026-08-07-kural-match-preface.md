@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Sanskrit Verses Similar to Thirukkural - Preface"
+title:  "Sanskrit Verses Similar to Thirukkural - An Introduction"
 author: "Rajesh Krishnan"
 categories: [Sanskrit Verses Similar to Thirukkural]
 tags: [kuralmatch]
 ---
 
-## Preface
+## Foreword 
 
 The goal of this effort is to identify Sanskrit verses that approximate the idea of each verse of the Thirukkural.
 The matched verses are from various Sanskrit texts of wide ranging antiquity, including some newer than the Thirukkural.
