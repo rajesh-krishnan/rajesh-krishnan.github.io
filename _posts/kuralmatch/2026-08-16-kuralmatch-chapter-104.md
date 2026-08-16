@@ -36,19 +36,16 @@ The kural's emphatic assertion, they only live who live by tilling the land and 
 
 ### Verse 5
 
-The kural states that those who make their living by food produced through their own hands do not beg. It additionally affirms that they give something, without withholding, to those who beg. Verse 3 of the Krishi Parashara provides a good correspondence to this kural by affirming that by agriculture alone, one does not have to become a supplicant: एकया ... कृष्या प्रार्थको नैव जायते.
+This kural affirms that those living by their own labor do not beg (இரவார்) and give generously without withholding (இரப்பார்க்கு... ஈவர் கரவாது). Verse 3 of the Krishi Parahsara directly mirrors this first aspect: agriculture alone prevents one from becoming a supplicant (एकया ... कृष्या प्रार्थको नैव जायते). Parimelazhagar's commentary of this kural (‘கைசெய் தூண் மாலையவர்’ என்பது, ஒரு ஞான்றும் அழிவில்லாத செல்வமுடையார் என்னும் ஏதுவை உட்கொண்டு நின்றது) parallels the shloka's second line (कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः), which elevates the cultivator to a sovereign (भूपति).
 
-The kural states both two sides explicitly: இரவார் — “they do not beg” and இரப்பார்க்கு... ஈவர் — “they give to those who beg.” Furthermore, it adds that they do so without withholding: கரவாது. 
+While the kural explicitly states both sides of a proposition (a stylistic device seen elsewhere, such as நீந்துவர் நீந்தார் in Chapter 1), the shloka states the primary premise and lets the converse emerge logically from ekayā (एकया, "by agriculture alone"):
 
-Kṛṣi Parāśara states the first side directly and lets the converse follow from the economic premise contained in एकया कृष्या. The crucial word is एकया as it does substantial semantic work in the shloka. Agriculture is understood as the production of food through one's own labor. Thus the proposition contains two sides of the kural's logic:
-    1. The agricultural producer does not beg, because he produces the food on which he lives.
-    2. Those who do not produce food must beg, since the agricultural producer is the person in a position to supply what they need.
+ - Direct Premise: Agricultural producers do not beg, as they grow their own food.
+ - Implicit Converse: Non-producers must beg, leaving the farmer as the sole supplier.
 
-The things left implicit in प्रार्थको नैव जायते are then supported by the surrounding text. The second line elevates the agriculturalist to the position of भूपति, a sovereign, while the next verse explicitly says that others solicit the cultivators for food: प्रार्थयन्त्येव कृषकान्.  Later in the text, in verse 9, we see the one who honors the अतिथि (presumably by feeding the guest generously) is praised as the supreme man. Thus the surrounding context of the shloka provides semantic coverage by making explicit that others request the farmer, and also that the farmer gives generously.
+The surrounding text confirms these implicit points. Verse 3 positions the farmer as a sovereign (भूपति), verse 4 notes that others solicit cultivators for food (प्रार्थयन्त्येव कृषकान्), and verse 9 praises the host who honors the guest (अतिथि) as supreme.
 
-This is closely analogous to the kural's stylistic construction of proposition + converse, as elsewhere in the text, for example, நீந்துவர் நீந்தார் (“they swim across; they do not swim across”) in the first chapter. The kural makes both sides rhetorically explicit, whereas shloka states the first and allows the converse to emerge from the economic logic and the following verses.
-
-An interesting connection to the kural's “the farmer gives generously” is Ṛgveda 10.117.7 (often known as the Dāna Stuti or the Hymn on Generosity, attributed to Rishi Bhikshu Angirasa): कृषन्नित्फाल आशितं कृणोति यन्नध्वानमप वृङ्क्ते चरित्रैः । वदन्ब्रह्मावदतो वनीयान्पृणन्नापिरपृणन्तमभि ष्यात् ॥TA literal rendering of the verse reads as: The ploughshare that tills the land generates food; the traveler who walks covers the distance through effort; the Vedic scholar who speaks is superior to the silent one; so too, the generous giver is a true friend and surpasses the non-giver. It therefore provides another Sanskrit parallel to the Kural's கைசெய்தூண் ... இரப்பார்க்கு ஈவர் கரவாது — the agricultural producer sustains others generously through what he produces.
+A further Sanskrit parallel to the kural's theme appears in Rigveda 10.117.7 (Rishi Bhikshu Angirasa's Dana Stuti): कृषन्नित्फाल आशितं कृणोति यन्नध्वानमप वृङ्क्ते चरित्रैः । वदन्ब्रह्मावदतो वनीयान्पृणन्नापिरपृणन्तमभि ष्यात् ॥ Literal rendering: The tilling ploughshare generates food; the walking traveler covers distance through effort; the speaking Vedic scholar surpasses the silent one; likewise, the generous giver is a true friend and surpasses the non-giver. Both texts affirm the same principle: self-sustaining agricultural production naturally enables generous giving to other.
 
 ### Verse 6
 
