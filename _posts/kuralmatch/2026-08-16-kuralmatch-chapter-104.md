@@ -36,6 +36,20 @@ The kural's emphatic assertion, they only live who live by tilling the land and 
 
 ### Verse 5
 
+The kural states that those who make their living by food produced through their own hands do not beg. It additionally affirms that they give something, without withholding, to those who beg. Verse 3 of the Krishi Parashara provides a good correspondence to this kural by affirming that by agriculture alone, one does not have to become a supplicant: एकया ... कृष्या प्रार्थको नैव जायते.
+
+The kural states both two sides explicitly: இரவார் — “they do not beg” and இரப்பார்க்கு... ஈவர் — “they give to those who beg.” Furthermore, it adds that they do so without withholding: கரவாது. 
+
+Kṛṣi Parāśara states the first side directly and lets the converse follow from the economic premise contained in एकया कृष्या. The crucial word is एकया as it does substantial semantic work in the shloka. Agriculture is understood as the production of food through one's own labor. Thus the proposition contains two sides of the kural's logic:
+    1. The agricultural producer does not beg, because he produces the food on which he lives.
+    2. Those who do not produce food must beg, since the agricultural producer is the person in a position to supply what they need.
+
+The things left implicit in प्रार्थको नैव जायते are then supported by the surrounding text. The second line elevates the agriculturalist to the position of भूपति, a sovereign, while the next verse explicitly says that others solicit the cultivators for food: प्रार्थयन्त्येव कृषकान्.  Later in the text, in verse 9, we see the one who honors the अतिथि (presumably by feeding the guest generously) is praised as the supreme man. Thus the surrounding context of the shloka provides semantic coverage by making explicit that others request the farmer, and also that the farmer gives generously.
+
+This is closely analogous to the Kural's stylistic construction of proposition + converse, as elsewhere in the Tirukkuṟaḷ—for example, நீந்துவர் நீந்தார் (“they swim across; they do not swim across”) in the first chapter. The Kural makes both sides rhetorically explicit, whereas Kṛṣi Parāśara states the first and allows the converse to emerge from the economic logic and the following verses.
+
+An interesting connection to the Kural's “the farmer gives generously” is Ṛgveda 10.117.7 (often known as the Dāna Stuti or the Hymn on Generosity, attributed to Rishi Bhikshu Angirasa): कृषन्नित्फाल आशितं कृणोति यन्नध्वानमप वृङ्क्ते चरित्रैः । वदन्ब्रह्मावदतो वनीयान्पृणन्नापिरपृणन्तमभि ष्यात् ॥TA literal rendering of the verse reads as: The ploughshare that tills the land generates food; the traveler who walks covers the distance through effort; the Vedic scholar who speaks is superior to the silent one; so too, the generous giver is a true friend and surpasses the non-giver. It therefore provides another Sanskrit parallel to the Kural's கைசெய்தூண் ... இரப்பார்க்கு ஈவர் கரவாது —the agricultural producer sustains others generously through what he produces.
+
 ### Verse 6
 
 ### Verse 7
