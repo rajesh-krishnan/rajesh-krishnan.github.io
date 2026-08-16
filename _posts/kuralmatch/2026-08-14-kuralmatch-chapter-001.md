@@ -113,9 +113,9 @@ Another strikingly similar shloka that is an equally good match is Verse 4 of th
 
 ### Chapter Summary
 
-The kurals in this chapter are striking not because any one of their theological ideas is unprecedented, but because they juxtapose jnana and bhakti so tightly. The Lord is first identified through a series of attributes, then learning is declared fruitless without worship of His feet, and finally devotion is associated with freedom from death, sorrow, and afflictions, and crossing the ocean of samsara.
+The kurals in this chapter are striking not because any one of their theological ideas is unprecedented, but because they juxtapose jnana and bhakti so tightly. The Lord is first identified through a series of attributes, then learning is declared fruitless without worship of His feet, and finally devotion is associated with freedom from death, sorrow, and afflictions, and crossing the ocean of samsara. What truly stands out in this chapter is எண்குணத்தான் where Thiruvalluvar seems to make an ontological commitment to the Tamil Agamas, and I provide more detail at the end of this section.
 
-The essence of this chapter may be seen through the alternative lens of the Vishnu Sahasranamam and Kulashekhara Alwar’s Mukundamala taken together, which we explore below.
+The essence of this chapter may be seen through the alternative lens of the Vishnu Sahasranamam and Kulashekhara Alwar’s Mukundamala taken together, which we explore below. 
 
 The Sahasranamam provides Sanskrit vocabulary for the identity and salvific attributes of the Lord that are in alignment with the epithets used by the kural. Particularly relevant to the last kural is its own framing question, किं जपन्मुच्यते जन्तुर्जन्मसंसारबन्धनात्? Thus तारणः is not merely a generic crossing metaphor but belongs to the text's explicit salvific vocabulary.
 
@@ -135,7 +135,7 @@ The Sahasranamam provides Sanskrit vocabulary for the identity and salvific attr
 | இறைவன் பொருள்சேர் புகழ் | स्तुतिः, पुण्यकीर्तिः |
 | எண்குணத்தான் | I could not find a direct match to eight-attributed. Parimelazhagar’s gloss of எண்குணத்தான் lists: தன்வயத்தன் ஆதல், தூய உடம்பினன் ஆதல், இயற்கை உணர்வினன் ஆதல், முற்றும் உணர்தல், பாசங்களின் நீங்குதல், பேரருள் உடைமை, முடிவில் ஆற்றல் உடைமை, வரம்பில் இன்பம் உடைமை. These match well well with: स्ववशः (Svavaśaḥ), पूतात्मा (Pūtātmā), प्राज्ञः (Prajñaḥ), सर्वज्ञः (Sarvajñaḥ), असङ्गः (Asaṅgaḥ), दयानिधिः (Dayānidhiḥ), महाशक्तिः (Mahāśaktiḥ), आनन्दी (Ānandī). |
 
-The Mukundamala then supplies the connection to devotion and its benefits. Mukunda (from mukti-da, the bestower of liberation)  appears both as a name in the Sahasranamam, and as the central focal point of Kulasekhara's surrender. It mirrors the kural chapter by setting aside empty learning to seek the nectar of the Lord's feet, as well as by describing the Lord's feet as the boat used to cross the impassable ocean of rebirth.
+The Mukundamala then supplies the connection to devotion and its benefits. Mukunda (from mukti-da, the bestower of liberation)  appears both as a name in the Sahasranamam, and as the central focal point of Kulasekhara's surrender. It mirrors the kural chapter by setting aside various kinds of learning to seek the nectar of the Lord's feet, as well as by describing the Lord's feet as the boat used to cross the impassable ocean of rebirth.
 
 | Kural Expression | Mukundamala Parallel |
 |--|--|
@@ -155,4 +155,4 @@ The following expressions warrant additional remarks:
 | எண்குணத்தான் | While we are able to match each of the eight that Parimelazhagar’s gloss lists, I could not find an epithet to Ishvara as having eight attributes in Sanskrit literature. These come from Tamil Shaivism, for example: இருத்திடும் எண்குணம் எய்தலும் ஆமே from Thirumanthiram 1205, and இயக்கி மார் அறுபத்து நால்வரை எண்குணம் செய்த ஈசனே from Tiruvasakam, Thirukkazhukkundrap Patikam 7. They do not match lists in Kashmir Shaivism, the list in Mandukya Verse 5-6, the ashtamahasiddhis, the Chandogya Upanishad's list of the attributes of the atman, or the Kalyana Gunas listed by Ramanujacharya. |
 | வேண்டுதல் வேண்டாமை இலான் | We can consider रागद्वेषविवर्जित and निर्द्वन्द्वः from the Shiva Purana as good matches, but the Sahasranamam's असङ्गः is a weaker match. |
 | இருள்சேர் இருவினையும் சேரா இறைவன் | We can consider Mundaka Upanishad 3.1.3 पुण्यपापे विधूय निरञ्जनः and Shvetashvatara Upanishad 3.8 तमसः परस्तात् as good matches, but a match within the Sahasranamam remains elusive. |
-| கோளில் பொறியின் குணமிலவே | This is not an epithet of God, a devotional approach, or a benefit resulting from devotion.  This poetic metaphor of "as useless as an organ mismatched with its object" is truly unique. While इन्द्रियाणां स्वविषयाः is well attested, this expression is unusual. |
+| கோளில் பொறியின் குணமிலவே | The poetic metaphor "as useless as an organ mismatched with its object" is truly unique. This is and not used to refer to an epithet of God, a devotional approach, or a benefit resulting from devotion. While इन्द्रियाणां स्वविषयाः is well attested, this expression is unusual. |
