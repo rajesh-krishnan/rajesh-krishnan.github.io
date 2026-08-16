@@ -87,6 +87,14 @@ Associating the concept of रागद्वेषविवर्जितः w
 
 ###  Verse 7
 
+The Kural has two tightly connected propositions: the Lord is without equal; and those who attain/attach themselves to Him are freed from mental distress. The Shvetashvatara Upanishad gives us those two propositions in two verses that are nearby in the text. The first shloka (verse 6.8) gives us: न तत्समश्चाभ्यधिकश्च दृश्यते which corresponds to தனக்குவமை இல்லாதான்.  The second shloka (verse 6.12) affirms that to those steadfast ones who perceive Him dwelling within the Self: for them is eternal happiness, not for others -- तमात्मस्थं येऽनुपश्यन्ति धीराः तेषां सुखं शाश्वतं नेतरेषाम्. The तम् here is referring to the same One who is न तत्सम in the earlier verse. They are in a connected sequence of verses in the text.
+
+We need to make this interpretive adjustment. While at a literal level, this looks different from தாள்சேர்ந்தார்க் கல்லால் மனக்கவலை மாற்றல் அரிது, the two are different poetic idioms for the same soteriological movement. Seeing as dwelling within the self is jnana equivalent of the surrendering at the feet bhakti idiom.  In my interpretation, Valluvar uses தாள்சேர்ந்தார் across verses in this chapter in a general Ishvara Pranidhana sense rather than a literal sense.
+
+The shlokas adopt this movement:  the One who has no equal >> Him who is perceived within the Self >> eternal happiness for those who attain that realization, not others. This is a paallel to the kural’s movement: the One who has no equal >> those who reach His feet >> removal of mental anguish, and not otherwise. The difference  in தாள்சேர்ந்தார் and तमात्मस्थं येऽनुपश्यन्ति is a difference of devotional versus Upanishadic metaphor; it does not affect the crux of the Kural's two-part proposition.
+
+Verse 7 of the Rudrāṣṭakam, a more recent text due to Tulasidas, provides a striking devotional formulation of the second half of the kural through Shiva's lotus feet and the destruction of santapa: न यावद् उमानाथ पादारविन्दं भजन्तीह लोके परे वा नराणाम् । न तावत् सुखं शान्ति सन्तापनाशं प्रसीद प्रभो सर्वभूताधिवासम् ॥ The correspondence of पादारविन्दं भजन्ती and सन्तापनाशं to தாள்சேர்ந்தார் and மனக்கவலை மாற்றல் is strong, however, it lacks the decisive “no equal” formulation of the Upanishad न तत्समश्चाभ्यधिकश्च दृश्यते.
+
 ###  Verse 8
 
 ###  Verse 9
