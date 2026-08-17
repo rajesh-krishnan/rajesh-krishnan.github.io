@@ -83,6 +83,12 @@ Associating the concept of रागद्वेषविवर्जितः w
 
 ###  Verse 5
 
+The kural asserts that the two karmas joined with darkness do not cling to those who pursue the praise of the Lord grounded in truth. இருவினை is classically understood as good and bad karma (पुण्य and पाप), while இருள் denotes ignorance or delusion. Mundaka Upaniṣad 3.1.3 offers an exceptionally close conceptual parallel: இருவினையும் சேரா corresponds to पुण्यपापे विधूय, while இறைவன் finds a close counterpart in ईशं पुरुषम्.
+
+The kural explicitly characterizes the two karmas as இருள்சேர், “joined with darkness,” whereas the Upaniṣadic verse leaves अविद्या implicit in its surrounding knowledge–ignorance framework. The रुक्मवर्णम् (“golden-hued”) Lord also presents an implicit contrast with இருள்.
+
+The core theological-karmic structure is therefore strikingly close, but the emphasis differs: the kural stresses praise grounded in knowledge of the Lord’s true nature (பொருள்சேர் புகழ்), whereas, the Upanishad stresses direct realization (पश्यते… विद्वान्) of the Lord.
+
 ###  Verse 6
 
 The shloka’s इन्द्रियाणां निरोधेन सत्येन च दमेन च has good correspondence to பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க நெறிநின்றார், and ब्रह्मणः पदमाप्नोति यत् परम् has good correspondence to நீடுவாழ்வார் based on classical interpretation of the kural. This follows Parimelazhagar, who glosses ஐந்தவித்தான் as the one who has cut off the five desires associated with the five senses, and நீடுவாழ்வார் specifically as “without birth, they live forever, remaining of one nature: (பிறப்பின்றி) எக்காலத்தும் (ஒருதன்மையராய்) வாழ்வார்.
