@@ -113,30 +113,59 @@ We discuss the possibility of reading the expression அறவாழி அந�
 
  - **Vaishnava:**
    
-   -- Rigveda 1.22.17 supports connects Trivikrama with Dharma: त्रीणि पदा विचक्रमे विष्णुर्गोपा अदाभ्यः । अतो धर्माणि धारयन् ॥
+   - Rigveda 1.22.17 supports connects Trivikrama with Dharma: त्रीणि पदा विचक्रमे विष्णुर्गोपा अदाभ्यः । अतो धर्माणि धारयन् ॥
 
-   -- The Vishnu Sahasranama provides वामनः, त्रिविक्रमः, and ब्राह्मणः धर्मः, and धर्मविदुत्तमः as names of Vishnu. We have seen that the Bhagavata Purana 8.18.12 connects Vamana to Dharma and Brahmana.
+   - The Vishnu Sahasranama provides वामनः, त्रिविक्रमः, and ब्राह्मणः धर्मः, and धर्मविदुत्तमः as names of Vishnu. We have seen that the Bhagavata Purana 8.18.12 connects Vamana to Dharma and Brahmana.
 
-   -- We can consider Valluvar's own later allusion to the cosmic measurer later in kural 610 using அடியளந்தான் recalls the Vamana-Trivikrama manifestation.
+   - We can consider Valluvar's own later allusion to the cosmic measurer later in kural 610 using அடியளந்தான் recalls the Vamana-Trivikrama manifestation.
 
-   -- Valluvar emphasizes the conenction between Dharma and Brahmana (அறவாழி யந்தணன்) in kural 30 (அந்தணர் என்போர் அறவோர்).
+   - Valluvar emphasizes the conenction between Dharma and Brahmana (அறவாழி யந்தணன்) in kural 30 (அந்தணர் என்போர் அறவோர்).
 
  - **Shaiva:**
 
-   -- The Mahabharata Anushasanaparvan 13.1463 establishes the Brahmana form of Shiva: द्वे तनू तस्य देवस्य वेदज्ञा ब्राह्मणा विदुः । घोरामन्यां शिवामन्यां ते तनू बहुधा पुनः ॥ The Shiva Purana Rudrsamhita 1.3.31.53 provides another connection to Lord Shiva as Brahmana: इत्युक्त्वा ब्राह्मणः शीघ्रं स वै भुक्त्वा मुदान्वितः । जगाम स्वालयं शान्तो नानालीलाकरः शिवः ॥ 
+   - The Mahabharata Anushasanaparvan 13.1463 establishes the Brahmana form of Shiva: द्वे तनू तस्य देवस्य वेदज्ञा ब्राह्मणा विदुः । घोरामन्यां शिवामन्यां ते तनू बहुधा पुनः ॥ The Shiva Purana Rudrsamhita 1.3.31.53 provides another connection to Lord Shiva as Brahmana: इत्युक्त्वा ब्राह्मणः शीघ्रं स वै भुक्त्वा मुदान्वितः । जगाम स्वालयं शान्तो नानालीलाकरः शिवः ॥ 
 
-   -- Shiva Purana, Rudrasamhita, Sati khanda, Adhyaya 3, verse 32 identifies Shiva as the protector and upholder of Dharma: देवदेव महादेव धर्मपाल नमोऽस्तु ते । सृष्टिस्थितिविनाशानां कर्ता शम्भो त्वमेव हि ॥ The passage is aptly called the Dharma-krita Shiva Stotra.
+   - Shiva Purana, Rudrasamhita, Sati khanda, Adhyaya 3, verse 32 identifies Shiva as the protector and upholder of Dharma: देवदेव महादेव धर्मपाल नमोऽस्तु ते । सृष्टिस्थितिविनाशानां कर्ता शम्भो त्वमेव हि ॥ The passage is aptly called the Dharma-krita Shiva Stotra.
 
-   -- Shiva is called அந்தணன் by Manickavachagar in Thiruvasagam Tiruthellenam:  திருமாலும் பன்றியாய்ச் சென்று உணராத் திருவடியை, உரு நாம் அறிய, ஓர் அந்தணன் ஆய், ஆண்டுகொண்டான்; ஒரு நாமம், ஓர் உருவம், ஒன்றும் இல்லாற்கு ஆயிரம்.
+   - Shiva is called அந்தணன் by Manickavachagar in Thiruvasagam Tiruthellenam:  திருமாலும் பன்றியாய்ச் சென்று உணராத் திருவடியை, உரு நாம் அறிய, ஓர் அந்தணன் ஆய், ஆண்டுகொண்டான்; ஒரு நாமம், ஓர் உருவம், ஒன்றும் இல்லாற்கு ஆயிரம்.
 
-   -- The Thevaram of Thirunavukkarasar at Thirukkattuppalli, 4th Thirumurai includes: அறவிடை மேலமர்ந்தார், for which the classical commentary explains as: சிவபெருமான் அறவிடை ஊர்தல், அறத்திற்குத் தலைவனாய், உலக நலத்தின் பொருட்டு அதனை நன்கு நடத்தும் முதல்வனாதலைக் குறிக்கும்.
+   - The Thevaram of Thirunavukkarasar at Thirukkattuppalli, 4th Thirumurai includes: அறவிடை மேலமர்ந்தார், for which the classical commentary explains as: சிவபெருமான் அறவிடை ஊர்தல், அறத்திற்குத் தலைவனாய், உலக நலத்தின் பொருட்டு அதனை நன்கு நடத்தும் முதல்வனாதலைக் குறிக்கும்.
 
 - **Jaina:**
 
-  -- The Jain Sanskrit Namamala establishes धर्मचक्रभृत् as a name of the Jina/Tīrthaṅkara: सर्वज्ञो वीतरागोऽर्हन् केवली धर्मचक्रभृत् । तीर्थङ्करस्तीर्थकरस्तीर्थकृद्दिव्यवाक्पतिः ॥
-  -- Brahmana is a well-defined concept in Jain Sanskrit literature. for example, in the Jain Mahapurana: तपःश्रुतं च जातिश्च त्रयं ब्राह्मण्यकारणम् । तपःश्रुताभ्यां यो हीनो जातिब्राह्मण एव सः ॥ The Jain correspondence can be strengthened further if we can find evidence that directly connects the Jina, Mahavira, Arhat, or Tirthankara with Brahmana.
+  - The Jain Sanskrit Namamala establishes धर्मचक्रभृत् as a name of the Jina/Tīrthaṅkara: सर्वज्ञो वीतरागोऽर्हन् केवली धर्मचक्रभृत् । तीर्थङ्करस्तीर्थकरस्तीर्थकृद्दिव्यवाक्पतिः ॥
+  - Brahmana is a well-defined concept in Jain Sanskrit literature. for example, in the Jain Mahapurana: तपःश्रुतं च जातिश्च त्रयं ब्राह्मण्यकारणम् । तपःश्रुताभ्यां यो हीनो जातिब्राह्मण एव सः ॥ The Jain correspondence can be strengthened further if we can find evidence that directly connects the Jina, Mahavira, Arhat, or Tirthankara with Brahmana.
 
 ###  Verse 9
+
+The kural declares that the head that does not bow to the feet of the One possessing eight qualities is without function, like a sense-organ lacking its proper faculty. The Sanskrit parallel I chose is Shivananda Lahiri 13, which says: “O Pashupati, far from Your worship, with a jada intellect, I wander blindly in this insubstantial samsara,. Out of Your supreme compassion, it is fitting that You protect me. Who is more helpless than I, for You who are supremely skilled in protecting the helpless? Who other than You is my refuge in the three worlds?”
+
+The correspondence can be developed in three steps. First, கோளில் பொறியின் குணமிலவே corresponds to जडधि and मामन्धं. Second, எண்குணத்தான் corresponds to पशुपते, another name for Shiva. Third, the remaining elements correspond naturally: தலை and தாளை வணங்கா find their counterparts in धि and निजभजनदूरे.
+
+  - Maṇakkudavar interprets கோளில் பொறியின் குணமிலவே as an image of sense-organs without intelligence: அறிவில்லாத பொறிகளையுடைய பாவைகள். The organs are physically present but lack the animating intelligence required for their proper function. The kural therefore evokes both a functionally inert faculty and the sense of blindness.
+  
+  - Parimelazhagar identifies எண்குணத்தான் through the eight qualities attributed to the supreme being and takes தாள் as the feet to which the head must bow, a metaphor for devotion.
+  
+  - With these interpretive moves, the parallel with the shloka becomes clear. The Sanskrit explicitly describes one who is far from worship (निजभजनदूरे) of Shiva (पशुपते) as possessing a jaḍa intellect (जडधि). The immediately following reference to blindness (मामन्धं) reinforces the sensory imagery of கோளில் பொறி, since blindness is the paradigmatic failure of a sensory faculty. The shloka thus brings together both dimensions implicit in the kural's metaphor—the functionless pori and the jada mind—and locates both in the condition of being distant from Shiva's worship. There is also a suggestive correspondence between தலை and धि: the kural locates the deficiency in the head, while the shloka locates it in the intellect. Both designate the faculty that ought to orient the person toward Shiva but has instead become inert.
+
+Finally, the connection with Shiva**'s feet** is explicit in the immediately preceding material. Verse 7 says: मनस्ते पादाब्जे निवसतु. The verse assigns the various organs to their proper Shaiva functions, providing a positive counterpart to the जडधि: the mind established at Shiva**'s lotus feet**.
+
+A striking Tamil parallel in the Viveka Cintamani makes the Shaiva correspondence explicit: “The head that does not bow to Shiva's feet, the hands that do not give to those who ask, the ears that do not hear good speech … though they exist, what use are they?”
+```text
+சிவனடி வணங்காச் சென்னி,
+இரப்பவர்க்கு ஈயாக் கைகள்,
+இனிய சொல் கேளாக் காது,
+...
+இருப்பினும் பயன் என்?
+```
+
+The epithet எண்குணத்தான் finds support in both the Tamil Shaiva and Jain traditions, although this specific epithet is unusual in the Hindu Sanskrit literature surveyed. Several candidate lists of eight qualities must therefore be considered, and they do not match. There is one associated with Parimelazhagar, another with Paridhiyar, one in Jain Sanskrit literature, and Vedanta Deśika's list of eight qualities attributed to Lord Narayana in the Vaishnava tradition. Encouragingly, most of the individual qualities in these lists are independently attested in Sanskrit Hindu literature.
+  
+  - **Shaiva:** Parimelazhagar's gloss gives the Shaiva list: தன்வயத்தன் ஆதல், தூய உடம்பினன் ஆதல், இயற்கை உணர்வினன் ஆதல், முற்றும் உணர்தல், பாசங்களின் நீங்குதல், பேரருள் உடைமை, முடிவில் ஆற்றல் உடைமை, வரம்பில் இன்பம் உடைமை. This eightfold characterization is explicitly attested in Tamil Shaiva literature, for example, இருத்திடும் எண்குணம் எய்தலும் ஆமே (Tirumantiram 1205) and இயக்கி மார் அறுபத்து நால்வரை எண்குணம் செய்த ஈசனே (Tiruvacakam, Tirukkazhukkundrap Patikam 7).
+  
+  - **Jaina:** Paridhiyar specifies a somewhat different list, whose components have parallels in Jain Sanskrit literature, including the explicit designation अष्टगुणाः ... सिद्धाः in Nemicandra's Gommatasara Jivakanda 68. The eight according to Nemicandra's Dravyasaṃgraha in Prakrit can be rendered in Sanskrit as: सम्यक्त्वज्ञानदर्शनवीर्यसूक्ष्मं तथैवावगाहनम् । अगुरुलघ्वव्याबाधमष्टगुणा भवन्ति सिद्धानाम् ॥
+  
+  - **Vaishnava:** In शारीरकाधिकरणरत्नमालाप्रकाश, Vedanta Deśika gives the eight qualities as a single chain, based on the Chandogya Upanishad: अपहतपाप्मत्वमूलकाश्च विशोकत्व-विजरत्व-विमृत्युत्व-अविजिघत्सत्व-अपिपासत्व-सत्यकामत्व-सत्यसङ्कल्पत्व गुणाः। He provides the Shruti pramana that “He is the inner Self of all beings, free from evil, the divine God, the one Narayaṇa.”: स्वाभाविकमपहतपाप्मत्वं च नारायणस्यैकस्यैव, “एष सर्वभूतान्तरात्मा अपहतपाप्मा दिव्यो देव एको नारायणः” इति श्रुतेः । and draws the consequence that freedom from old age and the other qualities proceeding from it are likewise Narayana's alone, without qualification: अतः तत्प्रयुक्तमजरत्वादिकमपि निरुपाधिकं नारायणस्यैव । Compared with the enkunattan references in Jain and Tamil Shaiva texts, this has a weaker connection to the epithet, but it provides a possible way to gloss the term through a Vaishnava lens.
 
 ###  Verse 10
 
