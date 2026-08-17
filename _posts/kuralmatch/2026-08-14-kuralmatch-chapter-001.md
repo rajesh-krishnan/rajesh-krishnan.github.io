@@ -16,7 +16,7 @@ tags: [kuralmatch]
 | [6](#verse-6) | பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க <br> நெறிநின்றார் நீடுவாழ் வார். | **इन्द्रियाणां निरोधेन सत्येन च दमेन च** \| <br> ब्रह्मणः **पदमाप्नोति यत् परम्** \|\| <br> Mahabharata 3.200.52 (BORI Critical Edition)|
 | [7](#verse-7) | தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால் <br> மனக்கவலை மாற்றல் அரிது.  | न तस्य कार्यं करणं च विद्यते \| **न तत्समश्चाभ्यधिकश्च दृश्यते** \| <br> परास्य शक्तिर्विविधैव श्रूयते \| स्वाभाविकी ज्ञानबलक्रिया च \|\| <br> Shvetashvatara Upanishad 6.8 <br> एको वशी निष्क्रियाणां बहूनाम् \| एकं बीजं बहुधा यः करोति \| <br> **तमात्मस्थं येऽनुपश्यन्ति धीराः** \| **तेषां सुखं शाश्वतं नेतरेषाम्** \|\| <br> Shvetashvatara Upanishad 6.12 |
 | [8](#verse-8) | அறவாழி அந்தணன் தாள்சேர்ந்தார்க் கல்லால் <br> பிறவாழி நீந்தல் அரிது. | **मुक्तिर्वामन इत्येव तारकास्यो** विधिः परः \| <br> **संसारार्णवतप्तानां नावावेतौ** सुरेश्वरौ \|\|  <br> Vayu Purana 46.40 <br> सर्वेभ्यः कर्मसु **धर्मिष्ठो जातो वामनरूपधृक्** \| <br> चक्रे च **ब्राह्मणं रूपं** लोकानां हितमात्मनः \|\| <br> Bhagavata Purana 8.18.12 |
-| [9](#verse-9) | கோளில் பொறியின் குணமிலவே எண்குணத்தான் <br> தாளை வணங்காத் தலை. | |
+| [9](#verse-9) | கோளில் பொறியின் குணமிலவே எண்குணத்தான் <br> தாளை வணங்காத் தலை. | असारे संसारे **निजभजनदूरे जडधिया भ्रमन्तं मामन्धं** परमकृपया पातुमुचितम् \| <br> मदन्यः को दीनस्तव कृपणरक्षातिनिपुणः त्वदन्यः को वा मे त्रिजगति शरण्यः **पशुपते** \|\| <br> Shivananda Lahiri 13 |
 | [10](#verse-10) | பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார் <br> இறைவன் அடிசேரா தார்.  |  अविरतभवभावनातिदूरं भवविमुखैर्मुनिभिः सदैव दृश्यम् \| <br> **भवजलधिसुतारणाङ्घ्रिपोतं शरणमहं रघुनन्दनं** प्रपद्ये \|\| <br> Adhyatma Ramayaṇa, Araṇyakaṇḍa 3.8.48 |
 
 ## Comments and Research Notes
@@ -113,26 +113,30 @@ The Vayu Purana shloka we have selected establishes Vamana as the boat that help
 
 We discuss the possibility of reading the expression அறவாழி அந்தணன் through three established religious vocabularies: Vaishnava, Shaiva, and Jaina. Once the அறவாழி அந்தணன் is established as an epithet for the Lord in a given tradition, connecting to the soteriological function (namely, பிறவாழி நீந்தல்) is relatively straightforward within that tradition.
 
-**Vaishnava:**
+ - **Vaishnava:**
+   
+   -- Rigveda 1.22.17 supports connects Trivikrama with Dharma: त्रीणि पदा विचक्रमे विष्णुर्गोपा अदाभ्यः । अतो धर्माणि धारयन् ॥
 
-Rigveda 1.22.17 supports connects Trivikrama with Dharma: त्रीणि पदा विचक्रमे विष्णुर्गोपा अदाभ्यः । अतो धर्माणि धारयन् ॥  The Vishnu Sahasranama provides वामनः, त्रिविक्रमः, and ब्राह्मणः धर्मः, and धर्मविदुत्तमः as names of Vishnu. We have seen that the Bhagavata Purana 8.18.12 connects Vamana to Dharma and Brahmana.
+   -- The Vishnu Sahasranama provides वामनः, त्रिविक्रमः, and ब्राह्मणः धर्मः, and धर्मविदुत्तमः as names of Vishnu. We have seen that the Bhagavata Purana 8.18.12 connects Vamana to Dharma and Brahmana.
 
-We can consider Valluvar's own later allusion to the cosmic measurer later in kural 610 using அடியளந்தான் recalls the Vamana-Trivikrama manifestation. Valluvar emphasizes the conenction between Dharma and Brahmana (அறவாழி யந்தணன்) in kural 30 (அந்தணர் என்போர் அறவோர்).
+   -- We can consider Valluvar's own later allusion to the cosmic measurer later in kural 610 using அடியளந்தான் recalls the Vamana-Trivikrama manifestation.
 
-**Shaiva:**
+   -- Valluvar emphasizes the conenction between Dharma and Brahmana (அறவாழி யந்தணன்) in kural 30 (அந்தணர் என்போர் அறவோர்).
 
-The Mahabharata Anushasanaparvan 13.1463 establishes the Brahmana form of Shiva: द्वे तनू तस्य देवस्य वेदज्ञा ब्राह्मणा विदुः । घोरामन्यां शिवामन्यां ते तनू बहुधा पुनः ॥ The Shiva Purana Rudrsamhita 1.3.31.53 provides another connection to Lord Shiva as Brahmana: इत्युक्त्वा ब्राह्मणः शीघ्रं स वै भुक्त्वा मुदान्वितः । जगाम स्वालयं शान्तो नानालीलाकरः शिवः ॥ 
+ - **Shaiva:**
 
-Shiva Purana, Rudrasamhita, Sati khanda, Adhyaya 3, verse 32 identifies Shiva as the protector and upholder of Dharma: देवदेव महादेव धर्मपाल नमोऽस्तु ते । सृष्टिस्थितिविनाशानां कर्ता शम्भो त्वमेव हि ॥ The passage is aptly called the Dharma-krita Shiva Stotra.
+   -- The Mahabharata Anushasanaparvan 13.1463 establishes the Brahmana form of Shiva: द्वे तनू तस्य देवस्य वेदज्ञा ब्राह्मणा विदुः । घोरामन्यां शिवामन्यां ते तनू बहुधा पुनः ॥ The Shiva Purana Rudrsamhita 1.3.31.53 provides another connection to Lord Shiva as Brahmana: इत्युक्त्वा ब्राह्मणः शीघ्रं स वै भुक्त्वा मुदान्वितः । जगाम स्वालयं शान्तो नानालीलाकरः शिवः ॥ 
 
-Shiva is called அந்தணன் by Manickavachagar in Thiruvasagam Tiruthellenam:  திருமாலும் பன்றியாய்ச் சென்று உணராத் திருவடியை, உரு நாம் அறிய, ஓர் அந்தணன் ஆய், ஆண்டுகொண்டான்; ஒரு நாமம், ஓர் உருவம், ஒன்றும் இல்லாற்கு ஆயிரம்.
+   -- Shiva Purana, Rudrasamhita, Sati khanda, Adhyaya 3, verse 32 identifies Shiva as the protector and upholder of Dharma: देवदेव महादेव धर्मपाल नमोऽस्तु ते । सृष्टिस्थितिविनाशानां कर्ता शम्भो त्वमेव हि ॥ The passage is aptly called the Dharma-krita Shiva Stotra.
 
-The Thevaram of Thirunavukkarasar at Thirukkattuppalli, 4th Thirumurai includes: அறவிடை மேலமர்ந்தார், for which the classical commentary explains as: சிவபெருமான் அறவிடை ஊர்தல், அறத்திற்குத் தலைவனாய், உலக நலத்தின் பொருட்டு அதனை நன்கு நடத்தும் முதல்வனாதலைக் குறிக்கும்.
+   -- Shiva is called அந்தணன் by Manickavachagar in Thiruvasagam Tiruthellenam:  திருமாலும் பன்றியாய்ச் சென்று உணராத் திருவடியை, உரு நாம் அறிய, ஓர் அந்தணன் ஆய், ஆண்டுகொண்டான்; ஒரு நாமம், ஓர் உருவம், ஒன்றும் இல்லாற்கு ஆயிரம்.
 
-**Jaina:**
+   -- The Thevaram of Thirunavukkarasar at Thirukkattuppalli, 4th Thirumurai includes: அறவிடை மேலமர்ந்தார், for which the classical commentary explains as: சிவபெருமான் அறவிடை ஊர்தல், அறத்திற்குத் தலைவனாய், உலக நலத்தின் பொருட்டு அதனை நன்கு நடத்தும் முதல்வனாதலைக் குறிக்கும்.
 
-The Jain Sanskrit Namamala establishes धर्मचक्रभृत् as a name of the Jina/Tīrthaṅkara: सर्वज्ञो वीतरागोऽर्हन् केवली धर्मचक्रभृत् । तीर्थङ्करस्तीर्थकरस्तीर्थकृद्दिव्यवाक्पतिः ॥.
-Brahmana is a well-defined concept in Jain Sanskrit literature. for example, in the Jain Mahapurana: तपःश्रुतं च जातिश्च त्रयं ब्राह्मण्यकारणम् । तपःश्रुताभ्यां यो हीनो जातिब्राह्मण एव सः ॥ The Jain correspondence can be strengthened further if we can find evidence that directly connects the Jina, Mahavira, Arhat, or Tirthankara with Brahmana.
+- **Jaina:**
+
+  -- The Jain Sanskrit Namamala establishes धर्मचक्रभृत् as a name of the Jina/Tīrthaṅkara: सर्वज्ञो वीतरागोऽर्हन् केवली धर्मचक्रभृत् । तीर्थङ्करस्तीर्थकरस्तीर्थकृद्दिव्यवाक्पतिः ॥
+  -- Brahmana is a well-defined concept in Jain Sanskrit literature. for example, in the Jain Mahapurana: तपःश्रुतं च जातिश्च त्रयं ब्राह्मण्यकारणम् । तपःश्रुताभ्यां यो हीनो जातिब्राह्मण एव सः ॥ The Jain correspondence can be strengthened further if we can find evidence that directly connects the Jina, Mahavira, Arhat, or Tirthankara with Brahmana.
 
 ###  Verse 9
 
@@ -187,7 +191,7 @@ The Mukundamala then supplies the connection to devotion and its benefits. Mukun
 
 The following expressions warrant additional remarks:
 
- - **எண்குணத்தான்:** Although we have matched Parimelazhagar's list of eight qualities in the Vishnu Sahasranama, we discussed earlier in the commentary that the specific epithet is not well established outside of Jaina and Tamil Shaiva traditions. We also noted that there are multiple lists of eight, and with this ontological commitment, Valluvar has left us an eight-ball here on which traditional lens and list to pick.   
+ - **எண்குணத்தான்:** Although we have matched Parimelazhagar's list of eight qualities in the Vishnu Sahasranamam, we noted earlier that the specific epithet is not well established outside of Jaina and Tamil Shaiva traditions. We also noted that there are multiple lists of eight, and with this specific ontological commitment, Valluvar has left us an eight-ball on which traditional lens and list of eight to pick.   
  - **வேண்டுதல் வேண்டாமை இலான்:** We can consider रागद्वेषविवर्जित and निर्द्वन्द्वः from the Shiva Purana as good matches, but the Sahasranamam's असङ्गः is a weaker match. 
  - **இருள்சேர் இருவினையும் சேரா இறைவன்:** We can consider Mundaka Upanishad 3.1.3 पुण्यपापे विधूय निरञ्जनः and Shvetashvatara Upanishad 3.8 तमसः परस्तात् as good matches, but a match within the Sahasranamam remains elusive.
  - **கோளில் பொறியின் குணமிலவே:** The poetic metaphor "as useless as an organ mismatched with its object" is truly unique. This is and not used to refer to an epithet of God, a devotional approach, or a benefit resulting from devotion. While इन्द्रियाणां स्वविषयाः is well attested (e.g., Patanajala Yoga Sutra 2.54), this expression is unusual.
@@ -195,10 +199,8 @@ The following expressions warrant additional remarks:
 I have chosen verse matches from diverse devotional traditions for kurals in this chapter. If one can see Shiva, Vishnu, and Jain Arhat as different names and forms of Brahman, then one can rejoice in the wealth of sources we have to draw from.
 
 ```text
-यं शैवास्समुपासते शिव इति ब्रह्मेति वेदान्तिनो
-बौद्धा बुद्ध इति प्रमाणपटवः कर्तेति नैयायिकाः ।
-अर्हन्नित्यथ जैनशासनरताः कर्मेति मीमांसकाः
-सोऽयं वो विदधातु वाञ्छितफलं त्रैलोक्यनाथो हरिः ॥
+यं शैवास्समुपासते शिव इति ब्रह्मेति वेदान्तिनो बौद्धा बुद्ध इति प्रमाणपटवः कर्तेति नैयायिकाः ।
+अर्हन्नित्यथ जैनशासनरताः कर्मेति मीमांसकाः सोऽयं वो विदधातु वाञ्छितफलं त्रैलोक्यनाथो हरिः ॥
 - श्री विष्णु स्तुतिः
 ```
 
