@@ -85,6 +85,10 @@ Associating the concept of रागद्वेषविवर्जितः w
 
 ###  Verse 6
 
+The shloka’s इन्द्रियाणां निरोधेन सत्येन च दमेन च has good correspondence to பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க நெறிநின்றார், and ब्रह्मणः पदमाप्नोति यत् परम् has good correspondence to நீடுவாழ்வார் based on classical interpretation of the kural. This follows Parimelazhagar, who glosses ஐந்தவித்தான் as the one who has cut off the five desires associated with the five senses, and நீடுவாழ்வார் specifically as “without birth, they live forever, remaining of one nature: (பிறப்பின்றி) எக்காலத்தும் (ஒருதன்மையராய்) வாழ்வார்.
+
+A similar theme is expressed in Manusmṛti 6.60: इन्द्रियाणां निरोधेन रागद्वेषक्षयेण च । अहिंसया च भूतानाममृतत्वाय कल्पते ॥ Again the focus is not longevity of the body, but supreme Brahman-state / immortality.
+
 ###  Verse 7
 
 The Kural has two tightly connected propositions: the Lord is without equal; and those who attain/attach themselves to Him are freed from mental distress. The Shvetashvatara Upanishad gives us those two propositions in two verses that are nearby in the text. The first shloka (verse 6.8) gives us: न तत्समश्चाभ्यधिकश्च दृश्यते which corresponds to தனக்குவமை இல்லாதான்.  The second shloka (verse 6.12) affirms that to those steadfast ones who perceive Him dwelling within the Self: for them is eternal happiness, not for others -- तमात्मस्थं येऽनुपश्यन्ति धीराः तेषां सुखं शाश्वतं नेतरेषाम्. The तम् here is referring to the same One who is न तत्सम in the earlier verse. They are in a connected sequence of verses in the text.
