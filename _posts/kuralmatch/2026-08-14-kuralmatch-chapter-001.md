@@ -148,7 +148,7 @@ The correspondence can be developed in three steps. First, கோளில் �
   
   - With these interpretive moves, the parallel with the shloka becomes clear. The Sanskrit explicitly describes one who is far from worship (निजभजनदूरे) of Shiva (पशुपते) as possessing a jaḍa intellect (जडधि). The immediately following reference to blindness (मामन्धं) reinforces the sensory imagery of கோளில் பொறி, since blindness is the paradigmatic failure of a sensory faculty. The shloka thus brings together both dimensions implicit in the kural's metaphor—the functionless pori and the jada mind—and locates both in the condition of being distant from Shiva's worship. There is also a suggestive correspondence between தலை and धि: the kural locates the deficiency in the head, while the shloka locates it in the intellect. Both designate the faculty that ought to orient the person toward Shiva but has instead become inert.
 
-Finally, the connection with Shiva**'s feet** is explicit in the immediately preceding material. Verse 7 says: मनस्ते पादाब्जे निवसतु. The verse assigns the various organs to their proper Shaiva functions, providing a positive counterpart to the जडधि: the mind established at Shiva**'s lotus feet**.
+Finally, the connection with Shiva's **feet** is explicit in the immediately preceding material. Verse 7 says: मनस्ते पादाब्जे निवसतु. The verse assigns the various organs to their proper Shaiva functions, providing a positive counterpart to the जडधि: the mind established at Shiva's lotus feet.
 
 A striking Tamil parallel in the Viveka Cintamani makes the Shaiva correspondence explicit: “The head that does not bow to Shiva's feet, the hands that do not give to those who ask, the ears that do not hear good speech … though they exist, what use are they?”
 ```text
