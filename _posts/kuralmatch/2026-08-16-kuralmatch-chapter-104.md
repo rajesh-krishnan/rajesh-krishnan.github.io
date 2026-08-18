@@ -59,3 +59,4 @@ A further Sanskrit parallel to the kural's theme appears in Rigveda 10.117.7 (Ri
 
 ### Chapter Summary
 
+In this chapter, Valluvar is providing an ethical appreciation of farming, not a treatise on agriculture.
