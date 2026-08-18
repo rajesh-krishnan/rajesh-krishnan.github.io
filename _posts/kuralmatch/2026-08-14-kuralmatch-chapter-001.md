@@ -105,9 +105,9 @@ Verse 7 of the Rudrāṣṭakam, a more recent text due to Tulasidas, provides a
 
 ###  Verse 8
 
-The kural asserts that except for those who have joined themselves to the feet of அறவாழி அந்தணன், it is difficult to cross the other ocean, namely that of samsara involving artha and kama. The distinctive expression of this kural is அறவாழி அந்தணன். Parimelazhagar’s gloss of this term is: அறவாழி என்பதனைத் தரும சக்கரமாக்கி, அதனை யுடைய அந்தணன் என்று உரைப்பாரும் உளர். In other words, a strong connection is made to the Dharma and Brahmana as attributes of the Lord. 
+The kural asserts that except for those who have joined themselves to the feet of அறவாழி அந்தணன், it is difficult to cross the other ocean, namely that of samsara involving artha and kama. The distinctive expression of this kural is அறவாழி அந்தணன். Parimelazhagar’s gloss of this term is: அறவாழி என்பதனைத் தரும சக்கரமாக்கி, அதனை யுடைய அந்தணன் என்று உரைப்பாரும் உளர். In other words, it makes a strong connection from Dharma and Brahmana to attributes of the Lord. 
 
-The Vayu Purana shloka we have selected establishes Vamana as the boat that helps one cross the ocean of samsara. The subsequent two verses in the Vayu Purana includes the words त्रिविक्रमञ्च ब्रह्माणं, धर्मात्मा, and वामपादेऽपि, but in a different context than that of the kural. For this interpretive parallel to work, a big gap needs to be closed: we need to connect Vamana-Trivikrama to the அறவாழி அந்தணன். The Bhagavata Purana 8.18.12 verse connects Vamana to Dharma, and Brahmana.
+The Vayu Purana shloka that I have selected establishes Vamana as the boat that helps one cross the ocean of samsara. The subsequent two verses in the Vayu Purana includes the words त्रिविक्रमञ्च ब्रह्माणं, धर्मात्मा, and वामपादेऽपि, but in a different context than that of the kural. For this interpretive parallel to work, a big gap needs to be closed: we need to connect Vamana-Trivikrama to the அறவாழி அந்தணன். The Bhagavata Purana 8.18.12 verse connects Vamana to Dharma and Brahmana.
 
 We discuss the possibility of reading the expression அறவாழி அந்தணன் through three established religious vocabularies: Vaishnava, Shaiva, and Jaina. Once the அறவாழி அந்தணன் is established as an epithet for the Lord in a given tradition, connecting to the soteriological function (namely, பிறவாழி நீந்தல்) is relatively straightforward within that tradition.
 
