@@ -157,7 +157,7 @@ A striking Tamil parallel in the Viveka Cintamani verse 28 makes the Shaiva corr
 இருப்பினும் பயன் என்?
 ```
 
-The epithet எண்குணத்தான் finds support in both the Tamil Shaiva and Jain traditions, although this specific epithet is unusual in the Hindu Sanskrit literature surveyed. Several candidate lists of eight qualities must therefore be considered, and they do not match. There is one associated with Parimelazhagar, another with Paridhiyar, one in Jain Sanskrit literature, and Vedanta Deśika's list of eight qualities attributed to Lord Narayana in the Vaishnava tradition. Encouragingly, most of the individual qualities in these lists are independently attested in Sanskrit Hindu literature.
+The epithet எண்குணத்தான் finds support in both the Tamil Shaiva and Jain traditions, although this specific epithet is unusual in the Hindu Sanskrit literature surveyed. Several candidate lists of eight qualities must therefore be considered, and they do not match. There is one associated with Parimelazhagar, another with Paridhiyar, one in Jain Sanskrit literature, and Vedanta Deśika's list of eight qualities attributed to Lord Narayana in the Vaishnava tradition.
   
   - **Shaiva:** Parimelazhagar's gloss gives the Shaiva list: தன்வயத்தன் ஆதல், தூய உடம்பினன் ஆதல், இயற்கை உணர்வினன் ஆதல், முற்றும் உணர்தல், பாசங்களின் நீங்குதல், பேரருள் உடைமை, முடிவில் ஆற்றல் உடைமை, வரம்பில் இன்பம் உடைமை. This eightfold characterization is explicitly attested in Tamil Shaiva literature, for example, இருத்திடும் எண்குணம் எய்தலும் ஆமே (Tirumantiram 1205) and இயக்கி மார் அறுபத்து நால்வரை எண்குணம் செய்த ஈசனே (Tiruvacakam, Tirukkazhukkundrap Patikam 7).
   
