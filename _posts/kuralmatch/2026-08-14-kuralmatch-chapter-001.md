@@ -132,7 +132,7 @@ We discuss the possibility of reading the expression அறவாழி அந�
 - **Jaina:**
 
   - The Jain Sanskrit Namamala establishes धर्मचक्रभृत् as a name of the Jina/Tīrthaṅkara: सर्वज्ञो वीतरागोऽर्हन् केवली धर्मचक्रभृत् । तीर्थङ्करस्तीर्थकरस्तीर्थकृद्दिव्यवाक्पतिः ॥
-  - Brahmana is a well-defined concept in Jain Sanskrit literature. for example, in the Jain Mahapurana: तपःश्रुतं च जातिश्च त्रयं ब्राह्मण्यकारणम् । तपःश्रुताभ्यां यो हीनो जातिब्राह्मण एव सः ॥ The Jain correspondence can be strengthened further if we can find evidence that directly connects the Jina, Mahavira, Arhat, or Tirthankara with Brahmana.
+  - Brahmana is a well-defined concept in Jain Sanskrit literature. for example, in the Jain Mahapurana 38.43: तपःश्रुतं च जातिश्च त्रयं ब्राह्मण्यकारणम् । तपःश्रुताभ्यां यो हीनो जातिब्राह्मण एव सः ॥ The Jain correspondence can be strengthened further if we can find evidence that directly connects the Jina, Mahavira, Arhat, or Tirthankara with Brahmana.
 
 ###  Verse 9
 
