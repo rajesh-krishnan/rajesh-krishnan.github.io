@@ -129,8 +129,6 @@ We discuss the possibility of reading the expression அறவாழி அந�
 
    - Shiva is called அந்தணன் by Manickavachagar in Thiruvasagam Tiruthellenam:  திருமாலும் பன்றியாய்ச் சென்று உணராத் திருவடியை, உரு நாம் அறிய, ஓர் அந்தணன் ஆய், ஆண்டுகொண்டான்; ஒரு நாமம், ஓர் உருவம், ஒன்றும் இல்லாற்கு ஆயிரம்.
 
-   - The Thevaram of Thirunavukkarasar at Thirukkattuppalli, 4th Thirumurai includes: அறவிடை மேலமர்ந்தார், for which the classical commentary explains as: சிவபெருமான் அறவிடை ஊர்தல், அறத்திற்குத் தலைவனாய், உலக நலத்தின் பொருட்டு அதனை நன்கு நடத்தும் முதல்வனாதலைக் குறிக்கும்.
-
 - **Jaina:**
 
   - The Jain Sanskrit Namamala establishes धर्मचक्रभृत् as a name of the Jina/Tīrthaṅkara: सर्वज्ञो वीतरागोऽर्हन् केवली धर्मचक्रभृत् । तीर्थङ्करस्तीर्थकरस्तीर्थकृद्दिव्यवाक्पतिः ॥
