@@ -123,7 +123,7 @@ We discuss the possibility of reading the expression அறவாழி அந�
 
  - **Shaiva:**
 
-   - The Mahabharata Anushasanaparvan 13.1463 establishes the Brahmana form of Shiva: द्वे तनू तस्य देवस्य वेदज्ञा ब्राह्मणा विदुः । घोरामन्यां शिवामन्यां ते तनू बहुधा पुनः ॥ The Shiva Purana Rudrsamhita 1.3.31.53 provides another connection to Lord Shiva as Brahmana: इत्युक्त्वा ब्राह्मणः शीघ्रं स वै भुक्त्वा मुदान्वितः । जगाम स्वालयं शान्तो नानालीलाकरः शिवः ॥ 
+   - The Mahabharata Anushasanaparvan 13.146.3 (BORI Critical edition) establishes the Brahmana form of Shiva: द्वे तनू तस्य देवस्य वेदज्ञा ब्राह्मणा विदुः । घोरामन्यां शिवामन्यां ते तनू बहुधा पुनः ॥ The Shiva Purana Rudrsamhita Parvatikhanda 2.3.31.53 provides another connection to Lord Shiva as Brahmana: इत्युक्त्वा ब्राह्मणः शीघ्रं स वै भुक्त्वा मुदान्वितः । जगाम स्वालयं शान्तो नानालीलाकरः शिवः ॥ 
 
    - Shiva Purana, Rudrasamhita, Sati khanda, Adhyaya 3, verse 32 identifies Shiva as the protector and upholder of Dharma: देवदेव महादेव धर्मपाल नमोऽस्तु ते । सृष्टिस्थितिविनाशानां कर्ता शम्भो त्वमेव हि ॥ The passage is aptly called the Dharma-krita Shiva Stotra.
 
