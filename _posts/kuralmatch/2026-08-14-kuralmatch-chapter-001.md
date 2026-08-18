@@ -150,7 +150,7 @@ The correspondence can be developed in three steps. First, கோளில் �
 
 Finally, the connection with Shiva's **feet** is explicit in the immediately preceding material. Verse 7 says: मनस्ते पादाब्जे निवसतु. The verse assigns the various organs to their proper Shaiva functions, providing a positive counterpart to the जडधि: the mind established at Shiva's lotus feet.
 
-A striking Tamil parallel in the Viveka Cintamani makes the Shaiva correspondence explicit: “The head that does not bow to Shiva's feet, the hands that do not give to those who ask, the ears that do not hear good speech … though they exist, what use are they?”
+A striking Tamil parallel in the Viveka Cintamani verse 28 makes the Shaiva correspondence explicit: “The head that does not bow to Shiva's feet, the hands that do not give to those who ask, the ears that do not hear good speech … though they exist, what use are they?”
 ```text
 சிவனடி வணங்காச் சென்னி,
 இரப்பவர்க்கு ஈயாக் கைகள்,
