@@ -16,7 +16,7 @@ tags: [kuralmatch]
 | [6](#verse-6) | பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க <br> நெறிநின்றார் நீடுவாழ் வார். | **इन्द्रियाणां निरोधेन सत्येन च दमेन च** \| <br> ब्रह्मणः **पदमाप्नोति यत् परम्** \|\| <br> Mahabharata 3.200.52 (BORI Critical Edition)|
 | [7](#verse-7) | தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால் <br> மனக்கவலை மாற்றல் அரிது.  | न तस्य कार्यं करणं च विद्यते \| **न तत्समश्चाभ्यधिकश्च दृश्यते** \| <br> परास्य शक्तिर्विविधैव श्रूयते \| स्वाभाविकी ज्ञानबलक्रिया च \|\| <br> Shvetashvatara Upanishad 6.8 <br> एको वशी निष्क्रियाणां बहूनाम् \| एकं बीजं बहुधा यः करोति \| <br> **तमात्मस्थं येऽनुपश्यन्ति धीराः** \| **तेषां सुखं शाश्वतं नेतरेषाम्** \|\| <br> Shvetashvatara Upanishad 6.12 |
 | [8](#verse-8) | அறவாழி அந்தணன் தாள்சேர்ந்தார்க் கல்லால் <br> பிறவாழி நீந்தல் அரிது. | **मुक्तिर्वामन इत्येव तारकास्यो** विधिः परः \| <br> **संसारार्णवतप्तानां नावावेतौ** सुरेश्वरौ \|\|  <br> Vayu Purana 46.40 <br> सर्वेभ्यः कर्मसु **धर्मिष्ठो जातो वामनरूपधृक्** \| <br> चक्रे च **ब्राह्मणं रूपं** लोकानां हितमात्मनः \|\| <br> Bhagavata Purana 8.18.12 |
-| [9](#verse-9) | கோளில் பொறியின் குணமிலவே எண்குணத்தான் <br> தாளை வணங்காத் தலை. | असारे संसारे **निजभजनदूरे जडधिया भ्रमन्तं मामन्धं** परमकृपया पातुमुचितम् \| <br> मदन्यः को दीनस्तव कृपणरक्षातिनिपुणः त्वदन्यः को वा मे त्रिजगति शरण्यः **पशुपते** \|\| <br> Shivananda Lahiri 13 |
+| [9](#verse-9) | கோளில் பொறியின் குணமிலவே எண்குணத்தான் <br> தாளை வணங்காத் தலை. | असारे संसारे **निजभजनदूरे जडधिया भ्रमन्तं मामन्धं** परमकृपया पातुमुचितम् \| <br> मदन्यः को दीनस्तव कृपणरक्षातिनिपुणः त्वदन्यः को वा मे त्रिजगति शरण्यः **पशुपते** \|\| <br> Shivananda Lahari 13 |
 | [10](#verse-10) | பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார் <br> இறைவன் அடிசேரா தார்.  |  अविरतभवभावनातिदूरं भवविमुखैर्मुनिभिः सदैव दृश्यम् \| <br> **भवजलधिसुतारणाङ्घ्रिपोतं शरणमहं रघुनन्दनं** प्रपद्ये \|\| <br> Adhyatma Ramayaṇa, Araṇyakaṇḍa 3.8.48 |
 
 ## Comments and Research Notes
@@ -138,7 +138,7 @@ We discuss the possibility of reading the expression அறவாழி அந�
 
 ###  Verse 9
 
-The kural declares that the head that does not bow to the feet of the One possessing eight qualities is without function, like a sense-organ lacking its proper faculty. The Sanskrit parallel I chose is Shivananda Lahiri 13, which says: “O Pashupati, far from Your worship, with a jada intellect, I wander blindly in this insubstantial samsara,. Out of Your supreme compassion, it is fitting that You protect me. Who is more helpless than I, for You who are supremely skilled in protecting the helpless? Who other than You is my refuge in the three worlds?”
+The kural declares that the head that does not bow to the feet of the One possessing eight qualities is without function, like a sense-organ lacking its proper faculty. The Sanskrit parallel I chose is Shivananda Lahari 13, which says: “O Pashupati, far from Your worship, with a jada intellect, I wander blindly in this insubstantial samsara,. Out of Your supreme compassion, it is fitting that You protect me. Who is more helpless than I, for You who are supremely skilled in protecting the helpless? Who other than You is my refuge in the three worlds?”
 
 The correspondence can be developed in three steps. First, கோளில் பொறியின் குணமிலவே corresponds to जडधि and मामन्धं. Second, எண்குணத்தான் corresponds to पशुपते, another name for Shiva. Third, the remaining elements correspond naturally: தலை and தாளை வணங்கா find their counterparts in धि and निजभजनदूरे.
 
