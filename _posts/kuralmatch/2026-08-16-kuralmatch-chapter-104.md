@@ -10,13 +10,13 @@ tags: [kuralmatch]
 |--|--|--|
 | [1](#verse-1) | சுழன்றும்ஏர்ப் பின்னது உலகம் அதனால் <br> உழந்தும் உழவே தலை.  | |
 | [2](#verse-2) | உழுவார் உலகத்தார்க்கு ஆணிஅஃ தாற்றாது <br> எழுவாரை எல்லாம் பொறுத்து.  | | 
-| [3](#verse-3) | உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம் <br> தொழுதுண்டு பின்செல் பவர். | **सुवर्णरौप्यमाणिक्यवसनैरपि पूरिताः** \| <br> **तथापि प्रार्थयन्त्येव कृषकान् भक्ततृष्णया** \|\| <br> Krshi Parashara 4 |
+| [3](#verse-3) | உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம் <br> தொழுதுண்டு பின்செல் பவர். | **सुवर्णरौप्यमाणिक्यवसनैरपि पूरिताः** \| <br> **तथापि प्रार्थयन्त्येव कृषकान् भक्ततृष्णया** \|\| <br> Krishi Parashara 4 |
 | [4](#verse-4) | பலகுடை நீழலும் தங்குடைக்கீழ்க் காண்பர் <br> அலகுடை நீழ லவர். | |
-| [5](#verse-5) | இரவார் இரப்பார்க்கொன்று ஈவர் கரவாது <br> கைசெய்தூண் மாலை யவர். | **एकया च पुनः कृष्या प्रार्थको नैव जायते** \| <br>कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः \|\| <br> Krshi Parashara 3 |
+| [5](#verse-5) | இரவார் இரப்பார்க்கொன்று ஈவர் கரவாது <br> கைசெய்தூண் மாலை யவர். | **एकया च पुनः कृष्या प्रार्थको नैव जायते** \| <br>कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः \|\| <br> Krishi Parashara 3 |
 | [6](#verse-6) | உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம் <br> விட்டேம்என் பார்க்கும் நிலை. |  |
 | [7](#verse-7) | தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும் <br> வேண்டாது சாலப் படும். | |
 | [8](#verse-8) | ஏரினும் நன்றால் எருவிடுதல் கட்டபின் <br> நீரினும் நன்றதன் காப்பு. | **हले प्रवाहमाणे तु शकृन्मूत्रं** भवेद् यदा \|<br> **तस्मात् सर्वप्रयत्नेन निस्तृणां कारयेत्** कृषिम् \|<br> मूलमात्रार्पितं तत्र **कारयेज्जलरक्षणम्** \|\| <br> Krishi Parshara 151.1, 192.1, 193.2 |
-| [9](#verse-9) | செல்லான் கிழவன் இருப்பின் நிலம்புலந்து <br> இல்லாளின் ஊடி விடும். | |
+| [9](#verse-9) | செல்லான் கிழவன் இருப்பின் நிலம்புலந்து <br> இல்லாளின் ஊடி விடும். | **कृषि**गवो वणिग्विद्याः **स्त्रियो** राजकुलानि च \| <br> **क्षणेनैकेन सीदन्ति मुहूर्तमनवेक्षणात्** \|\| <br> Krishi Parashara 81 |
 | [10](#verse-10) | இலமென்று அசைஇ இருப்பாரைக் காணின் <br> நிலமென்னும் நல்லாள் நகும். | | 
 
 
@@ -28,7 +28,7 @@ tags: [kuralmatch]
 
 ### Verse 3
 
-The 4th shloka from the opening section of the Krshi Prashara, a text on the science of agriculture, is an excellent match for the kural. In particular, कृषकान् corresponds to உழுதுண்டு வாழ்வார் and प्रार्थयन्त्येव भक्ततृष्णया corresponds to தொழுதுண்டு பின்செல் பவர்.
+The 4th shloka from the opening section of the Krishi Prashara, a text on the science of agriculture, is an excellent match for the kural. In particular, कृषकान् corresponds to உழுதுண்டு வாழ்வார் and प्रार्थयन्त्येव भक्ततृष्णया corresponds to தொழுதுண்டு பின்செல் பவர்.
 
 The kural's emphatic assertion, they only live who live by tilling the land and eating, is poetic flourish; that specific expression is missing from the shloka. Likewise, while the kural just says everyone else, the shloka poetically expresses others as even those filled with gold, gemstones, and fine clothing. These differences are superficial, and the crux of the shloka matches the kural perfectly.
 
@@ -66,6 +66,12 @@ Just as Valluvar's epithets for God allow complementary interpretations from div
 The broader research question is whether Thirukkural and the KP indeed preserve elements of the same ancient Indic agricultural knowledge tradition.
 
 ### Verse 9
+
+The Krishi Parashara 81 verse matches this kural extraordinarily well. The correspondence between செல்லான் கிழவன் இருப்பின் and मुहूर्तम् अनवेक्षणात् captures the farmer’s neglect or failure to attend to the field. நிலம் புலந்து is a poetic metaphor in which the land “sulks” or becomes estranged, corresponding to the more literal कृषिः सीदति, the decline of agriculture. While the Kural extends this image through the poetic simile of a wife becoming estranged from her husband (இல்லாளின் ஊடி விடும்), the shloka expresses the same underlying principle more broadly: agriculture, cattle, trade, learning, women, and royal households (कृषिगवो वणिग्विद्याः स्त्रियो राजकुलानि च ... सीदन्ति) decline through neglect. 
+
+The shloka implicitly connects the decline of agriculture with a broader socio-economic and political decline, a dimension absent from the kural. Conversely, the expressive power of the kural’s simile—likening the farmer–land relationship to the intimate relationship between a husband and wife—is absent from the more generalized formulation of the shloka. The inclusion of स्त्रियः may also be read as resonating with the Kural’s domestic/relational dimension, but this is an interpretive extension.
+
+Overall, this shloka is an exceptionally close semantic match for the kural.
 
 ### Verse 10
 
