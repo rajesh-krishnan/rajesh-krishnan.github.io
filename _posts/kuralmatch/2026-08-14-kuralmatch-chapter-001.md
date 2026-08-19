@@ -127,7 +127,9 @@ We discuss the possibility of reading the expression அறவாழி அந�
 
    - Shiva Purana, Rudrasamhita, Sati khanda, Adhyaya 3, verse 32 identifies Shiva as the protector and upholder of Dharma: देवदेव महादेव धर्मपाल नमोऽस्तु ते । सृष्टिस्थितिविनाशानां कर्ता शम्भो त्वमेव हि ॥ The passage is aptly called the Dharma-krita Shiva Stotra.
 
-   - Shiva is called அந்தணன் by Manickavachagar in Thiruvasagam Tiruthellenam:  திருமாலும் பன்றியாய்ச் சென்று உணராத் திருவடியை, உரு நாம் அறிய, ஓர் அந்தணன் ஆய், ஆண்டுகொண்டான்; ஒரு நாமம், ஓர் உருவம், ஒன்றும் இல்லாற்கு ஆயிரம்.
+   - Shiva is called அந்தணன் by Manickavachagar in Thiruvasagam Tiruthellenam:  திருமாலும் பன்றியாய்ச் சென்று உணராத் திருவடியை, உரு நாம் அறிய, ஓர் அந்தணன் ஆய், ஆண்டுகொண்டான்; ஒரு நாமம், ஓர் உருவம், ஒன்றும் இல்லாற்கு ஆயிரம் தி
+
+   - The bull of Dharma, அறவிடை, is associated with Lord Shiva in Tamil Shaiva literature
 
 - **Jaina:**
 
