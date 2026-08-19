@@ -63,7 +63,7 @@ Traditionally, காப்பு is understood broadly as the protection of the
 
 Just as Valluvar's epithets for God allow complementary interpretations from diverse religious traditions, our novel and nuanced interpretation of நீரினும் நன்றதன் காப்பு as जलरक्षणम् through the lens of the KP complements the traditional commentarial interpretation of காப்பு as broad agricultural protection from various calamities.
 
-The broader research question is whether Valluvar and the Kṛṣi-Parāśara indeed preserve elements of the same ancient Indic agricultural knowledge tradition.
+The broader research question is whether Thirukkural and the KP indeed preserve elements of the same ancient Indic agricultural knowledge tradition.
 
 ### Verse 9
 
