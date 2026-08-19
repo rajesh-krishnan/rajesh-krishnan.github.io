@@ -15,7 +15,7 @@ tags: [kuralmatch]
 | [5](#verse-5) | இரவார் இரப்பார்க்கொன்று ஈவர் கரவாது <br> கைசெய்தூண் மாலை யவர். | **एकया च पुनः कृष्या प्रार्थको नैव जायते** \| <br>कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः \|\| <br> Krshi Parashara 3 |
 | [6](#verse-6) | உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம் <br> விட்டேம்என் பார்க்கும் நிலை. |  |
 | [7](#verse-7) | தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும் <br> வேண்டாது சாலப் படும். | |
-| [8](#verse-8) | ஏரினும் நன்றால் எருவிடுதல் கட்டபின் <br> நீரினும் நன்றதன் காப்பு. | |
+| [8](#verse-8) | ஏரினும் நன்றால் எருவிடுதல் கட்டபின் <br> நீரினும் நன்றதன் காப்பு. | **हले प्रवाहमाणे तु शकृन्मूत्रं** भवेद् यदा \|<br> **तस्मात् सर्वप्रयत्नेन निस्तृणां कारयेत्** कृषिम् \|<br> मूलमात्रार्पितं तत्र **कारयेज्जलरक्षणम्** \|\| <br> Krishi Parshara 151.1, 192.1, 193.2 |
 | [9](#verse-9) | செல்லான் கிழவன் இருப்பின் நிலம்புலந்து <br> இல்லாளின் ஊடி விடும். | |
 | [10](#verse-10) | இலமென்று அசைஇ இருப்பாரைக் காணின் <br> நிலமென்னும் நல்லாள் நகும். | | 
 
@@ -52,6 +52,18 @@ A further Sanskrit parallel to the kural's theme appears in Rigveda 10.117.7 (Ri
 ### Verse 7
 
 ### Verse 8
+
+We interpret this Kural as describing a sequence of agricultural operations in which ploughing and manuring are closely related, followed by weed removal, and finally water management closely related to protecting the crop. In particular, the relationship expressed in ஏரினும் நன்றால் எருவிடுதல் finds a close agricultural parallel in the KP's association of ploughing (हल) with dung/manuring (शकृत्) in KP 151.1, while நீரினும் நன்றதன் காப்பு finds a corresponding parallel in the KP's concept of water regulation for crop protection (जलरक्षणम्) in KP 193.2; the intervening கட்டபின் likewise corresponds to the injunction to make the cultivation weed-free (निस्तृणां कृषिम्) in KP 192.1.
+
+The peculiar structure of this kural suggests that Valluvar may be encoding deeper agricultural relationships or precepts, while still allowing for more mundane interpretations. We do not take Valluvar here to be merely enumerating an obvious set of farming tasks, nor to be encoding their relative importance or dispensability (the preceding Kural, for example, emphasizes that thorough ploughing can reduce the need for manuring). Rather, the structure suggests a progression: as each operation is completed, it recedes in immediate priority, while the value and vulnerability of the cultivated field increase cumulatively, culminating in crop protection as the utmost priority.
+
+We explore this possibility through parallels in the Krishi-Parashara (KP), a respected agricultural treatise. We have observed strong thematic correspondences between several kurals in this chapter and passages in KP, notably the third and fifth kurals of this chapter with KP 4 and KP 3. These parallels do not establish direct textual dependence or chronological priority, but they make it conceivable that the two works preserve elements of the same ancient agricultural knowledge tradition. It is possible that medieval Tamil commentators did not recognize these parallels with the Parashara agricultural tradition; that remains a hypothesis, but one worth exploring further.
+
+Traditionally, காப்பு is understood broadly as the protection of the crop from various agricultural calamities. Our reading of KP 193.2 highlights a more specific dimension of this broader conception of protection: water management as a means of preventing harm to the crop. In the Shabdakalpadruma, excessive rain is one of the six calamities affecting crops identified by Parashara: अतिवृष्टिरनावृष्टिः शलभा मूषिकाः खगाः । प्रत्यासन्नाश्च राजानः षडेता ईतयः स्मृताः ॥ इति पराशरः । The KP discusses water management extensively, with KP 194 specifically noting the danger that excess water poses to crops.
+
+Just as Valluvar's epithets for God allow complementary interpretations from diverse religious traditions, our novel and nuanced interpretation of நீரினும் நன்றதன் காப்பு as जलरक्षणम् through the lens of the KP complements the traditional commentarial interpretation of காப்பு as broad agricultural protection from various calamities.
+
+The broader research question is whether Valluvar and the Kṛṣi-Parāśara indeed preserve elements of the same ancient Indic agricultural knowledge tradition.
 
 ### Verse 9
 
