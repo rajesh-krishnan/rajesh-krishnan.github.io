@@ -26,12 +26,6 @@ tags: [kuralmatch]
 
 ### Verse 2
 
-The line that we chose for the kural match from the Krishi Parshara (KP) verse 7, कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः, can be read semantically as: लोकेऽस्मिन् अनेके भूपतयः, किन्तु कृष्यन्वितो हि भूयादेकश्च भूपतिः।
-
-From KP7, धान्यं कृष्या विना न च, we may establish the close semantic equivalence of कृष्यन्वितः, कृषकः, and धान्यवान्: agriculture produces grain, and the agriculturist is consequently the possessor of grain. From KP4, सुवर्णरौप्यमाणिक्यवसनैरपि पूरिताः । तथापि प्रार्थयन्त्येव कृषकान् भक्ततृष्णया ॥, it follows that even those possessing wealth must seek the कृषक; hence the agriculturist/धान्यवान् occupies the position upon which the others depend. Thus the implied semantic proposition is: अनेके भूपतयः अपि धान्यवतः आश्रये, तस्य अधः।, that is, even the many rulers are dependent upon, and effectively beneath the protection/shade of one endowed with grain. This interpretaion makes the congruence with the crux of the kural evident.
-
-The KP line itself is comparatively terse: the agriculturist is the one true/ultimate lord, while the surrounding verses connect the agriculturist with grain and establish the dependence of even the wealthy and powerful upon him. The semantic parallel is therefore evident even though the kural develops the idea with considerably greater poetic flourish: the many royal umbrellas are seen beneath the shade of the grain-holders. 
-
 ### Verse 3
 
 The 4th shloka from the opening section of the Krishi Prashara, a text on the science of agriculture, is an excellent match for the kural. In particular, कृषकान् corresponds to உழுதுண்டு வாழ்வார் and प्रार्थयन्त्येव भक्ततृष्णया corresponds to தொழுதுண்டு பின்செல் பவர்.
@@ -39,6 +33,12 @@ The 4th shloka from the opening section of the Krishi Prashara, a text on the sc
 The kural's emphatic assertion, they only live who live by tilling the land and eating, is poetic flourish; that specific expression is missing from the shloka. Likewise, while the kural just says everyone else, the shloka poetically expresses others as even those filled with gold, gemstones, and fine clothing. These differences are superficial, and the crux of the shloka matches the kural perfectly.
 
 ### Verse 4
+
+The line that we chose for the kural match from the Krishi Parshara (KP) verse 7, कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः, can be read semantically as: लोकेऽस्मिन् अनेके भूपतयः, किन्तु कृष्यन्वितो हि भूयादेकश्च भूपतिः।
+
+From KP7, धान्यं कृष्या विना न च, we may establish the close semantic equivalence of कृष्यन्वितः, कृषकः, and धान्यवान्: agriculture produces grain, and the agriculturist is consequently the possessor of grain. From KP4, सुवर्णरौप्यमाणिक्यवसनैरपि पूरिताः । तथापि प्रार्थयन्त्येव कृषकान् भक्ततृष्णया ॥, it follows that even those possessing wealth must seek the कृषक; hence the agriculturist/धान्यवान् occupies the position upon which the others depend. Thus the implied semantic proposition is: अनेके भूपतयः अपि धान्यवतः आश्रये, तस्य अधः।, that is, even the many rulers are dependent upon, and effectively beneath the protection/shade of one endowed with grain. This interpretaion makes the congruence with the crux of the kural evident.
+
+The KP line itself is comparatively terse: the agriculturist is the one true/ultimate lord, while the surrounding verses connect the agriculturist with grain and establish the dependence of even the wealthy and powerful upon him. The semantic parallel is therefore evident even though the kural develops the idea with considerably greater poetic flourish: the many royal umbrellas are seen beneath the shade of the grain-holders. 
 
 ### Verse 5
 
