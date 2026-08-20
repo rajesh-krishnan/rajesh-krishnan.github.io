@@ -11,7 +11,7 @@ tags: [kuralmatch]
 | [1](#verse-1) | சுழன்றும்ஏர்ப் பின்னது உலகம் அதனால் <br> உழந்தும் உழவே தலை.  | |
 | [2](#verse-2) | உழுவார் உலகத்தார்க்கு ஆணிஅஃ தாற்றாது <br> எழுவாரை எல்லாம் பொறுத்து.  | | 
 | [3](#verse-3) | உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம் <br> தொழுதுண்டு பின்செல் பவர். | **सुवर्णरौप्यमाणिक्यवसनैरपि पूरिताः** \| <br> **तथापि प्रार्थयन्त्येव कृषकान् भक्ततृष्णया** \|\| <br> Krishi Parashara 4 |
-| [4](#verse-4) | பலகுடை நீழலும் தங்குடைக்கீழ்க் காண்பர் <br> அலகுடை நீழ லவர். | |
+| [4](#verse-4) | பலகுடை நீழலும் தங்குடைக்கீழ்க் காண்பர் <br> அலகுடை நீழ லவர். | एकया च पुनः कृष्या प्रार्थको नैव जायते \| <br>**कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः** \|\| <br> Krishi Parashara 3 |
 | [5](#verse-5) | இரவார் இரப்பார்க்கொன்று ஈவர் கரவாது <br> கைசெய்தூண் மாலை யவர். | **एकया च पुनः कृष्या प्रार्थको नैव जायते** \| <br>कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः \|\| <br> Krishi Parashara 3 |
 | [6](#verse-6) | உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம் <br> விட்டேம்என் பார்க்கும் நிலை. | यन्न प्राणा बलं चान्नम् **अन्नं सर्वार्थसाधनम्** \| <br> देवासुरमनुष्याश्च सर्वे चान्नोपजीविनः \|\| <br> **अन्नं हि धान्यसंजातं धान्यं कृष्या विना न च** \| <br> तस्मात् **सर्वं परित्यज्य कृषिं यत्नेन कारयेत्** \|\| <br> Krishi Parashara 6-7 |
 | [7](#verse-7) | தொடிப்புழுதி கஃசா உணக்கின் (*உழக்கின்?*) பிடித்தெருவும் <br> வேண்டாது (*வெந்தது?*) சாலப் படும். | माघे **गोमयकूटं** तु सम्पूज्य श्रद्धयान्वितः \| <br> शोभने दिवसे ऋक्षे **कुद्दालैस्तोलयेत्ततः** \|\| <br> रौद्रे **संशोष्य तत् सर्वं कृत्वा गुण्डकरूपिणम्** \| <br> फाल्गुने प्रतिकेदारे सारं गर्ते निधापयेत् \|\| <br> ततो वपनकाले तु कुर्यात् सारविमोचनम् \| <br> **विना सारेण यद्धान्यं वर्धते फलवर्जितम्** \|\| <br> Krishi Parashara 109-111 |
@@ -25,6 +25,12 @@ tags: [kuralmatch]
 ### Verse 1
 
 ### Verse 2
+
+The line that we chose for the kural match from the Krishi Parshara (KP) verse 7, कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः, can be read semantically as: लोकेऽस्मिन् अनेके भूपतयः, किन्तु कृष्यन्वितो हि भूयादेकश्च भूपतिः।
+
+From KP7, धान्यं कृष्या विना न च, we may establish the close semantic equivalence of कृष्यन्वितः, कृषकः, and धान्यवान्: agriculture produces grain, and the agriculturist is consequently the possessor of grain. From KP4, सुवर्णरौप्यमाणिक्यवसनैरपि पूरिताः । तथापि प्रार्थयन्त्येव कृषकान् भक्ततृष्णया ॥, it follows that even those possessing wealth must seek the कृषक; hence the agriculturist/धान्यवान् occupies the position upon which the others depend. Thus the implied semantic proposition is: अनेके भूपतयः अपि धान्यवतः आश्रये, तस्य अधः।, that is, even the many rulers are dependent upon, and effectively beneath the protection/shade of one endowed with grain. This interpretaion makes the congruence with the crux of the kural evident.
+
+The KP line itself is comparatively terse: the agriculturist is the one true/ultimate lord, while the surrounding verses connect the agriculturist with grain and establish the dependence of even the wealthy and powerful upon him. The semantic parallel is therefore evident even though the kural develops the idea with considerably greater poetic flourish: the many royal umbrellas are seen beneath the shade of the grain-holders. 
 
 ### Verse 3
 
