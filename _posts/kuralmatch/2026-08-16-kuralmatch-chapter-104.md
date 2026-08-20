@@ -13,7 +13,7 @@ tags: [kuralmatch]
 | [3](#verse-3) | உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம் <br> தொழுதுண்டு பின்செல் பவர். | **सुवर्णरौप्यमाणिक्यवसनैरपि पूरिताः** \| <br> **तथापि प्रार्थयन्त्येव कृषकान् भक्ततृष्णया** \|\| <br> Krishi Parashara 4 |
 | [4](#verse-4) | பலகுடை நீழலும் தங்குடைக்கீழ்க் காண்பர் <br> அலகுடை நீழ லவர். | |
 | [5](#verse-5) | இரவார் இரப்பார்க்கொன்று ஈவர் கரவாது <br> கைசெய்தூண் மாலை யவர். | **एकया च पुनः कृष्या प्रार्थको नैव जायते** \| <br>कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः \|\| <br> Krishi Parashara 3 |
-| [6](#verse-6) | உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம் <br> விட்டேம்என் பார்க்கும் நிலை. |  |
+| [6](#verse-6) | உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம் <br> விட்டேம்என் பார்க்கும் நிலை. | यन्न प्राणा बलं चान्नम् **अन्नं सर्वार्थसाधनम्** \| <br> देवासुरमनुष्याश्च सर्वे चान्नोपजीविनः \|\| <br> **अन्नं हि धान्यसंजातं धान्यं कृष्या विना न च** \| <br> तस्मात् **सर्वं परित्यज्य कृषिं यत्नेन कारयेत्** \|\| <br> Krishi Parashara 6-7 |
 | [7](#verse-7) | தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும் <br> வேண்டாது சாலப் படும். | |
 | [8](#verse-8) | ஏரினும் நன்றால் எருவிடுதல் கட்டபின் <br> நீரினும் நன்றதன் காப்பு. | **हले प्रवाहमाणे तु शकृन्मूत्रं** भवेद् यदा \|<br> **तस्मात् सर्वप्रयत्नेन निस्तृणां कारयेत्** कृषिम् \|<br> मूलमात्रार्पितं तत्र **कारयेज्जलरक्षणम्** \|\| <br> Krishi Parshara 151.1, 192.1, 193.2 |
 | [9](#verse-9) | செல்லான் கிழவன் இருப்பின் நிலம்புலந்து <br> இல்லாளின் ஊடி விடும். | **कृषि**गवो वणिग्विद्याः **स्त्रियो** राजकुलानि च \| <br> **क्षणेनैकेन सीदन्ति मुहूर्तमनवेक्षणात्** \|\| <br> Krishi Parashara 81 |
@@ -48,6 +48,12 @@ The surrounding text confirms these implicit points. Verse 3 positions the farme
 A further Sanskrit parallel to the kural's theme appears in Rigveda 10.117.7 (Rishi Bhikshu Angirasa's Dana Stuti): कृषन्नित्फाल आशितं कृणोति यन्नध्वानमप वृङ्क्ते चरित्रैः । वदन्ब्रह्मावदतो वनीयान्पृणन्नापिरपृणन्तमभि ष्यात् ॥ Literal rendering: The tilling ploughshare generates food; the walking traveler covers distance through effort; the speaking Vedic scholar surpasses the silent one; likewise, the generous giver is a true friend and surpasses the non-giver. Both texts affirm the same principle: self-sustaining agricultural production naturally enables generous giving to other.
 
 ### Verse 6
+
+I interpret the kural this way. If the cultivators' hands cease (உழவினார் கைம்மடங்கின்), there will be no desirables  (இல்லை விழைவதூஉம்). [Hence], having set aside everything else (விட்டேம்என்), [we have the] situation of looking after agriculture ([உழவினை] பார்க்கும் நிலை). The initial subject உழவினார் remains the governing referent through the rest of the compact verse, and we allow it to be reapplied with the appropriate case to பார்க்கும்.  This interpretation is at variance with traditional commentaries, which suggest that விட்டேம்என் implies ascetic renunciation; we gloss it more straightforwardly as leaving all else (in order to focus on agriculture).
+
+Given this interpretation, the match to the KP shlokas is direct. First कृष्या विना न सर्वार्थम् which corresponds to உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம், follows directly from the first three lines: अन्नं सर्वार्थसाधनम् | अन्नं हि धान्यसंजातं | कृष्या विना न धान्यं |  (तस्मात्) कृष्या विना न सर्वार्थम् ||  Second, सर्वं परित्यज्य corresponds directly to விட்டேம்என். Now तस्मात् सर्वं परित्यज्य कृषिं यत्नेन कारयेत् parallels the kural's movement from renunciation of everything else to looking after agriculture.
+
+The shloka uses the potential/optative mood (कारयेत्), while the kural describes it as a state (நிலை); I find it interesting that neither uses the imperative mood. 
 
 ### Verse 7
 
