@@ -101,7 +101,9 @@ We explore this possibility through parallels in the Krishi-Parashara (KP).
 
 Traditionally, காப்பு is understood broadly as the protection of the crop from various agricultural calamities. Our reading of KP 193.2 highlights a more specific dimension of this broader conception of protection: water management as a means of preventing harm to the crop. In the Shabdakalpadruma, excessive rain is one of the six calamities affecting crops identified by Parashara: अतिवृष्टिरनावृष्टिः शलभा मूषिकाः खगाः । प्रत्यासन्नाश्च राजानः षडेता ईतयः स्मृताः ॥ इति पराशरः । The KP discusses water management extensively, with KP 194 specifically noting the danger that excess water poses to crops.
 
-Just as Valluvar's epithets for God allow complementary interpretations from diverse religious traditions, our novel and nuanced interpretation of நீரினும் நன்றதன் காப்பு as जलरक्षणम् through the lens of the KP complements the traditional commentarial interpretation of காப்பு as broad agricultural protection from various calamities.
+In the right of Valluvar's tight coupling of watering and protection, it is interesting to note that both irrigation management in cultivation as well as the establishment and protection of water sources (including the role of kings and village heads in appointing guards) gets extensive treatment in the agrarian texts of the Krishi Parshara and the Kashyapiya Krishi Sukti. 
+
+Just as Valluvar's epithets for God allow complementary interpretations from diverse religious traditions, our novel and nuanced interpretation of நீரினும் நன்றதன் காப்பு as जलरक्षणम् through the lens of the KP complements the traditional commentarial interpretation of காப்பு as broad agricultural protection from various calamities. It comes down to what அதன் refers to: crops, fields, water sources, or all of the them. My personal preference is to connect it to the water.
 
 The broader research question is whether Thirukkural and the KP indeed preserve elements of the same ancient Indic agricultural knowledge tradition.
 
