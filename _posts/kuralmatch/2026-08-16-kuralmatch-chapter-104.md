@@ -57,7 +57,7 @@ The shloka uses the potential/optative mood (कारयेत्), while the k
 
 ### Verse 7
 
-I explore an alternative intrepretation that makes a radical departure from the commentarial tradition. I base our interpretation on parallels in the Krishi-Parashara (KP), a respected agricultural treatise. We have observed strong thematic correspondences between several kurals in this chapter and passages in KP. These parallels do not establish direct textual dependence or chronological priority, but they make it conceivable that the two works preserve elements of the same ancient agricultural knowledge tradition. It is possible that medieval Tamil commentators did not recognize these parallels with the Parashara agricultural tradition; that remains a hypothesis, but one worth exploring further.
+I explore an alternative intrepretation that makes a radical departure from the commentarial tradition. I base this interpretation on parallels in the Krishi-Parashara (KP), a respected agricultural treatise. We have observed strong thematic correspondences between several kurals in this chapter and passages in KP. These parallels do not establish direct textual dependence or chronological priority, but they make it conceivable that the two works preserve elements of the same ancient agricultural knowledge tradition. It is possible that medieval Tamil commentators did not recognize these parallels with the Parashara agricultural tradition; that remains a hypothesis, but one worth exploring further.
 
 | Kural	| KP	| Remarks |
 |--|--|--|
