@@ -154,8 +154,8 @@ In this chapter, Valluvar is providing an ethical appreciation of farming, not a
 
 I tabulate the verse matches for this kural chapter in the Manakkudavar order, along with match sources and match quality ratings. 
 
-| No. | Manakkkudavar # | Verse | Match | Rating | Remarks | 
-|--|--|--|--|--|--|--|
+| No. | Manakkkudavar No. | Verse | Match | Rating | Remarks | 
+|--|--|--|--|--|--|
 | [1](#verse-1) | 1 | சுழன்றும்ஏர்ப் | | | |
 | [7](#verse-7) | 2 | தொடிப்புழுதி | KP 109-111 | B | Thematic, interpretive, not parsimonious, departs from classical commentaries  |
 | [8](#verse-8) | 3 | ஏரினும் | KP 151,192-193 | C | Thematic, interpretive, not parsimonious, departs from classical commentaries, proposes emendation of received text |
