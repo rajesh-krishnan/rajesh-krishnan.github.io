@@ -150,9 +150,7 @@ Thus, under our interpretation, the second line of the shloka captures the crux 
 
 ### Chapter Summary
 
-In this chapter, Valluvar is providing an ethical appreciation of farming, not a treatise on agriculture. I offer many striking parallels from the agricultural treatise called Krishi Parashara. Viewing the kurals through the lens of an agrarian text led to interpretations that are well attested as agricultural precepts, but at the same time, we diverge from the traditional commentarial literature. In one extreme case, this led to proposing a change to the wording of a kural text (which already has some instability with multiple variants that may obscure the original source and intent of Valluvar). Our proposal, if proven correct, has ramifications to medieval commentaries of other Sangam texts that appear to rely on the kural commentary. Evidentiary gaps remain, and skepticism is warranted. Nevertheless, the fresh perspective thay this interpretation brings, on account of the solid conceptual attestation by agrarian texts, allows avenues for fruitful new research.
-
-I tabulate the verse matches for this kural chapter in the Manakkudavar order, along with match sources and match quality ratings. 
+In this chapter, Valluvar is providing an ethical appreciation of farming, not a treatise on agriculture. I tabulate the verse matches for this kural chapter in the Manakkudavar order, along with match sources and match quality ratings. 
 
 | No. | Manakkkudavar No. | Verse | Match | Rating | Remarks | 
 |--|--|--|--|--|--|
@@ -167,4 +165,9 @@ I tabulate the verse matches for this kural chapter in the Manakkudavar order, a
 | [2](#verse-2) | 9 | உழுவார் | MBh 13.146.54 | A- | Hindu Scripture, Interpretive | 
 | [10](#verse-10) | 10 | இலமென்று | MBh 13.6.15 | A- | Hindu Scripture, Interpretive |
 
-It is remarkable that using Manakkudavar's ordering, contiguous sequence of verses (4-8) of this kural chapter have an exxcellent semantic correpondence with the Krishi Parashara, an agrarian text. The laat two verses have reasonable parallels in the Anushasana Parva of the Mahabharata. Perhaps there is another text that offers more ideal matches for the first three: the search continues.
+It is remarkable that using Manakkudavar's ordering, a contiguous sequence of verses (4-8) of this kural chapter shows excellent semantic correpondence with the Krishi Parashara, an agrarian text. The last two verses have reasonable parallels in the Anushasana Parva of the Mahabharata. Perhaps there is another text that offers better matches for the first three: the search continues.
+
+Viewing the kurals through the lens of agrarian texts led to interpretations that are well attested as agricultural precepts. At the same time, it has prompted us to diverge from the traditional commentarial literature in two cases:
+  - In one case, the lens of the Krishi Parashara and Kashyapiya Krishi Sukti texts lead us to interpret the kural more in terms of water control/restraint for the protecction of crops, rather than a broader idea of securing the cultivaetd field per the commentarial tradition.
+  - In the other case, we propose as radical reinterpretation of the purport of the kural to be related to manure preparation rather than the commentarial tradition of repeated and throrough tilling; we present our case for objections to the traditional reading as well as arguments in favor of our proposed re-interpretation and possible emendation. Evidentiary gaps remain, and skepticism is warranted. Nevertheless, the fresh perspective thay this interpretation brings, on account of the solid conceptual attestation by agrarian texts, allows avenues for fruitful new research.
+
