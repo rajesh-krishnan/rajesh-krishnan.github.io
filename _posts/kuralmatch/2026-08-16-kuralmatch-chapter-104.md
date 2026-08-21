@@ -17,8 +17,7 @@ tags: [kuralmatch]
 | [7](#verse-7) | தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும் <br> வேண்டாது (*வெந்தது?*) சாலப் படும். | माघे **गोमयकूटं** तु सम्पूज्य श्रद्धयान्वितः \| <br> शोभने दिवसे ऋक्षे **कुद्दालैस्तोलयेत्ततः** \|\| <br> रौद्रे **संशोष्य तत् सर्वं कृत्वा गुण्डकरूपिणम्** \| <br> फाल्गुने प्रतिकेदारे सारं गर्ते निधापयेत् \|\| <br> ततो वपनकाले तु कुर्यात् सारविमोचनम् \| <br> **विना सारेण यद्धान्यं वर्धते फलवर्जितम्** \|\| <br> Krishi Parashara 109-111 |
 | [8](#verse-8) | ஏரினும் நன்றால் எருவிடுதல் கட்டபின் <br> நீரினும் நன்றதன் காப்பு. | **हले प्रवाहमाणे तु शकृन्मूत्रं** भवेद् यदा \|<br> **तस्मात् सर्वप्रयत्नेन निस्तृणां कारयेत्** कृषिम् \|<br> मूलमात्रार्पितं तत्र **कारयेज्जलरक्षणम्** \|\| <br> Krishi Parshara 151.1, 192.1, 193.2 |
 | [9](#verse-9) | செல்லான் கிழவன் இருப்பின் நிலம்புலந்து <br> இல்லாளின் ஊடி விடும். | **कृषि**गवो वणिग्विद्याः **स्त्रियो** राजकुलानि च \| <br> **क्षणेनैकेन सीदन्ति मुहूर्तमनवेक्षणात्** \|\| <br> Krishi Parashara 81 |
-| [10](#verse-10) | இலமென்று அசைஇ இருப்பாரைக் காணின் <br> நிலமென்னும் நல்லாள் நகும். | | 
-
+| [10](#verse-10) | இலமென்று அசைஇ இருப்பாரைக் காணின் <br> நிலமென்னும் நல்லாள் நகும். | अर्थो वा मित्रवर्गो वा ऐश्वर्यं वा कुलान्वितम् \। <br> श्रीश्चापि दुर्लभा भोक्तुं तथैवाकृतकर्मभिः \|\| <br> Mahabharata Anushasana Parva 13.6.15 (Gita Press) |
 
 ## Comments and Research Notes
 
@@ -143,7 +142,29 @@ Overall, this shloka is an exceptionally close semantic match for the kural.
 
 ### Verse 10
 
+The Sanskrit श्रीः, denotes Lakshmi, the Godess of wealth, and also Bhudevi, the Godess of Earth, corresponds to நிலமென்னும் நல்லாள், “the good lady named Earth”; compare the traditional prayer समुद्रवसने देवि पर्वतस्तनमण्डले । विष्णुपत्नि नमस्तुभ्यं पादस्पर्शं क्षमस्व मे ॥. Next, अकृतकर्मभिः, those who have not performed work or those who remain idle, corresponds closely to அசைய இருப்பாரை, while दुर्लभा भोक्तुम्, “difficult to obtain/enjoy,” does double duty under our interpretation: 
+  - the idle person who effectively has nothing perceives/expresses that lack (இலமென்று); and
+  - the good lady named Earth laughs/spurns him because she is difficult for him to obtain or enjoy (நிலமென்னும் நல்லாள் நகும்)
+
+Thus, under our interpretation, the second line of the shloka captures the crux of the kural. The kural, however, has considerably greater poetic flourish: it personifies Earth as the good lady who laughs at the idle man, whereas the shloka states the proposition straightforwardly and then proceeds to enumerate a whole host of other things that the idle person will lack.
+
 ### Chapter Summary
 
-In this chapter, Valluvar is providing an ethical appreciation of farming, not a treatise on agriculture. I offer many striking parallels from the agricultural treatise called Krishi Parashara. Viewing the kurals through the lens of an agrarian text led to interpretations that are well attested as agricultural precepts, but at the same time, we diverge from the traditional commentarial literature. In one extreme case, this led to proposing a change to the wording of a kural text (which already has some instability with multiple variants that may obscure the original source and intent of Valluvar). Our proposal, if proven correct, has ramifications to medieval commentaries of other Sangam texts that appear to rely on the kural commentary. Evidentiary gaps remain, and skepticism is warranted. Nevertheless, the fresh perspective thay this interpretation brings, on account of the solid conceptual attestation by agrarian texts, allows avenues for fruitful new research. 
+In this chapter, Valluvar is providing an ethical appreciation of farming, not a treatise on agriculture. I offer many striking parallels from the agricultural treatise called Krishi Parashara. Viewing the kurals through the lens of an agrarian text led to interpretations that are well attested as agricultural precepts, but at the same time, we diverge from the traditional commentarial literature. In one extreme case, this led to proposing a change to the wording of a kural text (which already has some instability with multiple variants that may obscure the original source and intent of Valluvar). Our proposal, if proven correct, has ramifications to medieval commentaries of other Sangam texts that appear to rely on the kural commentary. Evidentiary gaps remain, and skepticism is warranted. Nevertheless, the fresh perspective thay this interpretation brings, on account of the solid conceptual attestation by agrarian texts, allows avenues for fruitful new research.
 
+I tabulate the verse matches for this kural chapter in the Manakkudavar order, along with match sources and match quality ratings. 
+
+| No. | Manakkkudavar # | Verse | Match | Rating | Remarks | 
+|--|--|--|--|--|--|--|
+| [1](#verse-1) | 1 | சுழன்றும்ஏர்ப் | | | |
+| [7](#verse-7) | 2 | தொடிப்புழுதி | KP 109-111 | B | Thematic, interpretive, not parsimonious, departs from classical commentaries  |
+| [8](#verse-8) | 3 | ஏரினும் | KP 151,192-193 | C | Thematic, interpretive, not parsimonious, departs from classical commentaries, proposes emendation of received text |
+| [9](#verse-9) | 4 | செல்லான் | KP 81 | A | Farming Treatise |
+| [5](#verse-5) | 5 | இரவார்   | KP 3 | A | Farming Treatise |
+| [6](#verse-6) | 6 | உழவினார் | KP 6-7 | A | Farming Treatise |
+| [3](#verse-3) | 7 | உழுதுண்டு | KP 4 | A | Farming Treatise | 
+| [4](#verse-4) | 8 | பலகுடை | KP 3 | A | Farming Treatise |
+| [2](#verse-2) | 9 | உழுவார் | MBh 13.146.54 | A- | Hindu Scripture, Interpretive | 
+| [10](#verse-10) | 10 | இலமென்று | MBh 13.9.17 | A- | Hindu Scripture, Interpretive |
+
+It is remarkable that using Manakkudavar's ordering, contiguous sequence of verses (4-8) of this kural chapter have an exxcellent semantic correpondence with the Krishi Parashara, an agrarian text. The laat two verses have reasonable parallels in the Anushasana Parva of the Mahabharata. Perhaps there is another text that offers more ideal matches for the first three: the search continues.
