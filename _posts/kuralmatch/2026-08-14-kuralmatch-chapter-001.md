@@ -117,7 +117,7 @@ We discuss the possibility of reading the expression அறவாழி அந�
 
    - The Vishnu Sahasranama provides वामनः, त्रिविक्रमः, and ब्राह्मणः धर्मः, and धर्मविदुत्तमः as names of Vishnu. We have seen that the Bhagavata Purana 8.18.12 connects Vamana to Dharma and Brahmana.
 
-   - We can consider Valluvar's own later allusion to the cosmic measurer later in kural 610 using அடியளந்தான் recalls the Vamana-Trivikrama manifestation.
+   - We can consider Valluvar's own later allusion to the cosmic measurer later in kural 610 using அடியளந்தான் recalls the Vamana-Trivikrama manifestation. See below for the Jain version.
 
    - Valluvar emphasizes the conenction between Dharma and Brahmana (அறவாழி யந்தணன்) in kural 30 (அந்தணர் என்போர் அறவோர்).
 
@@ -135,6 +135,7 @@ We discuss the possibility of reading the expression அறவாழி அந�
 
   - The Jain Sanskrit Namamala establishes धर्मचक्रभृत् as a name of the Jina/Tīrthaṅkara: सर्वज्ञो वीतरागोऽर्हन् केवली धर्मचक्रभृत् । तीर्थङ्करस्तीर्थकरस्तीर्थकृद्दिव्यवाक्पतिः ॥
   - Brahmana is a well-defined concept in Jain Sanskrit literature. for example, in the Jain Mahapurana 38.43: तपःश्रुतं च जातिश्च त्रयं ब्राह्मण्यकारणम् । तपःश्रुताभ्यां यो हीनो जातिब्राह्मण एव सः ॥ The Jain correspondence can be strengthened further if we can find evidence that directly connects the Jina, Mahavira, Arhat, or Tirthankara with Brahmana.
+  - The Jain Trivikrama is the monk Vishnukumara who, in the form of a dwarf-brahmana, takes three strides protecting Jain dharma, per Harisena’s Brihatkathakosha and Prabhachandra's Kathakosha. These texts are circa 11th c. CE.
 
 ###  Verse 9
 
