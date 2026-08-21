@@ -74,7 +74,7 @@ I explore an alternative intrepretation that makes a radical departure from the 
 | பிடித்தெரு |	कृत्वा गुण्डकरूपिणम्	| Possible பிடித்த எரு = formed/processed manure; KP: make it into lump form |
 | சாலப் படும்	| विना सारेण यद्धान्यं वर्धते फलवर्जितम्	| Positive ↔ negative agricultural result: productive with the effective material; without सारम्, grain is fruitless |
 
-There is excellent concordance, except for one word: வேண்டாது. Also elements of the above process of manure preparation are attested across multiple sources. We propose that the received வேண்டாமற்/வேண்டாது may conceal an earlier form. A possible emendation is வெந்தது (from வெந்து + அது), potentially meaning “that having been heated/dried”; the alternative வேந்தது may also be possible. Under this emendation, the kural may describe:
+There is excellent concordance, except for one word: வேண்டாது. Also elements of the above process of manure preparation are attested across multiple sources. We propose that the received வேண்டாமற்/வேண்டாது may conceal an earlier form. A possible emendation is வெந்தது (from வெந்து + அது), potentially meaning “that having been heated/dried”; alternatives such as வேந்தது or வெந்தமர் could match too. Contingent on such emendation, the kural may describe:
 
 *Even hand-formed manure (பிடித்த எருவும்) that’s been heated/processed (வெந்து + அது) will become excellent (சாலப் படும்) when a measured quantity (தொடி) becomes fine manure powder of one fourth the original quantitiy (புழுதி கஃசா)  when dried/pulverized (உணக்கின் / உழக்கின்).*
 
