@@ -165,6 +165,6 @@ I tabulate the verse matches for this kural chapter in the Manakkudavar order, a
 | [3](#verse-3) | 7 | உழுதுண்டு | KP 4 | A | Farming Treatise | 
 | [4](#verse-4) | 8 | பலகுடை | KP 3 | A | Farming Treatise |
 | [2](#verse-2) | 9 | உழுவார் | MBh 13.146.54 | A- | Hindu Scripture, Interpretive | 
-| [10](#verse-10) | 10 | இலமென்று | MBh 13.9.17 | A- | Hindu Scripture, Interpretive |
+| [10](#verse-10) | 10 | இலமென்று | MBh 13.6.15 | A- | Hindu Scripture, Interpretive |
 
 It is remarkable that using Manakkudavar's ordering, contiguous sequence of verses (4-8) of this kural chapter have an exxcellent semantic correpondence with the Krishi Parashara, an agrarian text. The laat two verses have reasonable parallels in the Anushasana Parva of the Mahabharata. Perhaps there is another text that offers more ideal matches for the first three: the search continues.
