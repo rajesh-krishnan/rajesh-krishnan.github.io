@@ -105,9 +105,19 @@ We interpret this Kural as describing a sequence of agricultural operations in w
 
 The peculiar structure of this kural suggests that Valluvar may be encoding deeper agricultural relationships or precepts, while still allowing for more mundane interpretations. We do not take Valluvar here to be merely enumerating an obvious set of farming tasks, nor to be encoding their relative importance or dispensability (the preceding Kural, for example, emphasizes that thorough ploughing can reduce the need for manuring). Rather, the structure suggests a progression: as each operation is completed, it recedes in immediate priority, while the value and vulnerability of the cultivated field increase cumulatively, culminating in crop protection as the utmost priority.
 
-In the context of காப்பு, it comes down to what அதன் refers to in this kural: crops,  water sources, or fields. In traditional commentaries, காப்பு is understood broadly as the protection of the crop from various agricultural calamities.
+As observed earlier, Valluvar compresses agricultural knowledge into two evaluative couplings: the relationship between tillage and fertilization, and that between water management and crop protection. We explored these relationships through the lens of the KP. The Kashyapiya Krishi Sukti (KKS), like the KP, preserves strikingly close formulations of both paired relationships in compact verse units. In KKS 265–266, repeated ploughing is followed immediately by the application of animal manure for increased fertility. In KKS 436–438, water is maintained and excess water regulated specifically to prevent the destruction of seedlings, followed by an explicit injunction to protect them (तद्रक्षणं). These parallels reinforce our interpretation of நீரினும் நன்றதன் காப்பு, which differs from that of the traditional commentaries.
 
-Agrarian texts like the Krishi Parshara and the Kashyapiya Krishi Sukti emphasize irrigation management in cultivation, the establishment of water sources, and the protection of water sources. The role of kings and village heads in security and the appointment of guards are also discussed. Considerable attention is also paid to guarding the crops and guarding the fields as well in these texts.  In the Shabdakalpadruma, excessive rain is one of the six calamities affecting crops identified by Parashara: अतिवृष्टिरनावृष्टिः शलभा मूषिकाः खगाः । प्रत्यासन्नाश्च राजानः षडेता ईतयः स्मृताः ॥ इति पराशरः । The Kashyapiya Krishi Sukti emphasizes the protection of cattle, dependants or laborers, seeds, irrigation channels, reservoirs and tanks, digging implements and other agricultural tools, and, above all, cultivated fields.
+```text
+एवं क्रमेण तत्क्षेत्रं चतुर्धा पञ्चधापि वा। हलेन कर्षयित्वा षट् दिवसम् त्वधिकं तु वा॥२६५॥
+लोष्टांश्च लगुडानन्यान् बहिर्निक्षिप्य गोमयम्। आजकं छागलं तत्र स्थापयेत् सारवृद्धये॥२६६॥
+पङ्क्तिशः पङ्क्तिशो भृत्यैः विन्यसेत्समभूमिके। तत्र क्षेत्रे स्वल्पजलं स्थापनीयमनन्तरम्।
+जलाधिक्यस्रावमार्गः कल्पनीयो विशेषतः। यथा सस्याङ्कुराणां तु नाशस्तु न भवेत्तथा॥४३६–४३७॥
+तथा तद्रक्षणं कार्यं तत्कर्मफलदं विदुः। एवमङ्कुरजालानां विन्यासश्च क्रमान्मतः॥४३८॥
+```
+
+In the context of காப்பு, it comes down to what அதன் refers to in this kural: crops,  water sources, or fields. In traditional commentaries, காப்பு is understood broadly as the protection of the crop from various agricultural calamities. Keying on Valluvar's tight coupling of watering and protection, however, my selection of KP 193.2 highlights a more specific dimension of this broader conception of protection: water management as a means of preventing harm to the crop. The KP discusses water management extensively, with KP 194 specifically noting the danger that excess water poses to crops. This insight is further strengthened by the KKS.
+
+Agrarian texts like the KP and the KKS emphasize irrigation management in cultivation, the establishment of water sources, and the protection of water sources. The role of kings and village heads in security and the appointment of guards are also discussed. Considerable attention is also paid to guarding the crops and guarding the fields as well in these texts.  In the Shabdakalpadruma, excessive rain is one of the six calamities affecting crops identified by Parashara: अतिवृष्टिरनावृष्टिः शलभा मूषिकाः खगाः । प्रत्यासन्नाश्च राजानः षडेता ईतयः स्मृताः ॥ इति पराशरः । The Kashyapiya Krishi Sukti emphasizes the protection of cattle, dependants or laborers, seeds, irrigation channels, reservoirs and tanks, digging implements and other agricultural tools, and, above all, cultivated fields.
 
 ```text
 प्रत्यब्दं गोरक्षणं भृत्यानामपि रक्षणम् । बीजानां रक्षणं चापि कुल्यादीनां च रक्षणम् ॥ ५२२ ॥
@@ -116,13 +126,11 @@ Agrarian texts like the Krishi Parshara and the Kashyapiya Krishi Sukti emphasiz
 देशाचारशास्त्राच्चापि कृषिकर्म महोदयम् । महानन्दाय कल्पन्ते त्रिवर्गे सुखसंपदः ॥ ५२५ ॥
 ```
 
-Keying on Valluvar's tight coupling of watering and protection, however, my selection of KP 193.2 highlights a more specific dimension of this broader conception of protection: water management as a means of preventing harm to the crop. The KP discusses water management extensively, with KP 194 specifically noting the danger that excess water poses to crops. 
-
 Just as Valluvar's epithets for God allow complementary interpretations from diverse religious traditions, our novel and nuanced interpretation of நீரினும் நன்றதன் காப்பு as जलरक्षणम् through the lens of the KP complements the traditional commentarial interpretation of காப்பு as broad agricultural protection from various calamities. 
 
 The broader research question is whether Thirukkural and the KP indeed preserve elements of the same ancient Indic agricultural knowledge tradition.
 
-*Note: This verse match needs to be revisited. The interpretive match to KP193 requires a long explanation. The commentary for KP 192 refers to dung and urine falling as oxen plough the field, not intentional manuring. KP does discuss sara vimochanam in detail elsewhere, and may offer a better match. A single verse or sequential verse-pair match would be nicer, but such a matching verse has remained elusive.*
+*Note: A prasimonious verse match remains elusive. The commentary for KP 192 refers to dung and urine falling as oxen plough the field, not intentional manuring. KP does discuss sara vimochanam in detail elsewhere, and the KKS confirms the coupling. *
 
 ### Verse 9
 
