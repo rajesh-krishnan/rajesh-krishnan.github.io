@@ -15,7 +15,7 @@ tags: [kuralmatch]
 | [5](#verse-5) | இரவார் இரப்பார்க்கொன்று ஈவர் கரவாது <br> கைசெய்தூண் மாலை யவர். | **एकया च पुनः कृष्या प्रार्थको नैव जायते** \| <br>कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः \|\| <br> Krishi Parashara 3 |
 | [6](#verse-6) | உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம் <br> விட்டேம்என் பார்க்கும் நிலை. | यन्न प्राणा बलं चान्नम् **अन्नं सर्वार्थसाधनम्** \| <br> देवासुरमनुष्याश्च सर्वे चान्नोपजीविनः \|\| <br> **अन्नं हि धान्यसंजातं धान्यं कृष्या विना न च** \| <br> तस्मात् **सर्वं परित्यज्य कृषिं यत्नेन कारयेत्** \|\| <br> Krishi Parashara 6-7 |
 | [7](#verse-7) | தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும் <br> வேண்டாது (*வெந்தது?*) சாலப் படும். | माघे **गोमयकूटं** तु सम्पूज्य श्रद्धयान्वितः \| <br> शोभने दिवसे ऋक्षे **कुद्दालैस्तोलयेत्ततः** \|\| <br> रौद्रे **संशोष्य तत् सर्वं कृत्वा गुण्डकरूपिणम्** \| <br> फाल्गुने प्रतिकेदारे सारं गर्ते निधापयेत् \|\| <br> ततो वपनकाले तु कुर्यात् सारविमोचनम् \| <br> **विना सारेण यद्धान्यं वर्धते फलवर्जितम्** \|\| <br> Krishi Parashara 109-111 |
-| [8](#verse-8) | ஏரினும் நன்றால் எருவிடுதல் கட்டபின் <br> நீரினும் நன்றதன் காப்பு. | सर्वेषामपि तेषां तु कृषिकार्यं हि तुल्यकम् \| <br> भूमिनां **कर्षणं चादौ** ततो बीजाङ्कुरार्पणम् \|\| <br> **तृणकाष्ठशेषशोधनं च पुनस्तत्कर्म चादरात्** \| <br> **जलसंपूरणं चैव शालिसंरक्षणं तथा** \|\| <br> Kashyapiya Krishi Sukti 1.460-461 |
+| [8](#verse-8) | ஏரினும் நன்றாம் எருவிடுதல் கட்டபின் <br> நீரினும் நன்றதன் காப்பு. | सर्वेषामपि तेषां तु कृषिकार्यं हि तुल्यकम् \| <br> भूमिनां **कर्षणं चादौ** ततो बीजाङ्कुरार्पणम् \|\| <br> **तृणकाष्ठशेषशोधनं च पुनस्तत्कर्म चादरात्** \| <br> **जलसंपूरणं चैव शालिसंरक्षणं तथा** \|\| <br> Kashyapiya Krishi Sukti 1.460-461 |
 | [9](#verse-9) | செல்லான் கிழவன் இருப்பின் நிலம்புலந்து <br> இல்லாளின் ஊடி விடும். | **कृषि**गवो वणिग्विद्याः **स्त्रियो** राजकुलानि च \| <br> **क्षणेनैकेन सीदन्ति मुहूर्तमनवेक्षणात्** \|\| <br> Krishi Parashara 81 |
 | [10](#verse-10) | இலமென்று அசைஇ இருப்பாரைக் காணின் <br> நிலமென்னும் நல்லாள் நகும். | अर्थो वा मित्रवर्गो वा ऐश्वर्यं वा कुलान्वितम् \। <br> **श्रीश्चापि दुर्लभा भोक्तुं तथैवाकृतकर्मभिः** \|\| <br> Mahabharata Anushasana Parva 13.6.15 (Gita Press) |
 
@@ -116,7 +116,7 @@ The mapping the kural to the Kashyapiya Krishi Sukti (KKS) verses 460-481 in the
 
 | Kural fragment | KKS fragment | Remarks  |
 |--|--|--| 
-| ஏரினும் நன்றால் எருவிடுதல் | कर्षणं चादौ | कर्षणं चादौ encodes a sequence that starts with ploughing, described in an earlier passage that contains KKS 434 (कर्षणान्मुदुतां गते for ஏரினும் நன்றால்) and KKS 435 (शकृत्कणैः). |
+| ஏரினும் நன்றாம்  எருவிடுதல் | कर्षणं चादौ | कर्षणं चादौ encodes a sequence that starts with ploughing, described in an earlier passage that contains KKS 434 (कर्षणान्मुदुतां गते for ஏரினும் நன்றாம்) and KKS 435 (शकृत्कणैः). |
 | கட்ட | तृणकाष्ठशेषशोधनं |  கட்ட matches तृणकाष्ठशेषशोधनं, but கட்ட also has a nuanced connection to transplanting बीजाङ्कुरार्पणम् as explained later. |
 | பின் | पुनस्तत्कर्म | After that operation.  |
 | நீரினும் | जलसंपूरणं चैव | Watering follows weeding.  |
@@ -142,7 +142,7 @@ Beyond the remarkable semantic and lexical parallelism at the verse level, I bel
 |--|--|--| 
 | ஏரினும் | कर्षणान् | Ploughing |
 | எருவிடுதல் | अजाशकृत्कणैः ... गवां चापि शकृत्कणैः | Describes manure, its various sources, and specified a powdered form. |
-| நன்றால் | मुदुतां गते / प्राप्तसारे | The field becomes good: soft from ploughing and fertile from manuring |
+| நன்றாம்  | मुदुतां गते / प्राप्तसारे | The field becomes good: soft from ploughing and fertile from manuring |
 | கட்ட  | बन्धीकृत्य तु तज्जालम् | Binding the rice-seedlings; நாற்றுக்கட்ட is Sangam usage for binding rice seedlings. |
 | பின் | अनन्तरम्  | Thereafter.|
 | நீர் | स्वल्पजलं स्थापनीयम्  | A small quantity of water is to be maintained. Explained further below. |
@@ -156,14 +156,14 @@ Let us make a few observations about the vocabulary and structure of the kural b
   - tight coupling between ஏரினும் and எருவிடுதல்
   - tight coupling between  நீரினும் and அதன் காப்பு
   - placement of கட்டபின் between these pairs, but with stronger affiinity to the second
-  - the versatility of கட்ட, காப்பு, நன்றால், and அதன், which admit multiple interpretations
-  - in the traditional interpretation, நன்றால் sets up an importance ordering between ploughing and manuring; the apparent conlfict that creates with the previous kural motivates looking at other interpretations  
+  - the versatility of கட்ட, காப்பு, நன்று, and அதன், which admit multiple interpretations
+  - in the traditional interpretation, நன்றாம் sets up an importance ordering between ploughing and manuring; the apparent conlfict that creates with the previous kural motivates looking at other interpretations  
 
 More explanation to follow.
 <!--
 suggests that Valluvar may be encoding deeper agricultural relationships or precepts, while still allowing for more mundane interpretations. We do not take Valluvar here to be merely enumerating an obvious set of farming tasks, nor to be encoding their relative importance or dispensability (the preceding Kural, for example, emphasizes that thorough ploughing can reduce the need for manuring). Rather, the structure suggests a progression: as each operation is completed, it recedes in immediate priority, while the value and vulnerability of the cultivated field increase cumulatively, culminating in crop protection as the utmost priority.
 
-In particular, the relationship expressed in ஏரினும் நன்றால் எருவிடுதல் finds a close agricultural parallel in the KP's association of ploughing (हल) with dung/manuring (शकृत्) in KP 151.1, while நீரினும் நன்றதன் காப்பு finds a corresponding parallel in the KP's concept of water regulation for crop protection (जलरक्षणम्) in KP 193.2; the intervening கட்டபின் likewise corresponds to the injunction to make the cultivation weed-free (निस्तृणां कृषिम्) in KP 192.1.
+In particular, the relationship expressed in ஏரினும் நன்றாம் எருவிடுதல் finds a close agricultural parallel in the KP's association of ploughing (हल) with dung/manuring (शकृत्) in KP 151.1, while நீரினும் நன்றதன் காப்பு finds a corresponding parallel in the KP's concept of water regulation for crop protection (जलरक्षणम्) in KP 193.2; the intervening கட்டபின் likewise corresponds to the injunction to make the cultivation weed-free (निस्तृणां कृषिम्) in KP 192.1.
  
 
 As observed earlier, Valluvar compresses agricultural knowledge into two evaluative couplings: the relationship between tillage and fertilization, and that between water management and crop protection. We explored these relationships through the lens of the KP. The Kashyapiya Krishi Sukti (KKS), like the KP, preserves strikingly close formulations of both paired relationships in compact verse units. In KKS 265–266, repeated ploughing is followed immediately by the application of animal manure for increased fertility.  Our reading of பூழி மயங்கப் பலவுழுது வித்திப் (Purananuru 120) as repeatedly ploughing until the dung-derived பூழி is thoroughly intermixed with the soil, followed by sowing, closely aligns with the KKS 265-266 coupling of repeated ploughing with the application of manure for fertility, and reinforces the Kural’s distinctive association of thorough tillage with manuring. In KKS 436–438, water is maintained and excess water regulated specifically to prevent the destruction of seedlings, followed by an explicit injunction to protect them (तद्रक्षणं). These parallels reinforce our interpretation of நீரினும் நன்றதன் காப்பு, which differs from that of the traditional commentaries. We note that Valluvar himself uses காப்பு in the sense of control/restraint as in யாகாவாராயினும் நாகாக்க.
