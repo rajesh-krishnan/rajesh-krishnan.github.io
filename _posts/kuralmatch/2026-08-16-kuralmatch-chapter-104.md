@@ -135,7 +135,7 @@ The passage below, containing KKS verses 433 – 438, describes the sequence of 
 तथा तद्रक्षणं कार्यं तत्कर्मफलदं विदुः । एवमङ्कुरजालानां विन्यासश्च क्रमान्मतः ॥ ४३८ ॥
 यत्राङ्कुराणां नाशस्तु वृष्ट्यादिबहुकारणैः । सम्पादितस्तथा धीमान् तत्र देशे प्रयत्नतः ॥ ४३९ ॥
 ```
-
+ 
 Beyond the remarkable semantic and lexical parallelism at the verse level, I believe that examining these correspondences more closely through the lens of the agricultural treatises and refernces in Sangam Tamil literature can throw more light on considerable nuance and depth of encoding in the kural. As an appetizer, the table below provides an alternative thematic mapping across many verses (vs. the parsimonoious match presented earlier). 
 
 | Kural fragment | KKS fragment | Remarks  |
@@ -153,8 +153,37 @@ Evidently, this kural mentions five key agricultural operations in an order that
 
 Let us make a few observations about the vocabulary and structure of the kural before we delve deeper: (i) the tight coupling between ஏரினும் and எருவிடுதல்; (ii) the tight coupling between நீரினும் and அதன் காப்பு; (iii) the placement of கட்டபின் between these pairs, with stronger affiinity to the second pair; and (iv) the versatility of கட்ட, காப்பு, நன்றாம், and நன்றதன், which admit multiple interpretations.
 
+#### Interpreting நீரினும் நன்று அதன் காப்பு
 
+Let us start with the big picture of what the texts say about காப்பு.
 
+The texts discuss the role of kings and village heads across various aspects of security, and provide advice on the selection and appointment of guards.  The various aspects of security span the protection of cattle, dependants or laborers, seeds, irrigation channels, reservoirs and tanks, digging implements and other agricultural tools, and, above all, cultivated fields. For example, see KKS (verses 422-424) below.
+
+```text
+प्रत्यब्दं गोरक्षणं भृत्यानामपि रक्षणम् । बीजानां रक्षणं चापि कुल्यादीनां च रक्षणम् ॥ ५२२ ॥
+जलाशयतटाकादिहृदानामपि रक्षणम् । खनित्रशंकुलादीनां रक्षणं खलरक्षणम् ॥ ५२३ ॥
+तेषु रक्षणं चापि क्षेत्राणामपि रक्षणम् । मुख्यं धर्ममिति ज्ञात्वा तथा कुर्यात् प्रयत्नतः ॥ ५२४ ॥
+```
+
+Considerable attention is paid to guarding the crops and the cultivated fields. The threats included excess of water (rain, flood, overwatering), lack of water (drought, underwatering), weeds, disease, fauna (insects, birds, rodents, rabbits, cattle, and other wildlife), and humans (thieves, saboteurs, and invading kings). In the Shabdakalpadruma, excessive rain, lack of water, insects, rodents, birds, and invaders are the six major calamities identified by Parashara: अतिवृष्टिरनावृष्टिः शलभा मूषिकाः खगाः । प्रत्यासन्नाश्च राजानः षडेता ईतयः स्मृताः ॥ इति पराशरः ।
+
+Likewise, in the big picture, agrarian texts like the KP and the KKS emphasize irrigation management in cultivation, the establishment of water sources, rain prediction, construction and maintenance of canals, when irrigation is to be performed and when it is to be restrained, and the protection of water sources. 
+
+Now let us focus on the kural per se. In the context of the kural, what does அதன் refer to? The things mentioned include water, weeds (or transplant seedlings depending on whether we pick களைகட்ட vs. நாற்றுக்கட்ட), manure, and ploughing; as a pronoun. The traditional interpretation says கட்ட stands for weeding and அதன் is a pronoun for crops (without explaining the derivation). The word காப்பு is interesting in that it can be used both in the sense of protection/preservation as well as in the sense of control/restraint, as for example,  யாகாவாராயினும் நாகாக்க as used by Valluvar himself in Kural 127.  The Sanskrit equivalent रक्षणम् has a similar dual use, and can be used to indicate in the sense of protection, or in the sense of reining/restraining.
+
+The central question can be framed either way: *What needs to be protected, and from what?* or *What needs to be restrained, and to what end?*
+
+Manakkudavar uses the former framing and declares that the crops need to be protected from cows entering the field. Parimelazhagar suggests crop protection from weeds, among other things.  The mainstream view is broad and general protection of crops.  
+
+Our mapping, and the domain context grounding from the KKS (and the KP) helps us answer the question under either framing elegantly. For the first framing, the transplanted seedlings (and the crops they grow into) need to be protected from excess of water from overwatering and/or rains. This entails the நாற்றுக்கட்ட interpretation to support அதன். For the second framing, the water (அதன்)  needs to be restrained  (காப்பு), so that crops are not damaged.  கட்ட could refer to weeding or transplanting.
+
+KKS 443-439 walks us from शाल्यङ्कुराणां जालानि to बन्धीकृत्य तु तज्जालं to शकृत्कणैः to प्राप्तसारे सयत्नके to पङ्क्तिशः विन्यसेत् to **क्षेत्रे स्वल्पजलं स्थापनीयम्** (நீரினும்) to **जलाधिक्यस्रावमार्गः ... सस्याङ्कुराणां तु नाशस्तु** to  **तथा तद्रक्षणं** (அதன் காப்பு). Then **यत्राङ्कुराणां नाशस्तु वृष्ट्यादिबहुकारणैः** -- for the scope of the operations the kural holds together tightly, the precept attested by the KKS is clear: not more water, but its restraint, in order to protect the crops from water damage. This aligns well with KKS 460-461: जलसंपूरणं चैव शालिसंरक्षणं which references the above procedure, and is also a remarkably close semantic and literal match to the kural.
+
+The same tight correspondence from weeding, to watering, and the restraint of water to protect the crops is seen in the other treatise, KP verses 192-193: तस्मात् सर्वप्रयत्नेन **निस्तृणां कारयेत्** कृषिम् । निस्तृणा हि कृषाणानां कृषिः कामदुघा भवेत् ॥ नैरूज्यार्थं हि धान्यानां जलं भाद्रे विमोचयेत् । **मूलमात्रार्पितं तत्र कारयेज्जलक्षणम्** ॥. After weeding, water is controlled/restrained to just cover the roots. The KP uses जलरक्षणम् (a tighter lexical coupling of நீரின் காப்பு) to mean the careful management of the water supply, particularly preventing harmful excess or loss of water.
+
+What about weding and the other threats? What about protection of water sources, farm implements, and manure storage?Weeding is handled earlier in a separate step, and discussed before water management. Protection of water sources, and other things, as well as the protection of crops from a variety of threats is discussed outside the immediate frame of the five operations listed in the kural, and the tight coupling of water and “protection/restaint” is matched emphatically in both the KKS and KP. That is the likely nuance in the encoding of the kural.
+
+The beauty of our layered interpretation is that you can stay at the top level semantic mapping, and stick to the traditional story, but our study suggests there is more here than meets the eye at that level.
 
 **More to follow.**
 
