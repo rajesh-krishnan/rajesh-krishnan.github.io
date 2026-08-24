@@ -216,7 +216,7 @@ In this chapter, Valluvar is providing an ethical appreciation of farming, not a
 | No. | Manakkkudavar No. | Verse | Match | Rating | Remarks | 
 |--|--|--|--|--|--|
 | [1](#verse-1) | 1 | சுழன்றும்ஏர்ப் | KKS 1.240 | A | Excellent verse match in farming treatise |
-| [7](#verse-7) | 2 | தொடிப்புழுதி | KP 109-111 | B | Thematic, interpretive, not parsimonious, departs from classical commentaries  |
+| [7](#verse-7) | 2 | தொடிப்புழுதி | KP 109-111 | C | Thematic, interpretive, not parsimonious, departs from classical commentaries  |
 | [8](#verse-8) | 3 | ஏரினும் | KKS 1.460-461 | A | Excellent verse match in farming treatise |
 | [9](#verse-9) | 4 | செல்லான் | KP 81 | A | Excellent verse match in farming treatise |
 | [5](#verse-5) | 5 | இரவார்   | KP 3 | A | Excellent verse match in farming treatise |
@@ -230,7 +230,7 @@ It is remarkable that using Manakkudavar's ordering, a contiguous sequence of ve
 
 Viewing the kurals through the lens of agrarian texts which have striking parallels allows an appreciation of the naunce and depth that may be encoded by the kural, including multiple valid interpretations, that are attested in agricultural theory and practice, and in some cases, also find mention in other Sangam Tamil literature. This perspective throws a light on connections to transplanting, pulverized manure, relationship between water management and crop protection, and grounding to the broader overall agricultural context.    
 
-Evidentiary gaps remain in our proposed radical reinterpretation of one kural as describing manure preparation procedures rather than the commentarial tradition of repeated and throrough tilling reducing manure requirements.
+Evidentiary gaps remain in our proposed radical reinterpretation of one kural as describing manure preparation procedures diverging from the commentarial tradition of repeated and throrough tilling reducing manure requirements. Both the prior and succeeding kurals (in Manakkudavar order) find exceptionally strong matches within the KKS; our current match for this kural from the KP may need revisting.
 
 On account of the conceptual attestation by agrarian texts, the fresh perspective that thr verse matching exercise offers overall, opens avenues for fruitful new research. 
 
