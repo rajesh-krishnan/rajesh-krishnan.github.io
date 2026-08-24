@@ -151,15 +151,14 @@ Beyond the remarkable semantic and lexical parallelism at the verse level, I bel
 
 Evidently, this kural mentions five key agricultural operations in an order that matches agricultural theory and practice, but omits  many others (sowing, harvesting, care of implements, etc.), but it may be encoding multiple deeper agricultural precepts simultaneously, both through its unqiue structure and the versatility of the words chosen.  While the commentarial tradition enjoy a history of over a 1000 years, I find that they do not do justice either to the kural or to the field of agriculture. The appetizer above shows that alternatives to the tradition of கட்ட as weeding and காப்பு as protection (of the crop) are viable, as as I explain later, well attested in agricultural treatises, match modern agricultual practices, consistent with the kural wording and structure, and in some cases match refereneces in Sangam Tamil literature. The previous table also includes the interesting fact that the manure is in powdered form.
 
-Let us make a few observations about the vocabulary and structure of the kural before we delve deeper:
+Let us make a few observations about the vocabulary and structure of the kural before we delve deeper: (i) the tight coupling between ஏரினும் and எருவிடுதல்; (ii) the tight coupling between நீரினும் and அதன் காப்பு; (iii) the placement of கட்டபின் between these pairs, with stronger affiinity to the second pair; and (iv) the versatility of கட்ட, காப்பு, நன்றாம், and நன்றதன், which admit multiple interpretations.
 
-  - tight coupling between ஏரினும் and எருவிடுதல்
-  - tight coupling between  நீரினும் and அதன் காப்பு
-  - placement of கட்டபின் between these pairs, but with stronger affiinity to the second
-  - the versatility of கட்ட, காப்பு, நன்று, and அதன், which admit multiple interpretations
-  - in the traditional interpretation, நன்றாம் sets up an importance ordering between ploughing and manuring; the apparent conlfict that creates with the previous kural motivates looking at other interpretations  
 
-More explanation to follow.
+
+
+**More to follow.**
+
+
 <!--
 suggests that Valluvar may be encoding deeper agricultural relationships or precepts, while still allowing for more mundane interpretations. We do not take Valluvar here to be merely enumerating an obvious set of farming tasks, nor to be encoding their relative importance or dispensability (the preceding Kural, for example, emphasizes that thorough ploughing can reduce the need for manuring). Rather, the structure suggests a progression: as each operation is completed, it recedes in immediate priority, while the value and vulnerability of the cultivated field increase cumulatively, culminating in crop protection as the utmost priority.
 
