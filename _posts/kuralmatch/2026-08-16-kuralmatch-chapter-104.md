@@ -8,7 +8,7 @@ tags: [kuralmatch]
 
 |  | [104](#chapter-summary) : பொருட்பால் : குடியியல் : உழவு |  |
 |--|--|--|
-| [1](#verse-1) | சுழன்றும்ஏர்ப் பின்னது உலகம் அதனால் <br> உழந்தும் உழவே தலை.  | नानाविधानन्दकरं **कृषिकर्म प्रशस्यते** \| <br> **अतस्तदन्या वृत्तिस्तु पारतन्त्र्येण गुम्भिता** \|\| <br> Kashyapiya Krishi Sukti 1.240 |
+| [1](#verse-1) | சுழன்றும்ஏர்ப் பின்னது உலகம் அதனால் <br> உழந்தும் உழவே தலை.  | नानाविधानन्दकरं **कृषिकर्म प्रशस्यते** \| <br> **अतस्तदन्या वृत्तिस्तु पारतन्त्र्येण गुम्भिता** \|\| <br> Kashyapiya Krishi Sukti 240 |
 | [2](#verse-2) | உழுவார் உலகத்தார்க்கு ஆணிஅஃ தாற்றாது <br> எழுவாரை எல்லாம் பொறுத்து. | तथैव देवि **वैश्याश्च लोकयात्राहिताः** स्मृताः \| <br> **अन्ये तानुपजीवन्ति** प्रत्यक्षफलदा हि ते \|\| <br> Mahabharata, Anushasana Parva 13.146.54 (Gīta Press) |
 | [3](#verse-3) | உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம் <br> தொழுதுண்டு பின்செல் பவர். | **सुवर्णरौप्यमाणिक्यवसनैरपि पूरिताः** \| <br> **तथापि प्रार्थयन्त्येव कृषकान् भक्ततृष्णया** \|\| <br> Krishi Parashara 4 |
 | [4](#verse-4) | பலகுடை நீழலும் தங்குடைக்கீழ்க் காண்பர் <br> அலகுடை நீழ லவர். | एकया च पुनः कृष्या प्रार्थको नैव जायते \| <br>**कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः** \|\| <br> Krishi Parashara 3 |
@@ -23,9 +23,9 @@ tags: [kuralmatch]
 
 ### Verse 1
 
-This kural finds a remarkably close parallel in verse 1.240 of the Kashyapiya Krishi Sukti (KKS), a respected ancient agricultural treatise. Both praise agriculture while presenting the other occupations of the world as dependent upon it. The wording varies at one point: உழந்தும் versus नानाविधानन्दकरम्; had the Tamil read உவத்தும் (“causing delight”), the match would be perfect, but as transmitted they differ on a term that is not central to the crux. 
+This kural finds a remarkably close parallel in verse 240 of the Kashyapiya Krishi Sukti (KKS), a respected ancient agricultural treatise. Both praise agriculture while presenting the other occupations of the world as dependent upon it. The wording varies at one point: உழந்தும் versus नानाविधानन्दकरम्; had the Tamil read உவத்தும் (“causing delight”), the match would be perfect, but as transmitted they differ on a term that is not central to the crux. 
 
-| Kural  | KKS 1.240 | Remarks  |
+| Kural  | KKS 240 | Remarks  |
 |--|--|--|                                                                                                                                                           
 | சுழன்றும் உலகம் | अन्या वृत्तिः | अन्या वृत्तिः refers to all other occupations of the world, while वृत्ति also means revolving/turning. சுழன்றும் உலகம் poetically conveys the double sense of revolving world, and, in context, the world engaged in its other occupations. |                                                         |
 | ஏர்ப் | तत् | तत् refers back to कृषिकर्म; Valluvar refers to the same thing through its defining implement, ஏர் |
@@ -237,7 +237,7 @@ In this chapter, Valluvar is providing an ethical appreciation of farming, not a
 
 | No. | Manakkkudavar No. | Verse | Match | Rating | Remarks | 
 |--|--|--|--|--|--|
-| [1](#verse-1) | 1 | சுழன்றும்ஏர்ப் | KKS 1.240 | A | Excellent verse match in farming treatise |
+| [1](#verse-1) | 1 | சுழன்றும்ஏர்ப் | KKS 240 | A | Excellent verse match in farming treatise |
 | [7](#verse-7) | 2 | தொடிப்புழுதி | KP 109-111 | C | Thematic, interpretive, not parsimonious, departs from classical commentaries  |
 | [8](#verse-8) | 3 | ஏரினும் | KKS 460-461 | A | Excellent verse match in farming treatise |
 | [9](#verse-9) | 4 | செல்லான் | KP 81 | A | Excellent verse match in farming treatise |
