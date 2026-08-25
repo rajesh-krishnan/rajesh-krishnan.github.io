@@ -141,7 +141,7 @@ Beyond the remarkable semantic and lexical parallelism at the verse level, I bel
 | Kural fragment | KKS fragment | Remarks  |
 |--|--|--| 
 | ஏரினும் | कर्षणान् | Ploughing |
-| எருவிடுதல் | अजाशकृत्कणैः ... गवां चापि शकृत्कणैः | Describes manure, its various sources, and specified a powdered form. |
+| எருவிடுதல் | अजाशकृत्कणैः ... गवां चापि शकृत्कणैः | Describes manure, its various sources. |
 | நன்றாம்  | मुदुतां गते / प्राप्तसारे | The field becomes good: soft from ploughing and fertile from manuring |
 | கட்ட  | बन्धीकृत्य तु तज्जालम् | Binding the rice-seedlings; weeding is not mentioned, but நாற்றுக்கட்டு = நாற்றுமுடிகளின் தொகுதி is a possible read. |
 | பின் | अनन्तरम्  | Thereafter.|
@@ -149,7 +149,7 @@ Beyond the remarkable semantic and lexical parallelism at the verse level, I bel
 | நன்று | यथा सस्याङ्कुराणां ... नाशस्तु न भवेत्तथा | The water regime is beneficial insofar as it prevents destruction of the seedlings. |
 | அதன் காப்பு | तद्रक्षणं कार्यम् | Lexical correspondence: காப்பு = रक्षणं, both of which can connote protection/preservation, and restraint/control.  The match for அதன் with तद् is striking. |
 
-Evidently, this kural mentions five key agricultural operations in an order that matches agricultural theory and practice, but omits  many others (sowing, harvesting, care of implements, etc.), but it may be encoding multiple deeper agricultural precepts simultaneously, both through its unqiue structure and the versatility of the words chosen.  While the commentarial tradition enjoy a history of over a 1000 years, I find that they do not do justice either to the kural or to the field of agriculture. The appetizer above shows that alternatives to the tradition of கட்ட as weeding and காப்பு as protection (of the crop) are viable, as as I explain later, well attested in agricultural treatises, match modern agricultual practices, consistent with the kural wording and structure, and in some cases match refereneces in Sangam Tamil literature. The previous table also includes the interesting fact that the manure is in powdered form.
+Evidently, this kural mentions five key agricultural operations in an order that matches agricultural theory and practice, but omits  many others (sowing, harvesting, care of implements, etc.), but it may be encoding multiple deeper agricultural precepts simultaneously, both through its unqiue structure and the versatility of the words chosen.  While the commentarial tradition enjoy a history of over a 1000 years, I find that they do not do justice either to the kural or to the field of agriculture. The appetizer above shows that alternatives to the tradition of கட்ட as weeding and காப்பு as protection (of the crop) are viable, as as I explain later, well attested in agricultural treatises, match modern agricultual practices, consistent with the kural wording and structure, and in some cases match refereneces in Sangam Tamil literature.
 
 Let us make a few observations about the vocabulary and structure of the kural before we delve deeper: (i) the tight coupling between ஏரினும் and எருவிடுதல்; (ii) the tight coupling between நீரினும் and அதன் காப்பு; (iii) the placement of கட்டபின் between these pairs, with stronger affiinity to the second pair; and (iv) the versatility of கட்ட, காப்பு, நன்றாம், and நன்றதன், which admit multiple interpretations.
 
@@ -193,7 +193,7 @@ Our main verse match KKS 460-461 takes us from कर्षणं चादौ t
 
 #### Interpreting ஏரினும் நன்றாம் எருவிடுதல்
 
-Both the KKS and emphasize thorough tilling as well as fertilizing, and there is a tight coupling between the two. At the same time, neither text specifies relative importance; rather these are introduced as indispensable operations and explained in detail, and often in juxtaposition. The traditional interpretation of நன்றாம் is that it encodes the relative importance of manuring over ploughing. KKS 434-435 allows for an alternative interpretation for நன்றாம்: ploughing makes the soil good = soft (कर्षणान्मुदुतां गते) and dung powder शकृत्कणैः makes the ground good = fetrtile (प्राप्तसारे).
+Both the KKS and emphasize thorough tilling as well as fertilizing, and there is a tight coupling between the two. At the same time, neither text specifies relative importance; rather these are introduced as indispensable operations and explained in detail, and often in juxtaposition. The traditional interpretation of நன்றாம் is that it encodes the relative importance of manuring over ploughing. KKS 434-435 allows for an alternative interpretation for நன்றாம்: ploughing makes the soil good = soft (कर्षणान्मुदुतां गते) and manure शकृत्कणैः makes the ground good = fetrtile (प्राप्तसारे).
 
 Elsewhere in verses 265-266, KKS emphasises thorough tilling over many days, removal of stones and twigs, and then application of manure for increased fertility. 
 
@@ -202,9 +202,7 @@ Elsewhere in verses 265-266, KKS emphasises thorough tilling over many days, rem
 लोष्टांश्च लगुडानन्यान् बहिर्निक्षिप्य गोमयम्। आजकं छागलं तत्र स्थापयेत् सारवृद्धये॥२६६॥
 ```
 
-The powder form of the manure is emphasized in both texts: गुण्डकरूपिणम् in KP110 and शकृत्कणैः in KKS 435.  In addition to  हले प्रवाहमाणे तु शकृन्मूत्रं भवेद्, a juxtaposition of the two operations seen in KP 151, the KP  describes manure preparation in advance of tilling.
-
-See KP 109-111 below:
+In addition to  हले प्रवाहमाणे तु शकृन्मूत्रं भवेद्, a juxtaposition of the two operations seen in KP 151, the KP  describes manure preparation in advance of tilling. See KP 109-111 below:
 
 ```text
 
@@ -213,7 +211,7 @@ See KP 109-111 below:
 ततो वपनकाले तु कुर्यात् सारविमोचनम् |  विना सारेण यद्धान्यं वर्धते फलवर्जितम् ||
 ```
 
-In summary, the tight coupling of tilling and manuring is well attested, as is the need both for through tilling and fertilizing (with dried, powdered manure). Importance ordering, or reduction of manure required due to tilling is not attested in either text, but a sense of making the soil good (soft, moist, fertile) is attested.
+In summary, the tight coupling of tilling and manuring is well attested, as is the need both for through tilling and fertilizing. Importance ordering, or reduction of manure required due to tilling is not attested in either text, but a sense of making the soil good (soft, moist, fertile) is attested.
 
 ### Verse 9
 
@@ -250,6 +248,6 @@ In this chapter, Valluvar is providing an ethical appreciation of farming, not a
 
 It is remarkable that using Manakkudavar's ordering, a contiguous sequence of verses (4-8) of this kural chapter shows excellent semantic correpondence with the Krishi Parashara (KP), an agrarian text.  The first and third verses have an excellent match in another agricultural treatise, the Kashyapiya Krishi Sukti (KKS). The last two verses have reasonable parallels in the Anushasana Parva of the Mahabharata. 
 
-Viewing the kurals through the lens of agrarian texts which have striking parallels allows an appreciation of the naunce and depth that may be encoded by the kural, including multiple valid interpretations, that are attested in agricultural theory and practice, and in some cases, also find mention in other Sangam Tamil literature. This perspective throws a light on connections to transplanting, pulverized manure, relationship between water management and crop protection, and grounding to the broader overall agricultural context. On account of the conceptual attestation by agrarian texts, the fresh perspective that this verse matching exercise offers overall, opens avenues for fruitful new research.   
+Viewing the kurals through the lens of agrarian texts which have striking parallels allows an appreciation of the naunce and depth that may be encoded by the kural, including multiple valid interpretations, that are attested in agricultural theory and practice, and in some cases, also find mention in other Sangam Tamil literature. This perspective throws a light on connections to transplanting, manure preparation, relationship between water management and crop protection, and grounding to the broader overall agricultural context. On account of the conceptual attestation by agrarian texts, the fresh perspective that this verse matching exercise offers overall, opens avenues for fruitful new research.   
 
 Evidentiary gaps remain in our proposed radical reinterpretation of one kural as describing manure preparation procedures diverging from the commentarial tradition of repeated and throrough tilling reducing manure requirements. Both the prior and succeeding kurals (in Manakkudavar order) find exceptionally strong matches within the KKS; our current match for this kural from the KP may need revisting. Work remains.
