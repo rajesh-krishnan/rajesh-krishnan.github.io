@@ -185,7 +185,7 @@ What about weding and the other threats? What about protection of water sources,
 
 The beauty of our layered interpretation is that you can stay at the top level semantic mapping, and stick to the traditional story, but our study suggests there is more here than meets the eye at that level.
 
-### Interpreting  கட்ட பின்
+#### Interpreting  கட்ட பின்
 
 In this kural, Valluvar use the word  கட்ட on its own, and does not specify களைகட் ட as he does in kural 550: கொலையிற் கொடியாரை வேந்தொறுத்தல் பைங்கூழ் **களைகட் ட**தனொடு நேர்.  The traditional interpretation says கட்ட stands for weeding. However,  கட்ட occurs in additional senses in agriculture, பாத்தி கட்ட, நாற்றுக்கட்டு, etc. Lexically நாற்றுக்கட்டு = நாற்றுமுடிகளின் தொகுதி, and works well for our semantic match to what is described in the KKS 433-434. For बीजाङ्कुरार्पणम्, the detailed process in KKS 433–434 describes the rice-seedling masses being uprooted and tied into bundles बन्धीकृत्य तु तज्जालम्, which would be நாற்றுக்கட்டு in current usage.  This second level detailed match requires further substantiation, specifically a Sangam Tamil witness for கட்ட in connection with நாற்று.
 
