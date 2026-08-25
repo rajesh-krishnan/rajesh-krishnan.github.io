@@ -117,7 +117,7 @@ The mapping the kural to the Kashyapiya Krishi Sukti (KKS) verses 460-481 in the
 | Kural fragment | KKS fragment | Remarks  |
 |--|--|--| 
 | ஏரினும் நன்றாம்  எருவிடுதல் | कर्षणं चादौ | कर्षणं चादौ encodes a sequence that starts with ploughing, described in an earlier passage that contains KKS 434 (कर्षणान्मुदुतां गते for ஏரினும் நன்றாம்) and KKS 435 (शकृत्कणैः). |
-| கட்ட | तृणकाष्ठशेषशोधनं |  கட்ட matches तृणकाष्ठशेषशोधनं, but கட்ட also has a nuanced connection to transplanting बीजाङ्कुरार्पणम् as explained later. |
+| கட்ட | तृणकाष्ठशेषशोधनं |  Weeding |
 | பின் | पुनस्तत्कर्म | After that operation.  |
 | நீரினும் | जलसंपूरणं चैव | Watering follows weeding.  |
 | நன்றதன் | शालि |  शालि has multiple interpretations: it directly implies rice (crop), but denotes other grains as explained in the context, and शाल् root form adjectivally connotes “endowed with / shines with” providing a possible resonance with நன்றதன். |
@@ -143,7 +143,7 @@ Beyond the remarkable semantic and lexical parallelism at the verse level, I bel
 | ஏரினும் | कर्षणान् | Ploughing |
 | எருவிடுதல் | अजाशकृत्कणैः ... गवां चापि शकृत्कणैः | Describes manure, its various sources, and specified a powdered form. |
 | நன்றாம்  | मुदुतां गते / प्राप्तसारे | The field becomes good: soft from ploughing and fertile from manuring |
-| கட்ட  | बन्धीकृत्य तु तज्जालम् | Binding the rice-seedlings; நாற்றுக்கட்ட is Sangam usage for binding rice seedlings. |
+| கட்ட  | बन्धीकृत्य तु तज्जालम् | Binding the rice-seedlings; weeding is not mentioned, but நாற்றுக்கட்டு = நாற்றுமுடிகளின் தொகுதி is a possible read. |
 | பின் | अनन्तरम्  | Thereafter.|
 | நீர் | स्वल्पजलं स्थापनीयम्  | A small quantity of water is to be maintained. Explained further below. |
 | நன்று | यथा सस्याङ्कुराणां ... नाशस्तु न भवेत्तथा | The water regime is beneficial insofar as it prevents destruction of the seedlings. |
@@ -175,7 +175,7 @@ The central question can be framed either way: *What needs to be protected, and 
 
 Manakkudavar uses the former framing and declares that the crops need to be protected from cows entering the field. Parimelazhagar suggests crop protection from weeds, among other things.  The mainstream view is broad and general protection of crops.  
 
-Our mapping, and the domain context grounding from the KKS (and the KP) helps us answer the question under either framing elegantly. For the first framing, the transplanted seedlings (and the crops they grow into) need to be protected from excess of water from overwatering and/or rains. This entails the நாற்றுக்கட்ட interpretation to support அதன். For the second framing, the water (அதன்)  needs to be restrained  (காப்பு), so that crops are not damaged.  கட்ட could refer to weeding or transplanting.
+Our mapping, and the domain context grounding from the KKS (and the KP) helps us answer the question under either framing elegantly. For the first framing, the transplanted seedlings (and the crops they grow into) need to be protected from excess of water from overwatering and/or rains. This entails the நாற்றுக்கட்டு  interpretation to support அதன்; unfortunately, I could not confirm Sangam Tamil usage of நாற்றுக்கட்டு, but I see நாற்றுமுடி. For the second framing, which I prefer: the water (அதன்) needs to be restrained  (காப்பு), so that crops are not damaged.  கட்ட could refer to anything in the second framing.
 
 KKS 443-439 walks us from शाल्यङ्कुराणां जालानि to बन्धीकृत्य तु तज्जालं to शकृत्कणैः to प्राप्तसारे सयत्नके to पङ्क्तिशः विन्यसेत् to **क्षेत्रे स्वल्पजलं स्थापनीयम्** (நீரினும்) to **जलाधिक्यस्रावमार्गः ... सस्याङ्कुराणां तु नाशस्तु** to  **तथा तद्रक्षणं** (அதன் காப்பு). Then **यत्राङ्कुराणां नाशस्तु वृष्ट्यादिबहुकारणैः** -- for the scope of the operations the kural holds together tightly, the precept attested by the KKS is clear: not more water, but its restraint, in order to protect the crops from water damage. This aligns well with KKS 460-461: जलसंपूरणं चैव शालिसंरक्षणं which references the above procedure, and is also a remarkably close semantic and literal match to the kural.
 
@@ -184,6 +184,12 @@ The same tight correspondence from weeding, to watering, and the restraint of wa
 What about weding and the other threats? What about protection of water sources, farm implements, and manure storage?Weeding is handled earlier in a separate step, and discussed before water management. Protection of water sources, and other things, as well as the protection of crops from a variety of threats is discussed outside the immediate frame of the five operations listed in the kural, and the tight coupling of water and “protection/restaint” is matched emphatically in both the KKS and KP. That is the likely nuance in the encoding of the kural.
 
 The beauty of our layered interpretation is that you can stay at the top level semantic mapping, and stick to the traditional story, but our study suggests there is more here than meets the eye at that level.
+
+### Interpreting  கட்ட பின்
+
+In this kural, Valluvar use the word  கட்ட on its own, and does not specify களைகட் ட as he does in kural 550: கொலையிற் கொடியாரை வேந்தொறுத்தல் பைங்கூழ் **களைகட் ட**தனொடு நேர்.  The traditional interpretation says கட்ட stands for weeding. However,  கட்ட occurs in additional senses in agriculture, பாத்தி கட்ட, நாற்றுக்கட்டு, etc. Lexically நாற்றுக்கட்டு = நாற்றுமுடிகளின் தொகுதி, and works well for our semantic match to what is described in the KKS 433-434. For बीजाङ्कुरार्पणम्, the detailed process in KKS 433–434 describes the rice-seedling masses being uprooted and tied into bundles बन्धीकृत्य तु तज्जालम्, which would be நாற்றுக்கட்டு in current usage.  This second level detailed match requires further substantiation, specifically a Sangam Tamil witness for கட்ட in connection with நாற்று.
+
+Our main verse match KKS 460-461 takes us from कर्षणं चादौ to **बीजाङ्कुरार्पणम् || तृणकाष्ठशेषशोधनं च पुनस्तत्कर्म ** to जलसंपूरणं चैव शालिसंरक्षणं. So that part is resilient under either sense of கட்ட. तृणकाष्ठशेषशोधनं + पुनस्तत्कर्म is a stronger match for கட்ட + பின் and more defensible overall.
 
 **More to follow.**
 
