@@ -15,7 +15,7 @@ tags: [kuralmatch]
 | [5](#verse-5) | இருள்சேர் இருவினையும் சேரா இறைவன் <br> பொருள்சேர் புகழ்புரிந்தார் மாட்டு. | यदा पश्यः पश्यते **रुक्मवर्णं कर्तारमीशं** पुरुषं ब्रह्मयोनिम् \| <br> तदा **विद्वान् पुण्यपापे विधूय निरञ्जनः** परमं साम्यमुपैति \|\| <br> Mundaka Upanishad 3.1.3 |
 | [6](#verse-6) | பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க <br> நெறிநின்றார் நீடுவாழ் வார். | **इन्द्रियाणां निरोधेन सत्येन च दमेन च** \| <br> ब्रह्मणः **पदमाप्नोति यत् परम्** \|\| <br> Mahabharata 3.200.52 (BORI Critical Edition)|
 | [7](#verse-7) | தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால் <br> மனக்கவலை மாற்றல் அரிது.  | न तस्य कार्यं करणं च विद्यते \| **न तत्समश्चाभ्यधिकश्च दृश्यते** \| <br> परास्य शक्तिर्विविधैव श्रूयते \| स्वाभाविकी ज्ञानबलक्रिया च \|\| <br> Shvetashvatara Upanishad 6.8 <br> एको वशी निष्क्रियाणां बहूनाम् \| एकं बीजं बहुधा यः करोति \| <br> **तमात्मस्थं येऽनुपश्यन्ति धीराः** \| **तेषां सुखं शाश्वतं नेतरेषाम्** \|\| <br> Shvetashvatara Upanishad 6.12 |
-| [8](#verse-8) | அறவாழி அந்தணன் தாள்சேர்ந்தார்க் கல்லால் <br> பிறவாழி நீந்தல் அரிது. | **मुक्तिर्वामन इत्येव तारकास्यो** विधिः परः \| <br> **संसारार्णवतप्तानां नावावेतौ** सुरेश्वरौ \|\|  <br> Vayu Purana 46.40 |
+| [8](#verse-8) | அறவாழி அந்தணன் தாள்சேர்ந்தார்க் கல்லால் <br> பிறவாழி நீந்தல் அரிது. | **मुक्तिर्वामन इत्येव तारकाख्यो विधिः परः संसारार्णवतप्तानाम्** \| <br> नावावेतौ सुरेश्वरौ तारकं ब्रह्म विश्वेषां मृतानां जीवतामिदम् \|\| <br> Vayu Purana 46.40 |
 | [9](#verse-9) | கோளில் பொறியின் குணமிலவே எண்குணத்தான் <br> தாளை வணங்காத் தலை. | असारे संसारे **निजभजनदूरे जडधिया भ्रमन्तं मामन्धं** परमकृपया पातुमुचितम् \| <br> मदन्यः को दीनस्तव कृपणरक्षातिनिपुणः त्वदन्यः को वा मे त्रिजगति शरण्यः **पशुपते** \|\| <br> Shivananda Lahari 13 |
 | [10](#verse-10) | பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார் <br> இறைவன் அடிசேரா தார்.  |  अविरतभवभावनातिदूरं भवविमुखैर्मुनिभिः सदैव दृश्यम् \| <br> **भवजलधिसुतारणाङ्घ्रिपोतं शरणमहं रघुनन्दनं** प्रपद्ये \|\| <br> Adhyatma Ramayaṇa, Araṇyakaṇḍa 3.8.48 |
 
@@ -107,28 +107,29 @@ Verse 7 of the Rudrāṣṭakam, a more recent text due to Tulasidas, provides a
 
 The kural asserts that except for those who have joined themselves to the feet of அறவாழி அந்தணன், it is difficult to cross the other ocean, namely that of samsara involving artha and kama. The distinctive expression of this kural is அறவாழி அந்தணன். Parimelazhagar’s gloss of this term is: அறவாழி என்பதனைத் தரும சக்கரமாக்கி, அதனை யுடைய அந்தணன் என்று உரைப்பாரும் உளர். In other words, it makes a strong connection from Dharma and Brahmana to attributes of the Lord. 
 
-The Vayu Purana shloka that I have selected establishes Vamana as the boat that helps one cross the ocean of samsara. The subsequent two verses in the Vayu Purana includes the words त्रिविक्रमञ्च ब्रह्माणं, धर्मात्मा, and वामपादेऽपि, but in a different context than that of the kural. For this interpretive parallel to work, a big gap needs to be closed: we need to connect Vamana-Trivikrama to the அறவாழி அந்தணன்.
+From the kural it follows directly that: 
+
+அறவாழி அந்தணன் தாள்சேர்ந்தார் பிறவாழி நீந்துவர். தாள்சேராதார்க்குப் பிறவாழி நீந்தல் அரிது.
+=> அறவாழி அந்தணன் மட்டுமே பிறவாழியில் தவிப்பவர்க்கு நீந்தலுக்கான சிறந்த வழி.
+
+The Vayu Purana shloka, with the contextual identification of Vamana as the relevant அறவாழி அந்தணன், states the corresponding proposition directly: मुक्तिर्वामन इत्येव तारकाख्यो विधिः परः संसारार्णवतप्तानाम्
+
+Note that the subsequent two verses in the Vayu Purana connects Vamana to त्रिविक्रमञ्च ब्रह्माणं and धर्मात्मा, allowing the interpretation of அறவாழி அந்தணன்.
 
 We discuss the possibility of reading the expression அறவாழி அந்தணன் through three established religious vocabularies: Vaishnava, Shaiva, and Jaina. Once the அறவாழி அந்தணன் is established as an epithet for the Lord in a given tradition, connecting to the soteriological function (namely, பிறவாழி நீந்தல்) is relatively straightforward within that tradition.
 
  - **Vaishnava:**
    
    - Rigveda 1.22.17 supports connects Trivikrama with Dharma: त्रीणि पदा विचक्रमे विष्णुर्गोपा अदाभ्यः । अतो धर्माणि धारयन् ॥
-
    - The Vishnu Sahasranama provides वामनः, त्रिविक्रमः, and ब्राह्मणः धर्मः, and धर्मविदुत्तमः as names of Vishnu. We have seen that the Bhagavata Purana 8.18.12 connects Vamana to Dharma and Brahmana.
-
    - We can consider Valluvar's own later allusion to the cosmic measurer later in kural 610 using அடியளந்தான் recalls the Vamana-Trivikrama manifestation. See below for the Jain version.
-
    - Valluvar emphasizes the conenction between Dharma and Brahmana (அறவாழி யந்தணன்) in kural 30 (அந்தணர் என்போர் அறவோர்).
 
  - **Shaiva:**
 
    - The Mahabharata Anushasanaparvan 13.146.3 (BORI Critical edition) establishes the Brahmana form of Shiva: द्वे तनू तस्य देवस्य वेदज्ञा ब्राह्मणा विदुः । घोरामन्यां शिवामन्यां ते तनू बहुधा पुनः ॥ The Shiva Purana Rudrsamhita Parvatikhanda 2.3.31.53 provides another connection to Lord Shiva as Brahmana: इत्युक्त्वा ब्राह्मणः शीघ्रं स वै भुक्त्वा मुदान्वितः । जगाम स्वालयं शान्तो नानालीलाकरः शिवः ॥ 
-
    - Shiva Purana, Rudrasamhita, Sati khanda, Adhyaya 3, verse 32 identifies Shiva as the protector and upholder of Dharma: देवदेव महादेव धर्मपाल नमोऽस्तु ते । सृष्टिस्थितिविनाशानां कर्ता शम्भो त्वमेव हि ॥ The passage is aptly called the Dharma-krita Shiva Stotra.
-
    - Shiva is called அந்தணன் by Manickavachagar in Thiruvasagam Tiruthellenam:  திருமாலும் பன்றியாய்ச் சென்று உணராத் திருவடியை, உரு நாம் அறிய, ஓர் அந்தணன் ஆய், ஆண்டுகொண்டான்; ஒரு நாமம், ஓர் உருவம், ...
-
    - The bull of Dharma, அறவிடை, is associated with Lord Shiva in Tamil Shaiva literature
 
 - **Jaina:**
