@@ -97,7 +97,7 @@ For உணக்கின் drying cow dung makes a lot more sense than drying 
 
 While புழுதி is traditionally explained as soil dust in this context, a lexical correspondence to a broader set of meanings is known பொடி → துகள், நீறு, சுண்ணம், தாது, புழுதி. Sangam Tamil literature has instances that refer to dung dust (commonly used as fertilizer), e.g.,  மன்றத்து எருவின் நுண் தாது குடைவன ஆடி - Kuṟuntokai 46, which commentators explain thus: எருவின் நுண் தாது – (1) உ. வே. சாமிநாதையர் உரை – நுண்ணிய உலர்ந்த சாணத்தின் பொடி, (2) தமிழண்ணல் உரை – நுண்ணிய சாணப்பொடி, (3) இரா. இராகவையங்கார் உரை – நுண்ணிய பூழி (புழுதி).
 
-Since hand-processing of dung manure into balls or flat cakes is common in India, பிடித்தெரு need not only mean a handful of manure. It could instead refer to hand-forming manure (பிடித்த எரு) as part of the manure preparation. Consider for example: எருமுட்டை பிட்கி னுதிர்ந்திடும் from பட்டினத்தார் திருப்பாடல் பொது 48 (51 in some editions).
+Since hand-processing of dung manure into balls or flat cakes is common in India, பிடித்தெரு need not only mean a handful of manure. It could instead refer to hand-forming manure (பிடித்த எரு) as part of the manure preparation. Consider for example: எருமுட்டை பிட்கி னுதிர்ந்திடும் from பட்டினத்தார் திருப்பாடல் பொது 48 (51 in some editions); It is interesting that he even goes on to say it dries and crumbles.
 
 The received வேண்டாமற்/வேண்டாது may conceal an earlier form. A possible emendation is வெந்தது (from வெந்து + அது), potentially meaning “that having been heated/dried”; alternatives such as வேந்தது or வெந்தமர் could match too. 
 
