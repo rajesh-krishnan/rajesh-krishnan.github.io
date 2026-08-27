@@ -223,11 +223,13 @@ Overall, this shloka is an exceptionally close semantic match for the kural.
 
 ### Verse 10
 
-The Sanskrit श्रीः, denotes Lakshmi, the Godess of wealth, and also Bhudevi, the Godess of Earth, corresponds to நிலமென்னும் நல்லாள், “the good lady named Earth”; compare the traditional prayer समुद्रवसने देवि पर्वतस्तनमण्डले । विष्णुपत्नि नमस्तुभ्यं पादस्पर्शं क्षमस्व मे ॥. Next, अकृतकर्मभिः, those who have not performed work or those who remain idle, corresponds closely to அசைய இருப்பாரை, while दुर्लभा भोक्तुम्, “difficult to obtain/enjoy,” does double duty under our interpretation: 
-  - the idle person who effectively has nothing perceives/expresses that lack (இலமென்று); and
-  - the good lady named Earth laughs/spurns him because she is difficult for him to obtain or enjoy (நிலமென்னும் நல்லாள் நகும்)
+The Sanskrit श्रीः, denotes wealth as well as Lakshmi, the Goddess of wealth, and is also strongly associated with fertility, nourishment, and the productive abundance of the land, corresponding to நிலமென்னும் நல்லாள், the good lady named Earth. The Sri Sukta's  description of Sri as गन्धद्वारां दुराधर्षां नित्यपुष्टां करीषिणीम् । ईश्वरीं सर्वभूतानां तामिहोपह्वये श्रियम् ॥ (Rigveda Khila), where Sri is described as नित्यपुष्टां करीषिणीम्, an epithet associated with ever-nnourishing agricultural fertility, and this provides a close semantic association between the Goddess Sri and the fertile abundance of the land. The Sukta's association of land and Sri is further seen in कर्दमेन प्रजा भूता मयि सम्भव कर्दम । श्रियं वासय मे कुले मातरं पद्ममालिनीम् ॥, where Sri is invoked to dwell with the family, with कर्दम, the moist, fertile earth, evoking agricultural abundance.
 
-Thus, under our interpretation, the second line of the shloka captures the crux of the kural. The kural, however, has considerably greater poetic flourish: it personifies Earth as the good lady who laughs at the idle man, whereas the shloka states the proposition straightforwardly and then proceeds to enumerate a whole host of other things that the idle person will lack.
+Next, अकृतकर्मभिः, those who have not performed work or those who remain idle, corresponds closely to அசைய இருப்பாரை, while दुर्लभा भोक्तुम्, “difficult to obtain/enjoy,” does double duty under our interpretation: 
+  - the idle person who effectively has nothing perceives/expresses that lack (இலமென்று); and
+  - the good lady named Earth laughs/spurns him because the beenfits she provides are difficult for him to obtain or enjoy (நிலமென்னும் நல்லாள் நகும்)
+
+The second line of the shloka captures the crux of the kural. The kural, however, has greater poetic flourish: it personifies Earth as the good lady who laughs at the idle man, whereas the shloka states the proposition straightforwardly and then proceeds to enumerate a whole host of other things that the idle person will lack.
 
 ### Chapter Summary
 
