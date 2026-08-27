@@ -75,21 +75,33 @@ The shloka uses the potential/optative mood (कारयेत्), while the k
 
 ### Verse 7
 
-I explore an alternative intrepretation that makes a radical departure from the commentarial tradition. I base this interpretation on parallels in the Krishi-Parashara (KP), a respected agricultural treatise. We have observed strong thematic correspondences between several kurals in this chapter and passages in KP. These parallels do not establish direct textual dependence or chronological priority, but they make it conceivable that the two works preserve elements of the same ancient agricultural knowledge tradition. It is possible that medieval Tamil commentators did not recognize these parallels with the Parashara agricultural tradition; that remains a hypothesis, but one worth exploring further.
+A tight parallel verse match for the received text of this kural remains elusive. 
+
+The standard interpretation rests on a specific agricultural proposition: sufficiently drying the soil to a quarter of its weight, or, in the modern interpretation, tilling it until its clods are reduced to a quarter of their original size, substantially reduces the quantity of manure required. I find the [widely accepted interpretations to be unsatisfactory](#rationale-for-departure-from-the-traditional-received-reading). The water content of soil depends on its type and the initial conditions at ploughing time that specifying the drying of soil to a 1/4th reduction of weight or volume seems contrived, Interestingly, fresh cow dung is 75-80% water, so drying naturally reduces it to about a fourth. Expecting clods to be uniformly of a thodi size as an initial condition seems contrived; assuming a uniform final condition (in terms of maximum clod size) is certainly reasonable. The abrupt switch from diminishing the need for manure in this kural to elevating and emphasizing it in the next kural (using their standard interpretations) is also troublesome. There is a general sense of discomfort with the purport of the verse. Hints of this discomfort show up as far back as in Manakkudavar's commentary from his seeking expert testimony for this verse in particular, but then not, the testimony paraphrases the kural's words rather than interpret or add to it. There have been numerous re-interpretations to try to make sense of it; there is a nagging sense that something is off. Apologetics have discussed all of these and more, but not to my satisfaction.
+
+A reduction in manure requirements from tilling of the soil is not attested in either the Kashyapiya Krishi Sukti or the Krishi Parashara, despite the otherwise strong congruence of those texts with the other kurals of this chapter. In agrarian texts thorough and repeated tilling is recommended, manuring is strongly emphasized, and the drying and processing of manure into small particles gets discussed just before the section on tilling and fertilizing. The books talk about soil being rendered soft, moist, and fertile by tilling and manuring, but do not discuss drying the soil as an operational step at all. They also do not discuss any particular clod sizes or prescribe particular fractions to which they must get reduced. 
+
+I speculate that this kural may be primarily dealing with manure preparation, and not primarily about thorough ploughing that reduces manure requirements.
 
 | Kural	| KP	| Remarks |
 |--|--|--|
-| தொடி + கஃசா	| तोलयेत्	| Measure/weigh to a specified quantity; Kural gives the explicit fractional measure, கஃசு = ¼ palam. கஃசா can grammatically be analyzed as  கஃசு + ஆக (“becoming/being reduced to a கஃசு”) |
-| புழுதி	| सारम्	| Possible fine/concentrated fertilizing fraction; semantic correspondence, not lexical equivalence |
 | உணக்கின்	| संशोष्य	| Dry thoroughly |
-| பிடித்தெரு |	कृत्वा गुण्डकरूपिणम्	| Possible பிடித்த எரு = formed/processed manure; KP: make it into powder |
 | சாலப் படும்	| विना सारेण यद्धान्यं वर्धते फलवर्जितम्	| Positive ↔ negative agricultural result: productive with the effective material; without सारम्, grain is fruitless |
+| எரு | गोमयकूटं / सारम् | Cow dung / fertilizer | 
+| தொடி + கஃசா	| तोलयेत्	| Measure a specified quantity; kural gives explicit fractional measure, கஃசு = ¼ தொடி (palam). கஃசா = கஃசு + ஆக (“becomes a கஃசு”). |
+| புழுதி	| गुण्डकरूपिणम् / सारम्	| Dried small particles; possible correspondence if we interpret புழுதி as எருவின் நுண்ணிய தாது |
+| பிடித்த |	कृत्वा गुण्डकरूपिणम्	| Possible semantic connection of processing: कृत्वा = made vs. பிடித்த = hand-formed |
+| வேண்டாது | | Unresolved, but an emendation is proposed |
 
-There is excellent concordance, except for one word: வேண்டாது. Also elements of the above process of manure preparation are attested across multiple sources. We propose that the received வேண்டாமற்/வேண்டாது may conceal an earlier form. A possible emendation is வெந்தது (from வெந்து + அது), potentially meaning “that having been heated/dried”; alternatives such as வேந்தது or வெந்தமர் could match too. Contingent on such emendation, the kural may describe:
-
-*Even hand-formed manure (பிடித்த எருவும்) that’s been heated/processed (வெந்து + அது) will become excellent (சாலப் படும்) when a measured quantity (தொடி) becomes fine manure powder of one fourth the original quantitiy (புழுதி கஃசா)  when dried/pulverized (உணக்கின் / உழக்கின்).*
+For உணக்கின் drying cow dung makes a lot more sense than drying soil, especially if a reduction to a fourth is specified.
 
 While புழுதி is traditionally explained as soil dust in this context, a lexical correspondence to a broader set of meanings is known பொடி → துகள், நீறு, சுண்ணம், தாது, புழுதி. Sangam Tamil literature has instances that refer to dung dust (commonly used as fertilizer), e.g.,  மன்றத்து எருவின் நுண் தாது குடைவன ஆடி - Kuṟuntokai 46, which commentators explain thus: எருவின் நுண் தாது – (1) உ. வே. சாமிநாதையர் உரை – நுண்ணிய உலர்ந்த சாணத்தின் பொடி, (2) தமிழண்ணல் உரை – நுண்ணிய சாணப்பொடி, (3) இரா. இராகவையங்கார் உரை – நுண்ணிய பூழி (புழுதி).
+
+Since hand-processing of dung manure into balls or flat cakes is common in India, பிடித்தெரு need not only mean a handful of manure. It could instead refer to hand-forming manure as part of the manure preparation. 
+
+The received வேண்டாமற்/வேண்டாது may conceal an earlier form. A possible emendation is வெந்தது (from வெந்து + அது), potentially meaning “that having been heated/dried”; alternatives such as வேந்தது or வெந்தமர் could match too. 
+
+Under this interpretation and emendation, a possible rendering of the kural as பிடித்தெருவும் வெந்தது சாலப் படும் தொடிப்புழுதி கஃசா உணக்கின் allows reading it as: **Even hand-formed dung (பிடித்த எருவும்) that’s been processed (வெந்து + அது) will become excellent (சாலப் படும்) when a measure (தொடி) becomes fine powder of one fourth measure (புழுதி கஃசா) when dried/pulverized (உணக்கின் / உழக்கின்).**
 
 *Evidentiary Gap: These proposals are speculative and require further lexicographical validation from old texts. Epigraphic evidence, an early literary witness in another Kural commentary or quotation, or a Sangam occurrence supporting such a reading would make a strong case; literary evidence showing such usage specifically in the context of manure preparation would provide a weaker but still useful case. Another verse in Tamil literature conveying the same agricultural principle as our interpretation would provide evidence of directional correctness, particularly given the considerable support for related manure-processing practices in Sanskrit agricultural literature. Challenging the status quo with a 1000+ year legacy requires better substantiation that what I have, therefore, skepticism on the part of the reader is well warranted.*
 
