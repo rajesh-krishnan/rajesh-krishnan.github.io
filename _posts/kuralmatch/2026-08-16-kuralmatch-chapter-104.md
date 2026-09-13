@@ -257,7 +257,7 @@ In this chapter, Valluvar is providing an ethical appreciation of farming, not a
 | [9](#verse-9) | 4 | செல்லான் | KP 81 | A | Excellent verse match in farming treatise |
 | [5](#verse-5) | 5 | இரவார்   | KP 3 | A | Excellent verse match in farming treatise |
 | [6](#verse-6) | 6 | உழவினார் | KP 6-7 | A | Excellent verse match in farming treatise |
-| [3](#verse-3) | 7 | உழுதுண்டு | KP 4 | A | Excellent verse match in farming treatisee | 
+| [3](#verse-3) | 7 | உழுதுண்டு | KP 4 | A | Excellent verse match in farming treatise | 
 | [4](#verse-4) | 8 | பலகுடை | KP 3 | A | Excellent verse match in farming treatise |
 | [2](#verse-2) | 9 | உழுவார் | MBh 13.146.54 | A- | Hindu Scripture, Interpretive | 
 | [10](#verse-10) | 10 | இலமென்று | MBh 13.6.15 | A- | Hindu Scripture, Interpretive |
