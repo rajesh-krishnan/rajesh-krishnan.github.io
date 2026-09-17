@@ -26,9 +26,13 @@ tags: [kuralmatch]
 
 I provide an interpretive match for the first four kurals of this chapter with the Trishanku mantra in the Taittiriya Upanishad' Shikshavalli. 
 
-First, I interpret அடக்கம் in the spiritual sense of stillness; this can be seen as the quieting from kaivalya jnanam from a Vedantic perspective, or kaivalya when all the vrittis of the citta have subsided in the yogic perspective, or as the peace that passeth understanding that comes from following the Be Still injunction in the Christian Bible. In other words, அடக்கம் connotes enlightenment or self-realization.
+First, I interpret அடக்கம் in the spiritual sense of stillness; this can be seen as the quieting from kaivalya jnanam from a Vedantic perspective, or kaivalya when all the vrittis of the citta have subsided in the yogic perspective, or as the peace that passeth understanding that comes from following the Be Still injunction in the Christian Bible. In other words, அடக்கம் connotes enlightenment or self-realization. 
 
-Before establishing the correspondence, it is useful to read the shloka with the context provided by Adi Shankaracharya in his Bhsahyam of the Taittiriya Upanishad, which I provide below for reference. The key point to note is that this mantra is due to Sage Trishanku who is the knower of Brahman (इति एवं त्रिशङ्कोः ऋषेः ब्रह्मभूतस्य ब्रह्मविदः वेदानुवचनम् for the purpose of enlightenment or self-realization (आत्मविद्याप्रकाशक).
+My deeper read is appropriate within the overall context of this chapter. Later verses align well with yoga and vedanta, with self-purification practices such as humility, sense-restraint for stilling the mind (the tortoise metaphor), and control of speech, specifically, avoiding violence in speech. In my read, Valluvar's use of the words ஒருமையுள் அடக்கல் aligns with stillness leading to kaivalyam; similarly, நிலையின் திரியாது அடங்கியான் aligns with Patanjali's योगश्चित्तवृत्तिनिरोधः.  
+
+The first four kurals have a semantic correspondence to the trishanku mantra, from kaivalyam / brahmavidya leading to amritatvam, through the ultimate object (dravinam) to be treasured, the divine knowledge (sumedha) to be acquired, to elevation in renown compared to a mountain (gireriva).  
+
+Before establishing the correspondence in detail, it is useful to read the shloka with the context provided by Adi Shankaracharya in his Bhsahyam of the Taittiriya Upanishad, which I provide below for reference. The key point to note is that this mantra is due to Sage Trishanku who is the knower of Brahman (इति एवं त्रिशङ्कोः ऋषेः ब्रह्मभूतस्य ब्रह्मविदः वेदानुवचनम् for the purpose of enlightenment or self-realization (आत्मविद्याप्रकाशक).
 
 ```text
 अहं वृक्षस्य रेरिवेति स्वाध्यायार्थो मन्त्राम्नायः ।
@@ -61,7 +65,6 @@ Valluvar then supplies the converse, அடங்காமை ஆரிருள
 
 I diverge from the commentarial tradition which takes a more literal read of அமரர் to denote the Devas (gods). For example, Manakkudavar retains the structural contrast—restraint of mind, speech, and body leads to the devas, while non-restraint leads to hell—whereas Śaṅkara interiorizes the ascent as realization of the immortal Self. 
 
-My deeper read is appropriate within the overall context of this chapter. Later verses align well with yoga and vedanta, with self-purification practices such as humility, sense-restraint for stilling the mind (the tortoise metaphor), and control of speech, specifically, avoiding violence in speech. The first four kurals have a remarkable structural correspondence to the trishanku mantra, from kaivalyam / brahmavidya leading to amritatvam, through the ultimate object (dravinam) to be treasured, the divine knowledge (sumedha) to be acquired, to elevation in renown compared to a mountain (gireriva).  
 
 ### Verse 2
 
