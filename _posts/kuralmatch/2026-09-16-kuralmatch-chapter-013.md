@@ -9,9 +9,9 @@ tags: [kuralmatch]
 |  | [013](#chapter-summary) : அறத்துப்பால் இல்லறவியல் அடக்கமுடைமை | |
 |--|--|--|
 | [1](#verse-1) | அடக்கம் அமரருள் உய்க்கும் அடங்காமை <br> ஆரிருள் உய்த்து விடும் | **अहं** वृक्षस्य रेरिवा \| कीर्तिः पृष्ठं गिरेरिव \| <br> **ऊर्ध्वपवित्रो** वाजिनीव **स्वमृतमस्मि** \| द्रविणं सवर्चसम् \| <br> सुमेधा अमृतोक्षितः \|\| इति त्रिशङ्कोर्वेदानुवचनम् \|\| <br> Taittiriya Upanishad 1.10.1 |
-| [2](#verse-2) | காக்க பொருளா அடக்கத்தை ஆக்கம் <br> அதனினூஉங் கில்லை உயிர்க்கு | अहं वृक्षस्य रेरिवा \| कीर्तिः पृष्ठं गिरेरिव \| <br> ऊर्ध्वपवित्रो वाजिनीव स्वमृतमस्मि \| द्रविणं सवर्चसम् \| <br> सुमेधा अमृतोक्षितः \|\| इति त्रिशङ्कोर्वेदानुवचनम् \|\| <br> Taittiriya Upanishad 1.10.1 |
-| [3](#verse-3) | செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்து <br> ஆற்றின் அடங்கப் பெறின் | अहं वृक्षस्य रेरिवा \| कीर्तिः पृष्ठं गिरेरिव \| <br> ऊर्ध्वपवित्रो वाजिनीव स्वमृतमस्मि \| द्रविणं सवर्चसम् \| <br> सुमेधा अमृतोक्षितः \|\| इति त्रिशङ्कोर्वेदानुवचनम् \|\| <br> Taittiriya Upanishad 1.10.1 |
-| [4](#verse-4) | நிலையின் திரியாது அடங்கியான் தோற்றம் <br> மலையினும் மாணப் பெரிது | अहं वृक्षस्य रेरिवा \| कीर्तिः पृष्ठं गिरेरिव \| <br> ऊर्ध्वपवित्रो वाजिनीव स्वमृतमस्मि \| द्रविणं सवर्चसम् \| <br> सुमेधा अमृतोक्षितः \|\| इति त्रिशङ्कोर्वेदानुवचनम् \|\| <br> Taittiriya Upanishad 1.10.1 |
+| [2](#verse-2) | காக்க பொருளா அடக்கத்தை ஆக்கம் <br> அதனினூஉங் கில்லை உயிர்க்கு | अहं वृक्षस्य रेरिवा \| कीर्तिः पृष्ठं गिरेरिव \| <br> ऊर्ध्वपवित्रो वाजिनीव स्वमृतमस्मि \| **द्रविणं सवर्चसम्** \| <br> सुमेधा अमृतोक्षितः \|\| इति त्रिशङ्कोर्वेदानुवचनम् \|\| <br> Taittiriya Upanishad 1.10.1 |
+| [3](#verse-3) | செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்து <br> ஆற்றின் அடங்கப் பெறின் | अहं वृक्षस्य रेरिवा \| कीर्तिः पृष्ठं गिरेरिव \| <br> ऊर्ध्वपवित्रो वाजिनीव स्वमृतमस्मि \| द्रविणं सवर्चसम् \| <br> **सुमेधा अमृतोक्षितः** \|\| इति त्रिशङ्कोर्वेदानुवचनम् \|\| <br> Taittiriya Upanishad 1.10.1 |
+| [4](#verse-4) | நிலையின் திரியாது அடங்கியான் தோற்றம் <br> மலையினும் மாணப் பெரிது | **अहं** वृक्षस्य रेरिवा \| **कीर्तिः पृष्ठं गिरेरिव** \| <br> ऊर्ध्वपवित्रो वाजिनीव स्वमृतमस्मि \| द्रविणं सवर्चसम् \| <br> सुमेधा अमृतोक्षितः \|\| इति त्रिशङ्कोर्वेदानुवचनम् \|\| <br> Taittiriya Upanishad 1.10.1 |
 | [5](#verse-5) | எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும் <br> செல்வர்க்கே செல்வம் தகைத்து | **ऐश्वर्यस्य विभूषणं सुजनता** शौर्यस्य वाक्संयमो <br> ज्ञानस्योपशमः **श्रुतस्य विनयो** वित्तस्य पात्रे व्ययः \| <br> अक्रोधस्तपसः क्षमा प्रभवितुर्धर्मस्य निर्व्याजता <br> **सर्वेषामपि सर्वकारणमिदं शीलं परं भूषणम्** \|\| <br> Bhartrihari Nitishataka 1.83 |
 | [6](#verse-6) | ஒருமையுள் ஆமை போல் ஐந்து அடக்கல் ஆற்றின் <br> எழுமையும் ஏமாப்பு உடைத்து |  **यदा संहरते चायं कूर्मोऽङ्गानीव सर्वश:** \| <br> **इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता** \|\| <br> Bhagavad Gita 2.58 |
 | [7](#verse-7) | யாகாவா ராயினும் நாகாக்க காவாக்கால் <br> சோகாப்பர் சொல்லிழுக்குப் பட்டு | |
@@ -61,16 +61,32 @@ Before establishing the correspondence in detail, it is useful to read the shlok
 
 The interpretive correspondence is as follows. As noted before, அடக்கம் may be understood at the highest level as kaivalya resulting from Brahmavidya. Shankara connects अहम् (aham) with ऊर्ध्वपवित्रः (ūrdhva-pavitraḥ), the Self whose higher purifier/illuminating principle is Brahman, culminating in स्वमृतमस्मि, that is I am my own immortality. This corresponds to அடக்கம் அமரருள் உய்க்கும்.
 
-Valluvar then supplies the converse, அடங்காமை ஆரிருள் உய்த்து விடும், corresponding to the persistence of avidya and samsara. We can see a similar pattern where Valluvar explicitly states the converse, whereas the Sanskrit parallels I chose leaves the converse implicitly coded.
+Valluvar then supplies the converse, அடங்காமை ஆரிருள் உய்த்து விடும், corresponding to the persistence of avidya and samsara. There are several other instances where Valluvar explicitly states the converse, while the Sanskrit parallels encode the converse implicitly.
 
-I diverge from the commentarial tradition which takes a more literal read of அமரர் to denote the Devas (gods). For example, Manakkudavar retains the structural contrast—restraint of mind, speech, and body leads to the devas, while non-restraint leads to hell—whereas Śaṅkara interiorizes the ascent as realization of the immortal Self. 
-
+Manakkudavar's commentary is that the restraint of mind, speech, and body leads to the devas, while non-restraint leads to hell; in contrast, my read is that this kural refers to the realization of the immortal Self. 
 
 ### Verse 2
 
+The Trishanku mantra of the Taittiriya Upanishad under the commentary of Adi Shankaracharya provides a parallel again. பொருள் corresponds directly to द्रविणम्, and Shankara explicitly identifies सवर्चसम् with Brahmajnana because it illumines the आत्मतत्त्व, and द्रविणम् with that knowledge because it is the cause of मोक्षसुख. The ஆக்கம் அதனினூஉங் கில்லை உயிர்க்கு is the मोक्षसुखहेतु. Thus the movement அடக்கம் → பொருள் → ஆக்கம் can be matched to ब्रह्मज्ञानं → द्रविणम् → मोक्षसुखहेतु. Manakkudavar likewise makes அடக்கம் one’s பொருள் and says nothing is greater as ஆக்கம் for the soul.
+
+The Atharvaveda verse 11.5.10 अर्वागन्यः परोऽन्यो दिवस्पृष्ठाद् गुहा निधी निहितौ ब्राह्मणस्य \| तौ रक्षति तपसा ब्रह्मचारी तत्केवलं कृणुते ब्रह्म विद्वान् \|\| further corroborates the idea with  निधी ब्राह्मणस्य corresponding to பொருளா அடக்கத்தை and रक्षति तपसा to காக்க.
 
 ### Verse 3
 
+Continuing the Trishanku mantra parallel to the kural, under the commentary of Adi Shankaracharya, அறிவறிந்துஆற்றின் அடங்கப் பெறின் corresponds to सुमेधा.  Shankara explains this as excellent medha, associated with the knowledge and realization that culminate in Brahmavidya and kaivalya. The next movement, செறிவறிந்து சீர்மை பயக்கும், is conceptually reflected in अमृतोक्षितः as Shankara explains अमृत as the pure, imperishable Atma-tattva. Thus the sequence அறிவு → அடக்கம் → செறிவு/நிறைவு → சீர்மை, parallels सुमेधा → ब्रह्मविद्या → अमृतोक्षितः → अमृतत्व. The சீர்மை is the culmination to the Self’s immortal, perfected state.
+
+The connection from विज्ञानम् through इन्द्रिय वश्यम् and मनः प्रग्रहवान् to परमं पदम् in the Kathopanishad verses 1.3.6-9 corroborates the crux of the kural that also goes from knowledge through restraint of the senses and mind to self-realization, ultimately leading to salvation:
+
+```text
+यस्तु विज्ञानवान्भवति युक्तेन मनसा सदा ।
+तस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः ॥ ६॥
+यस्त्वविज्ञानवान्भवत्यमनस्कः सदाऽशुचिः ।
+न स तत्पदमाप्नोति संसारं चाधिगच्छति ॥ ७॥
+यस्तु विज्ञानवान्भवति समनस्कः सदा शुचिः ।
+स तु तत्पदमाप्नोति यस्माद्भूयो न जायते ॥ ८॥
+विज्ञानसारथिर्यस्तु मनः प्रग्रहवान्नरः ।
+सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् ॥ ९॥
+```
 
 ### Verse 4
 
