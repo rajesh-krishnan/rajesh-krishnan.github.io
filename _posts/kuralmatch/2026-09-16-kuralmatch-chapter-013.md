@@ -160,6 +160,8 @@ The surrounding context of Harivamsa 3.80.71-81 is Ghantakarana's prayer, concer
 
 The consequence expressed in the latter half of the Kural is not present in the parallel, however, it is corroborated by Vidura Niti in the Mahabharata Udyoga Parva (BORI Critical Edition) 5.34.71: “आक्रोशपरिवादाभ्यां विहिंसन्त्यबुधा बुधान् \| वक्ता पापमुपादत्ते क्षममाणो विमुच्यते \|\|.  Those who revile and slander cause harm, while वक्ता पापमुपादत्ते, the speaker incurs sin, whereas the one who endures without retaliating is released from it. This gives a close counterpart to சோகாப்பர் சொல்லிழுக்குப் பட்டு: verbal misconduct brings a consequence upon the speaker.
 
+Vidura Niti also expresses that restraint of speech is the hardest in Mahabharata Udyoga Parva verse 5.34.73:  वाक्संयमो हि नृपते सुदुष्करतमो मतः \| अर्थवच्च विचित्रं च न शक्यं बहु भाषितुम् \|\|. Under this perspective, Valluvar's யாகாவா ராயினும் நாகாக்க can be seen as if one has restraint over speech, the hardest to govern, one could easily govern the rest that need governing. This particular verse in Vidura Niti, though not a direct parallel, is important since it sets up a sequence that parallels the sequence of the last four kurals of this chapter.
+
 ### Verse 8
 
 
