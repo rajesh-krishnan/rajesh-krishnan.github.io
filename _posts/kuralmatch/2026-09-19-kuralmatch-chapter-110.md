@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Thirukkural Chapter 110: Congruent Shlokas"
+author: "Rajesh Krishnan"
+categories: [Sanskrit Verses Similar to Thirukkural]
+tags: [kuralmatch]
+---
+
+|  | [110](#chapter-summary) : காமத்துப்பால் : களவியல் : குறிப்பறிதல் |  |
+|--|--|--|
+| [1](#verse-1) | இருநோக் கிவளுண்க ணுள்ள தொருநோக்கு <br> நோய்நோக்கொன் றந்நோய் மருந்து | व्यादीर्घेण चलेन वक्रगतिना तेजस्विना भोगिना <br> नीलाब्जद्युतिनाऽहिना वरमहं दष्टो, न तच्चक्षुषा \| <br> दष्टे सन्ति चिकित्सका दिशि-दिशि प्रायेण धर्मार्थिनो <br> **मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम्**  \|\| <br> Bhartrihari Shringarashataka 6 |
+| [2](#verse-2) | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் <br> செம்பாக மன்று பெரிது | |
+| [3](#verse-3) | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  <br> யாப்பினு ளட்டிய நீர் | |
+| [4](#verse-4) | யானோக்குங் காலை நிலனோக்கு நோக்காக்காற் <br> றானோக்கி மெல்ல நகும் | |
+| [5](#verse-5) | குறிக்கொண்டு நோக்காமை யல்லா லொருகண் <br> சிறக்கணித்தாள் போல நகும் | |
+| [6](#verse-6) | உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொ <br> லொல்லை யுணரப் படும் | |
+| [7](#verse-7) | செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு <br> முறாஅர்போன் றுற்றார் குறிப்பு | |
+| [8](#verse-8) | அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப் <br> பசையினள் பைய நகும் | |
+| [9](#verse-9) | ஏதிலார் போலப் பொதுநோக்கு நோக்குதல் <br> காதலார் கண்ணே யுள | |
+| [10](#verse-10) | கண்ணொடு கண்ணிணை நோக்கொக்கின் வாய்ச்சொற்க <br> ளென்ன பயனு மில | |
+
+
+## Comments and Research Notes
+
+### Verse 1
+
+The correspondence between the kural and Bhartrihari's Shringarashataka 6 is especially close in its construction of the woman's நோக்கு as the cause of an explicitly medicalized affliction. Bhartṛhari's concluding pāda, “मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम्”, One who has been subjected to the ईक्षण of the charming-eyed woman has neither वैद्य nor औषध. This finds a particularly compact counterpart in Valluvar's “ஒருநோக்கு நோய்நோக்கு”, where one நோக்கு is explicitly identified as the நோக்கு that produces நோய். While Bhartṛhari leaves the afflicted lover without either वैद्य or औषध; Valluvar supplies, in the immediately corresponding second half, the otherwise absent resolution: “அந்நோய் மருந்து.” The second நோக்கு of the same beloved becomes the மருந்து for the நோய் produced by the first. On the other hand, Bhartṛhari's poetic ingenuity lies in the elaborate feint of the first three pādas: he accumulates every conventional attribute of a serpent—व्यादीर्घ, चल, वक्रगत, तेजस्विन्, भोगिन्, अहि—only to overturn the entire image with “न तच्चक्षुषा,” revealing that the true दंश was inflicted not by the serpent but by the woman's चक्षुस्, and thereby allowing the medical vocabulary of दष्ट, चिकित्सक, वैद्य, औषध to carry the romatic  metaphor to its full force.
+
+A closely related सुभाषित makes explicit another possible resolution of the same pathology: “इन्दीवराक्षि तव तीव्रकटाक्षबाणपातव्रणे द्वितयमौषधमेव मन्ये । एकं तवाधरसुधारसपानमन्यदुत्तुङ्गपीनकुचकुङ्कुमपङ्कलेपः ॥” Here the तीव्रकटाक्षबाण produces a व्रण, for which the poet identifies two erotic remedies: अधर-सुधारसपान and कुचकुङ्कुमपङ्कलेप. In the context of a work whose காமத்துப்பால் is nevertheless framed within the larger ethical architecture of the Tirukkural, Valluvar's formulation is notably more restrained: rather than resolving the நோய் through physical remedies, he makes the remedy another நோக்கு, allowing the entire movement from affliction to relief to remain within the refined economy of the lovers' gaze. 
+
+### Verse 2
+
+
+### Verse 3
+
+
+### Verse 4
+
+
+### Verse 5
+
+
+### Verse 6
+
+
+### Verse 7
+
+
+### Verse 8
+
+
+### Verse 9
+
+
+### Verse 10
+
+
+### Chapter Summary
+
