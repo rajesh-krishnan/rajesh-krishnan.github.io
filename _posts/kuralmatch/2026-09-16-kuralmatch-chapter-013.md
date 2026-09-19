@@ -16,7 +16,7 @@ tags: [kuralmatch]
 | [6](#verse-6) | ஒருமையுள் ஆமை போல் ஐந்து அடக்கல் ஆற்றின் <br> எழுமையும் ஏமாப்பு உடைத்து |  **यदा संहरते चायं कूर्मोऽङ्गानीव सर्वश:** \| <br> **इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता** \|\| <br> Bhagavad Gita 2.58 |
 | [7](#verse-7) | யாகாவா ராயினும் நாகாக்க காவாக்கால் <br> சோகாப்பர் சொல்லிழுக்குப் பட்டு | **परीवादाज्** जगन्नाथ **वाचं रक्ष** दुरुद्वहाम् \| <br> परद्रव्यान् मनो रक्ष परदाराज् जनार्दन \| <br> सर्वत्र मे दया भूयात् प्रसादात् तव केशव \|\| <br> Harivamsha 3.80.79 |
 | [8](#verse-8) | ஒன்றானுந் தீச்சொல் பொருட்பயன் உண்டாயின் <br> நன்றாகா தாகி விடும் | |
-| [9](#verse-9) | தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே <br> நாவினாற் சுட்ட வடு | |
+| [9](#verse-9) | தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே <br> நாவினாற் சுட்ட வடு | रोहते सायकैर्विद्धं वनं परशुना हतम् \| <br> वाचा दुरुक्तं बीभत्सं न संरोहति वाक्क्षतम् \|\| <br> Mahabharata 5.34.75 (BORI) |
 | [10](#verse-10) | கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி <br> அறம்பார்க்கும் ஆற்றின் நுழைந்து | |
 
 
@@ -113,9 +113,9 @@ Bhartrihari's Nitishatakam verse 1.83 provides a close semantic parallel to the 
 
 Note that Valluvar uses the word பணிதல் to denote humility; here, he does not use அடக்கம், which connotes a deeper spiritual sense of stillness. Vaullavar makes a broad prescription of humility (பணிதல்) for all, with special emphasis of the same for the wealthy. The shloka is more fine-grained, prescribing character/culture, which is the cause of several virtues including humility, for all. It reserves the word विनयम् for the particular kind of deep humility that comes from scriptural study, and prescribes good-naturedness (सुजनता), which includes virtues such as humility and generosity for the wealthy. Despite this minor difference, the shloka is an excellent semantic match for the kural.
 
-Vidura lists seven virtues that bring wealth in Mahabharata Udyoga Parva verse 5.38.35 (BORI Cirtical Edition): धृतिः शमो दमः शौचं कारुण्यं वागनिष्ठुरा \| मित्राणां चानभिद्रोहः सप्तैताः समिधः श्रियः \|\|. Humility, though not explicitly listed is entailed by शमोदमः and वागनिष्ठुरा. 
-
 The Hitopadesha verse 0.6 establishes the causal relationship from humility (resulting from education) to wealth and beyond: विद्या ददाति विनयं **विनयाद् याति पात्रताम्** \| **पात्रत्वात् धनमाप्नोति** धनाद् धर्मं ततः सुखम् \|\|. The Kamandakiya Nitisara verse 1.26 supplies the complementary royal formulation of wealth of a king resulting from humility: सदानुरक्तप्रकृतिः प्रजापालनतत्परः \| **विनीतात्मा हि नृपतिर्भूयसीं श्रियमश्नुते** \|\|
+
+Vidura lists seven virtues that bring wealth in Mahabharata Udyoga Parva verse 5.38.35 (BORI Cirtical Edition): धृतिः शमो दमः शौचं कारुण्यं वागनिष्ठुरा \| मित्राणां चानभिद्रोहः सप्तैताः समिधः श्रियः \|\|. Humility, though not explicitly listed is entailed by शमोदमः and वागनिष्ठुरा. 
 
 ### Verse 6
 
@@ -158,24 +158,49 @@ The surrounding context of Harivamsa 3.80.71-81 is Ghantakarana's prayer, concer
 सुखे दुःखे च रागे च भोजने गमने तथा । जाग्रत्स्वप्नेषु सर्वत्र त्वय्येव रमतां मनः ॥३-८०-८१
 ```
 
-The consequence expressed in the latter half of the Kural is not present in the parallel, however, it is corroborated by Vidura Niti in the Mahabharata Udyoga Parva (BORI Critical Edition) 5.34.71: “आक्रोशपरिवादाभ्यां विहिंसन्त्यबुधा बुधान् \| वक्ता पापमुपादत्ते क्षममाणो विमुच्यते \|\|.  Those who revile and slander cause harm, while वक्ता पापमुपादत्ते, the speaker incurs sin, whereas the one who endures without retaliating is released from it. This gives a close counterpart to சோகாப்பர் சொல்லிழுக்குப் பட்டு: verbal misconduct brings a consequence upon the speaker.
+A thematic correspondence can be seen for the last four kurals in this chapter can be seen in a sequence in the Vidura Niti from the Mahabharata Udyoga Parva verses 5.34.71-77:
 
-Vidura Niti also expresses that restraint of speech is the hardest in Mahabharata Udyoga Parva verse 5.34.73:  वाक्संयमो हि नृपते सुदुष्करतमो मतः \| अर्थवच्च विचित्रं च न शक्यं बहु भाषितुम् \|\|. Under this perspective, Valluvar's யாகாவா ராயினும் நாகாக்க can be seen as if one has restraint over speech, the hardest to govern, one could easily govern the rest that need governing. This particular verse in Vidura Niti, though not a direct parallel, is important since it sets up a sequence that parallels the sequence of the last four kurals of this chapter.
+```text
+आक्रोशपरिवादाभ्यां विहिंसन्त्यबुधा बुधान् । वक्ता पापमुपादत्ते क्षममाणो विमुच्यते ॥ 71
+हिंसा बलमसाधूनां राज्ञां दण्डविधिर्बलम् । शुश्रूषा तु बलं स्त्रीणां क्षमा गुणवतां बलम् ॥ 72
+वाक्संयमो हि नृपते सुदुष्करतमो मतः । अर्थवच्च विचित्रं च न शक्यं बहु भाषितुम् ॥ 73
+अभ्यावहति कल्याणं विविधा वाक्सुभाषिता । सैव दुर्भाषिता राजन्ननर्थायोपपद्यते ॥ 74
+रोहते सायकैर्विद्धं वनं परशुना हतम् । वाचा दुरुक्तं बीभत्सं न संरोहति वाक्क्षतम् ॥ 75
+कर्णिनालीकनाराचान्निर्हरन्ति शरीरतः । वाक्शल्यस्तु न निर्हर्तुं शक्यो हृदि शयो हि सः ॥ 76
+वाक्सायका वदनान्निष्पतन्ति यैराहतः शोचति रात्र्यहानि । परस्य नामर्मसु ते पतन्ति तान्पण्डितो नावसृजेत्परेषु ॥ 77
+```
+
+The consequence expressed in the latter half of the Kural is not present in the Harivamsha parallel, however, it is corroborated by Vidura Niti in 5.34.71 above: आक्रोशपरिवादाभ्यां ... वक्ता पापमुपादत्ते.  Those who revile and slander cause harm, and the speaker incurs sin: वक्ता पापमुपादत्ते. This gives a close counterpart to சோகாப்பர் சொல்லிழுக்குப் பட்டு: verbal misconduct brings a consequence upon the speaker. Vidura Niti also expresses that restraint of speech is the hardest in 5.34.73 above:  वाक्संयमो हि ... सुदुष्करतमो. Under this perspective, Valluvar's யாகாவா ராயினும் நாகாக்க can be seen as if one has restraint over speech, the hardest to govern, one could easily govern the rest that need governing.
 
 ### Verse 8
 
 
 ### Verse 9
 
+The Vidura niti shloka shows a remarkably close correspondence with the Kural, especially in its treatment of verbal injury; ஆறாதே நாவினாற் சுட்ட வடு corresponds closely to वाचा दुरुक्तं बीभत्सं न संरोहति वाक्क्षतम्. Conversely, தீயினாற் சுட்டபுண் is paralleled by the physical injuries described through सायकैर्विद्धं and परशुना हतम्, with உள்ளாறும் corresponding to रोहते, the wound healing or closing. The fundamental contrast is therefore the same: a physical wound may heal, whereas a wound caused by வாக்கு remains. The minor difference lies in the poetic metaphors: the Kural uses injury by fire, whereas the Vidiura niti uses injruy by axe and arrows. The following verse reinforces the same message even more explicitly through bodily injury: कर्णिनालीकनाराचान्निर्हरन्ति शरीरतः observes that arrows and other weapons can be removed from the शरीर, whereas वाक्शल्यस्तु न निर्हर्तुं शक्यो हृदि शयो हि सः declares that the verbal शल्य cannot be extracted because it remains lodged in the हृदय.  Valluvar is more economical in his poetic flourish, reducing the entire contrast to the vivid images of being singed by தீ and wounded by the நாவு.
 
 ### Verse 10
 
-
 ### Chapter Summary
 
-A parsimonious coverage of the teachings of this entire chapter can be done with the Trishanku mantra in the Taittiriya Upanishad of the Krishna Yajurveda covering the first four kurals and selected verses from the Vidura Niti in the Udyoga Parva of the Mahabharata. Particular metaphors that the kurals use are corroborated elsewhere, but the more important point is that the teachings of this kural chapter are recurrent themes in Vedanta and Niti Shastra literature. 
+A parsimonious coverage of the teachings of this entire chapter can be done with the Trishanku mantra in the Taittiriya Upanishad of the Krishna Yajurveda covering the first four kurals and selected verses from the Vidura Niti in the Udyoga Parva of the Mahabharata. This uses the mainstream ordering of verses; the Manakkudavar ordering of the verses is less helpful here. Particular metaphors that the kurals use are corroborated elsewhere, but the more important point is that the teachings of this kural chapter are recurrent themes in Vedanta and Niti Shastra literature.  
 
-The Manakkudavar ordering of the verses is less helpful here.
+Correspondences with Jain literature, Yoga, and Christian BIble are not surprising given the universality of the moral teachings contained here. The economy of the Trishanku mantra and Vidura niti in supplying the thematic correspondence is evident from the tables below.
 
-Correspondences with Jain literature, Yoga, and Christian BIble are not surprising given the universality of the moral teachings contained here, however, the parsimony of the Trishanku mantra and Vidura niti is worth noting.
+| No. | Kural fragemnt | Trishanku mantra fragment |
+|--|--|--|
+| [1](#verse-1) | அடக்கம் அமரருள் உய்க்கும் | अहं ... ऊर्ध्वपवित्रो ... स्वमृतमस्मि |
+| [2](#verse-2) | காக்க பொருளா அடக்கத்தை ஆக்கம் | द्रविणं सवर्चसम् |
+| [3](#verse-3) | சீர்மை பயக்கும் அறிவறிந்து அடங்கப் பெறின் | सुमेधा अमृतोक्षितः |
+| [4](#verse-4) | அடங்கியான் தோற்றம் மலையினும் மாணப் பெரிது | कीर्तिः पृष्ठं गिरेरिव |
 
+| No. | Kural fragment | Vidura niti fragment |
+|--|--|--|
+| [5](#verse-5) | பணிதல் செல்வர்க்கே செல்வம் தகைத்து | शमो दमः ... समिधः श्रियः |
+| [6](#verse-6) | ஒருமையுள் ஐந்து அடக்கல் | पञ्चेन्द्रियस्य ... छिद्रं चेदेकमिन्द्रियम् ... स्रवति प्रज्ञा |
+| [7](#verse-7) | யாகாவாராயினும் நாகாக்க ... சொல்லிழுக்கு | वाक्संयमो हि ... सुदुष्करतमो; आक्रोशपरिवादाभ्यां ... वक्ता पापमुपादत्ते |
+| [8](#verse-8) | ஒன்றானுந் தீச்சொல் பொருட்பயன் ... நன்றாகா தாகி விடும் | सैव दुर्भाषिता ... अनर्थायोपपद्यते |
+| [9](#verse-9) | ஆறாதே நாவினாற் சுட்ட வடு | न संरोहति वाक्क्षतम् |
+| [10](#verse-10) | கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் | क्रोधो ... नापकर्षन्ति ... स वै पण्डितः|
+
+My choice of primary and secondary parallels from other sources capture the crux of each kural more comprehensively. 
