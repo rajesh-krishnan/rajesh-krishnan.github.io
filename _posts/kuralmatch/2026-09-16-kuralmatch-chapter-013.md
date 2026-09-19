@@ -14,7 +14,7 @@ tags: [kuralmatch]
 | [4](#verse-4) | நிலையின் திரியாது அடங்கியான் தோற்றம் <br> மலையினும் மாணப் பெரிது | **अहं** वृक्षस्य रेरिवा \| **कीर्तिः पृष्ठं गिरेरिव** \| <br> ऊर्ध्वपवित्रो वाजिनीव स्वमृतमस्मि \| द्रविणं सवर्चसम् \| <br> सुमेधा अमृतोक्षितः \|\| इति त्रिशङ्कोर्वेदानुवचनम् \|\| <br> Taittiriya Upanishad 1.10.1 |
 | [5](#verse-5) | எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும் <br> செல்வர்க்கே செல்வம் தகைத்து | **ऐश्वर्यस्य विभूषणं सुजनता** शौर्यस्य वाक्संयमो <br> ज्ञानस्योपशमः **श्रुतस्य विनयो** वित्तस्य पात्रे व्ययः \| <br> अक्रोधस्तपसः क्षमा प्रभवितुर्धर्मस्य निर्व्याजता <br> **सर्वेषामपि सर्वकारणमिदं शीलं परं भूषणम्** \|\| <br> Bhartrihari Nitishataka 1.83 |
 | [6](#verse-6) | ஒருமையுள் ஆமை போல் ஐந்து அடக்கல் ஆற்றின் <br> எழுமையும் ஏமாப்பு உடைத்து |  **यदा संहरते चायं कूर्मोऽङ्गानीव सर्वश:** \| <br> **इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता** \|\| <br> Bhagavad Gita 2.58 |
-| [7](#verse-7) | யாகாவா ராயினும் நாகாக்க காவாக்கால் <br> சோகாப்பர் சொல்லிழுக்குப் பட்டு | |
+| [7](#verse-7) | யாகாவா ராயினும் நாகாக்க காவாக்கால் <br> சோகாப்பர் சொல்லிழுக்குப் பட்டு | **परीवादाज्** जगन्नाथ **वाचं रक्ष** दुरुद्वहाम् \| <br> परद्रव्यान् मनो रक्ष परदाराज् जनार्दन \| <br> सर्वत्र मे दया भूयात् प्रसादात् तव केशव \|\| <br> Harivamsha 3.80.79 |
 | [8](#verse-8) | ஒன்றானுந் தீச்சொல் பொருட்பயன் உண்டாயின் <br> நன்றாகா தாகி விடும் | |
 | [9](#verse-9) | தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே <br> நாவினாற் சுட்ட வடு | |
 | [10](#verse-10) | கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி <br> அறம்பார்க்கும் ஆற்றின் நுழைந்து | |
@@ -24,13 +24,9 @@ tags: [kuralmatch]
 
 ### Verse 1
 
-I provide an interpretive match for the first four kurals of this chapter with the Trishanku mantra in the Taittiriya Upanishad' Shikshavalli. 
+I interpret அடக்கம் in the spiritual sense of stillness; this can be seen as the quieting from kaivalya jnanam from a Vedantic perspective, or kaivalya when all the vrittis of the citta have subsided in the yogic perspective, or as the peace that passeth understanding that comes from following the Be Still injunction in the Christian Bible. In other words, அடக்கம் connotes enlightenment or self-realization. My deeper read is appropriate within the overall context of this chapter. Later verses align well with yoga and vedanta, with self-purification practices such as humility, sense-restraint for stilling the mind (the tortoise metaphor), and control of speech, specifically, avoiding violence in speech. In my read, Valluvar's use of the words ஒருமையுள் அடக்கல் aligns with stillness leading to kaivalyam; similarly, நிலையின் திரியாது அடங்கியான் aligns with Patanjali's योगश्चित्तवृत्तिनिरोधः.  
 
-First, I interpret அடக்கம் in the spiritual sense of stillness; this can be seen as the quieting from kaivalya jnanam from a Vedantic perspective, or kaivalya when all the vrittis of the citta have subsided in the yogic perspective, or as the peace that passeth understanding that comes from following the Be Still injunction in the Christian Bible. In other words, அடக்கம் connotes enlightenment or self-realization. 
-
-My deeper read is appropriate within the overall context of this chapter. Later verses align well with yoga and vedanta, with self-purification practices such as humility, sense-restraint for stilling the mind (the tortoise metaphor), and control of speech, specifically, avoiding violence in speech. In my read, Valluvar's use of the words ஒருமையுள் அடக்கல் aligns with stillness leading to kaivalyam; similarly, நிலையின் திரியாது அடங்கியான் aligns with Patanjali's योगश्चित्तवृत्तिनिरोधः.  
-
-The first four kurals have a semantic correspondence to the trishanku mantra, from kaivalyam / brahmavidya leading to amritatvam, through the ultimate object (dravinam) to be treasured, the divine knowledge (sumedha) to be acquired, to elevation in renown compared to a mountain (gireriva).  
+I provide an interpretive match for the first four kurals of this chapter with the Trishanku mantra in the Taittiriya Upanishad' Shikshavalli. The movement from kaivalyam / brahmavidya leading to amritatvam, through the ultimate object (dravinam) to be treasured, the divine knowledge (sumedha) to be acquired, to elevation in renown compared to a mountain (gireriva) closely mirrors the semantic movement in the first four kurals.  
 
 Before establishing the correspondence in detail, it is useful to read the shloka with the context provided by Adi Shankaracharya in his Bhsahyam of the Taittiriya Upanishad, which I provide below for reference. The key point to note is that this mantra is due to Sage Trishanku who is the knower of Brahman (इति एवं त्रिशङ्कोः ऋषेः ब्रह्मभूतस्य ब्रह्मविदः वेदानुवचनम् for the purpose of enlightenment or self-realization (आत्मविद्याप्रकाशक).
 
@@ -90,6 +86,26 @@ The connection from विज्ञानम् through इन्द्रिय
 
 ### Verse 4
 
+This is the kural that completes the correspondence with the Trishanku mantra. நிலையின்திரியாது அடங்கியான் can be connected to अहम् through Shankara’s identification of Trishanku as ब्रह्मभूतस्य ब्रह्मविदः, and more specifically through सुमेधा: संसारस्थित्युत्पत्तिसंहारकौशलयोगात्सुमेधस्त्वम्, which supplies the missing sense of remaining established without being displaced by the movements of samsara. The culmination is self-realization. தோற்றம் மலையினும் மாணப் பெரிது then has an unusually close image-parallel in कीर्तिः पृष्ठं गिरेरिव उच्छ्रिता मम, where Shankara explains kirti as exalted/rising like the back or crest of a mountain. 
+
+From the following derivation, the crux of the kural falls out directly. The क्षेमस्थितिमान् in the derivation is my own derivational bridge-word from the √क्षि field (क्षय / क्षेम split)' Shankara's gloss only includes अक्षितः, अक्षीणः, and अव्ययः.  The semantic backbone holds, and the residual gap is just poetic amplitude. The kural’s appearance greater than the mountain and the Upanishad’s renown as high as the mountain peak differ in degree, not in kind.
+
+```text
+कीर्तिः गिरेः पृष्ठमिव उच्छ्रिता मम।
+सोऽहम् अक्षितः।
+अक्षितः, अक्षयत्वात् एव क्षेमस्थितिमानित्यर्थः।
+यः क्षेमस्थितिमान् अक्षितः, तस्य कीर्तिः गिरेः पृष्ठमिवोच्छ्रिता।
+```
+
+The Yoga Vasishtha verse 7.45.44 offers an additional parallel for அடங்கி நிலை நிலையின்திரியாது: once craving has fallen away, meditation on the infinite proceeds spontaneously, expressed as अनन्तमपतृष्णस्य स्वयमेव प्रवर्तते \| ध्यानं गलितपक्षस्य संस्थानमिव भूभृतः \|\|. The mountain metaphor भूभृत् is related to अनन्तध्यानम्. (The Anandabodhendra Tika understands this as तदनुभवलक्षणम् अनन्तध्यानम् स्वयमेव प्रवर्तते न यत्नम् अपेक्षते.) 
+
+Another Yoga Vasishtha verse 3.89.49 connects the mountain metaphor to the immovability of the realized mind: न चाल्यते मेरुरिव वरशापबलैरपि देहो हि वरशापाभ्यामन्यत्वमिव गच्छति ननु धीरं मनो राजन्विजिगीषुतया स्थितम् \|\|
+
+I diverge from Manakkudavar's interpretation of நிலை: he explicitly glosses it as வர்ணாசிரம தன்மை (Varnashrama Dharma). The Valmiki Ramayana 2.112.30 provides a parallel to நிலையின் திரியாது அடங்கியான் through the conjunction of steadfastness in one’s own dharma and mountain immovability: व्यसर्जयद्राघववंशवर्धनः \| स्थिरः स्वधर्मे हिमवानिवाचलः \|\|.  By describing Rama as the increaser of the Raghava lineage, steadfast in his own dharma, like the immovable Himavat. The phrase स्थिरः स्वधर्मे closely corresponds to Manakkudavar’s interpretation of நிலை as வர்ணாசிரம தன்மை, while हिमवानिवाचलः supplies the mountain image. 
+
+Another divergent parallel can be seen in the Jain literarure, where the mountain metaphor is connected instead to the Mahima siddhi (the power of becoming large). The Tattvarthadhigama-sutra provides a close literal parallel to மலையினும் மாணப் பெரிது, while its characterization of the advanced practitioner as विरक्तोऽनिस्तृष्णः ("detached, free from thirst/desire") also resonates with the Kural’s அடங்கியான். In its definition of the mahima siddhi, the text states महत्त्वं महिमा मेरोरपि महत्तरं शरीरं विकुर्वीत, or the body is transformed so as to become greater even than Meru. At the same time, the other siddhis are not discussed in the surrounding context of the kural. From the yogic perspective, detachment from these siddhis and destruction of the seeds is kaivalyam, as per Patanjali's Yogasutra 3.51 तद्वैराग्यादपि दोषबीजक्षये कैवल्यम्, which among other things references the eight siddhis (including Mahima) in 3.46: ततोऽणिमादिप्रादुर्भावः.  In other words, the siddis are seen as a distraction ultimately.
+
+My read of this chapter through the Yoga Vedanta lens, however, favors intrepretation as stabilization of the Self, culminating in exceptional elevation, expressed by the shared mountain metaphor.
 
 ### Verse 5
 
@@ -97,11 +113,13 @@ Bhartrihari's Nitishatakam verse 1.83 provides a close semantic parallel to the 
 
 Note that Valluvar uses the word பணிதல் to denote humility; here, he does not use அடக்கம், which connotes a deeper spiritual sense of stillness. Vaullavar makes a broad prescription of humility (பணிதல்) for all, with special emphasis of the same for the wealthy. The shloka is more fine-grained, prescribing character/culture, which is the cause of several virtues including humility, for all. It reserves the word विनयम् for the particular kind of deep humility that comes from scriptural study, and prescribes good-naturedness (सुजनता), which includes virtues such as humility and generosity for the wealthy. Despite this minor difference, the shloka is an excellent semantic match for the kural.
 
+Vidura lists seven virtues that bring wealth in Mahabharata Udyoga Parva verse 5.38.35 (BORI Cirtical Edition): धृतिः शमो दमः शौचं कारुण्यं वागनिष्ठुरा \| मित्राणां चानभिद्रोहः सप्तैताः समिधः श्रियः \|\|. Humility, though not explicitly listed is entailed by शमोदमः and वागनिष्ठुरा. 
+
 The Hitopadesha verse 0.6 establishes the causal relationship from humility (resulting from education) to wealth and beyond: विद्या ददाति विनयं **विनयाद् याति पात्रताम्** \| **पात्रत्वात् धनमाप्नोति** धनाद् धर्मं ततः सुखम् \|\|. The Kamandakiya Nitisara verse 1.26 supplies the complementary royal formulation of wealth of a king resulting from humility: सदानुरक्तप्रकृतिः प्रजापालनतत्परः \| **विनीतात्मा हि नृपतिर्भूयसीं श्रियमश्नुते** \|\|
 
 ### Verse 6
 
-The correspondence of the Bhagavad Gita 2.58 is quite close to the kural. ஆமை போல் corresponds to कूर्मोऽङ्गानीव indicating similarity to a tortoise withdrawing its limbs;  ஐந்து அடக்கல் corresponds to इन्द्रियाणीन्द्रियार्थेभ्यः ... संहरते indicating withdrawing the senses from their objects; and ஒருமையுள் corresponds to तस्य प्रज्ञा प्रतिष्ठिता.
+The correspondence of the Bhagavad Gita 2.58 is quite close to the kural. ஆமை போல் corresponds to कूर्मोऽङ्गानीव indicating similarity to a tortoise withdrawing its limbs;  ஐந்து அடக்கல் corresponds to इन्द्रियाणीन्द्रियार्थेभ्यः ... संहरते indicating withdrawing the senses from their objects; and ஒருமையுள் corresponds to तस्य प्रज्ञा प्रतिष्ठिता. Vidura develops the complementary imagery of the five senses as potential breaches through which one's prajna leaks away in Mahabharata Udyoga Parva verse 5.33.65 (BORI Criticla Edition): पञ्चेन्द्रियस्य मर्त्यस्य छिद्रं चेदेकमिन्द्रियम् \| ततोऽस्य स्रवति प्रज्ञा दृतेः पादादिवोदकम् \|\|.
 
 The Gita does connect प्रज्ञा प्रतिष्ठिता especially to seven-ness or seven-births. Here we depart from the traditional commentarial interpretation of எழுமையும் as referring to sven births. Instead, எழுமை  may be understood as an abstract "sevenfoldness," with a conceptual parallel in the Yoga Sutra 2.25-2.27:
 
@@ -121,6 +139,26 @@ Overall, in the context of this kural, I consider the seven bhumikas of yoga are
 
 ### Verse 7
 
+The kural's நாகாக்க has a strikingly close counterpart in the Harivamsha: परीवादाज्जगन्नाथ वाचं रक्ष दुरुद्वहाम्. The important correspondence is the imperative वाचं रक्ष: as Valluvar commands that the tongue be guarded, the Harivamsha expressly commands the guarding of speech so that it does not become परिवाद, harmful or reproachful speech. The kural's நாகாக்க is the guarding of speech against the verbal fault that the Kural calls சொல்லிழுக்கு.
+
+The surrounding context of Harivamsa 3.80.71-81 is Ghantakarana's prayer, concerned with the restraint and protection of several faculties and objects. He asks Krishna first to protect the mind (तस्मात् सर्वप्रयत्नेन चित्तं रक्ष) and to restrain the powerful senses; immediately thereafter he asks, वाचं रक्ष. The passage also asks for protection of the mind from another's property and from another's wife. This provides a natural contextual analogue to Valluvar's யாகாவா ராயினும் நாகாக்க: the injunction to guard speech even if other forms of guarding are left aside, which can be understood as poetic intensification of the ethical priority.
+
+```text
+जलं मां रक्षतां नित्यं पृथिवी रक्षतां हरे । सूर्यो मां रक्षतां विष्णो नमस्ते सूर्यतेजसे ॥३-८०-७१
+वायुर् मां रक्षतां दुःखादाकाशं च जनार्दन। न मनः सर्वगं देव रक्षतां विषयान् अन्तरे ॥३-८०-७२
+मनो विपर्यये घोरे पुरुषान् हन्ति नित्यशः । पापेषु योजयेत्पुंसः परपीडात्मकेषु च ॥३-८०-७३
+मनस्तद् रक्षतां देव भूयो भूयो जनार्दन । मा भून् मनसि कालुष्यं मनो मे निर्मलं भवेत् ॥३-८०-७४
+कलुषं तस्य यच्चित्तं नरके पातयत्यमुम् । बाह्यानि निर्मलान्येवमिन्द्रियाणि भवन्त्युता ॥३-८०-७५
+न तानि कार्यवन्तीह मनश्चेत् कलुषं भवेत् । नाङ्गानि मुष्टिनामेध्यं गृहीत्वा यो व्यवस्थितः ॥३-८-७६
+बहिः प्रक्षालनं कुर्वन् किं भवेत् तस्य केशव । व्यर्थो हि केवलं तस्य प्रग्रहः बाह्यगोचरः ॥३-८०-७७
+तस्मात् सर्वप्रयत्नेन चित्तं रक्ष जनार्दन । बलवान् इन्द्रियग्रामो वारयैनं जनार्दन ॥३-८०-७८
+परीवादाज् जगन्नाथ वाचं रक्ष दुरुद्वहाम् ।
+परद्रव्यान् मनो रक्ष परदाराज् जनार्दन । सर्वत्र मे दया भूयात् प्रसादात् तव केशव ॥३-८०-७९
+त्वय्येव भक्तिरचला भूयाद् भूतेषु मे दया । बहुनात्र किमुक्तेन शृणुष्वेदं वचो मम ॥३-८०-८०
+सुखे दुःखे च रागे च भोजने गमने तथा । जाग्रत्स्वप्नेषु सर्वत्र त्वय्येव रमतां मनः ॥३-८०-८१
+```
+
+The consequence expressed in the latter half of the Kural is not present in the parallel, however, it is corroborated by Vidura Niti in the Mahabharata Udyoga Parva (BORI Critical Edition) 5.34.71: “आक्रोशपरिवादाभ्यां विहिंसन्त्यबुधा बुधान् \| वक्ता पापमुपादत्ते क्षममाणो विमुच्यते \|\|.  Those who revile and slander cause harm, while वक्ता पापमुपादत्ते, the speaker incurs sin, whereas the one who endures without retaliating is released from it. This gives a close counterpart to சோகாப்பர் சொல்லிழுக்குப் பட்டு: verbal misconduct brings a consequence upon the speaker.
 
 ### Verse 8
 
@@ -132,4 +170,10 @@ Overall, in the context of this kural, I consider the seven bhumikas of yoga are
 
 
 ### Chapter Summary
+
+A parsimonious coverage of the teachings of this entire chapter can be done with the Trishanku mantra in the Taittiriya Upanishad of the Krishna Yajurveda covering the first four kurals and selected verses from the Vidura Niti in the Udyoga Parva of the Mahabharata. Particular metaphors that the kurals use are corroborated elsewhere, but the more important point is that the teachings of this kural chapter are recurrent themes in Vedanta and Niti Shastra literature. 
+
+The Manakkudavar ordering of the verses is less helpful here.
+
+Correspondences with Jain literature, Yoga, and Christian BIble are not surprising given the universality of the moral teachings contained here, however, the parsimony of the Trishanku mantra and Vidura niti is worth noting.
 
