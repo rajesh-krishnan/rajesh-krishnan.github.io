@@ -17,7 +17,7 @@ tags: [kuralmatch]
 | [7](#verse-7) | யாகாவா ராயினும் நாகாக்க காவாக்கால் <br> சோகாப்பர் சொல்லிழுக்குப் பட்டு | **परीवादाज्** जगन्नाथ **वाचं रक्ष** दुरुद्वहाम् \| <br> परद्रव्यान् मनो रक्ष परदाराज् जनार्दन \| <br> सर्वत्र मे दया भूयात् प्रसादात् तव केशव \|\| <br> Harivamsha 3.80.79 |
 | [8](#verse-8) | ஒன்றானுந் தீச்சொல் பொருட்பயன் உண்டாயின் <br> நன்றாகா தாகி விடும் | **अभ्यावहति कल्याणं विविधा वाक्सुभाषिता** \| <br> **सैव दुर्भाषिता राजन्ननर्थायोपपद्यते** \|\| <br> Mahabharata 5.34.74 (BORI) |
 | [9](#verse-9) | தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே <br> நாவினாற் சுட்ட வடு | **रोहते** सायकैर्विद्धं **वनं परशुना हतम्** \| <br> **वाचा दुरुक्तं बीभत्सं न संरोहति वाक्क्षतम्** \|\| <br> Mahabharata 5.34.75 (BORI) |
-| [10](#verse-10) | கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி <br> அறம்பார்க்கும் ஆற்றின் நுழைந்து | |
+| [10](#verse-10) | கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி <br> அறம்பார்க்கும் ஆற்றின் நுழைந்து | **क्रोधो** हर्षश्च दर्पश्च ह्रीस्तम्भो मान्यमानिता \| <br> **यमर्थान्नापकर्षन्ति स वै पण्डित** उच्यते \|\| <br> **यस्य** संसारिणी **प्रज्ञा धर्मार्थावनुवर्तते** \| <br> कामादर्थं वृणीते यः **स वै पण्डित** उच्यते \|\| <br> Mahabharata 5.33.17,20 (BORI) |
 
 
 ## Comments and Research Notes
@@ -182,6 +182,11 @@ The Vidura niti shloka shows a remarkably close correspondence with the Kural, e
 
 ### Verse 10
 
+A particularly close parallel to the Kural is found in the Vidura Niti in the Mahabharata in its characterization of the learned. The verse “क्रोधो हर्षश्च दर्पश्च ह्रीस्तम्भो मान्यमानिता । यमर्थान्नापकर्षन्ति स वै पण्डित उच्यते ॥” defines the wise person as one whom anger, elation, pride, moral reserve, obstinacy, and the desire for honor do not carry away from his proper purpose. This closely corresponds to கதம் காத்துக் கற்றடங்கல்: the learned person is distinguished not merely by knowledge, but by mastery over anger and the passions that might otherwise divert him from his proper course.  
+Furthermore, the pandita is one whose practical intelligence, while engaged in saṃsāra, follows dharma-artha and chooses this proper artha rather than kama: यस्य संसारिणी प्रज्ञा धर्मार्थावनुवर्तते । कामादर्थं वृणीते यः स वै पण्डित उच्यते ॥. Read in the framework of the purusharthas, this supplies a conceptual parallel to அறம் பார்க்கும் ஆற்றின் நுழைந்து: the entering can be understood as encoding entry into the path of aram (dharma), which is given precedence over the worldly pursuits of porul and kama by the learned.
+
+The Bhartrihari Nitishataka 1.83 dicussed earlier provides a secondary corroboration: ज्ञानस्योपशमः श्रुतस्य विनयो ... अक्रोधस्तपसः ... धर्मस्य निर्व्याजत. Although its structure is a catalogue of the distinctive virtues or “ornaments” of different qualities rather than a direct semantic parallel to the Kural, it independently brings together the same conceptual field of learning, self-restraint, freedom from anger, and dharma. The Hitopadesha verse 0.6 also discussed earlier establishes the causal relationship from humility resulting from education to dharma: विद्या ददाति विनयं विनयाद् याति पात्रताम् \| पात्रत्वात् धनमाप्नोति धनाद् धर्मं ततः सुखम् \|\| The intervening पात्रता subsunes freedom from anger implicitly.
+
 ### Chapter Summary
 
 A parsimonious coverage of the teachings of this entire chapter can be done with the Trishanku mantra in the Taittiriya Upanishad of the Krishna Yajurveda covering the first four kurals and selected verses from the Vidura Niti in the Udyoga Parva of the Mahabharata. This uses the mainstream ordering of verses; the Manakkudavar ordering of the verses is less helpful here. Particular metaphors that the kurals use are corroborated elsewhere, but the more important point is that the teachings of this kural chapter are recurrent themes in Vedanta and Niti Shastra literature.  
@@ -204,4 +209,4 @@ Correspondences with Jain literature, Yoga, and Christian BIble are not surprisi
 | [9](#verse-9) | ஆறாதே நாவினாற் சுட்ட வடு | न संरोहति वाक्क्षतम् |
 | [10](#verse-10) | கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் | क्रोधो ... नापकर्षन्ति ... स वै पण्डितः|
 
-My choice of primary and secondary parallels from other sources capture the crux of each kural more comprehensively. 
+My choice of primary and secondary parallels from other sources capture the broader implications of each kural, including in some cases matching metaphors. 
