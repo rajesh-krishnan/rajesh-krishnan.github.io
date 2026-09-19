@@ -15,7 +15,7 @@ tags: [kuralmatch]
 | [5](#verse-5) | எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும் <br> செல்வர்க்கே செல்வம் தகைத்து | **ऐश्वर्यस्य विभूषणं सुजनता** शौर्यस्य वाक्संयमो <br> ज्ञानस्योपशमः **श्रुतस्य विनयो** वित्तस्य पात्रे व्ययः \| <br> अक्रोधस्तपसः क्षमा प्रभवितुर्धर्मस्य निर्व्याजता <br> **सर्वेषामपि सर्वकारणमिदं शीलं परं भूषणम्** \|\| <br> Bhartrihari Nitishataka 1.83 |
 | [6](#verse-6) | ஒருமையுள் ஆமை போல் ஐந்து அடக்கல் ஆற்றின் <br> எழுமையும் ஏமாப்பு உடைத்து |  **यदा संहरते चायं कूर्मोऽङ्गानीव सर्वश:** \| <br> **इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता** \|\| <br> Bhagavad Gita 2.58 |
 | [7](#verse-7) | யாகாவா ராயினும் நாகாக்க காவாக்கால் <br> சோகாப்பர் சொல்லிழுக்குப் பட்டு | **परीवादाज्** जगन्नाथ **वाचं रक्ष** दुरुद्वहाम् \| <br> परद्रव्यान् मनो रक्ष परदाराज् जनार्दन \| <br> सर्वत्र मे दया भूयात् प्रसादात् तव केशव \|\| <br> Harivamsha 3.80.79 |
-| [8](#verse-8) | ஒன்றானுந் தீச்சொல் பொருட்பயன் உண்டாயின் <br> நன்றாகா தாகி விடும் | |
+| [8](#verse-8) | ஒன்றானுந் தீச்சொல் பொருட்பயன் உண்டாயின் <br> நன்றாகா தாகி விடும் | **अभ्यावहति कल्याणं विविधा वाक्सुभाषिता** \| <br> **सैव दुर्भाषिता राजन्ननर्थायोपपद्यते** \|\| <br> Mahabharata 5.34.74 (BORI) |
 | [9](#verse-9) | தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே <br> நாவினாற் சுட்ட வடு | **रोहते** सायकैर्विद्धं **वनं परशुना हतम्** \| <br> **वाचा दुरुक्तं बीभत्सं न संरोहति वाक्क्षतम्** \|\| <br> Mahabharata 5.34.75 (BORI) |
 | [10](#verse-10) | கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி <br> அறம்பார்க்கும் ஆற்றின் நுழைந்து | |
 
@@ -174,6 +174,7 @@ The consequence expressed in the latter half of the Kural is not present in the 
 
 ### Verse 8
 
+The correspondence between the kural and the Vidura niti shloka is particularly close in its treatment of speech according to its consequence: the Tamil kural observes that even a single தீச்சொல், when it produces பொருட்பயன், causes what would otherwise be நன்று to become நன்றாகாது; likewise, the Sanskrit verse contrasts वाक्सुभाषिता, which अभ्यावहति कल्याणम्, with that very same speech when दुर्भाषिता, which has the opposeite consequence (अनर्थायोपपद्यते). In both, therefore, the moral quality of speech is expressed through its resulting effect. There is a structural resemblance in பொருட்பயன் and अर्थ and ஒன்றானுந் and सैव worth noting. This correspondence, however, diverges somewhat from Manakkudavar's commentary, which places greater emphasis on the harmful consequence resulting from even a single ill-spoken word.
 
 ### Verse 9
 
