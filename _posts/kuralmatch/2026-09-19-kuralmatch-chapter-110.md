@@ -11,8 +11,8 @@ tags: [kuralmatch]
 | [1](#verse-1) | இருநோக் கிவளுண்க ணுள்ள தொருநோக்கு <br> நோய்நோக்கொன் றந்நோய் மருந்து | व्यादीर्घेण चलेन वक्रगतिना तेजस्विना भोगिना <br> नीलाब्जद्युतिनाऽहिना वरमहं दष्टो, न तच्चक्षुषा \| <br> दष्टे सन्ति चिकित्सका दिशि-दिशि प्रायेण धर्मार्थिनो <br> **मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम्**  \|\| <br> Bhartrihari Shringarashataka 6 |
 | [2](#verse-2) | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் <br> செம்பாக மன்று பெரிது | |
 | [3](#verse-3) | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  <br> யாப்பினு ளட்டிய நீர் | |
-| [4](#verse-4) | யானோக்குங் காலை நிலனோக்கு நோக்காக்காற் <br> றானோக்கி மெல்ல நகும் | **सन्मुखं तं तु न वीक्षते** \| **वीक्षिताव्रीडां दर्शयति** \| <br> रुच्यमात्मनोऽङ्गमपदेशेन प्रकाशयति \| <br> **प्रमत्तं प्रच्छन्नं नायकमतिक्रान्तं च वीक्षते** \|\|<br> **पृष्टा च किंचित् सस्मितम्**  अव्यक्ताक्षरमनवसितार्थं च मन्दं <br>  मन्दमधोमुखी कथयति। तत्समीपे चिरं स्थानमभिनन्दति \| <br> दूरे स्थिता पश्यतु मामिति मन्यमाना परिजनं <br> सवदनविकारमाभाषते। तं देशं न मुञ्चति \|\| <br> Kamasutra 3.3.26-27 |
-| [5](#verse-5) | குறிக்கொண்டு நோக்காமை யல்லா லொருகண் <br> சிறக்கணித்தாள் போல நகும் | |
+| [4](#verse-4) | யானோக்குங் காலை நிலனோக்கு நோக்காக்காற் <br> றானோக்கி மெல்ல நகும் | **सन्मुखं तं तु न वीक्षते** \| **वीक्षिताव्रीडां दर्शयति** \| <br> रुच्यमात्मनोऽङ्गमपदेशेन प्रकाशयति \| <br> **प्रमत्तं प्रच्छन्नं नायकमतिक्रान्तं च वीक्षते** \|\|<br> **पृष्टा च किंचित् सस्मितम्**  अव्यक्ताक्षरमनवसितार्थं च मन्दं <br> मन्दमधोमुखी कथयति। तत्समीपे चिरं स्थानमभिनन्दति \| <br> दूरे स्थिता पश्यतु मामिति मन्यमाना परिजनं <br> सवदनविकारमाभाषते। तं देशं न मुञ्चति \|\| <br> Kamasutra 3.3.26-27 |
+| [5](#verse-5) | குறிக்கொண்டு நோக்காமை யல்லா லொருகண் <br> சிறக்கணித்தாள் போல நகும் | **स्मितेन** भावेन च लज्जया भिया **पराङ्मुखैरर्धकटाक्षवीक्षणैः** \| <br> वचोभिरीर्ष्याकलहेन लीलया समस्तभावैः खलु बन्धनं स्त्रियः \|\| <br> Bhartrihari Shringarashataka 7 |
 | [6](#verse-6) | உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொ <br> லொல்லை யுணரப் படும் | |
 | [7](#verse-7) | செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு <br> முறாஅர்போன் றுற்றார் குறிப்பு | **भ्रूभेदो रचितः चिरं नयनयोरभ्यस्तमामीलनं** <br> **रोद्धुं शिक्षितमादरेण हसितं मौनेऽभियोगः कृतः** \| <br> धैर्यं कर्तुमपि स्थिरीकृतमिदं चेतः **कथंचिन्मया** <br> बद्धो मानपरिग्रहे परिकरः **सिद्धिस्तु दैवस्थिता** \|\| Amarushataka 92 |
 | [8](#verse-8) | அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப் <br> பசையினள் பைய நகும் | |
@@ -36,17 +36,25 @@ The Mahasubhashitasamgraha verse 5979S provides an erotic resolution of the same
 
 ### Verse 4
 
-
-### Verse 5
-
-Kamasutra 3.3.26-27 parallels the visual etiquette underlying the Kural and its interpretation by மணக்குடவர். யானோக்குங் காலை நிலனோக்கு corresponds closely to संमुखं तं तु न वीक्षते । वीक्षिता व्रीडां दर्शयति: when he is directly before her, she does not look at him, but manifests व्रीडा, for which நிலனோக்கு is a particularly apt behavioral realization. நோக்காக்கால் றானோக்கி then corresponds to प्रमत्तं प्रच्छन्नं नायकम् अतिक्रान्तं च वीक्षते: she looks at the hero when he is प्रमत्त (inattentive), प्रच्छन्न (out of sight), or अतिक्रान्त (having gone past). The kural compresses the three different circumstances into the single elegant condition நோக்காக்கால். The opening सस्मितम् of 3.3.27 further supplies the kural’s மெல்ல நகும், completing the sequence of bashful aversion, opportunistic gaze, and subdued smile.
-
-This non-verbal language is corroborated by Bhartrihari Shringara Shatakam verse 7: स्मितेन भावेन च लज्जया भिया पराङ्मुखैरर्धकटाक्षवीक्षणैः \| वचोभिरीर्ष्याकलहेन लीलया समस्तभावैः खलु बन्धनं स्त्रियः \|\|. The movement स्मितेन ... लज्जया ... पराङ्मुखैरर्धकटाक्षवीक्षणैः brings together the kural’s மெல்ல நகும், நிலனோக்கு, and oblique glance. It is also corroborated by the Amarushatakam verse 4 with क्षणमभिमुखैर्लज्जालोलैर्निमेषपराङ्मुखैः. Neither specifies the man’s visual state as explicitly, and moreover, the Amarushatakam verse does not include the स्मित element.
+Kamasutra 3.3.26-27 parallels the visual etiquette underlying the Kural and its interpretation by மணக்குடவர். யானோக்குங் காலை நிலனோக்கு corresponds closely to संमुखं तं तु न वीक्षते । वीक्षिता व्रीडां दर्शयति: when he is directly before her, she does not look at him, but manifests व्रीडा, for which நிலனோக்கு is a particularly apt behavioral realization. நோக்காக்கால் றானோக்கி then corresponds to प्रमत्तं प्रच्छन्नं नायकम् अतिक्रान्तं च वीक्षते: she looks at the hero when he is प्रमत्त (inattentive), प्रच्छन्न (out of sight), or अतिक्रान्त (having gone past). The kural compresses the three different circumstances into the single elegant condition நோக்காக்கால். The किंचित् सस्मितम् of 3.3.27 further supplies the kural’s மெல்ல நகும், completing the sequence of bashful aversion, opportunistic gaze, and subdued smile.
 
 Kalidasa's Kumara Sambhava verse 8.3 provides an excellent literary parallel that captures most of the same choreography: कैतवेन शयिते कुतूहलात् पार्वती प्रतिमुखं निपातितम् \| चक्षुरुन्मिषति सस्मितं प्रिये विद्युदाहतमिव न्यमीलयत् \|\|. Parvati directs her gaze toward the apparently unobservant beloved, and when he opoens his eyes with a smile, she immediately averts her gaze as if struck by lightning. It therefore closely reproduces the kural’s movement from looking when unobserved to averting when observed. The differences are that Kalidasa introduces the playful circumstance of Shiva’s feigned sleep, and that smile belongs to Shiva when his eye opens, whereas the kural’s மெல்ல நகும் applies to the woman.
 
+Verse 4 of the Amarushataka, अलसवलितैः प्रेमार्द्रार्द्रैर्मुहुर्मुकुलीकृतैः **क्षणमभिमुखैर्लज्जालोलैर्निमेषपराङ्मुखैः** \| हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणैः कथय सुकृती कोऽयं मुग्धे त्वयाद्य विलोक्यते \||, also corroborates the emotion of averting the gaze quickly, but does not include the smile element and also does not specify the man’s visual state. 
+
+Bhartrihari Shringara Shatakam verse 7 also attests the स्मितेन and पराङ्मुखैः, but the correspondence of this verse extends into the next three kurals.
+
+### Verse 5
+
+There is a literary parallel to the kural in Bhartrihari Shringara Shatakam verse 7: पराङ्मुखैः corresponds to குறிக்கொண்டு நோக்காமை, अर्धकटाक्षवीक्षणैः to ஒருகண் சிறக்கணித்தாள் போல, and स्मितेन to நகும். Normally कटाक्ष would be expressed as கடைக்கண், but hwre we have अर्धकटाक्ष which I match with ஒருகண் சிறக்கணித்தாள் போல.  The poetic expression differs somewhat: the kural's context in this chapter indicates that this behavior is a romantic tell, whereas, the shloka lists these among the bhavas/expressions by which women bind (one). While Valluvar does not mention verbal expression in this kural, he does introduce உறாஅ தவர்போற் சொலினுஞ் and செறாஅச்  சிறுசொல்லும் in the next two kurals, which maps well to Bhartrihari's वचोभिरीर्ष्याकलहेन, so the correspondence extends into the next two verses.
+
+This broad interpretation of ஒருகண் சிறக்கணித்தாள் is aligned with my reading under the Sringara literature and Bharata's Natyshastra; this is explored in more detail later in the [chapter summary](#chapter-summary).
+
+Given the thematic continuity in the correspondences with the Bhatrihari verse, it is interesting to explore a similar continuity with Kamasutra verses 3.3.26-27, which strongly correspond with the previous kural. Vatsyayana in Kamasutra verse 3.3.27, पृष्टा च किंचित् सस्मितम् अव्यक्ताक्षरमनवसितार्थं च मन्दं मन्दमधोमुखी कथयति, has a partial correspondence. While अधोमुखी and सस्मितम् naturally correspond to குறிக்கொண்டு நோக்காமை and நகும், the mechanism employed is verbal with slow indistinct speech with unclear meaning. In contrast, Valluvar's ஒருகண் சிறக்கணித்தாள் போல is an eye gesture with semantic ambiguity; the போல signals the ambiguity. The type of speech in the Kamasutra verse is perhaps more closely aligned with the behavior in the public setting of kural 9, and not the feigned quarrelsome speech addressed in kurals 6-7 as well as in the Bhartrihari verse 7. Therefore, the parallelism in 3.3. 27 is limited to the smile and averted gaze.
+
 ### Verse 6
 
+Bhartrihari’s Shringara Shataka verse 7 (presented earlier) corroborates the kural’s உறாஅ தவர்போற் சொலினுஞ் with वचोभिरीर्ष्याकलहेन. 
 
 ### Verse 7
 
@@ -55,7 +63,6 @@ The correspondence between the kural and Amarushataka verse 92 is remarkably clo
 Bhartrihari’s Shringara Shataka verse 7 (presented earlier) corroborates the kural’s செறாஅச் சிறுசொல்லும் by likewise presenting speech colored by jealousy and quarrelsomeness as an erotic mode of apparent hostility (वचोभिरीर्ष्याकलहेन).
 
 ### Verse 8
-
 
 ### Verse 9
 
@@ -70,11 +77,31 @@ Vatsyayana provides a technical catalogue of such covert signals in Kamasutra ve
 
 ### Chapter Summary
 
-The ten Kurals describe a grammar of romantic signaling through the eyes, and Sanskrit Shringara poetry has a technical vocabulary that matches well.
+The ten Kurals describe a grammar of romantic signaling through the eyes, and Sanskrit Shringara poetry has a technical vocabulary that matches well. Vallulvar, in this chapter, is largely consistent with the established Indic literary tradition, while injecting unique culturally appropriate poetic excpressions. 
 
-Bhartrihari's Shringara Shataka verse 6,  we get, मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम्, the gaze causing an affliction for which there is no medical remedy.  Then verse 7, स्मितेन भावेन च लज्जया भिया पराङ्मुखैरर्धकटाक्षवीक्षणैः \| वचोभिरीर्ष्याकलहेन लीलया समस्तभावैः खलु बन्धनं स्त्रियः \|\|, provides a catalog: eyes contracted/turned, sidelong glance, affectionate speech, laughter ending in bashfulness, and slow/playful movement.
+Chapter 8 of Bharata’ Natyashastra is interesting in this context. Verse 46, हर्षप्रसादजनिता कान्तात्यर्थं समन्यथा \| सभ्रूक्षेपकटाक्षा च शृङ्गारे दृष्टिरिक्ष्यते \|\|, associates the sidelong glance with raised/thrown eyebrows (सभ्रूक्षेपकटाक्षा) with the Shringara rasa. Then verse 76, मधुराकुञ्चितान्ता च सभ्रूक्षेपा च सस्मिता \| सममन्यविकारा च दृष्टिः सा ललिता स्मृता \|\| describes the Lalita Dhristi is remembered as the glance that has gently contracted ends, is accompanied by an eyebrow movement, bears a smile, and has an even/undisturbed expression of anger. The सभ्रूक्षेपा connects this with the Shringara rasa. Then verse 90 establishes the rule that the Lalita Dhristi to be employed with perspiration and bashfulness: श्रान्ता श्रमार्ते **स्वेदे च लजायां ललिता** तथा \| अपस्मारे तथा व्याधौ ग्लान्यां ग्लाना **विधीयते** \|\|. Then the averted look is introduced in verse 160, विवृत्तं चापि विज्ञेयं हास्यशोकभयादिषु \| स्त्रीणामुद्वाहि लीलायां गर्वे गच्छत्यनादरे \|\|, connecting  the Vivritta look in women with playfulness, pride, and indifference. 
 
-The Amarushataka verse 4, अलसवलितैः प्रेमार्द्रार्द्रैर्मुहुर्मुकुलीकृतैः क्षणमभिमुखैर्लज्जालोलैर्निमेषपराङ्मुखैः \| हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणैः कथय सुकृती कोऽयं मुग्धे त्वयाद्य विलोक्यते \|| aligns with
-kurals 2, 3, 5, 6, 7, 8 and 10. The eyes are languidly moving, moist with love, repeatedly closing, for a moment turned toward him, trembling with bashfulness, then turned away at the moment of blinking, and the eyes communicate (without words) the feeling hidden in the heart.
+Bhartrihari’s Shringara Shataka verse 8 has the following correspondences with the Natashastra: भ्रूचातुर्याकुञ्चिताक्षाः कटाक्षाः स्निग्धा वाचो लज्जिताश्चैव हासाः \| लीलामन्दं प्रस्थितं च स्थितं च स्त्रीणामेतद् भूषणं चायुधं च \|\|. We find correspondences: (1) लज्जिताश्चैव with लजायां ललिता; (2) हासाः with हर्षप्रसादजनिता and सस्मिता; (3) भ्रूचातुर्याकुञ्चिताक्षाः कटाक्षाः with कुञ्चितान्ता च सभ्रूक्षेपा and सभ्रूक्षेपकटाक्षा; (4) पराङ्मुखैः (verse 7) ... लीलामन्दं ...  स्त्रीणाम् with विवृत्तं … स्त्रीणामुद्वाहि लीलायां गर्वे गच्छत्यनादरे. Similar correspondences exist with the Amarushataka and the works of Kalidasa that we employ here. The mutual corroboration between the Shringara literature and the Kamasutra, a practical treatise, shows consistency across theory and practice of the arts.
+
+Now let us re-examine how the vocabulary and concepts of the Shringara literature maps to this chapter of the kural.
+
+<!--
+Bhartrihari's Shringara Shataka verse 6,  we get, मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम्, the gaze causing an affliction for which there is no medical remedy.  Then verse 7,  स्मितेन भावेन च लज्जया भिया पराङ्मुखैरर्धकटाक्षवीक्षणैः \| वचोभिरीर्ष्याकलहेन लीलया समस्तभावैः खलु बन्धनं स्त्रियः \|\|, provides a catalog: eyes contracted/turned, sidelong glance, affectionate speech, laughter ending in bashfulness, and slow/playful movement.
+
+The Amarushataka verse 4, अलसवलितैः प्रेमार्द्रार्द्रैर्मुहुर्मुकुलीकृतैः क्षणमभिमुखैर्लज्जालोलैर्निमेषपराङ्मुखैः \| हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणैः कथय सुकृती कोऽयं मुग्धे त्वयाद्य विलोक्यते \||, presents a similar catalog: eyes are languidly moving, moist with love, repeatedly closing, for a moment turned toward him, trembling with bashfulness, then turned away at the moment of blinking, and the eyes communicate (without words) the feeling hidden in the heart.
+-->
+
+| Kural fragment | Shringaara analog | Source |
+|--|--|--|
+| ஒருநோக்கு நோய் ... மருந்து | मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम् | |
+| கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் செம்பாக மன்று பெரிது | | |
+| நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  யாப்பினு ளட்டிய நீர் | | |
+| யானோக்குங் காலை நிலனோக்கு நோக்காக்காற் றானோக்கி மெல்ல நகும் | | |
+| குறிக்கொண்டு நோக்காமை ... ஒருகண் சிறக்கணித்தாள் போல நகும் | | |
+| உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொல் | | |
+| செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு முறாஅர்போன் றுற்றார் | | |
+| அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப் பசையினள் பைய நகும் | | |
+| ஏதிலார் போலப் பொதுநோக்கு நோக்குதல் காதலார் கண்ணே யுள | | |
+| கண்ணொடு கண்ணிணை நோக்கொக்கின் வாய்ச்சொற்க ளென்ன பயனு மில | | |
 
 
