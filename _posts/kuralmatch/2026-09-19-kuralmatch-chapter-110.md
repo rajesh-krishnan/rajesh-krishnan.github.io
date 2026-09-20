@@ -117,9 +117,10 @@ Bhartrihari's Shringara Shataka verse 6,  we get, मुग्धाक्षी
 
 The Amarushataka verse 4, अलसवलितैः प्रेमार्द्रार्द्रैर्मुहुर्मुकुलीकृतैः क्षणमभिमुखैर्लज्जालोलैर्निमेषपराङ्मुखैः \| हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणैः कथय सुकृती कोऽयं मुग्धे त्वयाद्य विलोक्यते \|\|, presents a similar catalog: eyes are languidly moving, moist with love, repeatedly closing, for a moment turned toward him, trembling with bashfulness, then turned away at the moment of blinking, and the eyes communicate (without words) the feeling hidden in the heart.
 
-Shringarashataka 6, 7, 8
-Amarushatakam 4, 79, 92
-
+Shringarashataka 6, 7/8
+Amarushatakam 4, 24/92, 79
+Abhijnana Shakuntalam 2.2 (Amarushatakam 79)
+Kamasutra 3.3.26-27 (Shringarashataka 7)
 
 -->
 
