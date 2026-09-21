@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thirukkural Chapter 104: Congruent Shlokas"
+title: "Thirukkural Chapter 104"
 author: "Rajesh Krishnan"
 categories: [Sanskrit Verses Similar to Thirukkural]
 tags: [kuralmatch]
