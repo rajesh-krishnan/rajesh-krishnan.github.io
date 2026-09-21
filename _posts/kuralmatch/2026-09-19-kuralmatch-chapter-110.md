@@ -11,7 +11,7 @@ tags: [kuralmatch]
 | [1](#verse-1) | இருநோக் கிவளுண்க ணுள்ள தொருநோக்கு <br> நோய்நோக்கொன் றந்நோய் மருந்து | व्यादीर्घेण चलेन वक्रगतिना तेजस्विना भोगिना <br> नीलाब्जद्युतिनाऽहिना वरमहं दष्टो, न तच्चक्षुषा \| <br> दष्टे सन्ति चिकित्सका दिशि-दिशि प्रायेण धर्मार्थिनो <br> **मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम्**  \|\| <br> Bhartrihari Shringarashataka 6 |
 | [2](#verse-2) | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் <br> செம்பாக மன்று பெரிது | |
 | [3](#verse-3) | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  <br> யாப்பினு ளட்டிய நீர் | |
-| [4](#verse-4) | யானோக்குங் காலை நிலனோக்கு நோக்காக்காற் <br> றானோக்கி மெல்ல நகும் | **सन्मुखं तं तु न वीक्षते** \| **वीक्षिताव्रीडां दर्शयति** \| <br> रुच्यमात्मनोऽङ्गमपदेशेन प्रकाशयति \| <br> **प्रमत्तं प्रच्छन्नं नायकमतिक्रान्तं च वीक्षते** \|\|<br> **पृष्टा च किंचित् सस्मितम्**  अव्यक्ताक्षरमनवसितार्थं च मन्दं <br> मन्दमधोमुखी कथयति। तत्समीपे चिरं स्थानमभिनन्दति \| <br> दूरे स्थिता पश्यतु मामिति मन्यमाना परिजनं <br> सवदनविकारमाभाषते। तं देशं न मुञ्चति \|\| <br> Kamasutra 3.3.26-27 |
+| [4](#verse-4) | யானோக்குங் காலை நிலனோக்கு நோக்காக்காற் <br> றானோக்கி மெல்ல நகும் | **अभिमुखे मयि संहृतमीक्षितम् हसितम्** अन्यनिमित्तकथोदयम् \| <br> विनयवारितवृत्तिरतस्तया न विवृतो मदनो न च संवृतः \|\| <br> Kalidasa's Abhijnana Shankuntalam verse 2.11 | 
 | [5](#verse-5) | குறிக்கொண்டு நோக்காமை யல்லா லொருகண் <br> சிறக்கணித்தாள் போல நகும் | **स्मितेन** भावेन च लज्जया भिया **पराङ्मुखैरर्धकटाक्षवीक्षणैः** \| <br> वचोभिरीर्ष्याकलहेन लीलया समस्तभावैः खलु बन्धनं स्त्रियः \|\| <br> Bhartrihari Shringarashataka 7 |
 | [6](#verse-6) | உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொ <br> லொல்லை யுணரப் படும் | |
 | [7](#verse-7) | செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு <br> முறாஅர்போன் றுற்றார் குறிப்பு | **भ्रूभेदो रचितः चिरं नयनयोरभ्यस्तमामीलनं** <br> **रोद्धुं शिक्षितमादरेण हसितं मौनेऽभियोगः कृतः** \| <br> धैर्यं कर्तुमपि स्थिरीकृतमिदं चेतः **कथंचिन्मया** <br> बद्धो मानपरिग्रहे परिकरः **सिद्धिस्तु दैवस्थिता** \|\| <br> Amarushatakam 92 <br> **भ्रूभङ्गे रचितेऽपि** दृष्टिरधिकं सोत्कण्ठमुद्वीक्षतेकार्कश्यं <br> गमितेऽपि चेतसि तनूरोमाञ्चमालम्बते \| <br> **रुद्धायामपि वाचि** सस्मितमिदं दग्धाननं <br> जायतेदृष्टे निर्वहणं भविष्यति कथं मानस्य तस्मिञ्जने \|\| <br> Amarushatakam 24 |
@@ -36,7 +36,9 @@ The Mahasubhashitasamgraha verse 5979S provides an erotic resolution of the same
 
 ### Verse 4
 
-Kamasutra 3.3.26-27 parallels the visual etiquette underlying the Kural and its interpretation by மணக்குடவர். யானோக்குங் காலை நிலனோக்கு corresponds closely to संमुखं तं तु न वीक्षते । वीक्षिता व्रीडां दर्शयति: when he is directly before her, she does not look at him, but manifests व्रीडा, for which நிலனோக்கு is a particularly apt behavioral realization. நோக்காக்கால் றானோக்கி then corresponds to प्रमत्तं प्रच्छन्नं नायकम् अतिक्रान्तं च वीक्षते: she looks at the hero when he is प्रमत्त (inattentive), प्रच्छन्न (out of sight), or अतिक्रान्त (having gone past). The kural compresses the three different circumstances into the single elegant condition நோக்காக்கால். The किंचित् सस्मितम् of 3.3.27 further supplies the kural’s மெல்ல நகும், completing the sequence of bashful aversion, opportunistic gaze, and subdued smile.
+An excellent parallel is seen in Kalidasa's Abhijnana Shankuntalam verse 2.11: अभिमुखे मयि संहृतमीक्षितम् हसितमन्यनिमित्तकथोदयम् \| विनयवारितवृत्तिरतस्तया न विवृतो मदनो न च संवृतः \|\|. The correspondence rests essentially on when I face her, she withdraws her gaze (अभिमुखे मयि संहृतमीक्षितम्) together with a smile (हसितम्). This closely matches Valluvar's யானோக்குங் காலை நிலனோக்கு, where the woman looks down when he looks at her, while நோக்காக்காற் றானோக்கி makes the converse explicit: when he does not look, she looks at him. Kalidasa leaves this reciprocal reversal implicit in the situation, whereas Valluvar states both directions of the glance explicitly; the gentle smile (மெல்ல நகும்) then supplies the same restrained manifestation of love as Kālidāsa's हसितम्. The correspondence becomes especially close when the Sanskrit verse is read in its dramatic context, as the answer to अथ भवन्तमन्तरेण कीदृशस्तस्या दृष्टिरागः. Both passages belong to the same literary conception of குறிப்பறிதல், love being discerned through the involuntary signs of the beloved's glance and smile rather than through direct speech.
+
+Kamasutra 3.3.26-27 parallels the visual etiquette underlying the Kural and its interpretation by மணக்குடவர்: **सन्मुखं तं तु न वीक्षते** \| **वीक्षिताव्रीडां दर्शयति** \| रुच्यमात्मनोऽङ्गमपदेशेन प्रकाशयति \| **प्रमत्तं प्रच्छन्नं नायकमतिक्रान्तं च वीक्षते** \|\| **पृष्टा च किंचित् सस्मितम्** अव्यक्ताक्षरमनवसितार्थं च मन्दं मन्दमधोमुखी कथयति। तत्समीपे चिरं स्थानमभिनन्दति \| दूरे स्थिता पश्यतु मामिति मन्यमाना परिजनं सवदनविकारमाभाषते। तं देशं न मुञ्चति \|\|. யானோக்குங் காலை நிலனோக்கு corresponds closely to संमुखं तं तु न वीक्षते । वीक्षिता व्रीडां दर्शयति: when he is directly before her, she does not look at him, but manifests व्रीडा, for which நிலனோக்கு is a particularly apt behavioral realization. நோக்காக்கால் றானோக்கி then corresponds to प्रमत्तं प्रच्छन्नं नायकम् अतिक्रान्तं च वीक्षते: she looks at the hero when he is प्रमत्त (inattentive), प्रच्छन्न (out of sight), or अतिक्रान्त (having gone past). The kural compresses the three different circumstances into the single elegant condition நோக்காக்கால். The किंचित् सस्मितम् of 3.3.27 further supplies the kural’s மெல்ல நகும், completing the sequence of bashful aversion, opportunistic gaze, and subdued smile.
 
 Kalidasa's Kumara Sambhava verse 8.3 provides an excellent literary parallel that captures most of the same choreography: कैतवेन शयिते कुतूहलात् पार्वती प्रतिमुखं निपातितम् \| चक्षुरुन्मिषति सस्मितं प्रिये विद्युदाहतमिव न्यमीलयत् \|\|. Parvati directs her gaze toward the apparently unobservant beloved, and when he opens his eyes with a smile, she immediately averts her gaze as if struck by lightning. It therefore closely reproduces the kural’s movement from looking when unobserved to averting when observed. The differences are that Kalidasa introduces the playful circumstance of Shiva’s feigned sleep, and that smile belongs to Shiva when his eye opens, whereas the kural’s மெல்ல நகும் applies to the woman.
 
@@ -119,27 +121,21 @@ The Amarushataka verse 4, अलसवलितैः प्रेमार्�
 
 Shringarashataka 6, 7/8
 Amarushatakam 4, 24/92, 79
-Abhijnana Shakuntalam 2.2 (Amarushatakam 79)
-Kamasutra 3.3.26-27 (Shringarashataka 7)
+Abhijnana Shakuntalam 2.2 (Amarushatakam 79), 2.11 (Kamasutra 3.3.26-27)
+Kamasutra 3.3.26-27 (Abhijnana Shakuntalam 2.11, Shringarashataka 7)
 
 -->
 
 | Kural fragment | Shringaara analog | Source |
 |--|--|--|
-| ஒருநோக்கு நோய் ... மருந்து | मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम् | |
+| ஒருநோக்கு நோய் ... மருந்து | मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम् | Bhartrihari |
 | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் செம்பாக மன்று பெரிது | xx | |
 | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  யாப்பினு ளட்டிய நீர் | xx | |
-| யானோக்குங் காலை நிலனோக்கு | संमुखं तं तु न वीक्षते + वीक्षिता व्रीडां दर्शयति: | | 
-| நோக்காக்காற் றானோக்கி | प्रमत्तं प्रच्छन्नं नायकम् अतिक्रान्तं च वीक्षते: | |
-| மெல்ல நகும் | किंचित् सस्मितम् | |
-| குறிக்கொண்டு நோக்காமை | पराङ्मुखैः | 
-| ஒருகண் சிறக்கணித்தாள் போல நகும் | अर्धकटाक्षवीक्षणैः + स्मितेन  | |
+| யானோக்குங் காலை நிலனோக்கு ... நகும் | अभिमुखे मयि संहृतमीक्षितम् ... हसितम् | Kalidasa |
+| குறிக்கொண்டு நோக்காமை ... ஒருகண் சிறக்கணித்தாள் போல நகும் | पराङ्मुखैः ... अर्धकटाक्षवीक्षणैः + स्मितेन | Bhartrihari |
 | உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொல் | xx वचोभिरीर्ष्याकलहेन | |
-| செறாஅச் சிறுசொல்லுஞ் | रुद्धायामपि वाचि | |
-| செற்றார்போ னோக்கு முறாஅர்போன் றுற்றார் | भ्रूभेदो रचितः चिरं नयनयोरभ्यस्तमामीलनं <br> रोद्धुं शिक्षितमादरेण हसितं मौनेऽभियोगः कृतः | |
+| செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு முறாஅர்போன் றுற்றார் | रुद्धायामपि वाचि + भ्रूभेदो रचितः चिरं नयनयोरभ्यस्तमामीलनं रोद्धुं शिक्षितमादरेण हसितं मौनेऽभियोगः कृतः | Amaru |
 | அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப் பசையினள் பைய நகும் | xx | |
-| ஏதிலார் போலப் பொதுநோக்கு நோக்குதல் | वीक्षितमन्यतोऽपि नयने यत्प्रेषयन्त्या | |
-| காதலார் கண்ணே யுள | कामी स्वतां पश्यति | |
-| கண்ணொடு கண்ணிணை நோக்கொக்கின் <br> வாய்ச்சொற்க ளென்ன பயனு மில | हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणै | |
-
+| ஏதிலார் போலப் பொதுநோக்கு நோக்குதல் ... காதலார் கண்ணே யுள | वीक्षितमन्यतोऽपि नयने यत्प्रेषयन्त्या ... कामी स्वतां पश्यति | Kalidasa |
+| கண்ணொடு கண்ணிணை நோக்கொக்கின் | हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणै | Amaru |
 
