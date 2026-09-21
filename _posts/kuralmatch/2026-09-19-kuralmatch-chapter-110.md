@@ -15,7 +15,7 @@ tags: [kuralmatch]
 | [5](#verse-5) | குறிக்கொண்டு நோக்காமை யல்லா லொருகண் <br> சிறக்கணித்தாள் போல நகும் | **स्मितेन** भावेन च लज्जया भिया <br> **पराङ्मुखैरर्धकटाक्षवीक्षणैः** \| <br> वचोभिरीर्ष्याकलहेन लीलया <br> समस्तभावैः खलु बन्धनं स्त्रियः \|\| <br> Bhartrihari Shringarashataka 7 |
 | [6](#verse-6) | உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொ <br> லொல்லை யுணரப் படும் | **भ्रूभङ्गे रचितेऽपि** दृष्टिरधिकं सोत्कण्ठमुद्वीक्षतेकार्कश्यं <br> गमितेऽपि चेतसि तनूरोमाञ्चमालम्बते \| <br> **रुद्धायामपि वाचि सस्मितमिदं दग्धाननं** <br> जायतेदृष्टे निर्वहणं भविष्यति कथं मानस्य तस्मिञ्जने \|\| <br> Amarushatakam 24 |
 | [7](#verse-7) | செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு <br> முறாஅர்போன் றுற்றார் குறிப்பு | **भ्रूभेदो रचितः चिरं नयनयोरभ्यस्तमामीलनं** <br> **रोद्धुं शिक्षितमादरेण हसितं मौनेऽभियोगः कृतः** \| <br> धैर्यं कर्तुमपि स्थिरीकृतमिदं चेतः **कथंचिन्मया** <br> बद्धो मानपरिग्रहे परिकरः **सिद्धिस्तु दैवस्थिता** \|\| <br> Amarushatakam 92 |
-| [8](#verse-8) | அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப் <br> பசையினள் பைய நகும் | |
+| [8](#verse-8) | அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப் <br> பசையினள் பைய நகும் | भ्रूचातुर्याकुञ्चिताक्षाः **कटाक्षाः स्निग्धा** <br> वाचो लज्जिताश्चैव **हासाः** \| <br> **लीलामन्दं प्रस्थितं च स्थितं च <br> स्त्रीणामेतद् भूषणं** चायुधं च \|\| <br> Bhartrihari Shringarashataka 8 |
 | [9](#verse-9) | ஏதிலார் போலப் பொதுநோக்கு நோக்குதல் <br> காதலார் கண்ணே யுள | स्निग्धं **वीक्षितमन्यतोऽपि नयने यत्प्रेषयन्त्या** तया <br> यातं यच्च नितम्बयोर्गुरुतया मन्दं विलासादिव \| <br> मा गा इत्युपरुद्धया यदपि सा सासूयमुक्ता सखी <br> सर्वं तत्किल मत्परायणमहो **कामी स्वतां पश्यति** \|\| <br> Kalidasa Abhijnana Shakuntalam 2.2 |
 | [10](#verse-10) | கண்ணொடு கண்ணிணை நோக்கொக்கின் வாய்ச்சொற்க <br> ளென்ன பயனு மில | अलसवलितैः प्रेमार्द्रार्द्रैर्मुहुर्मुकुलीकृतैः <br> क्षणमभिमुखैर्लज्जालोलैर्निमेषपराङ्मुखैः \| <br> **हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणैः** <br> कथय सुकृती कोऽयं मुग्धे त्वयाद्य विलोक्यते \|\| <br> Amarushatakam 4 |
 
@@ -118,6 +118,12 @@ Bhartrihari’s Shringara Shataka verse 7 (presented earlier) corroborates the k
 
 ### Verse 8
 
+Bhartrihari's Shringarashataka verse 8 offers a good semantic parallel to the Kural. लीलामन्दं प्रस्थितं च स्थितं च स्त्रीणामेतद् भूषणं corresponds well with அசையியற் குண்டாண்டோ ரேஎர். In addition to capturing the slow, playful, steady, and graceful movements, स्त्रीणामेतद् भूषणं further confirms that these graceful manifestations constitute the woman's ஏர் (which denotes அழகு), rather than being merely incidental gestures. The कटाक्षाः and हासाः respectively correspond to யான் நோக்க and பைய நகும்; मन्दं may be understood as qualifying not only the playful movements but also the manner of the smile.
+
+While स्निग्धा: gives a direct correpondence to பசையினள், the corroboration is much deeper. Bhartrihari's भ्रूचातुर्याकुञ्चिताक्षाः and लज्जिताः place the glance and expression within the शृङ्गार and ललिता दृष्टिः repertoire described by the Natyashastra. सभ्रूक्षेपकटाक्षा and कान्तात्यर्थं are associated with शृङ्गार, while ललिता दृष्टिः is characterized by कुञ्चितान्ता, सभ्रूक्षेपा, and सस्मिता, and is specifically prescribed in association with लज्जा. The woman thus exhibits the recognizable ललिता mode of feminine शृङ्गार, and is thereby कान्ता (another aspect of பசையினள்). The Natyashastra references and correspondence aer explored further in the [chapter summary](#chapter-summary). 
+
+While स्निग्धाः gives a direct correspondence to பசையினள், the corroboration is much deeper. Bhartṛhari's भ्रूचातुर्याकुञ्चिताक्षाः and लज्जिताः place the glance and expression within the शृङ्गार and ललिता दृष्टिः repertoire described by the Nāṭyaśāstra. सभ्रूक्षेपकटाक्षा and कान्तात्यर्थं are associated with शृङ्गार, while ललिता दृष्टिः is characterized by कुञ्चितान्ता, सभ्रूक्षेपा, and सस्मिता, and is specifically prescribed in association with लज्जा. The woman thus exhibits the recognizable ललिता mode of feminine शृङ्गार, and is thereby कान्ता. The Nāṭyaśāstra references and these correspondences are explored further in the chapter summary.
+
 ### Verse 9
 
 An excellent parallel for the kural is provided by Kalidasa's Abhijnana Shakuntalam 2.2. Here वीक्षितम् अन्यतः अपि corresponds to ஏதிலார் போலப் பொதுநோக்கு: the glance appears to be directed elsewhere, while नयने प्रेषयन्त्या supplies நோக்குதல், the directing of the eyes. The concluding कामी स्वतां पश्यति corresponds with காதலார் கண்ணே யுள: what is outwardly अन्यतः, the lover कामी uniquely perceives as स्वताम्. The Tamil கண் is especially economical, simultaneously denoting the lover's eye/sight and the locus of perception (locative case), while கண்ணே marks that perception as belonging to the lover. 
@@ -156,20 +162,50 @@ The first verse describes Janaka and Sulabha being joined—the rays of one pair
 
 The ten Kurals describe a grammar of romantic signaling through the eyes, and Sanskrit Shringara poetry has a technical vocabulary that matches well. Vallulvar, in this chapter, is largely consistent with the established Indic literary tradition, while injecting unique culturally appropriate poetic excpressions.
 
-Manakkudavar's ordering of the verses provides a better overall structure to the chapter in terms of the progresssion of the relationship than the modern sequence.
+#### Shringara Perspective using the Manakkudavar order
 
-| No. | Mnk No. | Kural | Shringara | Source |
+Manakkudavar's ordering provides a more logical sequence of the signals indicating progresssion of the relationship than the modern kural verse ordering. Bhartrihari Shringarshataka (BhSh) 6 captures the initial step in which the man is smitten by the woman's glance. Magha Sishupalavadham 8.35 captures the furtive glance and bashful indicating growth of attraction in the woman. Kalidasa Abhijnana Shakuntalam (KAbSh 2.11, XX, 2.2) captures the beauty of the progression in the covert flirting. Then BhSh 7-8 capture the overt signalling. Amarushataka (AmSh) 92 and 24 capture the feigned estrangement and hostility in words and demeanor. AmASH 4 captures the culmination of complete understanding through mutual gazing.  
+
+| No. | Manakkudavar number and Stage | Kural fragment | Shringara match | Source |
 |--|--|--|--|--|
-| [1](#verse-1) | 1 | ஒருநோக்கு நோய் ... மருந்து | मुग्धाक्षीक्षणवीक्षितस्य न वैद्यो न चाप्यौषधम्  | BhSh 6 |
-| [3](#verse-3) | 2 | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  யாப்பினு ளட்டிய நீர் | दृशं निधाय (स्निह्यन्ती) + पूर्णं वारिणा अञ्जलिम् (मूर्तेन प्रणयरसेन इव) | MShV 8.35 |
-| [4](#verse-4) | 3 | யானோக்குங் காலை நிலனோக்கு ... நகும் | अभिमुखे मयि संहृतमीक्षितम् ... हसितम्  | KAbSh 2.11 |
-| [2](#verse-2) | 4 | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் செம்பாக மன்று பெரிது | | |
-| [9](#verse-9) | 5 | ஏதிலார் போலப் பொதுநோக்கு நோக்குதல் ... காதலார் கண்ணே யுள | वीक्षितमन्यतोऽपि नयने यत्प्रेषयन्त्या ... कामी स्वतां पश्यति | KAbSh 2.2 |
-| [5](#verse-5) | 6 | குறிக்கொண்டு நோக்காமை ... ஒருகண் சிறக்கணித்தாள் போல நகும் | पराङ्मुखैः ... अर्धकटाक्षवीक्षणैः + स्मितेन | BhSh 7 |
-| [8](#verse-8) | 7 | அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப் பசையினள் பைய நகும் | | |
-| [6](#verse-6) | 8 | உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொல் | रुद्धायामपि वाचि सस्मितमिदं दग्धाननं | AmSh 24 |
-| [7](#verse-7) | 9 | செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு முறாஅர்போன் றுற்றார் | रुद्धायामपि वाचि + भ्रूभेदो रचितः चिरं नयनयोरभ्यस्तमामीलनं रोद्धुं शिक्षितमादरेण हसितं मौनेऽभियोगः कृतः  | AmSh 24,92 |
-| [10](#verse-10) | 10 | கண்ணொடு கண்ணிணை நோக்கொக்கின் |  हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणै  | AmSh 4 |
+| [1](#verse-1) | 1 : initial glance in which the man is smitten | ஒருநோக்கு நோய் ... மருந்து | मुग्धाक्षीक्षणवीक्षितस्य न वैद्यो न चाप्यौषधम्  | BhSh 6 |
+| [3](#verse-3) | 2 : furtive glance and bashful withdrawal, growth of attraction in the woman | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  யாப்பினு ளட்டிய நீர் | दृशं निधाय (स्निह्यन्ती) + पूर्णं वारिणा अञ्जलिम् (मूर्तेन प्रणयरसेन इव) | MShV 8.35 |
+| [4](#verse-4) | 3 : covert flrting glances while the man is not looking, and quickly withdrawal when he looks | யானோக்குங் காலை நிலனோக்கு ... நகும் | अभिमुखे मयि संहृतमीक्षितम् ... हसितम्  | KAbSh 2.11 |
+| [2](#verse-2) | 4 : - covert stealing of glances confirming mutual physical attraction | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் செம்பாக மன்று பெரிது | | |
+| [9](#verse-9) | 5 : covert signalling with dissimulation to conceal the relationship in public | ஏதிலார் போலப் பொதுநோக்கு நோக்குதல் ... காதலார் கண்ணே யுள | वीक्षितमन्यतोऽपि नयने यत्प्रेषयन्त्या ... कामी स्वतां पश्यति | KAbSh 2.2 |
+| [5](#verse-5) | 6 : overt signalling through eye gestures | குறிக்கொண்டு நோக்காமை ... ஒருகண் சிறக்கணித்தாள் போல நகும் | पराङ्मुखैः ... अर्धकटाक्षवीक्षणैः + स्मितेन | BhSh 7 |
+| [8](#verse-8) | 7 : overt signalling through direct body language and smile | அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப் பசையினள் பைய நகும் | कटाक्षाः स्निग्धा हासाः लीलामन्दं प्रस्थितं च स्थितं च स्त्रीणामेतद् भूषणं  | BhSh 8 |
+| [6](#verse-6) | 8 : feigned estrangement in words | உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொல் | रुद्धायामपि वाचि सस्मितमिदं दग्धाननं | AmSh 24 |
+| [7](#verse-7) | 9 : feigned hostility in demeanor and in words | செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு முறாஅர்போன் றுற்றார் | रुद्धायामपि वाचि + भ्रूभेदो रचितः चिरं नयनयोरभ्यस्तमामीलनं रोद्धुं शिक्षितमादरेण हसितं मौनेऽभियोगः कृतः  | AmSh 24,92 |
+| [10](#verse-10) | 10 : complete understanding through mutual gazing, transcending verbal feint, overt signaling, and stealth | கண்ணொடு கண்ணிணை நோக்கொக்கின் |  हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणै  | AmSh 4 |
+
+Actually just three verses by Bhartrihari (BhSh 6–8) provide a remarkably parsimonious Sanskrit counterpart to the sequence: 
+
+  1. BhSh 6 मुग्धाक्षीक्षणवीक्षितस्य न वैद्यो न चाप्यौषधम् establishes the woman's eyes as the source of an explicitly erotic affliction
+
+  2. BhSh 7–8 captures the core emotional and gestural architecture of the entire chapter, and supplies the vocabulary for the entire choreography : smita, lajjā, parāṅmukha, ardha-kaṭākṣa-vīkṣaṇa, vācīrṣyā-kalaha, ākuncitākṣa, kaṭākṣa, and hāsa. 
+  3. **स्मितेन** भावेन च लज्जया भिया <br> **पराङ्मुखैरर्धकटाक्षवीक्षणैः** \|  वचोभिरीर्ष्याकलहेन लीलया <br> समस्तभावैः खलु बन्धनं स्त्रियः \|\| 
+  4.  **मुग्धाक्षीक्षणवीक्षितस्य 
+  5.  भ्रूचातुर्याकुञ्चिताक्षाः **कटाक्षाः स्निग्धा** <br> वाचो लज्जिताश्चैव **हासाः** \|  **लीलामन्दं प्रस्थितं च स्थितं च <br> स्त्रीणामेतद् भूषणं** चायुधं च \|\| 
+  6. BhSH 7 अर्धकटाक्षवीक्षणैः captures the overt visual signaling
+  7. BhSH 8 कटाक्षाः हासाः लीलामन्दं captures the overt body language  
+  8. BhSh 7 वचोभिरीर्ष्याकलहेन लीलया captures the feigned estrangement in words
+  9. BhSh 7 वचोभिरीर्ष्याकलहेन लीलया also captures the feigned hostility in words and demeanor
+  10. While verbal expression is mentioned just twice in the catalogue, the overwhelming emphasis is on viusal and non-verbal signaling, thus providing an implicit counterpart to the last kural, where reciprocal eye-contact renders speech superfluous. The additional Sanskrit passages supply specific semantic nuances, metaphors, and alankara/dramatic realizations that Bhartrihari leaves implicit.
+
+
+
+
+#### The Natyashastra connection
+
+Chapter 8 of Bharata’ Natyashastra is interesting in this context. Verse 46, हर्षप्रसादजनिता कान्तात्यर्थं समन्यथा \| सभ्रूक्षेपकटाक्षा च शृङ्गारे दृष्टिरिक्ष्यते \|\|, associates the sidelong glance with raised/thrown eyebrows (सभ्रूक्षेपकटाक्षा) with the Shringara rasa. Then verse 76, मधुराकुञ्चितान्ता च सभ्रूक्षेपा च सस्मिता \| सममन्यविकारा च दृष्टिः सा ललिता स्मृता \|\| describes the Lalita Dhristi is remembered as the glance that has gently contracted ends, is accompanied by an eyebrow movement, bears a smile, and has an even/undisturbed expression of anger. The सभ्रूक्षेपा connects this with the Shringara rasa. Then verse 90 establishes the rule that the Lalita Dhristi to be employed with perspiration and bashfulness: श्रान्ता श्रमार्ते **स्वेदे च लजायां ललिता** तथा \| अपस्मारे तथा व्याधौ ग्लान्यां ग्लाना **विधीयते** \|\|. The face turned away is introduced in verse 33: परावृत्तानुकरणात् परावृत्तमिहोच्यते \| तत् स्यान्मुखापहरणे पृष्ठतः प्रेक्षणादिषु \|\|, and then the averted look is introduced in verse 160, विवृत्तं चापि विज्ञेयं हास्यशोकभयादिषु \| स्त्रीणामुद्वाहि लीलायां गर्वे गच्छत्यनादरे \|\|, connecting the Vivritta look in women with playfulness, pride, and indifference. Later, in Chapter 22, Bharata defines अधोमुखी in verse 167, प्रहसन्तीव नेत्राभ्यां प्रततं च निरीक्षते \| स्मयते सा निगूढं च वाचं चाधोमुखी वदेत् \|\|.
+
+Bhartrihari’s Shringara Shataka verse 8 is: भ्रूचातुर्याकुञ्चिताक्षाः कटाक्षाः स्निग्धा वाचो लज्जिताश्चैव हासाः \| लीलामन्दं प्रस्थितं च स्थितं च स्त्रीणामेतद् भूषणं चायुधं च \|\|. We find the following correspondences with the Natyashastra: (1) लज्जिताश्चैव with लजायां ललिता; (2) हासाः with हर्षप्रसादजनिता and सस्मिता; (3) भ्रूचातुर्याकुञ्चिताक्षाः कटाक्षाः with कुञ्चितान्ता च सभ्रूक्षेपा and सभ्रूक्षेपकटाक्षा; (4) पराङ्मुखैः (verse 7) ... लीलामन्दं ...  स्त्रीणाम् with परावृत्त ... विवृत्तं ... स्त्रीणामुद्वाहि लीलायां गर्वे गच्छत्यनादरे. Similar correspondences exist with the Amarushataka and the works of Kalidasa that we employ here. The mutual corroboration between the Shringara literature and the Kamasutra (e.g., in the characterization of अधोमुखी) shows conceptual consistency across theory and practice. 
+
+In addition to providing a contextual understanding of the entire kural chapter, this correspondence was helpful in interpreting two of Valluvar's unique expressions: ஒருகண் சிறக்கணித்தாள் போல and  அசையியற் குண்டாண்டோ ரேஎர். The connecttion to Shringara literature was helpful in identifying verse matches, including, in particular, a close match to the rather obscure metaphor யாப்பினு ளட்டிய நீர். 
+
+
+
 
 <!--
 Bhartrihari's Shringara Shataka verse 6,  we get, मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम्, the gaze causing an affliction for which there is no medical remedy.  Then verse 7,  स्मितेन भावेन च लज्जया भिया पराङ्मुखैरर्धकटाक्षवीक्षणैः \| वचोभिरीर्ष्याकलहेन लीलया समस्तभावैः खलु बन्धनं स्त्रियः \|\|, provides a catalog: eyes contracted/turned, sidelong glance, affectionate speech, laughter ending in bashfulness, and slow/playful movement.
@@ -179,10 +215,5 @@ The Amarushataka verse 4, अलसवलितैः प्रेमार्�
 -->
 
 
-#### Natyashastra connection
-
-Chapter 8 of Bharata’ Natyashastra is interesting in this context. Verse 46, हर्षप्रसादजनिता कान्तात्यर्थं समन्यथा \| सभ्रूक्षेपकटाक्षा च शृङ्गारे दृष्टिरिक्ष्यते \|\|, associates the sidelong glance with raised/thrown eyebrows (सभ्रूक्षेपकटाक्षा) with the Shringara rasa. Then verse 76, मधुराकुञ्चितान्ता च सभ्रूक्षेपा च सस्मिता \| सममन्यविकारा च दृष्टिः सा ललिता स्मृता \|\| describes the Lalita Dhristi is remembered as the glance that has gently contracted ends, is accompanied by an eyebrow movement, bears a smile, and has an even/undisturbed expression of anger. The सभ्रूक्षेपा connects this with the Shringara rasa. Then verse 90 establishes the rule that the Lalita Dhristi to be employed with perspiration and bashfulness: श्रान्ता श्रमार्ते **स्वेदे च लजायां ललिता** तथा \| अपस्मारे तथा व्याधौ ग्लान्यां ग्लाना **विधीयते** \|\|. The face turned away is introduced in verse 33: परावृत्तानुकरणात् परावृत्तमिहोच्यते \| तत् स्यान्मुखापहरणे पृष्ठतः प्रेक्षणादिषु \|\|, and then the averted look is introduced in verse 160, विवृत्तं चापि विज्ञेयं हास्यशोकभयादिषु \| स्त्रीणामुद्वाहि लीलायां गर्वे गच्छत्यनादरे \|\|, connecting the Vivritta look in women with playfulness, pride, and indifference. Later, in Chapter 22, Bharata defines अधोमुखी in verse 167, प्रहसन्तीव नेत्राभ्यां प्रततं च निरीक्षते \| स्मयते सा निगूढं च वाचं चाधोमुखी वदेत् \|\|.
-
-Bhartrihari’s Shringara Shataka verse 8 is: भ्रूचातुर्याकुञ्चिताक्षाः कटाक्षाः स्निग्धा वाचो लज्जिताश्चैव हासाः \| लीलामन्दं प्रस्थितं च स्थितं च स्त्रीणामेतद् भूषणं चायुधं च \|\|. We find the following correspondences with the Natyashastra: (1) लज्जिताश्चैव with लजायां ललिता; (2) हासाः with हर्षप्रसादजनिता and सस्मिता; (3) भ्रूचातुर्याकुञ्चिताक्षाः कटाक्षाः with कुञ्चितान्ता च सभ्रूक्षेपा and सभ्रूक्षेपकटाक्षा; (4) पराङ्मुखैः (verse 7) ... लीलामन्दं ...  स्त्रीणाम् with परावृत्त ... विवृत्तं ... स्त्रीणामुद्वाहि लीलायां गर्वे गच्छत्यनादरे. Similar correspondences exist with the Amarushataka and the works of Kalidasa that we employ here. The mutual corroboration between the Shringara literature and the Kamasutra (e.g., in the characterization of अधोमुखी) shows conceptual consistency across theory and practice. 
 
 
