@@ -11,12 +11,12 @@ tags: [kuralmatch]
 | [1](#verse-1) | இருநோக் கிவளுண்க ணுள்ள தொருநோக்கு <br> நோய்நோக்கொன் றந்நோய் மருந்து | व्यादीर्घेण चलेन वक्रगतिना तेजस्विना भोगिना <br> नीलाब्जद्युतिनाऽहिना वरमहं दष्टो, न तच्चक्षुषा \| <br> दष्टे सन्ति चिकित्सका दिशि-दिशि प्रायेण धर्मार्थिनो <br> **मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम्**  \|\| <br> Bhartrihari Shringarashataka 6 |
 | [2](#verse-2) | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் <br> செம்பாக மன்று பெரிது | |
 | [3](#verse-3) | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  <br> யாப்பினு ளட்டிய நீர் | **स्निह्यन्ती दृशम्** अपरा **निधाय पूर्णं** <br> **मूर्तेन प्रणयरसेन वारिणेव** \| <br> कन्दर्पप्रवणमानाः सखीसिसिक्षा- <br> लक्ष्येण प्रतियुवम् **अञ्जलिं चकार** \|\| <br> Magha Sishupalavadha 8.35 |  
-| [4](#verse-4) | யானோக்குங் காலை நிலனோக்கு நோக்காக்காற் <br> றானோக்கி மெல்ல நகும் | **अभिमुखे मयि संहृतमीक्षितम् हसितम्** <br> अन्यनिमित्तकथोदयम् \| <br> विनयवारितवृत्तिरतस्तया <br> न विवृतो मदनो न च संवृतः \|\| <br> Kalidasa's Abhijnana Shankuntalam verse 2.11 | 
-| [5](#verse-5) | குறிக்கொண்டு நோக்காமை யல்லா லொருகண் <br> சிறக்கணித்தாள் போல நகும் | **स्मितेन** भावेन च लज्जया भिया **पराङ्मुखैरर्धकटाक्षवीक्षणैः** \| <br> वचोभिरीर्ष्याकलहेन लीलया समस्तभावैः खलु बन्धनं स्त्रियः \|\| <br> Bhartrihari Shringarashataka 7 |
-| [6](#verse-6) | உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொ <br> லொல்லை யுணரப் படும் | |
-| [7](#verse-7) | செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு <br> முறாஅர்போன் றுற்றார் குறிப்பு | **भ्रूभेदो रचितः चिरं नयनयोरभ्यस्तमामीलनं** <br> **रोद्धुं शिक्षितमादरेण हसितं मौनेऽभियोगः कृतः** \| <br> धैर्यं कर्तुमपि स्थिरीकृतमिदं चेतः **कथंचिन्मया** <br> बद्धो मानपरिग्रहे परिकरः **सिद्धिस्तु दैवस्थिता** \|\| <br> Amarushatakam 92 <br> **भ्रूभङ्गे रचितेऽपि** दृष्टिरधिकं सोत्कण्ठमुद्वीक्षतेकार्कश्यं <br> गमितेऽपि चेतसि तनूरोमाञ्चमालम्बते \| <br> **रुद्धायामपि वाचि** सस्मितमिदं दग्धाननं <br> जायतेदृष्टे निर्वहणं भविष्यति कथं मानस्य तस्मिञ्जने \|\| <br> Amarushatakam 24 |
+| [4](#verse-4) | யானோக்குங் காலை நிலனோக்கு நோக்காக்காற் <br> றானோக்கி மெல்ல நகும் | **अभिमुखे मयि संहृतमीक्षितम् हसितम्** <br> अन्यनिमित्तकथोदयम् \| <br> विनयवारितवृत्तिरतस्तया <br> न विवृतो मदनो न च संवृतः \|\| <br> Kalidasa Abhijnana Shankuntalam 2.11 | 
+| [5](#verse-5) | குறிக்கொண்டு நோக்காமை யல்லா லொருகண் <br> சிறக்கணித்தாள் போல நகும் | **स्मितेन** भावेन च लज्जया भिया <br> **पराङ्मुखैरर्धकटाक्षवीक्षणैः** \| <br> वचोभिरीर्ष्याकलहेन लीलया <br> समस्तभावैः खलु बन्धनं स्त्रियः \|\| <br> Bhartrihari Shringarashataka 7 |
+| [6](#verse-6) | உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொ <br> லொல்லை யுணரப் படும் | **भ्रूभङ्गे रचितेऽपि** दृष्टिरधिकं सोत्कण्ठमुद्वीक्षतेकार्कश्यं <br> गमितेऽपि चेतसि तनूरोमाञ्चमालम्बते \| <br> **रुद्धायामपि वाचि** सस्मितमिदं दग्धाननं <br> जायतेदृष्टे निर्वहणं भविष्यति कथं मानस्य तस्मिञ्जने \|\| <br> Amarushatakam 24 |
+| [7](#verse-7) | செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு <br> முறாஅர்போன் றுற்றார் குறிப்பு | **भ्रूभेदो रचितः चिरं नयनयोरभ्यस्तमामीलनं** <br> **रोद्धुं शिक्षितमादरेण हसितं मौनेऽभियोगः कृतः** \| <br> धैर्यं कर्तुमपि स्थिरीकृतमिदं चेतः **कथंचिन्मया** <br> बद्धो मानपरिग्रहे परिकरः **सिद्धिस्तु दैवस्थिता** \|\| <br> Amarushatakam 92 |
 | [8](#verse-8) | அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப் <br> பசையினள் பைய நகும் | |
-| [9](#verse-9) | ஏதிலார் போலப் பொதுநோக்கு நோக்குதல் <br> காதலார் கண்ணே யுள | स्निग्धं **वीक्षितमन्यतोऽपि नयने यत्प्रेषयन्त्या** तया <br> यातं यच्च नितम्बयोर्गुरुतया मन्दं विलासादिव \| <br> मा गा इत्युपरुद्धया यदपि सा सासूयमुक्ता सखी <br> सर्वं तत्किल मत्परायणमहो **कामी स्वतां पश्यति** \|\| <br> Kalidasa's Abhijnana Shakuntalam 2.2 |
+| [9](#verse-9) | ஏதிலார் போலப் பொதுநோக்கு நோக்குதல் <br> காதலார் கண்ணே யுள | स्निग्धं **वीक्षितमन्यतोऽपि नयने यत्प्रेषयन्त्या** तया <br> यातं यच्च नितम्बयोर्गुरुतया मन्दं विलासादिव \| <br> मा गा इत्युपरुद्धया यदपि सा सासूयमुक्ता सखी <br> सर्वं तत्किल मत्परायणमहो **कामी स्वतां पश्यति** \|\| <br> Kalidasa Abhijnana Shakuntalam 2.2 |
 | [10](#verse-10) | கண்ணொடு கண்ணிணை நோக்கொக்கின் வாய்ச்சொற்க <br> ளென்ன பயனு மில | अलसवलितैः प्रेमार्द्रार्द्रैर्मुहुर्मुकुलीकृतैः <br> क्षणमभिमुखैर्लज्जालोलैर्निमेषपराङ्मुखैः \| <br> **हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणैः** <br> कथय सुकृती कोऽयं मुग्धे त्वयाद्य विलोक्यते \|\| <br> Amarushatakam 4 |
 
 
@@ -104,13 +104,15 @@ Given the thematic continuity in the correspondences with the Bhatrihari verse, 
 
 ### Verse 6
 
-Bhartrihari’s Shringara Shataka verse 7 (presented earlier) corroborates the kural’s உறாஅ தவர்போற் சொலினுஞ் with वचोभिरीर्ष्याकलहेन. 
+Amarushtakam verse 4 provides a parallel to the kural. **रुद्धायामपि वाचि** corresponds to உறாஅ தவர்போற் சொலினுஞ். From the सस्मितमिदं we can tell the dissemblance, and therefore,  செறாஅர்சொ லொல்லை யுணரப் படும் follows; the रुद्धायामपि वाचि is feigned. The thematic correspondence continues into the next kural, and we explore it further there.
+
+Bhartrihari’s Shringara Shataka verse 7 (presented earlier) also corroborates the kural’s உறாஅ தவர்போற் சொலினுஞ் with वचोभिरीर्ष्याकलहेन. 
 
 ### Verse 7
 
 The correspondence between the kural and Amarushataka verse 92 is remarkably close: भ्रूभेदो चिरं + नयनयोर् आमीलनम् + रोद्धुं हसितम् corresponds to செற்றார்போல் நோக்கும், the hostile-looking frown, eyes, and suppressed smile producing the appearance of one who is estranged; मौने corresponds to செறாஅச் சிறுசொல்லும், since silence and curt words are two sides of the same coin of verbal expression--the former passive, the latter actively withholding or hostile. The sequence रचितः + अभ्यस्तम् + शिक्षितम् + अभियोगः कृतः corresponds as a whole to உறாஅர்போன்று உற்றார், for these deliberate acts of construction, practice, training, and undertaking constitute the lover's conscious dissembling as one who is not attached. Finally, कथञ्चिन्मया ... सिद्धिस्तु दैवस्थिता leaves open whether this carefully constructed appearance will actually succeed, thereby leaving the குறிப்பு—-the sign by which the underlying attachment is apprehended—-to be caught by the observer rather than explicitly stated. While the poetic expression varies between the two works, the crux of the kural is closely matched by the shloka.
 
-Amarushatakam verse 24, expresses a similar idea, but the poetic expression is different: "Though she knits her brows in anger, her eyes gaze at him all the more longingly; though she hardens her heart, her body breaks into gooseflesh; though she restrains her speech, her burning face betrays a smile. When she sees that man, how can she possibly maintain her feigned displeasure toward him?" While the mechanics of dissemblance such as रूभङ्गे रचिते  are similar to verse 92, the குறிப்பு is not subtle at all; rather it is completely obvious, as she is not able to maintain her feigned displeasure. The main reason to include this additional parallel is that it supplies रुद्धायामपि वाचि which closely corresponds to செறாஅச் சிறுசொல்லும்.
+Amarushatakam verse 24 (presented earlier), expresses a similar idea, but the poetic expression is different: "Though she knits her brows in anger, her eyes gaze at him all the more longingly; though she hardens her heart, her body breaks into gooseflesh; though she restrains her speech, her burning face betrays a smile. When she sees that man, how can she possibly maintain her feigned displeasure toward him?" While the mechanics of dissemblance such as  भ्रूभङ्गे रचिते  are similar to verse 92, the குறிப்பு is not subtle at all; rather it is completely obvious, as she is not able to maintain her feigned displeasure. The main reason to include this additional parallel is that it supplies रुद्धायामपि वाचि which closely corresponds to செறாஅச் சிறுசொல்லும்.
 
 Bhartrihari’s Shringara Shataka verse 7 (presented earlier) corroborates the kural’s செறாஅச் சிறுசொல்லும் by likewise presenting speech colored by jealousy and quarrelsomeness as an erotic mode of apparent hostility (वचोभिरीर्ष्याकलहेन).
 
@@ -123,7 +125,6 @@ An excellent parallel for the kural is provided by Kalidasa's Abhijnana Shakunta
 Vatsyayana provides a technical catalogue of such covert signals in Kamasutra verse 5.2.7: दर्शने चास्याः सततं साकारं प्रेक्षणं केशसंयमनं नखाच्छुरणमाभरणप्रह्लादनमधरोष्ठविमर्दनं तास्ताश्च लीला वयस्यैः सह प्रेक्षमाणायास्तत्सम्बद्धाः परापदेशिन्यश्च कथास्त्यागोपभोगप्रकाशनं सख्युरुत्सङ्गनिषण्णस्य साङ्गभङ्गं जृम्भणमेकभ्रूक्षेपणं मन्दवाच्यता तद्वाक्यश्रवणं तामुद्दिश्य बालेनान्यजनेन वा सहान्योपदिष्टा द्व्यर्था कथा तस्यां स्वयं मनोरथावेदनमन्यापदेशेन तामेवोद्दिश्य बालचुम्बनमालिङ्गनं च जिह्वया चास्य ताम्बूलदानं प्रदेशिन्या हनुदेशघट्टनं तत्तद्यथायोगं यथावकाशं च प्रयोक्तव्यम् \|\|. The passage need not be restricted to the lovers’ gaze. The kural’s ஏதிலார் போலப் பொதுநோக்கு நோக்குதல் may be understood more broadly as “regarding one another with the common, ordinary, or indifferent regard appropriate to strangers who have nothing to do with each other.” On this reading, பொதுநோக்கு describes the lovers’ outwardly conventional manner of regarding one another, while காதலார் கண்ணே யுள marks the private significance intelligible only to the lovers. Vatsyayana’s catalogue likewise extends beyond साकारं प्रेक्षणम्, encompassing gestures and forms of speech through which an outwardly innocuous expression conveys a meaning intended for the beloved. In particular, परापदेशिन्यः कथाः describes stories ostensibly referring to another, while स्वयं मनोरथावेदनम् अन्यापदेशेन explicitly describes communicating one’s own desire by means of another pretext. The correspondence is therefore not confined to the lovers’ exchanging looks, but lies more broadly in the use of outwardly conventional conduct to conceal a private communication understood by the lovers.
 
 Socially appropriate conduct between two lovers in a public setting -- such as in the presence of a Guru (गुरुसन्निधौ), or when the occasion is inapporpriate (न कालोचितः) -- is discussed in Amarushatakam verse 79 through negative examples: लोलद्भ्रूलतया विपक्षदिगुपन्यासेऽवधूतं शिरस्तद्वृत्तान्तनिरीक्षणे कृतनमस्कारो विलक्षः स्थितः \। कोपात्ताम्रकपोलभित्तिनि मुखे दृष्ट्या गतः पादयोर्उत्सृष्टो गुरुसन्निधावपि विधिर्द्वाभ्यां न कालोचितः \|\|. This is the converse of the kural's proposition. 
-
 
 ### Verse 10
 
@@ -151,7 +152,6 @@ A striking Sanskrit conceptual parallel occurs within a spiritual context in the
 
 The first verse describes Janaka and Sulabha being joined—the rays of one pair of eyes meeting those of the other (नेत्राभ्यां नेत्रयोरस्य रश्मीन्संयोज्य रश्मिभिः). Beyond the physical parallel to the கண்ணொடு கண்ணிணை நோக்கொக்கின், they are also bound in a deep yogic bond (योगबन्धैर्बबन्ध). The next says that Janaka apprehending her भाव (भावमस्या विशेषयन्), received her भाव through his own भाव (प्रतिजग्राह भावेन भावमस्या).  The नेत्र → नेत्र → भाव → भाव sequence is therefore a striking Sanskrit formulation of the same non-verbal communicative principle, albeit, with a more elevated spiritual purpose.
 
-
 ### Chapter Summary
 
 The ten Kurals describe a grammar of romantic signaling through the eyes, and Sanskrit Shringara poetry has a technical vocabulary that matches well. Vallulvar, in this chapter, is largely consistent with the established Indic literary tradition, while injecting unique culturally appropriate poetic excpressions. 
@@ -168,7 +168,7 @@ Bhartrihari's Shringara Shataka verse 6,  we get, मुग्धाक्षी
 The Amarushataka verse 4, अलसवलितैः प्रेमार्द्रार्द्रैर्मुहुर्मुकुलीकृतैः क्षणमभिमुखैर्लज्जालोलैर्निमेषपराङ्मुखैः \| हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणैः कथय सुकृती कोऽयं मुग्धे त्वयाद्य विलोक्यते \|\|, presents a similar catalog: eyes are languidly moving, moist with love, repeatedly closing, for a moment turned toward him, trembling with bashfulness, then turned away at the moment of blinking, and the eyes communicate (without words) the feeling hidden in the heart.
 
 Shringarashataka 6, 7/8
-Amarushatakam 4, 24/92, 79
+Amarushatakam 4, 24, 92,
 Abhijnana Shakuntalam 2.2 (Amarushatakam 79), 2.11 (Kamasutra 3.3.26-27)
 Magha Shishupalavadha 8.35
 
@@ -181,7 +181,7 @@ Magha Shishupalavadha 8.35
 | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  யாப்பினு ளட்டிய நீர் | दृशं निधाय (स्निह्यन्ती) + पूर्णं वारिणा अञ्जलिम् (मूर्तेन प्रणयरसेन इव) | Magha |
 | யானோக்குங் காலை நிலனோக்கு ... நகும் | अभिमुखे मयि संहृतमीक्षितम् ... हसितम् | Kalidasa |
 | குறிக்கொண்டு நோக்காமை ... ஒருகண் சிறக்கணித்தாள் போல நகும் | पराङ्मुखैः ... अर्धकटाक्षवीक्षणैः + स्मितेन | Bhartrihari |
-| உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொல் | xx वचोभिरीर्ष्याकलहेन | |
+| உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொல் | रुद्धायामपि वाचि | Amaru |
 | செறாஅச் சிறுசொல்லுஞ் செற்றார்போ னோக்கு முறாஅர்போன் றுற்றார் | रुद्धायामपि वाचि + भ्रूभेदो रचितः चिरं नयनयोरभ्यस्तमामीलनं रोद्धुं शिक्षितमादरेण हसितं मौनेऽभियोगः कृतः | Amaru |
 | அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப் பசையினள் பைய நகும் | xx | |
 | ஏதிலார் போலப் பொதுநோக்கு நோக்குதல் ... காதலார் கண்ணே யுள | वीक्षितमन्यतोऽपि नयने यत्प्रेषयन्त्या ... कामी स्वतां पश्यति | Kalidasa |
