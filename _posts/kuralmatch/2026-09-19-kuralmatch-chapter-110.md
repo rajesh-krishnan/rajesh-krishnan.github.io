@@ -10,7 +10,7 @@ tags: [kuralmatch]
 |--|--|--|
 | [1](#verse-1) | இருநோக் கிவளுண்க ணுள்ள தொருநோக்கு <br> நோய்நோக்கொன் றந்நோய் மருந்து | व्यादीर्घेण चलेन वक्रगतिना तेजस्विना भोगिना <br> नीलाब्जद्युतिनाऽहिना वरमहं दष्टो, न तच्चक्षुषा \| <br> दष्टे सन्ति चिकित्सका दिशि-दिशि प्रायेण धर्मार्थिनो <br> **मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम्**  \|\| <br> Bhartrihari Shringarashataka 6 |
 | [2](#verse-2) | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் <br> செம்பாக மன்று பெரிது | |
-| [3](#verse-3) | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  <br> யாப்பினு ளட்டிய நீர் | |
+| [3](#verse-3) | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  <br> யாப்பினு ளட்டிய நீர் | **स्निह्यन्ती दृशम्** अपरा **निधाय पूर्णं** <br> **मूर्तेन प्रणयरसेन वारिणेव** \| <br> कन्दर्पप्रवणमानाः सखीसिसिक्षा- <br> लक्ष्येण प्रतियुवम् **अञ्जलिं चकार** \|\| <br> Magha Sishupalavadha 8.35 |  
 | [4](#verse-4) | யானோக்குங் காலை நிலனோக்கு நோக்காக்காற் <br> றானோக்கி மெல்ல நகும் | **अभिमुखे मयि संहृतमीक्षितम् हसितम्** अन्यनिमित्तकथोदयम् \| <br> विनयवारितवृत्तिरतस्तया न विवृतो मदनो न च संवृतः \|\| <br> Kalidasa's Abhijnana Shankuntalam verse 2.11 | 
 | [5](#verse-5) | குறிக்கொண்டு நோக்காமை யல்லா லொருகண் <br> சிறக்கணித்தாள் போல நகும் | **स्मितेन** भावेन च लज्जया भिया **पराङ्मुखैरर्धकटाक्षवीक्षणैः** \| <br> वचोभिरीर्ष्याकलहेन लीलया समस्तभावैः खलु बन्धनं स्त्रियः \|\| <br> Bhartrihari Shringarashataka 7 |
 | [6](#verse-6) | உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொ <br> லொல்லை யுணரப் படும் | |
@@ -26,13 +26,61 @@ tags: [kuralmatch]
 
 The correspondence between the kural and Bhartrihari's Shringarashataka 6 is especially close in its construction of the woman's நோக்கு as the cause of an explicitly medicalized affliction. In the concluding pada, मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम्, the one who has been subjected to the ईक्षण of the charming-eyed woman has neither वैद्य nor औषध. This finds a particularly compact counterpart in Valluvar's ஒருநோக்கு நோய்நோக்கு, where one நோக்கு is identified as producing நோய். While Bhartṛhari leaves the affliction without either वैद्य or औषध, Valluvar supplies the otherwise absent resolution: the second நோக்கு becomes the மருந்து for the நோய் produced by the first. On the other hand, Bhartrihari's poetic ingenuity lies in the elaborate feint of the first three padas: he accumulates every conventional attribute of a serpent (व्यादीर्घ, चल, वक्रगत, तेजस्विन्, भोगिन्, अहि), only to overturn the entire image with न तच्चक्षुषा, revealing that the true bite was inflicted not by the serpent but by the woman's eyes, and thereby allowing the medical vocabulary of दष्ट, चिकित्सक, वैद्य, औषध to carry the metaphor to its full force.
 
-The Mahasubhashitasamgraha verse 5979S provides an erotic resolution of the same pathology: इन्दीवराक्षि तव तीव्रकटाक्षबाणपातव्रणे द्वितयमौषधमेव मन्ये \। एकं तवाधरसुधारसपानमन्यदुत्तुङ्गपीनकुचकुङ्कुमपङ्कलेपः \|\|.  Here the तीव्रकटाक्षबाण produces a व्रण, for which the poet identifies two remedies: अधर-सुधारसपान and कुचकुङ्कुमपङ्कलेप. In the context of a work whose காமத்துப்பால் is nevertheless framed within the larger ethical architecture of the Thirukkural, Valluvar's formulation is more restrained: rather than resolving the affliction through physical means, he makes the remedy another glance, allowing the entire movement from affliction to relief to remain within the refined economy of the lovers' gaze. 
+The Mahasubhashitasamgraha verse 5979S provides an erotic resolution of the same pathology: इन्दीवराक्षि तव तीव्रकटाक्षबाणपातव्रणे द्वितयमौषधमेव मन्ये \| एकं तवाधरसुधारसपानमन्यदुत्तुङ्गपीनकुचकुङ्कुमपङ्कलेपः \|\|.  Here the तीव्रकटाक्षबाण produces a व्रण, for which the poet identifies two remedies: अधर-सुधारसपान and कुचकुङ्कुमपङ्कलेप. In the context of a work whose காமத்துப்பால் is nevertheless framed within the larger ethical architecture of the Thirukkural, Valluvar's formulation is more restrained: rather than resolving the affliction through physical means, he makes the remedy another glance, allowing the entire movement from affliction to relief to remain within the refined economy of the lovers' gaze. 
 
 ### Verse 2
 
 
 ### Verse 3
 
+The correspondence to the kural read together with Manakkudavar's commentary is most economically established through Magha's Sishupalavadham 8.35, read together with Mallinatha. நோக்கினாள் நோக்கி(னபின்பு) is compactly represented by दृशं निधाय, where दृशं supplies the gaze, while the gerund निधाय, having directed/placed (it), presents that act as completed and prior to what follows. Thus the construction simultaneously accommodates நோக்கினாள் and the connective force of நோக்கி(னபின்பு), rather than merely providing a lexical equivalent for look. For இறைஞ்சினாள், however, the correspondence is interpretive rather than lexical. Manakkudavar’s understanding of இறைஞ்சினாள் through bashfulness/modesty supplies the Tamil-side emotional bridge: the bodily response is a குறிப்பு from which the concealed erotic feeling is inferred. This is precisely the Shringara convention independently made explicit in Amarushatakam verse 4: लज्जालोलैः ... निमेषपराङ्मुखैः, where bashfulness causes the woman to turn away, and in Kālidāsa’s Abhijnana Shakuntalam verse 3.10: संहृतमीक्षितम् ... विनयवारितवृत्तिः, where the withdrawn gaze and modest restraint signal concealed love. In Magha, the corresponding emotional state is expressed through स्निह्यन्ती, which Mallinātha explains as दृष्टिविशेषेण स्नेहं प्रकाशयन्ती, manifesting affection through a particular kind of gaze; प्रणयरसेन makes the Shringara implication still more explicit.
+
+The final image, யாப்பினுள் அட்டிய நீர், has an unusually economical counterpart in पूर्णं वारिणा अञ्जलिम्, further clarified by Mallinātha as बद्धाञ्जलिरेव तिष्ठन्ती, she merely remains with her hands joined/bound. Here யாப்பு, which Valluvar himself uses elsewhere simply in the sense of a binding or fastening (Kural 777), need not be given a specialized agricultural sense. The physical image is simply water contained within the hands. Magha then superimposes the erotic metaphor through मूर्तेन प्रणयरसेन ... इव; the water is imagined as embodied love-rasa. Thus the correspondence யாப்பினுள் அட்டிய நீர் → पूर्णं वारिणा अञ्जलिम्, with बद्धाञ्जलि supplying the notion of joining/binding, is considerably more economical than the alternative partial parallels.
+
+### Commentaries and other interesting partial parallels for corroboration
+
+#### Mallinatha's commentary for Magha's Sishupalavadham 8.35
+
+```text
+स्निह्यन्तीति ॥ कंदर्पप्रवणमनाः स्मरपरवशचित्ता अत एव दृशं निधाय पुंस्येव दृष्टिं कृत्वा स्निह्यन्ती । दृष्टिविशेषेण स्नेहं प्रकाशयन्तीत्यर्थः ।
+अपरा स्त्री सख्याः सिसिक्षा सेक्तुमिच्छा तस्या लक्ष्येण व्याजेन बद्धाञ्जलिरेव तिष्ठन्ती न तु सिञ्चन्तीति द्योतनाय सिसिक्षेतीच्छायां सनः प्रयोगः ।
+प्रतियुवं युवानं प्रति । 'अनश्च' (५।४।१०८) इत्यव्ययीभावे समासान्तः । मूतेन मूर्तिमता प्रणयरसेनेवेत्युत्प्रेक्षा ।
+पाठादर्थस्य बलीयस्त्वादिवशब्दस्य व्यवहितेनान्वयः । वारिणा पूर्णमञ्जलिं चकार । प्रार्थयामासेत्यर्थः ॥ ३५ ॥
+```
+
+#### Manakkudavar's commentary on this kural
+
+```text
+நோக்கினா னோக்கி யிறைஞ்சினா ளஃதேவள்
+யாப்பினு எட்டிய நீர்.   (இ - ள்.) முற்பட நோக்கினாள், நோக்கின் பின்பு நாணினாள், 
+அஃது அவள் நட்புப் பயிர்வரர அதன்கண் வார்த்த நீர், (எ - று).
+தலைமகள் நாண் போகாமைக்குக் காரணங் கூறியவாறாம்.
+```
+
+#### Amarushatakam 4
+
+Amaru supplies the explicit śṛṅgāra convention of a woman alternating between facing the beloved and turning away through lajja: अलसवलितैः प्रेमार्द्रार्द्रैर्मुहुर्मुकुलीकृतैः **क्षणमभिमुखैर्लज्जालोलैर्निमेषपराङ्मुखैः** \| हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणैः कथय सुकृती कोऽयं मुग्धे त्वयाद्य विलोक्यते \|\|. This closely paallels Valluvar's நோக்கினா னோக்கி யிறைஞ்சினாள், additionally providing the Shringara aspect of लज्जालोलैः, which corresponds to Manakkudavar's interpretation நோக்கின் பின்பு நாணினாள். 
+
+#### Kalidasa's Abhijnana Shakuntalam 3.10
+
+Kalidasa likewise combines a withdrawn gaze, modesty, and a smile/sign through which love remains neither wholly concealed nor wholly revealed: पृष्टा जनेन समदुःखसुखेन बाला
+नेयं न वक्ष्यति मनोगतमाधिहेतुम् \| **दृष्टो विवृत्य** बहुशोऽप्यनया **सतृष्णम्** अत्रान्तरे श्रवणकातरतां गतोऽस्मि \|\|. This closely paallels Valluvar's நோக்கினா னோக்கி யிறைஞ்சினாள் and supplies the Shringara aspect सतृष्णम्. 
+
+#### Kalidasa'a Kumarasambhava 6.84
+
+Kalidasa's verse. with Parvati adhomukhi and occupied with counting lotus leaves, gives yet another culturally recognizable association between bashful lowering of the face and the watery/lotus setting: एवंवादिनि देवर्षौ पार्श्वे पितुरधोमुखी \| लीलाकमलपत्राणि गणयामास पार्वती \|\|.
+
+#### Valluvar's Kural 777  
+
+Valluvar uses the word யாப்பு in the sense of binding, specifically a band tied to the legs of warriors: சுழலும் இசைவேண்டி வேண்டா உயிரார் / கழல்யாப்புக் காரிகை நீர்த்து.
+
+#### Bharavi's Kiratarjuniya 2.31
+
+Bharavi, although in a non-Shringara context, supplies the broader Sanskrit agricultural metaphor in which watering is understood as preserving/nourishing: अभिवर्षति योऽनुपालयन्वि धिबीजानि विवेकवारिणा \| स सदा फलशालिनीं क्रियां शरदं लोक इवाधितिष्ठति \|\|. Mallinatha's commentary, अत्र फलशब्देन सस्यहेतुकृतयोरर्थयोरभेदाध्यवसायाच्छ्लेषमूलातिशयोक्तिस्तदनुगृहीता चोपमेत्यनुसंधेयम्, is making an analysis of Bharavi's verse; he sees fruit (फल) simultaneously as agricultural produce and as the result of an action, and says the two meanings are deliberately fused. The agricultural reading is particularly an interpretive overlay of Manakkudavar and other commentators rather than something that needs to be imported into Valluvar's யாப்பு. Our interpretation does not require this.
+
+#### Jain Nrityadhaya 1602
+
+The Jain/Nrityadhyaya provides another Sanskrit expression of the familiar love-creeper / watering metaphor, अङ्कुरितां मम हृदये प्रेमलता रमणजलधरो \| सिञ्चति जीवनस्वनैरिह वचनैरुन्नतिं नेतुम् \|\|. The image is explicit: the creeper of love (प्रेमलता), having sprouted in my heart, is watered by the beloved, imagined as a rain-cloud (जलधर), through the life-giving streams of his words, so that it may grow upward. 
 
 ### Verse 4
 
@@ -122,7 +170,7 @@ The Amarushataka verse 4, अलसवलितैः प्रेमार्�
 Shringarashataka 6, 7/8
 Amarushatakam 4, 24/92, 79
 Abhijnana Shakuntalam 2.2 (Amarushatakam 79), 2.11 (Kamasutra 3.3.26-27)
-Kamasutra 3.3.26-27 (Abhijnana Shakuntalam 2.11, Shringarashataka 7)
+Magha Shishupalavadha 8.35
 
 -->
 
@@ -130,7 +178,7 @@ Kamasutra 3.3.26-27 (Abhijnana Shakuntalam 2.11, Shringarashataka 7)
 |--|--|--|
 | ஒருநோக்கு நோய் ... மருந்து | मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम् | Bhartrihari |
 | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் செம்பாக மன்று பெரிது | xx | |
-| நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  யாப்பினு ளட்டிய நீர் | xx | |
+| நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  யாப்பினு ளட்டிய நீர் | दृशं निधाय (स्निह्यन्ती) + पूर्णं वारिणा अञ्जलिम् (मूर्तेन प्रणयरसेन इव) | Magha |
 | யானோக்குங் காலை நிலனோக்கு ... நகும் | अभिमुखे मयि संहृतमीक्षितम् ... हसितम् | Kalidasa |
 | குறிக்கொண்டு நோக்காமை ... ஒருகண் சிறக்கணித்தாள் போல நகும் | पराङ्मुखैः ... अर्धकटाक्षवीक्षणैः + स्मितेन | Bhartrihari |
 | உறாஅ தவர்போற் சொலினுஞ் செறாஅர்சொல் | xx वचोभिरीर्ष्याकलहेन | |
