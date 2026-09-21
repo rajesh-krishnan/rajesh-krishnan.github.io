@@ -158,8 +158,8 @@ The ten Kurals describe a grammar of romantic signaling through the eyes, and Sa
 
 Manakkudavar's ordering of the verses provides a better overall structure to the chapter in terms of the progresssion of the relationship than the modern sequence.
 
-| No. | Manakkkudavar No. | Kural | Shringara | Source |
-|--|--|--|--|--|--|
+| No. | Mnk No. | Kural | Shringara | Source |
+|--|--|--|--|--|
 | [1](#verse-1) | 1 | ஒருநோக்கு நோய் ... மருந்து | मुग्धाक्षीक्षणवीक्षितस्य न वैद्यो न चाप्यौषधम्  | BhSh 6 |
 | [3](#verse-3) | 2 | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  யாப்பினு ளட்டிய நீர் | दृशं निधाय (स्निह्यन्ती) + पूर्णं वारिणा अञ्जलिम् (मूर्तेन प्रणयरसेन इव) | MShV 8.35 |
 | [4](#verse-4) | 3 | யானோக்குங் காலை நிலனோக்கு ... நகும் | अभिमुखे मयि संहृतमीक्षितम् ... हसितम्  | KAbSh 2.11 |
