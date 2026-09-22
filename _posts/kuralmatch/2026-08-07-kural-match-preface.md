@@ -6,10 +6,10 @@ categories: [Sanskrit Verses Similar to Thirukkural]
 tags: [kuralmatch]
 ---
 
-The goal of this effort is to identify Sanskrit verses that approximate the idea of each verse of the Thirukkural.
-The matched verses are from various Sanskrit texts of wide ranging antiquity, including some newer than the Thirukkural.
+The goal of this effort is to identify Sanskrit verses that approximate the meaning or idea of each verse of the Thirukkural.
+The matched verses are from various Sanskrit texts of widely ranging antiquity, including some newer than the Thirukkural.
 This work is made available in the public domain, and I will not be responding to comments until the work is complete.
-The verse matching is not being done starting from verse 1 to 1330 in linear order.
+The verse matching is not being undertaken sequentially from verse 1 through verse 1330.
 
 To get the most out of this work, the reader would:
 
@@ -17,9 +17,9 @@ To get the most out of this work, the reader would:
 - have an emic appreciation of ancient Indic knowledge traditions
 - be willing and able to look up meanings and scholarly commentaries of the verses using traditional or modern (e.g., AI-assisted search) means
 
-The "compactly structured kural pierces the atom and loads the seven seas into it" said the great Tamil poetess Avvaiyar. Given the enormity of wisdom the kural distills into two short lines, I am in no delusion that the verse match I suggest is semantically isomorphic. Even most direct translations fail that standard. No claim is being made that the match is unique or best; the selection reflects my best judgment and scope of research at present. I may switch out verses with better matching alternatives if I find any.
+The "compactly structured kural pierces the atom and loads the seven seas into it" said the great Tamil poetess Avvaiyar. Given the enormity of wisdom the kural distills into two short lines, I am under no illusion that the verse match I suggest is semantically isomorphic. Even most direct translations fail that standard. No claim is being made that the match is unique or best; the selection reflects my best judgment and scope of research at present. I may switch out verses with better matching alternatives if I find any.
 
-I do include comments, however, on some gaps identified between the kural and its proposed matching verse, as well as some research notes that may offer insight into my sources and interpretive bias in matching. Please feel free to ignore them and draw your own conclusions of the fitness of match, and gaps in semantic coverage.
+I do include comments, however, on some gaps identified between the kural and its proposed matching verse, as well as some research notes that may offer insight into my sources and interpretive bias in matching. Please feel free to ignore them and draw your own conclusions of the fitness of the proposed match, and gaps in semantic coverage.
 
 I offer no translations of the kural or matched verses. Translations of the kural in Sanskrit, English, and other languages are widely available, as are commentaries on it. 
 Translations and scholarly commentaries are available for many, if not all, of the matched Sanskrit verses as well.
