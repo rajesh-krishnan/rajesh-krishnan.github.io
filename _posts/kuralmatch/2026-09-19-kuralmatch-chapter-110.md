@@ -9,7 +9,7 @@ tags: [kuralmatch]
 |  | [110](#chapter-summary) : காமத்துப்பால் : களவியல் : குறிப்பறிதல் |  |
 |--|--|--|
 | [1](#verse-1) | இருநோக் கிவளுண்க ணுள்ள தொருநோக்கு <br> நோய்நோக்கொன் றந்நோய் மருந்து | व्यादीर्घेण चलेन वक्रगतिना तेजस्विना भोगिना <br> नीलाब्जद्युतिनाऽहिना वरमहं दष्टो, न तच्चक्षुषा \| <br> दष्टे सन्ति चिकित्सका दिशि-दिशि प्रायेण धर्मार्थिनो <br> **मुग्धाक्षीक्षणवीक्षितस्य न हि मे वैद्यो न चाप्यौषधम्**  \|\| <br> Bhartrihari Shringarashataka 6 |
-| [2](#verse-2) | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் <br> செம்பாக மன்று பெரிது | |
+| [2](#verse-2) | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் <br> செம்பாக மன்று பெரிது | उज्झितसौभाग्यमदस्फुटयाच्ञानङ्गभीतयोर्यूनोः \| <br> **अकलितमनसोरेका दृष्टिर्दूती निसृष्टार्था** \|\| <br> Govardhanacharya Aryasaptashati 128 |
 | [3](#verse-3) | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  <br> யாப்பினு ளட்டிய நீர் | **स्निह्यन्ती दृशम्** अपरा **निधाय पूर्णं** <br> **मूर्तेन प्रणयरसेन वारिणेव** \| <br> कन्दर्पप्रवणमानाः सखीसिसिक्षा- <br> लक्ष्येण प्रतियुवम् **अञ्जलिं चकार** \|\| <br> Magha Sishupalavadha 8.35 |  
 | [4](#verse-4) | யானோக்குங் காலை நிலனோக்கு நோக்காக்காற் <br> றானோக்கி மெல்ல நகும் | **अभिमुखे मयि संहृतमीक्षितम् हसितम्** <br> अन्यनिमित्तकथोदयम् \| <br> विनयवारितवृत्तिरतस्तया <br> न विवृतो मदनो न च संवृतः \|\| <br> Kalidasa Abhijnana Shankuntalam 2.11 | 
 | [5](#verse-5) | குறிக்கொண்டு நோக்காமை யல்லா லொருகண் <br> சிறக்கணித்தாள் போல நகும் | **भ्रूचातुर्याकुञ्चिताक्षाः कटाक्षाः** स्निग्धा <br> वाचो लज्जिताश्चैव **हासाः** \| <br> लीलामन्दं प्रस्थितं च स्थितं च <br> स्त्रीणामेतद् भूषणं चायुधं च \|\| <br> **स्मितेन** भावेन च लज्जया भिया <br> **पराङ्मुखैरर्धकटाक्षवीक्षणैः** \| <br> वचोभिरीर्ष्याकलहेन लीलया <br> समस्तभावैः खलु बन्धनं स्त्रियः \|\| <br> Bhartrihari Shringarashataka 8,7 |
@@ -32,6 +32,29 @@ The Mahasubhashitasamgraha verse 5979 provides an erotic resolution of the same 
 
 ### Verse 2
 
+Govardhanacharya's Aryasaptashati 128 provides a striking parallel for the kural, especially when read with Ananta Pandita's commentary below.
+
+```text
+कयोश्चित्कटाक्षमात्रेणैव योगः संवृत्त इति काचिद्वक्ति । यद्वा न दूत्यादेरुपयोगः,
+किं तु कटाक्षमात्रेणैव कार्यं कर्तुं शक्यमिति काचित्कांचिद्वक्ति--
+ 
+उज्झित सौभाग्यमदस्फुटयाच्ञानङ्गभीतयोर्यूनोः ।
+अकलितमनसोरेका दृष्टिर्दूती निसृष्टार्था ॥ १२८ ॥
+ 
+उज्झितेति । उज्झितस्त्याजितः सौभाग्यस्य मदो ययैतादृशी या प्रकटयाच्ञा, अ-
+नङ्गश्च । एतद्भीतयोः । स्फुटप्रार्थनायां सौभाग्यमदभङ्गः, अप्रार्थनायां मदनबाधेत्युभ-
+यत्रापि भीतिरिति भावः । 'भङ्ग' इति पाठे सौभाग्यमदभङ्गं सोढ्वापि याच्ञायां कृतायां
+तत्फलाभावे भीतिरित्यर्थः । अकलितं मनो याभ्यां तयोः । अविज्ञातपरस्पराभिप्राय-
+योरित्यर्थः । यूनोरेका दृष्टि: परस्परावलोकनं निसृष्टार्था दूती । 'उभयोर्भावमुन्नीय
+स्वयं वदति चोत्तरम् । सूत्कृष्टं कुरुते कार्यं निसृष्टार्था तु सा स्मृता ॥' एवं च कटाक्ष-
+मात्रेणैव संयोगः संवृत्तः कर्तुं शक्य इति ध्वन्यते ॥
+```
+
+The correspondence can be stated quite tightly. The decisive verbal parallel is contained in एका दृष्टिर्दूती निसृष्टार्था: the single दृष्टि itself becomes a दूती and accomplishes the purpose. This corresponds directly to the கண்களவு கொள்ளுஞ் சிறுநோக்கம் and the accomplished purpose निसृष्टार्था: of the दूती corresponds to the erotic purpose represented by காமம். The remainder of Govardhana's verse supplies an unusually close contextual setting: उज्झितसौभाग्यमद...अनङ्गभीतयोः places the यूनोः in a situation where explicit solicitation is avoided; अकलितमनसोः leaves their mutual intentions yet unascertained; and एका दृष्टिः then provides the reciprocal visual communication. This corresponds to the fourth stage in the sequence implicit in Maṇakkudavar's ordering of the relevant erotic signs: after ஒருநோக்கு has produced the man's நோய், after attraction has arisen in the woman, and after her covert glances and withdrawal when observed, the remaining erotic function of the glance is precisely the confirmation of mutual attraction expressed in கண்களவு கொள்ளுஞ் சிறுநோக்கம்.
+
+The correspondence becomes particularly clear when read alongside the commentaries of the kural and the shloka. Manakkudavar explains களவுகொள்ளுஞ் சிறுநோக்கம் as the little glance made furtively when the man's eyes are diverted: என்கண்களைச் சோர்வுபார்த்துக் களவினால் நோக்குகின்ற சிறிய நோக்கம். Parimelazhagar makes its significance more explicit, saying that it occurs உளப்பாடுள்வழி and therefore prevents the prospective புணர்தல் from being ஒருதலை: the glance discloses the woman's inward disposition and thereby establishes reciprocity. Govardhana's अकलितमनसोः glossed by Ananta Paṇḍita as अविज्ञातपरस्पराभिप्राययोः, presents essentially the same uncertainty, while एका दृष्टिर्दूती निसृष्टार्था gives the glance the decisive communicative role. Ananta Pandita's commentary clarifies that someone says that union has come about merely through a sidelong glance (कयोश्चित्कटाक्षमात्रेणैव योगः संवृत्त); or, rather, no messenger and the like is required, since the purpose can be accomplished merely by a sidelong glance. The correspondence to the crux of the kural is unmistakable. The semantic gap is one of poetic expression: Govardhana represents the single look as sufficient to perform the work of a messenger and accomplish the erotic purpose; Valluvar instead calls it a stolen little glance and expresses its value hyperbolically as காமத்திற் செம்பாகம் அன்று பெரிது (not just half of the union, but greater than half).
+
+Kalidasa’s Abhijnana Shakuntalam verse 2.1: कामं प्रिया न सुलभा मनस्तु तद्भावदर्शनाश्वासि \| अकृतार्थेऽपि मनसिजे रतिमुभयप्रार्थना कुरुते \|\| provides another parallel. The Shakuntala-vyakhyā of Shrīnivasacharya and Raghavabhatta’s Arthadyotanika Tika explicitly interprets रतिमुभयप्रार्थना through reciprocal signs of love: उभयप्रार्थना = परस्परमिङ्गितचेष्टितकटाक्षपातादिव्यतिकरणस्वानुरागसूचनमेव (“mutual indication of one’s own love through the exchange of gestures, actions, sidelong glances, and the like”). Thus कटाक्षपात is not merely an ornamental glance; it is a means by which each lover discovers the other’s स्वानुराग. The commentary even glosses उभयप्रार्थना as ज्ञातपरस्पराभिलाषः, knowledge of mutual desire. This brings Kalidasa remarkably close to the crox of the kural: the importance of the சிறுநோக்கம் lies in its disclosure of the other's உளப்பாடு (which is Parimelazhakar's gloss). This parallel is interesting since the next two kurals (or previous two in Manakkudavar order) also find parallels in adjacent verses (2.2 and 2.11) of the Abhijnana Shankuntalam.
 
 ### Verse 3
 
@@ -166,14 +189,14 @@ The ten Kurals describe a grammar of romantic signaling through the eyes, and Sa
 
 #### Shringara Perspective using the Manakkudavar order
 
-Manakkudavar's ordering provides a more logical sequence of the signals indicating progresssion of the relationship than the modern kural verse ordering. Our full complement of additional Sanskrit passages presented as primary parallels above supply specific semantic nuances, metaphors, and alankara/dramatic realizations that the parsimonious maps using either BhSh 6-7 or AmSh 4,24 (discussed later) leave implicit. Bhartrihari Shringarshataka (BhSh) 6 captures the initial step in which the man is smitten by the woman's glance. Magha Sishupalavadham 8.35 captures the furtive glance and bashful indicating growth of attraction in the woman. Kalidasa Abhijnana Shakuntalam (KAbSh 2.11, XX, 2.2) captures the beauty of the progression in the covert flirting. Then BhSh 7-8 capture the overt signalling. Amarushataka (AmSh) 92 and 24 capture the feigned estrangement and hostility in words and demeanor. AmSh 4 captures the culmination of complete understanding through mutual gazing.  
+Manakkudavar's ordering provides a more logical sequence of the signals indicating progresssion of the relationship than the modern kural verse ordering. Our full complement of additional Sanskrit passages presented as primary parallels above supply specific semantic nuances, metaphors, and alankara/dramatic realizations that the parsimonious maps using either BhSh 6-7 or AmSh 4,24 (discussed later) leave implicit. Bhartrihari Shringarshataka (BhSh) 6 captures the initial step in which the man is smitten by the woman's glance. Magha Sishupalavadham 8.35 captures the furtive glance and bashful indicating growth of attraction in the woman. Kalidasa Abhijnana Shakuntalam (KAbSh) 2.11, 2.2 and Govardhanacharya Aryasaptashati (GoAr 128) capture the beauty of the progression in the covert flirting. Then BhSh 7-8 capture the overt signalling. Amarushataka (AmSh) 92 and 24 capture the feigned estrangement and hostility in words and demeanor. AmSh 4 captures the culmination of complete understanding through mutual gazing.  
 
 | No. | Manakkudavar number and Stage | Kural fragment | Shringara match | Source |
 |--|--|--|--|--|--|
 | [1](#verse-1) | 1 : initial glance in which the man is smitten | ஒருநோக்கு நோய் ... மருந்து | मुग्धाक्षीक्षणवीक्षितस्यो ... न औषधम् | BhSh 6 |
 | [3](#verse-3) | 2 : furtive glance and bashful withdrawal, growth of attraction in the woman | நோக்கினா ணோக்கி யிறைஞ்சினா ளஃதவள்  யாப்பினு ளட்டிய நீர் | दृशं निधाय (स्निह्यन्ती) + पूर्णं वारिणा अञ्जलिम् (मूर्तेन प्रणयरसेन इव) | MShV 8.35 |
-| [4](#verse-4) | 3 : covert flrting glances while the man is not looking, else quick withdrawal | யானோக்குங் காலை நிலனோக்கு ... நகும் | अभिमुखे मयि संहृतमीक्षितम् ... हसितम्  | KAbSh 2.11 |
-| [2](#verse-2) | 4 : covert stealing of glances confirming mutual physical attraction | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் செம்பாக மன்று பெரிது | | |
+| [4](#verse-4) | 3 : covert flirting glances while the man is not looking, else quick withdrawal | யானோக்குங் காலை நிலனோக்கு ... நகும் | अभिमुखे मयि संहृतमीक्षितम् ... हसितम्  | KAbSh 2.11 |
+| [2](#verse-2) | 4 : covert stealing of glances confirming mutual physical attraction | கண்களவு கொள்ளுஞ் சிறுநோக்கங் காமத்திற் செம்பாக மன்று பெரிது | दृष्टिर्दूती निसृष्टार्था | GoAr 128 |
 | [9](#verse-9) | 5 : covert signalling with dissimulation to conceal the relationship in public | ஏதிலார் போலப் பொதுநோக்கு நோக்குதல் ... காதலார் கண்ணே யுள | वीक्षितमन्यतोऽपि नयने यत्प्रेषयन्त्या ... कामी स्वतां पश्यति | KAbSh 2.2 |
 | [5](#verse-5) | 6 : overt signalling through eye gestures | குறிக்கொண்டு நோக்காமை ... ஒருகண் சிறக்கணித்தாள் போல நகும் | भ्रूचातुर्याकुञ्चिताक्षाः कटाक्षाः ... हासाः | BhSh 8 |
 | [8](#verse-8) | 7 : overt signalling through direct body language and smile | அசையியற் குண்டாண்டோ ரேஎர்யா னோக்கப் பசையினள் பைய நகும் | कटाक्षाः स्निग्धा हासाः लीलामन्दं प्रस्थितं च स्थितं च स्त्रीणामेतद् भूषणं  | BhSh 8 |
