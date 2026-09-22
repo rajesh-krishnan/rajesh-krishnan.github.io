@@ -194,15 +194,11 @@ Just two verses by Bhartrihari (BhSh 6–7) provide a remarkably parsimonious Sa
 | **लीला**             |  ·  |  ·  |  ·  |  ·  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ·  | 
 | **लज्जा**            |  ·  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ·  |  ·  |  ·  |  ·  | 
 | **अर्ध-कटाक्ष**      |    |  ✓  |  ✓  |   ✓  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |
-| **कटाक्ष**             |  ·  |  ·  |  ·  |  ✓  |  ✓  |  ✓  |  .  |  .  |  .  |  ·  | 
+| **कटाक्ष**             |  ·  |  ·  |  ·  |  .  |  ✓  |  ✓  |  .  |  .  |  .  |  ·  | 
 
 The matrix above has kurals in Manikkudavar order as columns. The rows are attributes from BhSh 7. The matrix treats वीक्षण as the constant underlying element: at the beginning, the glance itself produces erotic affliction, while at the end वीक्षण + भाव remains, expressing the inward state without need of speech; the latter assignment is supported by the Sulabha-janaka verse. The explicitly specified elements are पराङ्मुख, स्मित, and वचस्/ईर्ष्या-कलह, each corresponding to features directly present in the relevant Kurals. The remaining elements are interpretive: when लज्जा and भिया operate together, expression is inhibited and the glance becomes a fleeting or stolen अर्ध-कटाक्ष; when भिया falls away but लज्जा remains, the glance can become the more deliberate कटाक्ष. पराङ्मुख implies लज्जा, as turning away is an expression of bashfulness, but लज्जा does not necessarily entail पराङ्मुख. With the disappearance of भिया, the signalling shifts from inhibited expression toward combinations of भाव and लीला, whose precise configuration varies with the stage. Thus the kurals can be represented not by a succession of unrelated Sanskrit parallels, but by progressively different combinations of a compact Bhartrihari vocabulary of visual and emotional signalling.
 
 Another parsimonious thematic coverage of this chapter is possible using just two verses of the Amarushataka (AmSh). AmSh 4, अलसवलितैः प्रेमार्द्रार्द्रैर्मुहुर्मुकुलीकृतैः क्षणमभिमुखैर्लज्जालोलैर्निमेषपराङ्मुखैः \| हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणैः कथय सुकृती कोऽयं मुग्धे त्वयाद्य विलोक्यते \|\| presents a complementary catalog: eyes are languidly moving, moist with love, repeatedly closing, for a moment turned toward him, trembling with bashfulness, then turned away at the moment of blinking, and the eyes communicate (without words) the feeling hidden in the heart. While it leaves the first kural implicit, it covers the last one explicitly with हृदयनिहितं भावाकूतं वमद्भिरिवेक्षणैः. AmSh 24, भ्रूभङ्गे रचितेऽपि दृष्टिरधिकं सोत्कण्ठमुद्वीक्षतेकार्कश्यं गमितेऽपि चेतसि तनूरोमाञ्चमालम्बते \| रुद्धायामपि वाचि सस्मितमिदं दग्धाननं जायतेदृष्टे निर्वहणं भविष्यति कथं मानस्य तस्मिञ्जने \|\| develops the mechanics of feigned hostility in words and demeanor with  भ्रूभङ्गे रचितेऽपि दृष्टिरधिकं ... रुद्धायामपि वाचि सस्मितमिदं दग्धाननं.  The remaining verses can be seen as largely variations on the combination of क्षणमभिमुखैर्लज्जालोलैर्निमेषपराङ्मुखैः and सस्मितमिदं. 
-
-
-
-
 
 #### The Natyashastra connection
 
