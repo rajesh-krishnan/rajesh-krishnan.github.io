@@ -13,8 +13,8 @@ tags: [kuralmatch]
 | [3](#verse-3) | இருமை வகைதெரிந் தீண்டறம் பூண்டார் <br> பெருமை பிறங்கிற் றுலகு | |
 | [4](#verse-4) | உரனென்னுந் தோட்டியா னோரைந்துங் காப்பான் <br> வரனென்னும் வைப்பிற்கோர் வித்து | |
 | [5](#verse-5) | ஐந்தவித்தா னாற்ற லகல்விசும்பு ளார்கோமா <br> னிந்திரனே சாலுங் கரி | |
-| [6](#verse-6) | செயற்கரிய செய்வார் பெரியர் சிறியர் <br> செயற்கரிய செய்கலா தார் | |
-| [7](#verse-7) | சுவையொளி யூறோசை நாற்றமென் றைந்தின் <br> வகைதெரிவான் கட்டே யுலகு | |
+| [6](#verse-6) | செயற்கரிய செய்வார் பெரியர் சிறியர் <br> செயற்கரிய செய்கலா தார் | श्रेयश्च प्रेयश्च मनुष्यमेतः तौ सम्परीत्य विविनक्ति धीरः \| <br> श्रेयो हि धीरोऽभि प्रेयसो वृणीते प्रेयो मन्दो योगक्षेमाद्वृणीते \|\| <br> Kathopanishad 1.2.2 |
+| [7](#verse-7) | சுவையொளி யூறோசை நாற்றமென் றைந்தின் <br> வகைதெரிவான் கட்டே யுலகு | **शब्दः स्पर्शस्तथा रूपं रसो गन्धश्च पञ्चमः** \| <br> **एते पञ्चगुणा भूमेर्विज्ञेया** द्विजसत्तमाः \|\| <br> Mahabharata, Ashvamedhika Parva 14.49.40 (BORI) |
 | [8](#verse-8) | நிறைமொழி மாந்தர் பெருமை நிலத்து <br>  மறைமொழி காட்டி விடும் | |
 | [9](#verse-9) | குணமென்னுங் குன்றேறி நின்றார் வெகுளி <br> கணமேயுங் காத்த லரிது | |
 | [10](#verse-10) | அந்தண ரென்போ ரறவோர்மற் றெவ்வுயிர்க்குஞ் <br> செந்தண்மை பூண்டொழுக லான் | **मित्रता सर्वभूतेषु** दानमध्ययनं तपः \| <br> **ब्राह्मणस्यैष धर्मः** स्यान्न राज्ञो राजसत्तम \|\| <br> Mahabharata Shanti Parva 12.14.15 (BORI) |
@@ -39,9 +39,13 @@ tags: [kuralmatch]
 
 ### Verse 6
 
-
+Kathopanishad 1.2.2 is a close parallel to this kural: செயற்கரிய செய்வார் பெரியர் (the great are those who do what is hard) corresponds to धीरः … श्रेयः … वृणीते (the learned, intelligent, and/or courageous person chooses the higher good), while சிறியர் செயற்கரிய செய்கலாதார் (the lesser are those who do not do what is hard) corresponds to मन्दः … प्रेयः … वृणीते (the lesser, slower, or less intelligent person chooses the pleasant). அரிய connotes what is rare, precious, excellent, and difficult to accomplish, and this has a particulalry close semantic affinity with श्रेयः, the higher or more worthy good. Likewise, धीरः can denote a person distinguished by learning, intelligence, or courage.  मन्दः can connote slow, less intelligent, or simply a lesser category. The kural leaves implicit why undertaking the difficult distinguishes the பெரியர் from the சிறியர்; the Shloka supplies this context by explaining that the difficult choice is श्रेयो (the higher good) over प्रेयो (the pleasant), whereas the मन्दः chooses प्रेयस् in pursuit of योगक्षेम, acquisition and preservation of worldly well-being.
+ 
 ### Verse 7
 
+The correspondence of the Mahabharata Ashvamedhika Parva verse 14.49.40 (BORI Critical Edition) with the kural is remarkably close: ஓசை, ஊறு, ஒளி, சுவை, நாற்றம் with शब्द, स्पर्श, रूप, रस, and गन्ध; ஐந்தின் வகைதெரிவான் with पञ्च गुणा ... विज्ञेया; and ஐந்தின் கட்டே யுலகு with the conception of भूमेः पञ्चगुणाः. ஐந்தின் கட்டே can be understood ஐந்திலிருந்து கட்டப்பட்டதே by reading -இன் as the ancient Tamil ablative case ending, and கட்டே as கட்டப்பட்டதே (built/constituted from), which provides a natural reading of the phrase aligned with the Sanskrit formulation. This diverges from the alternative commentarial tradition of reading of கட்டே as கட்டுப்பட்டதே (under the control of).
+
+Kathopanishad verse 2.1.3 provides corroboration of the crux of the kural: येन रूपं रसं गन्धं शब्दान् स्पर्शांश्च मैथुनान् \| एतेनैव विजानाति किमत्र परिशिष्यते \| एतद् वै तत् \|\|. Here रूपं रसं गन्धं शब्दान् स्पर्शान् explicitly enumerates the five senses, and विजानाति supplies the act of knowing. Particularly suggestive for உலகு is किमत्र परिशिष्यते (what remains here?) with अत्र pointing to the experienced world.
 
 ### Verse 8
 
