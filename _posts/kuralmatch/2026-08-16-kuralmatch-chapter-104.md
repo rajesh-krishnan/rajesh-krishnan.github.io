@@ -9,7 +9,7 @@ tags: [kuralmatch]
 |  | [104](#chapter-summary) : பொருட்பால் : குடியியல் : உழவு |  |
 |--|--|--|
 | [1](#verse-1) | சுழன்றும்ஏர்ப் பின்னது உலகம் அதனால் <br> உழந்தும் உழவே தலை.  | नानाविधानन्दकरं **कृषिकर्म प्रशस्यते** \| <br> **अतस्तदन्या वृत्तिस्तु पारतन्त्र्येण गुम्भिता** \|\| <br> Kashyapiya Krishi Sukti 1.240 |
-| [2](#verse-2) | உழுவார் உலகத்தார்க்கு ஆணிஅஃ தாற்றாது <br> எழுவாரை எல்லாம் பொறுத்து. | तथैव देवि **वैश्याश्च लोकयात्राहिताः** स्मृताः \| <br> **अन्ये तानुपजीवन्ति** प्रत्यक्षफलदा हि ते \|\| <br> Mahabharata, Anushasana Parva 13.146.54 (Gīta Press) |
+| [2](#verse-2) | உழுவார் உலகத்தார்க்கு ஆணிஅஃ தாற்றாது <br> எழுவாரை எல்லாம் பொறுத்து. | तथैव देवि **वैश्याश्च लोकयात्राहिताः** स्मृताः \| <br> **अन्ये तानुपजीवन्ति** प्रत्यक्षफलदा हि ते \|\| <br> Mahabharata Anushasana Parva 13.146.54 (Gita Press) |
 | [3](#verse-3) | உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம் <br> தொழுதுண்டு பின்செல் பவர். | **सुवर्णरौप्यमाणिक्यवसनैरपि पूरिताः** \| <br> **तथापि प्रार्थयन्त्येव कृषकान् भक्ततृष्णया** \|\| <br> Krishi Parashara 4 |
 | [4](#verse-4) | பலகுடை நீழலும் தங்குடைக்கீழ்க் காண்பர் <br> அலகுடை நீழ லவர். | एकया च पुनः कृष्या प्रार्थको नैव जायते \| <br>**कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः** \|\| <br> Krishi Parashara 3 |
 | [5](#verse-5) | இரவார் இரப்பார்க்கொன்று ஈவர் கரவாது <br> கைசெய்தூண் மாலை யவர். | **एकया च पुनः कृष्या प्रार्थको नैव जायते** \| <br>कृष्यन्वितो हि लोकेऽस्मिन् भूयादेकश्च भूपतिः \|\| <br> Krishi Parashara 3 |
@@ -17,7 +17,7 @@ tags: [kuralmatch]
 | [7](#verse-7) | தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும் <br> வேண்டாது சாலப் படும். | माघे **गोमयकूटं** तु सम्पूज्य श्रद्धयान्वितः \| <br> शोभने दिवसे ऋक्षे **कुद्दालैस्तोलयेत्ततः** \|\| <br> रौद्रे **संशोष्य तत् सर्वं कृत्वा गुण्डकरूपिणम्** \| <br> फाल्गुने प्रतिकेदारे सारं गर्ते निधापयेत् \|\| <br> ततो वपनकाले तु कुर्यात् सारविमोचनम् \| <br> **विना सारेण यद्धान्यं वर्धते फलवर्जितम्** \|\| <br> Krishi Parashara 109-111 |
 | [8](#verse-8) | ஏரினும் நன்றாம் எருவிடுதல் கட்டபின் <br> நீரினும் நன்றதன் காப்பு. | सर्वेषामपि तेषां तु कृषिकार्यं हि तुल्यकम् \| <br> भूमिनां **कर्षणं चादौ** ततो बीजाङ्कुरार्पणम् \|\| <br> **तृणकाष्ठशेषशोधनं च पुनस्तत्कर्म चादरात्** \| <br> **जलसंपूरणं चैव शालिसंरक्षणं तथा** \|\| <br> Kashyapiya Krishi Sukti 1.460-461 |
 | [9](#verse-9) | செல்லான் கிழவன் இருப்பின் நிலம்புலந்து <br> இல்லாளின் ஊடி விடும். | **कृषि**गवो वणिग्विद्याः **स्त्रियो** राजकुलानि च \| <br> **क्षणेनैकेन सीदन्ति मुहूर्तमनवेक्षणात्** \|\| <br> Krishi Parashara 81 |
-| [10](#verse-10) | இலமென்று அசைஇ இருப்பாரைக் காணின் <br> நிலமென்னும் நல்லாள் நகும். | अर्थो वा मित्रवर्गो वा ऐश्वर्यं वा कुलान्वितम् \। <br> **श्रीश्चापि दुर्लभा भोक्तुं तथैवाकृतकर्मभिः** \|\| <br> Mahabharata Anushasana Parva 13.6.15 (Gita Press) |
+| [10](#verse-10) | இலமென்று அசைஇ இருப்பாரைக் காணின் <br> நிலமென்னும் நல்லாள் நகும். | अर्थो वा मित्रवर्गो वा ऐश्वर्यं वा कुलान्वितम् \। <br> **श्रीश्चापि दुर्लभा भोक्तुं तथैवाकृतकर्मभिः** \|\| <br> Mahabharata Anushasana Parva 13.6.15 (BORI) |
 
 ## Comments and Research Notes
 
@@ -36,7 +36,7 @@ This kural finds a remarkably close parallel in verse 240 of the Kashyapiya Kris
 
 ### Verse 2
 
-The parallel between the kural and the Mahabharata verse can be explained thus. वैश्याश्च corresponds to உழுவார், since agriculture is explicitly a Vaishya duty: कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् (Bhagavad Gita 18.44). लोकयात्राहिताः corresponds to உலகத்தார்க்கு ஆணி. अन्ये corresponds to அஃ தாற்றாது எழுவாரை எல்லாம், referring to the others whom the Vaishya supports with wealth and grain: वैश्यस्तु धनधान्येन त्रीन् वर्णान् विधृयादिमान् (Mahabharata, Shanti Parva, 12.73.8, Gita Press). तानुपजीवन्ति then corresponds to பொறுத்து, making explicit that these others “live upon” or depend upon the Vaishyas.
+The parallel between the kural and the Mahabharata verse can be explained thus. वैश्याश्च corresponds to உழுவார், लोकयात्राहिताः corresponds to உலகத்தார்க்கு ஆணி, and अन्ये corresponds to அஃ தாற்றாது எழுவாரை எல்லாம். तानुपजीवन्ति then corresponds to பொறுத்து, making explicit that these others “live upon” or depend upon the Vaishyas. These concepts are further corroborated by Bhagavad Gita 18.44, which specifies agriculture as explicitly a Vaishya duty (कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम्), and Mahabharata Shanti Parva verse 12.73.8 (BORI), which mentions the others whom the Vaishya supports with wealth and grain: वैश्यस्तु धनधान्येन त्रीन् वर्णान् विधृयादिमान्. 
 
 ### Verse 3
 
