@@ -16,7 +16,7 @@ tags: [kuralmatch]
 | [6](#verse-6) | செயற்கரிய செய்வார் பெரியர் சிறியர் <br> செயற்கரிய செய்கலா தார் | श्रेयश्च प्रेयश्च मनुष्यमेतः तौ सम्परीत्य विविनक्ति धीरः \| <br> **श्रेयो हि धीरोऽभि प्रेयसो वृणीते प्रेयो मन्दो योगक्षेमाद्वृणीते** \|\| <br> Kathopanishad 1.2.2 |
 | [7](#verse-7) | சுவையொளி யூறோசை நாற்றமென் றைந்தின் <br> வகைதெரிவான் கட்டே யுலகு | **शब्दः स्पर्शस्तथा रूपं रसो गन्धश्च पञ्चमः** \| <br> **एते पञ्चगुणा भूमेर्विज्ञेया** द्विजसत्तमाः \|\| <br> Mahabharata, Ashvamedhika Parva 14.49.40 (BORI) |
 | [8](#verse-8) | நிறைமொழி மாந்தர் பெருமை நிலத்து <br>  மறைமொழி காட்டி விடும் | |
-| [9](#verse-9) | குணமென்னுங் குன்றேறி நின்றார் வெகுளி <br> கணமேயுங் காத்த லரிது | |
+| [9](#verse-9) | குணமென்னுங் குன்றேறி நின்றார் வெகுளி <br> கணமேயுங் காத்த லரிது |आमरणान्ताः प्रणयाः **कोपास्तत्क्षणभङ्गुराः** \| <br> परित्यागाश्च निःसङ्गा भवन्ति हि **महात्मनाम्** \|\| <br> Hitopadesha 1.198 |
 | [10](#verse-10) | அந்தண ரென்போ ரறவோர்மற் றெவ்வுயிர்க்குஞ் <br> செந்தண்மை பூண்டொழுக லான் | **मित्रता सर्वभूतेषु** दानमध्ययनं तपः \| <br> **ब्राह्मणस्यैष धर्मः** स्यान्न राज्ञो राजसत्तम \|\| <br> Mahabharata Shanti Parva 12.14.15 (BORI) |
 
 
@@ -52,6 +52,19 @@ Kathopanishad verse 2.1.3 provides corroboration of the crux of the kural: य�
 
 ### Verse 9
 
+It is useful to first look at Kalingar's commentary for this kural provided below. He explains குணமென்னும் குன்று as the totality of the guṇas and their modifications and identifies the நீத்தார் as those who have gone beyond that mountain, and stand established in the bliss of liberation. More importantly, he glosses வெகுளி கணமேயும் காத்தல் அரிது as meaning that anger does not remain with them even for a short while. I interpret this further as கணமேயும் காத்தல் அரிது = அக்கணமே நொறுங்கிவிடும். 
+
+```text
+குணமென்னும் குன்றேறி நின்றார்: ராசத தாமத சாத்துவிதம் என்கின்ற குணங்களும், 
+காம வெகுளி மயக்கம் என்கின்ற குணவிகாரங்களும், அழல்சீதம் இடர் இன்பம் மானம் 
+அவமானம் என்று எண்ணப்படுகின்ற குணம் அனைத்தின் தொகையுமாகிய குன்றைக் 
+கடந்து வீட்டின்பத்து நிலைநின்றோராகிய நீத்தோரை
+
+வெகுளி கணமேயும் காத்தல் அரிது: மற்று அவ்வெகுளியானது தன்மாட்டுச் சிறுதுபொழுது 
+நிறுத்திக்கொண்டு நிற்கமாட்டாது என்றவாறு.
+```
+
+THe kural has a striking parallel in the Hitopadesha verse 1.198, which states that the anger of great souls breaks apart at that very moment: कोपास्तत्क्षणभङ्गुराः ... महात्मनाम्. Under this interpretation, कोपाः corresponds to வெகுளி; महात्मनाम् to குணமென்னும் குன்றேறி நின்றார்; and तत्क्षणभङ्गुराः corresponds to கணமேயும் காத்தல் அரிது. Valluvar's mountain metaphor is understood as a poetic elaboration of the mahatman characterization. The further characterization परित्यागाश्च निःसङ्गाः (their renunciation is without attachment) also accords well with the chapter's vocabulary of துறந்தார், நீத்தார், ஒழுக்கத்து நீத்தார். 
 
 ### Verse 10
 
