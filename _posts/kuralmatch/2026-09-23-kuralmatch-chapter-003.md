@@ -11,7 +11,7 @@ tags: [kuralmatch]
 | [1](#verse-1) | ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்து <br> வேண்டும் பனுவற் றுணிவு | |
 | [2](#verse-2) | துறந்தார் பெருமை துணைக்கூறின் வையத் <br> திறந்தாரை யெண்ணிக்கொண் டற்று | |
 | [3](#verse-3) | இருமை வகைதெரிந் தீண்டறம் பூண்டார் <br> பெருமை பிறங்கிற் றுலகு | |
-| [4](#verse-4) | உரனென்னுந் தோட்டியா னோரைந்துங் காப்பான் <br> வரனென்னும் வைப்பிற்கோர் வித்து | |
+| [4](#verse-4) | உரனென்னுந் தோட்டியா னோரைந்துங் காப்பான் <br> வரனென்னும் வைப்பிற்கோர் வித்து | प्रकीर्णे विषयारण्ये धावन्तं विप्रमाथिनम् \| <br> **ज्ञानाङ्कुशेन कुर्वीत वश्यम् इन्द्रियदन्तिनम्** \|\| <br> Kamandakiya Nitisara 1.27 <br> तद्वैराग्यादपि दोष**बीज**क्षये कैवल्यम् \| <br> Patanjali Yogasutra 3.50 |
 | [5](#verse-5) | ஐந்தவித்தா னாற்ற லகல்விசும்பு ளார்கோமா <br> னிந்திரனே சாலுங் கரி | |
 | [6](#verse-6) | செயற்கரிய செய்வார் பெரியர் சிறியர் <br> செயற்கரிய செய்கலா தார் | श्रेयश्च प्रेयश्च मनुष्यमेतः तौ सम्परीत्य विविनक्ति धीरः \| <br> **श्रेयो हि धीरोऽभि प्रेयसो वृणीते प्रेयो मन्दो योगक्षेमाद्वृणीते** \|\| <br> Kathopanishad 1.2.2 |
 | [7](#verse-7) | சுவையொளி யூறோசை நாற்றமென் றைந்தின் <br> வகைதெரிவான் கட்டே யுலகு | **शब्दः स्पर्शस्तथा रूपं रसो गन्धश्च पञ्चमः** \| <br> **एते पञ्चगुणा भूमेर्विज्ञेया** द्विजसत्तमाः \|\| <br> Mahabharata, Ashvamedhika Parva 14.49.40 (BORI) |
@@ -32,6 +32,40 @@ tags: [kuralmatch]
 
 
 ### Verse 4
+
+The first half of the kural, உரனென்னும் தோட்டியான் ஓரைந்தும் காப்பான், can be read in close conjunction with Parithiyar’s gloss, அறிவென்னுந் தோட்டியான் ஐம்புலன் என்னும் யானையைக் காப்பான்: knowledge is the goad by which the five senses are controlled. A close Sanskrit parallel occurs in Kamandakiya Nitisara 1.27: ज्ञानाङ्कुशेन कुर्वीत वश्यम् इन्द्रियदन्तिनम्. Here உரன்/அறிவு corresponds with ज्ञान, தோட்டி with अङ्कुश, and ஓரைந்தும் with इन्द्रियदन्तिन्. In the proposed reading, உரன்/அறிவு supplies the discriminative knowledge that functions as the goad, while ஓரைந்தும் is understood as bringing the five under one-pointed control.
+
+For the second half, வரனென்னும் வைப்பிற்கோர் வித்து, I depart from the traditional interpretation of all three terms: 
+
+  - வரன் is not taken as a reference to a God or higher abode as in the classical commentary, but in its broader Tamil semantic range of something excellent, desirable, beneficial, or a boon/attainment. The dictionary glosses the word variously as: "1. சிறந்தவன். தமிழ் முனிவரன்  (தக்கயாகப்பரணி 40); 2. கடவுள்; 3. பிரமன்; 4. சீவன் முத்தருள் பிரமவரரெனப்படும் வகையினன். தேகசஞ்சார நிமித்தந்தானா வுன்னுவோன் வரன் (கைவல்ய. தத்துவ. 99)."  In the yogic context it is therefore understood as an attained benefit or siddhi.
+  - வைப்பு is taken not as abode or place, but in the sense of being placed or held here, i.e. continued embodiment in saṃsara
+  - வித்து is taken in the ordinary Indic metaphorical sense of a seed or latent cause that keeps one bound in saṃsara. This diverges from the traditional commentaries, which read it as a seed that leads to a higher abode.
+
+The resulting reading of the kural is: By controlling the five as one, through the goad called discriminative knowledge, (there results siddhi, which is (still) a seed that keeps one bound here (in saṃsara). 
+
+The principal doctrinal parallel is Patanjali’s Yogasutra 3.51, तद्वैराग्यादपि दोषबीजक्षये कैवल्यम्: through dispassion even toward that, upon the destruction of the seed of the defects, there is kaivalya. The referent of तत् is supplied by the immediately preceding discussion of the yogic attainments. In particular, Bhoja’s gloss on 3.48, एताः सिद्धयो जितेन्द्रियस्य प्रादुर्भवन्ति (“these siddhis arise for one who has conquered the senses”), supplies the missing connection between control of the senses and the siddhis that तत् refers to. Dispassion to these siddhis (வரன்) destroys the seed of defects (வைப்பிற்கோர் வித்து), and leads to kaivalya. The kural is cryptic and just mentions the seed.
+
+#### Other Corroborations and Non-Parallel Witnesses
+
+The goad metaphor in the context of sense-control and the seed metaphor are recurrent themes in Sanskrit literature; the latter is treated extensively in the Yoga Vasiahtha. The attainment of siddhis through control of the senses is separately attested in the Mahabharata, Bhagavata Purana, Gorakaha's Yoga-Bija, and several other texts. Further, Yoga-Bija 179, यथा काशीं समुद्दिश्य गच्छद्भिः पथिकैः पथि \| नानातीर्थानि दृश्यन्ते तथा मोक्षे तु सिद्धयः \|\|, offers the analogy that just as travelers going toward Kashi encounter many tirthas on the road, so siddhis are encountered on the way to moksha. Siddhis are thus distinguished from the final destination.
+
+The Shrirangamahatmya of the Garuaa Purmna chapter 106, verses 103-104 explicitly place indriya-nigraha, bija, and jitendriya close together, although its bija has a different stated referent and therefore these verses do not constitute a parallel to the kural:
+
+```text
+तपसा च नियच्छन्ति करणानि च सर्वशः ।
+बीजं हि पुरुषार्थानामिन्द्रियाणां हि निग्रहः ॥ १०६.१०३ ॥
+जितेन्द्रियस्य सकलं जितं भवति वै जगत् ।
+अतस्तन्निग्रहः कार्यः शाश्वतीं भूतिमिच्छता ॥ १०६.१०४ ॥
+```
+
+The Mahabharata, Ashvamedhika Parva 14.93.69–70, provides another suggestive juxtaposition of bija, jitendriya, and svarga. While svarga is suggestive of the traditional interpretation of வரனென்னும் வைப்பு, the semantics of these verses do not support the proposed reading of the kural. Here lobha-bija is the obstruction to the gate of heaven, while the jitendriya are those who perceive that gate. These verses therefore do not constitute a parallel to the kural:
+
+```text
+स्वर्गद्वारं सुसूक्ष्मं हि नरैर्मोहान्न दृश्यते ।
+स्वर्गार्गलं लोभबीजं रागगुप्तं दुरासदम् ॥ १४.९३.६९ ॥
+तत्तु पश्यन्ति पुरुषा जितक्रोधा जितेन्द्रियाः ।
+ब्राह्मणास्तपसा युक्ता यथाशक्तिप्रदायिनः ॥ १४.९३.७० ॥
+```
 
 
 ### Verse 5
