@@ -9,7 +9,7 @@ tags: [kuralmatch]
 |  | [3](#chapter-summary) : அறத்துப்பால் : பாயிரம் : நீத்தார்பெருமை |  |
 |--|--|--|
 | [1](#verse-1) | ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்து <br> வேண்டும் பனுவற் றுணிவு | |
-| [2](#verse-2) | துறந்தார் பெருமை துணைக்கூறின் வையத் <br> திறந்தாரை யெண்ணிக்கொண் டற்று | |
+| [2](#verse-2) | துறந்தார் பெருமை துணைக்கூறின் வையத் <br> திறந்தாரை யெண்ணிக்கொண் டற்று | नित्यं द्रष्टैव चाद्रष्टा **जीवन्न् एव मृतोपमः** \| <br> व्यवहर्तैव शैलाभः **स जीवन्मुक्त उच्यते** \|\| <br> Mokshopaya 3.9.12 (Harrassowitz 2011 Crit.) |
 | [3](#verse-3) | இருமை வகைதெரிந் தீண்டறம் பூண்டார் <br> பெருமை பிறங்கிற் றுலகு | |
 | [4](#verse-4) | உரனென்னுந் தோட்டியா னோரைந்துங் காப்பான் <br> வரனென்னும் வைப்பிற்கோர் வித்து | प्रकीर्णे विषयारण्ये धावन्तं विप्रमाथिनम् \| <br> **ज्ञानाङ्कुशेन कुर्वीत वश्यम् इन्द्रियदन्तिनम्** \|\| <br> Kamandakiya Nitisara 1.27 <br> तद्वैराग्यादपि दोष**बीज**क्षये कैवल्यम् \| <br> Patanjali Yogasutra 3.50 |
 | [5](#verse-5) | ஐந்தவித்தா னாற்ற லகல்விசும்பு ளார்கோமா <br> னிந்திரனே சாலுங் கரி | |
@@ -27,6 +27,18 @@ tags: [kuralmatch]
 
 ### Verse 2
 
+The text of the kural, துறந்தார் பெருமை துணைக்கூறின் வையத்து இறந்தாரை எண்ணிக்கொண் டற்று, may be read as follows: If the greatness of those who have renounced is expressed by comparison, it is as though those who have died in this world are to be thought of / counted as the comparison. I take எண்ணி in its attested sense of thinking of, considering, or counting (as in Valluvar's own  use in kural 467: எண்ணித் துணிக கருமம்), rather than being restricted to the traditional commentarial gloss of this term as numerical counting. The comparison is between one who has renounced the world while living and one who has departed the world through death.
+
+Mokshopaya 3.9.12 provides a close parallel: नित्यं द्रष्टैव चाद्रष्टा जीवन्न् एव मृतोपमः \| व्यवहर्तैव शैलाभः स जीवन्मुक्त उच्यते \|\|, while still living, he is comparable to the dead ... he is called a jīvanmukta. The verse itself supplies the crucial jivanmukta formulation: the living person himself (जीवन् एव) is comparable to the dead (मृतोपमः). This maps remarkably closely onto வையத்து இறந்தாரை ... அற்று: the मृत supplies the dead/departed referent, उपमः supplies the comparative relation expressed by அற்று, and teh verse's उच्यते (is called) supplies the verbal component corresponding to துணைக்கூறின். The जीवन्मुक्त provides the conceptual referent to துறந்தார், and the Mahopanishad verse 1.52 makes the connection between inward renunciation with the jīvanmukta explicit: सर्वमन्तः परित्यक्तं स जीवन्मुक्त उच्यते. The conceptual unification of the two statements through the common referent of jīvanmukta, जीवन्मुक्तः सर्वमन्तः परित्यक्तं <=> जीवन्मुक्तः <=> जीवन्न् एव मृतोपमः, gets compressed into सर्वमन्तः परित्यक्तं <=> जीवन्न् एव मृतोपमः in our reading of the kural.
+
+While the kural makes that greatness (பெருமை) of the renunciants explicit in keeping with the நீத்தார் பெருமை theme of the chapter, the greatness of these jīvanmuktas who have renounced everything is implicit in the Sanskrit tradition. The Mokshopaya and the Mahopanishad treat the jīvanmukta at considerable length, employing numerous epithets and descriptions of his realized state.
+
+The Katha Upanishad verse 2.2.1 supplies the Shruti Pramana for the conception of liberation while still embodied in the eleven-gated city: पुरमेकादशद्वारमजस्यावक्रचेतसः \| अनुष्ठाय न शोचति विमुक्तश्च विमुच्यते \|\|. 
+
+This concept is corroborated further in several texts. The Jivanmukta Gita verse 1 distinguishes liberation while living from liberation at the fall of the body: जीवन्मुक्तिश्च या मुक्तिः सा मुक्तिः पिण्डपातने. Yoga Vasishtha 3.9.2 connects the path of discriminative knowledge to both jivanmukti and videhamukti: तेषां ज्ञानैकनिष्ठानामात्मज्ञानविचारिणाम् \| सा जीवन्मुक्ततोदेति विदेहान्मुक्ततैव या \|\|. Jabala Upanishad verse 5 connects the knowledge of Brahman directly with sannyasa: एष पन्था ब्रह्मणा हानुवित्तस्तेनैति संन्यासी ब्रह्मविद्. Its subsequent Paramahamsa description in verse 6 adds complete non-possession, establishment in the Self, and bodily abandonment through sannyasa: निष्परिग्रहो ... अध्यात्मनिष्ठः ... संन्यासेन देहत्यागं करोति स परमहंसो नाम.  Together with the Mahopanishad’s repeated स जीवन्मुक्त उच्यते formulations, these passages connect renunciation (tyaga, parityaga, sannyasa), discriminative knowledge (jnana, vichara, brahmavid), bodily abandonment (dehatayaga), and liberation (moksha, videhamukti, and jivanmukti). These connections strongly resonate with our read of the kural's equation of the renunciant with those who have departed through death, interpreted through the lens of the jivanmukta concept.
+
+*Textual note: The Mokshopaya verse cited above is from the critical edition: Jürgen Hanneder, Peter Stephan, and Stanislav Jager (eds.), Mokṣopāya. Das Dritte Buch: Utpattiprakaraṇa, Wiesbaden: Harrassowitz, 2011, in the series Anonymus Casmiriensis: Mokṣopāya. Historisch-kritische Gesamtausgabe, vol. 2. ISBN 978-3-447-06467-5.
+The Yoga-Vasishtha, which derives from the Mokshopaya tradition, likewise preserves the striking phrase जीवन्नेव मृतोपमः in 7.102.6: जाग्रदेव सुषुप्तस्थो जीवन्नेव मृतोपमः ..., but without the explicit स जीवन्मुक्त उच्यते formulation.*
 
 ### Verse 3
 
