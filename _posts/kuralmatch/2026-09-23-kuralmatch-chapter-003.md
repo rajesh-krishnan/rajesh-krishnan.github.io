@@ -146,6 +146,9 @@ kural 7 2.1.3 रूपं रसं गन्धं शब्दान् स�
 kural 8 maraimozhi
 kural 9 Kathopanishad 1.1.10-11 When Yama grants Naciketas his first boon, he restores his father to him: यथा पुरस्ताद् भविता प्रतीत औद्दालकिरारुणिर्मत्प्रसृष्टः । सुखं रात्रीः शयिता वीतमन्युं त्वां ददृशिवान्मृत्युमुखात्प्रमुक्तम् ॥ १.१.११. The crucial word is: वीतमन्यु — free from manyu, anger/wrath.
 kural 10 ahimsa+brahmin 
+Katha 1.2.25: यस्य ब्रह्म च क्षत्रं च उभे भवत ओदनः । मृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः ॥ 
+Shankara's gloss explains ब्रह्म च क्षत्रं च as referring to the Brāhmaṇa and Kṣatriya classes, and explicitly characterizes them as: सर्वधर्मविधारके “upholders/supporters of all dharma” https://www.ahambrahma.in/upanishads/kathopanishad/chapter-1?utm_source=chatgpt.com
+
 
 பனுவற் றுணிவு sruti pramana
 மறைமொழி காட்டி veda/sruti
