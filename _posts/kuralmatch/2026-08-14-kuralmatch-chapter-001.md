@@ -234,4 +234,3 @@ I have chosen verse matches from diverse devotional traditions for kurals in thi
 ```
 
 *Manakkudavar's ordering of the verses is: 1, 2, 3, 7, 8, 4, 5, 6, 10, 9. My chapter summary and matching sources do not require a particular clustered or sequential view in the case of this chapter. No further explanatory parsimony is achieved by using that order.* 
-
