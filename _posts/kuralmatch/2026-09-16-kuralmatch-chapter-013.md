@@ -191,7 +191,7 @@ The Bhartrihari Nitishataka 1.83 dicussed earlier provides a secondary corrobora
 
 A parsimonious coverage of the teachings of this entire chapter can be done with the Trishanku mantra in the Taittiriya Upanishad of the Krishna Yajurveda covering the first four kurals and selected verses from the Vidura Niti in the Udyoga Parva of the Mahabharata. This uses the mainstream ordering of verses; the Manakkudavar ordering of the verses is less helpful here. Particular metaphors that the kurals use are corroborated elsewhere, but the more important point is that the teachings of this kural chapter are recurrent themes in Vedanta and Niti Shastra literature.  
 
-Correspondences with Jain literature, Yoga, and Christian BIble are not surprising given the universality of the moral teachings contained here. The economy of the Trishanku mantra and Vidura niti in supplying the thematic correspondence is evident from the tables below.
+Correspondences with Jain literature, Yoga, and Christian Bible are not surprising given the universality of the moral teachings contained here. The economy of the Trishanku mantra and Vidura niti in supplying the thematic correspondence is evident from the tables below.
 
 | No. | Kural fragemnt | Trishanku mantra fragment |
 |--|--|--|
@@ -210,3 +210,5 @@ Correspondences with Jain literature, Yoga, and Christian BIble are not surprisi
 | [10](#verse-10) | கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் | क्रोधो ... नापकर्षन्ति ... स वै पण्डितः|
 
 My choice of primary and secondary parallels from other sources capture the broader implications of each kural, including in some cases matching metaphors. 
+
+*Manakkudavar's ordering of the verses is 2, 3, 6, 4, 7, 9, 8, 5, 10, 1; this places verses 6 and 1 in the opposite clusters. While the Trishanku mantra is an elegant conceptual parallel, alternative single verse parallels, may allow a parsimonious chapter summary using Manakkudavar's order.* 
