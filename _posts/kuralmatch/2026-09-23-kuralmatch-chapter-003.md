@@ -58,9 +58,9 @@ For the second half, வரனென்னும் வைப்பிற்க�
   - வைப்பு is taken not as abode or place, but in the sense of being placed or held here, i.e. continued embodiment in saṃsara
   - வித்து is taken in the ordinary Indic metaphorical sense of a seed or latent cause that keeps one bound in saṃsara. This diverges from the traditional commentaries, which read it as a seed that leads to a higher abode.
 
-The resulting reading of the kural is: By controlling the five as one, through the goad called discriminative knowledge, (there results siddhi, which is (still) a seed that keeps one bound here (in saṃsara). 
+The resulting reading of the kural is: **By controlling the five as one, through the goad called discriminative knowledge, (there results siddhi, which is (still) a seed that keeps one bound here (in saṃsara).** 
 
-The principal doctrinal parallel is Patanjali’s Yogasutra 3.51, तद्वैराग्यादपि दोषबीजक्षये कैवल्यम्: through dispassion even toward that, upon the destruction of the seed of the defects, there is kaivalya. The referent of तत् is supplied by the immediately preceding discussion of the yogic attainments. In particular, Vyasa’s gloss on 3.48, एताः सिद्धयो जितेन्द्रियस्य प्रादुर्भवन्ति (“these siddhis arise for one who has conquered the senses”), supplies the missing connection between control of the senses and the siddhis that तत् refers to. Dispassion to these siddhis (வரன்) destroys the seed of defects (வைப்பிற்கோர் வித்து), and leads to kaivalya. The kural is cryptic and just mentions the seed.
+The principal doctrinal parallel is Patanjali’s Yogasutra 3.51, तद्वैराग्यादपि दोषबीजक्षये कैवल्यम्: through dispassion even toward that, upon the destruction of the seed of the defects, there is kaivalya. The referent of तत् is supplied by the immediately preceding discussion of the yogic attainments, which is a long list of powers (siddhis) attained. Then, in Vyasa’s gloss on 3.48, एताः सिद्धयो जितेन्द्रियस्य प्रादुर्भवन्ति (these siddhis arise for one who has conquered the senses), supplies the missing connection between control of the senses and the siddhis that तत् refers to. This gloss is connected to Patanjali's verse: ग्रहणस्वरूपास्मितान्वयार्थवत्त्वसंयमादिन्द्रियजयः \|\|, which describes how victory over the senses, इन्द्रियजयः, is achieved. In verse 3.37 he states: ततः प्रातिभश्रावणवेदनादर्शास्वादवार्ता जायन्ते \|\|, from that (samyama on the Purusha discussed in preceding verse) arise a kind of intuitive knowledge called pratibha, supernatural power in all five senses: hearing, touch, seeing, tasting, and smelling. In verse 3.38: ते समाधावुपसर्गा व्युत्थाने सिद्धयः \|\|, Patanjali clearly states that these siddhis are obstacles to Samadhi; but they are powers in the worldly state. Understanding the structure of Patanjala Yoga darshana helps understand my interpretation of this kural. Patanjali ends Chapter 2 with Pratyahara, sense restraint, which is the fifth of eight steps. Pratyahara is esssentially what the kural calls ஓரைந்தும் காப்பான், which is understood as the control of the senses, leading to one-pointedness of mind. Pratyahara is followed in Chapter 3 by dharana, dhyana, and samadhi (together called samyama) that are applied to various objects, which leads to the attainment of various siddhis. Dispassion to these siddhis (வரன்) destroys the seed of defects (வைப்பிற்கோர் வித்து), and leads to kaivalya -- which is my reading of the second half of the kural. The kural is cryptic and just mentions the seed.
 
 A second, complementary correspondence may be seen in Kathopanishad 2.3.10: यदा पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह । बुद्धिश्च न विचेष्टति तामाहुः परमां गतिम् ॥ — When the five cognitions, together with the mind, come to rest, and the intellect no longer moves, that they call the supreme attainment. The correspondence with the kural is suggestive at the level of both structure and doctrine: ஓரைந்தும் காப்பான் finds a close conceptual counterpart in पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह, while வரனென்னும் வைப்பு may be read against परमां गतिम्, the supreme attainment resulting from such restraint. The Katha passage does not, however, supply an equivalent for தோட்டி; that more specific image is supplied by Kamandakiya Nitisara 1.27, where discriminative knowledge is explicitly the ज्ञानाङ्कुश, the goad by which the sense-elephant is brought under control. Nor does Katha resolve வித்து, which therefore remains the distinctive element of the proposed reading and finds its doctrinal counterpart more naturally in Patanjali’s discussion of the destruction of the residual seed of the defects. The three passages thus illuminate different components of the kural: Kamandakiya supplies the knowledge–goad–sense-elephant imagery, Katha supplies the restraint of the five senses–supreme attainment sequence, and Patanjala Yoga supplies the crucial distinction between attainment and the destruction of the residual seed (leading to kaivalya).
 
@@ -134,13 +134,25 @@ The semantic parallel is straightforward: मित्रता सर्वभ�
 
 ### Chapter Summary
 
+The entire chapter can understood through the binoculars of Yoga-Vedanta, specifically the Patanjala Yogasutras and the Katha Upanishad. I take பனுவற் றுணிவு and மறைமொழி to allude to Shruti Pramana in Vedanta darshana, and the equivalent Agama Pramana in the Patanjali Yoga darshana.
+
+Patanjali's eight-limbed path starts with yamas (five in all, the first of which is non-violence in thought, speech, and action); niyamas (five in all), asana, pranayama, and pratyahara (sense-restraint) in chapter 2, leading to dharana, dhyana, and samadahi in chapter 3. The last three, together called samyama, when performed on various objects, leas to siddhis. These siddhis are an obstacle to nirbija samadhi and kaivalya (self-realization), as the leave a seed (bija). Dispassion to the siddhis destroys the seed, and results in kaivalya. Valluvar takes a top-down dive through these, starting with self-realization to mastery over the senses and siddhis and then touches on non-violence. The correspondence continues into the subsequent chapters where he discusses other linbs of yoga in detail (for example, the yamas such as ahimsa, satya, asteya, brahmacharaya, and aparigraha.)
+
+The practical approach of Yoga is complemented by the mento-intellectual approach of Vedanta, and we see this in Valluvar's close parallels to the Upanishads, including the shreyas-preyas instruction of the Kathopanishad.
+
+While my primary parallels are chosen to cover more of the nuances and metaphors of the individual kurals, the overall chapter is better understood from a parsimonious pair of sources, namely the Kathopanishad, and the Pantajali Yogasutra. The table below connects the kurals, placed in Manakkudavar order, which in my opinion, allows a more coherent structural presentaion of the chapter as a whole.
+
+**Table Pending**
+
+<!-- Table in Manakkudavar order with katha and patanjali corroboration -->
+
 <!--
 Kathpanishad as backbone:  
 kural 1 1.2.2  श्रेयो हि धीरोऽभि प्रेयसो वृणीते and praise for renunciation across the text 
 kural 2 2.2.1 अनुष्ठाय न शोचति विमुक्तश्च विमुच्यते ; 2.3.14 अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते 
-kural 3
+kural 3 irumai vakai 
 kural 4 2.3.10 पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह । बुद्धिश्च न विचेष्टति तामाहुः परमां गतिम् also 1.3.3 आत्मानं रथिनं विद्धि शरीरं रथमेव तु \| बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च \|\|
-kural 5 indriyas
+kural 5 indriyas / indra
 kural 6 1.2.2 धीरः … श्रेयः … वृणीते … मन्दः … प्रेयः … वृणीते 
 kural 7 2.1.3 रूपं रसं गन्धं शब्दान् स्पर्शान् and विजानाति 
 kural 8 maraimozhi
@@ -149,9 +161,6 @@ kural 10 ahimsa+brahmin
 Katha 1.2.25: यस्य ब्रह्म च क्षत्रं च उभे भवत ओदनः । मृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः ॥ 
 Shankara's gloss explains ब्रह्म च क्षत्रं च as referring to the Brāhmaṇa and Kṣatriya classes, and explicitly characterizes them as: सर्वधर्मविधारके “upholders/supporters of all dharma” https://www.ahambrahma.in/upanishads/kathopanishad/chapter-1?utm_source=chatgpt.com
 
-
-பனுவற் றுணிவு sruti pramana
-மறைமொழி காட்டி veda/sruti
 -->
 
 
