@@ -8,7 +8,7 @@ tags: [kuralmatch]
 
 |  | [3](#chapter-summary) : அறத்துப்பால் : பாயிரம் : நீத்தார்பெருமை |  |
 |--|--|--|
-| [1](#verse-1) | ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்து <br> வேண்டும் பனுவற் றுணிவு | |
+| [1](#verse-1) | ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்து <br> வேண்டும் பனுவற் றுணிவு | **वेदान्तविज्ञानसुनिश्चितार्थाः** <br> **संन्यासयोगाद् यतयः शुद्धसत्त्वाः** \| <br> ते ब्रह्मलोकेषु परान्तकाले <br> परामृताः परिमुच्यन्ति सर्वे \|\| <br> Mundaka Upanishad 3.2.6 |
 | [2](#verse-2) | துறந்தார் பெருமை துணைக்கூறின் வையத் <br> திறந்தாரை யெண்ணிக்கொண் டற்று | नित्यं द्रष्टैव चाद्रष्टा **जीवन्न् एव मृतोपमः** \| <br> व्यवहर्तैव शैलाभः **स जीवन्मुक्त उच्यते** \|\| <br> Mokshopaya 3.9.12 (Harrassowitz 2011 Crit.) |
 | [3](#verse-3) | இருமை வகைதெரிந் தீண்டறம் பூண்டார் <br> பெருமை பிறங்கிற் றுலகு | |
 | [4](#verse-4) | உரனென்னுந் தோட்டியா னோரைந்துங் காப்பான் <br> வரனென்னும் வைப்பிற்கோர் வித்து | प्रकीर्णे विषयारण्ये धावन्तं विप्रमाथिनम् \| <br> **ज्ञानाङ्कुशेन कुर्वीत वश्यम् इन्द्रियदन्तिनम्** \|\| <br> Kamandakiya Nitisara 1.27 <br> तद्वैराग्यादपि दोष**बीज**क्षये कैवल्यम् \| <br> Patanjali Yogasutra 3.50 |
@@ -24,6 +24,11 @@ tags: [kuralmatch]
 
 ### Verse 1
 
+The correspondence of this kural with Mundaka Upanishad 3.2.6 is strikingly close: ஒழுக்கத்து நீத்தார் finds its counterpart in संन्यासयोगाद् यतयः; விழுப்பத்து வேண்டும் is reflected in शुद्धसत्त्वाः ... अर्थाः, the desirable ends of the yatis, whose sattva is purified; and பனுவற் றுணிவு closely matches वेदान्तविज्ञानसुनिश्चिताः, the firmly ascertained meanings/purports of Vedantic knowledge. The concluding ते ब्रह्मलोकेषु परान्तकाले परामृताः परिमुच्यन्ति सर्वे further suggests the பெருமை of these renouncers through their attainment of Brahmaloka and supreme immortality, while Valluvar deliberately frames that exalted status within the chapter நீத்தார் பெருமை.
+
+Some further lexical and etymological observations suggest deeper connections. The பெருமை of the நீத்தார் is not merely reputation in this context. Its underlying Tamil semantic field is largeness → greatness → eminence, while the Upanishadic teaching culminates in knowledge of Brahman, whose very name is associated etymologically with growth, expansion, greatness. This is a semantic convergence, not a claim of linguistic relationship between the two roots. The correspondence of பனுவல் with वेदान्तविज्ञान is especially well corroborated by the Tamil lexical tradition with attestations extending into the Sangam era: பனுவல் means discourse, சொல் as in மெய்யறி பனுவலின் (தொல். சொல். 96); stanza, பாட்டு as in வரிநவில் பனுவல் (புறநா. 135); a treatise, நூல்; learning through oral instruction, கேள்வி as in செவிமுதல் வித்திய பனுவல் (புறநா. 237); research, ஆராய்ச்சி as in பனுவ னுண்ணூ னடையுளார் (சீவக.464); learning, கல்வி (பிங்.). This word captures precisely the semantic field of authoritative knowledge, teaching, inquiry, and learning conveyed by वेदान्तविज्ञान. 
+
+Kathopanishad 1.2.2: श्रेयो हि धीरोऽभि प्रेयसो वृणीते resonates with the kural's நீத்தார் … விழுப்பத்து வேண்டும். Here धीरः, denotes the discerning/spiritually resolute seeker (repeatedly associated with the renunciatory ideal in the wider Upanishadic context), resoantes with நீத்தார்; श्रेयः, the higher good that ought to be chosen, corresponds to விழுப்பத்து; and वृणीते, chooses, reinforces the desiderative/choice dimension of வேண்டும். While this shloka is certainly not a parallel to this kural, it is worth a mention due to a number of thematic connections between the chapter நீத்தார் பெருமை and the Kathopanishad.
 
 ### Verse 2
 
@@ -33,7 +38,7 @@ Mokshopaya 3.9.12 provides a close parallel: नित्यं द्रष्�
 
 While the kural makes that greatness (பெருமை) of the renunciants explicit in keeping with the நீத்தார் பெருமை theme of the chapter, the greatness of these jīvanmuktas who have renounced everything is implicit in the Sanskrit tradition. The Mokshopaya and the Mahopanishad treat the jīvanmukta at considerable length, employing numerous epithets and descriptions of his realized state.
 
-The Katha Upanishad verse 2.2.1 supplies the Shruti Pramana for the conception of liberation while still embodied in the eleven-gated city: पुरमेकादशद्वारमजस्यावक्रचेतसः \| अनुष्ठाय न शोचति विमुक्तश्च विमुच्यते \|\|. 
+The Kathopanishad verse 2.2.1 supplies the Shruti Pramana for the conception of liberation while still embodied in the eleven-gated city: पुरमेकादशद्वारमजस्यावक्रचेतसः \| अनुष्ठाय न शोचति विमुक्तश्च विमुच्यते \|\|. Again, verse 2.3.14 strongly attests the greatness of renunciation as it leads to immortality here in this mortal world: यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः \| अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते \|\|. The next verse assertsd that the only instruction is that when the knots of the heart are destroyed, then मर्त्योऽमृतो भवति, re-emphasizing the formulation that resonates with the Mokshopaya 3.9.12: जीवन्न् एव मृतोपमः, that we used as the primary parallel. 
 
 This concept is corroborated further in several texts. The Jivanmukta Gita verse 1 distinguishes liberation while living from liberation at the fall of the body: जीवन्मुक्तिश्च या मुक्तिः सा मुक्तिः पिण्डपातने. Yoga Vasishtha 3.9.2 connects the path of discriminative knowledge to both jivanmukti and videhamukti: तेषां ज्ञानैकनिष्ठानामात्मज्ञानविचारिणाम् \| सा जीवन्मुक्ततोदेति विदेहान्मुक्ततैव या \|\|. Jabala Upanishad verse 5 connects the knowledge of Brahman directly with sannyasa: एष पन्था ब्रह्मणा हानुवित्तस्तेनैति संन्यासी ब्रह्मविद्. Its subsequent Paramahamsa description in verse 6 adds complete non-possession, establishment in the Self, and bodily abandonment through sannyasa: निष्परिग्रहो ... अध्यात्मनिष्ठः ... संन्यासेन देहत्यागं करोति स परमहंसो नाम.  Together with the Mahopanishad’s repeated स जीवन्मुक्त उच्यते formulations, these passages connect renunciation (tyaga, parityaga, sannyasa), discriminative knowledge (jnana, vichara, brahmavid), bodily abandonment (dehatayaga), and liberation (moksha, videhamukti, and jivanmukti). These connections strongly resonate with our read of the kural's equation of the renunciant with those who have departed through death, interpreted through the lens of the jivanmukta concept.
 
@@ -57,11 +62,14 @@ The resulting reading of the kural is: By controlling the five as one, through t
 
 The principal doctrinal parallel is Patanjali’s Yogasutra 3.51, तद्वैराग्यादपि दोषबीजक्षये कैवल्यम्: through dispassion even toward that, upon the destruction of the seed of the defects, there is kaivalya. The referent of तत् is supplied by the immediately preceding discussion of the yogic attainments. In particular, Bhoja’s gloss on 3.48, एताः सिद्धयो जितेन्द्रियस्य प्रादुर्भवन्ति (“these siddhis arise for one who has conquered the senses”), supplies the missing connection between control of the senses and the siddhis that तत् refers to. Dispassion to these siddhis (வரன்) destroys the seed of defects (வைப்பிற்கோர் வித்து), and leads to kaivalya. The kural is cryptic and just mentions the seed.
 
+A second, complementary correspondence may be seen in Kathopanishad 2.3.10: यदा पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह । बुद्धिश्च न विचेष्टति तामाहुः परमां गतिम् ॥ — When the five cognitions, together with the mind, come to rest, and the intellect no longer moves, that they call the supreme attainment. The correspondence with the kural is suggestive at the level of both structure and doctrine: ஓரைந்தும் காப்பான் finds a close conceptual counterpart in पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह, while வரனென்னும் வைப்பு may be read against परमां गतिम्, the supreme attainment resulting from such restraint. The Katha passage does not, however, supply an equivalent for தோட்டி; that more specific image is supplied by Kamandakiya Nitisara 1.27, where discriminative knowledge is explicitly the ज्ञानाङ्कुश, the goad by which the sense-elephant is brought under control. Nor does Katha resolve வித்து, which therefore remains the distinctive element of the proposed reading and finds its doctrinal counterpart more naturally in Patanjali’s discussion of the destruction of the residual seed of the defects. The three passages thus illuminate different components of the kural: Kamandakiya supplies the knowledge–goad–sense-elephant imagery, Katha supplies the restraint of the five senses–supreme attainment sequence, and Patanjala Yoga supplies the crucial distinction between attainment and the destruction of the residual seed (leading to kaivalya).
+
+
 #### Other Corroborations and Non-Parallel Witnesses
 
 The goad metaphor in the context of sense-control and the seed metaphor are recurrent themes in Sanskrit literature; the latter is treated extensively in the Yoga Vasiahtha. The attainment of siddhis through control of the senses is separately attested in the Mahabharata, Bhagavata Purana, Goraksha's Yoga-Bija, and several other texts. Further, Yoga-Bija 179, यथा काशीं समुद्दिश्य गच्छद्भिः पथिकैः पथि \| नानातीर्थानि दृश्यन्ते तथा मोक्षे तु सिद्धयः \|\|, offers the analogy that just as travelers going toward Kashi encounter many tirthas on the road, so siddhis are encountered on the way to moksha. Siddhis are thus distinguished from the final destination.
 
-The Shrirangamahatmya of the Garuaa Purmna chapter 106, verses 103-104 explicitly place indriya-nigraha, bija, and jitendriya close together, although its bija has a different stated referent and therefore these verses do not constitute a parallel to the kural:
+The Shrirangamahatmya of the Garuda Purmna chapter 106, verses 103-104 explicitly place indriya-nigraha, bija, and jitendriya close together, although its bija has a different stated referent and therefore these verses do not constitute a parallel to the kural:
 
 ```text
 तपसा च नियच्छन्ति करणानि च सर्वशः ।
@@ -112,6 +120,8 @@ It is useful to first look at Kalingar's commentary for this kural provided belo
 
 THe kural has a striking parallel in the Hitopadesha verse 1.198, which states that the anger of great souls breaks apart at that very moment: कोपास्तत्क्षणभङ्गुराः ... महात्मनाम्. Under this interpretation, कोपाः corresponds to வெகுளி; महात्मनाम् to குணமென்னும் குன்றேறி நின்றார்; and तत्क्षणभङ्गुराः corresponds to கணமேயும் காத்தல் அரிது. Valluvar's mountain metaphor is understood as a poetic elaboration of the mahatman characterization. The further characterization परित्यागाश्च निःसङ्गाः (their renunciation is without attachment) also accords well with the chapter's vocabulary of துறந்தார், நீத்தார், ஒழுக்கத்து நீத்தார். 
 
+Given the chapter's strong resonance with the Kathopanishad, it is interesting to note that in verses 1.1.10-11, the specific first boon sought by Nachiketa and granted by Yama is that his father be restored to him as वीतमन्यु — free from manyu, anger/wrath.
+
 The Mahabharata Vana Parva chatper 3.30 discusses the subject of anger in great detail. Verse 3.30.16 establishes firmly that anger does not dwell within a tejasvi, one endowed with inner radiance: तेजस्वीति यमाहुर्वै पण्डिता दीर्घदर्शिनः \| न क्रोधोऽभ्यन्तरस्तस्य भवतीति विनिश्चितम् \|\|. Then verse 3.30.20 connects tejas with gunas: दाक्ष्यं ह्यमर्षः शौर्यं च शीघ्रत्वमिति तेजसः \| गुणाः क्रोधाभिभूतेन न शक्याः प्राप्तुमञ्जसा \|\|. The following verse 3.30.21 states that by abandoning anger, a person attains well-ordered tejas; for the wise, tejas aligned with proper timing is exceedingly hard to withstand when displayed by those inflamed with wrath: क्रोधं त्यक्त्वा तु पुरुषः सम्यक्तेजोऽभिपद्यते \| कालयुक्तं महाप्राज्ञे क्रुद्धैस्तेजः सुदुःसहम् \|\|. A different reading of the kural mapping. Given that the तेजस्वी is न क्रोधोऽभ्यन्तरस्तस्य and endowed with the specified  गुणाः, I explored a mapping of क्रुद्धैस्तेज to குணமென்னும் குன்றேறி நின்றார் வெகுளி, and  कालयुक्तं ... सुदुःसहम् to கணமேயும் காத்தல் அரிது; however, despite the lexical similarities, the kural and the shloka differ semantically. This reference is still worth citing here due its extensive treatment of the subject of anger.
 
 Another intriguing, though ultimately tentative, connection is suggested by the Buddhist text, Udanavarga 20.21: अक्रोधश्चाविहिंसा च वसत्यार्येषु सर्वदा \| सदा पापजने क्रोधस्तिष्ठति पर्वतो यथा \|\|. Here क्रोध corresponds directly to வெகுளி, while सदा ... तिष्ठति (“always remains”) provides an instructive contrast to கணமேயும் காத்தல் அரிது, and पर्वतो यथा recalls குணமென்னும் குன்று. One might further read पापजन as the person with anger within the gunic, rajasic condition, in contrast to the நீத்தார் who have transcended it. The correspondence is nevertheless too strained to adopt.
@@ -123,4 +133,22 @@ The Hitopadesha verse offers a more direct parallel despite lacking the mountain
 The semantic parallel is straightforward: मित्रता सर्वभूतेषु corresponds to மற்றெவ்வுயிர்க்கும் செந்தண்மை பூண்டொழுகலான், ब्राह्मणस्य to அந்தணர், and धर्मः to அறவோர். The shloka states directly that the Dharma of the Brahmanas is benevolence or friendliness toward all beings, whereas the kural expresses the same semantics through the framing that the Brahmanas are called observers of Dharma because they conduct themselves with benevolence or friendliness toward all living beings. The shloka additionally includes दानम्, अध्ययनम्, तपः as part of ब्राह्मणस्यैष धर्मः, along with further contextual material not relevant to the kural parallel.
 
 ### Chapter Summary
+
+<!--
+Kathpanishad as backbone:  
+kural 1 1.2.2  श्रेयो हि धीरोऽभि प्रेयसो वृणीते and praise for renunciation across the text 
+kural 2 2.2.1 अनुष्ठाय न शोचति विमुक्तश्च विमुच्यते ; 2.3.14 अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते 
+kural 3
+kural 4 2.3.10 पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह । बुद्धिश्च न विचेष्टति तामाहुः परमां गतिम् also 1.3.3 आत्मानं रथिनं विद्धि शरीरं रथमेव तु \| बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च \|\|
+kural 5 indriyas
+kural 6 1.2.2 धीरः … श्रेयः … वृणीते … मन्दः … प्रेयः … वृणीते 
+kural 7 2.1.3 रूपं रसं गन्धं शब्दान् स्पर्शान् and विजानाति 
+kural 8 maraimozhi
+kural 9 Kathopanishad 1.1.10-11 When Yama grants Naciketas his first boon, he restores his father to him: यथा पुरस्ताद् भविता प्रतीत औद्दालकिरारुणिर्मत्प्रसृष्टः । सुखं रात्रीः शयिता वीतमन्युं त्वां ददृशिवान्मृत्युमुखात्प्रमुक्तम् ॥ १.१.११. The crucial word is: वीतमन्यु — free from manyu, anger/wrath.
+kural 10 ahimsa+brahmin 
+
+பனுவற் றுணிவு sruti pramana
+மறைமொழி காட்டி veda/sruti
+-->
+
 
