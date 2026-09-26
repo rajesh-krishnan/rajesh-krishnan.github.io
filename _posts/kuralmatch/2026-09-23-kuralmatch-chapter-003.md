@@ -69,7 +69,7 @@ A second, complementary correspondence may be seen in Kathopanishad 2.3.10: य�
 
 The goad metaphor in the context of sense-control and the seed metaphor are recurrent themes in Sanskrit literature; the latter is treated extensively in the Yoga Vasiahtha. The attainment of siddhis through control of the senses is separately attested in the Mahabharata, Bhagavata Purana, Goraksha's Yoga-Bija, and several other texts. Further, Yoga-Bija 179, यथा काशीं समुद्दिश्य गच्छद्भिः पथिकैः पथि \| नानातीर्थानि दृश्यन्ते तथा मोक्षे तु सिद्धयः \|\|, offers the analogy that just as travelers going toward Kashi encounter many tirthas on the road, so siddhis are encountered on the way to moksha. Siddhis are thus distinguished from the final destination.
 
-The Shrirangamahatmya of the Garuda Purmna chapter 106, verses 103-104 explicitly place indriya-nigraha, bija, and jitendriya close together, although its bija has a different stated referent and therefore these verses do not constitute a parallel to the kural:
+The Shrirangamahatmya of the Garuda Purana chapter 106, verses 103-104 explicitly place indriya-nigraha, bija, and jitendriya close together, although its bija has a different stated referent and therefore these verses do not constitute a parallel to the kural:
 
 ```text
 तपसा च नियच्छन्ति करणानि च सर्वशः ।
