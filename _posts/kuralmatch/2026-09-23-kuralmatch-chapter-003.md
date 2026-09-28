@@ -12,7 +12,7 @@ tags: [kuralmatch]
 | [2](#verse-2) | துறந்தார் பெருமை துணைக்கூறின் வையத் <br> திறந்தாரை யெண்ணிக்கொண் டற்று | नित्यं द्रष्टैव चाद्रष्टा **जीवन्न् एव मृतोपमः** \| <br> व्यवहर्तैव शैलाभः **स जीवन्मुक्त उच्यते** \|\| <br> Mokshopaya 3.9.12 (Harrassowitz 2011 Crit.) |
 | [3](#verse-3) | இருமை வகைதெரிந் தீண்டறம் பூண்டார் <br> பெருமை பிறங்கிற் றுலகு | |
 | [4](#verse-4) | உரனென்னுந் தோட்டியா னோரைந்துங் காப்பான் <br> வரனென்னும் வைப்பிற்கோர் வித்து | प्रकीर्णे विषयारण्ये धावन्तं विप्रमाथिनम् \| <br> **ज्ञानाङ्कुशेन कुर्वीत वश्यम् इन्द्रियदन्तिनम्** \|\| <br> Kamandakiya Nitisara 1.27 <br> तद्वैराग्यादपि दोष**बीज**क्षये कैवल्यम् \| <br> Patanjali Yogasutra 3.50 |
-| [5](#verse-5) | ஐந்தவித்தா னாற்ற லகல்விசும்பு ளார்கோமா <br> னிந்திரனே சாலுங் கரி | |
+| [5](#verse-5) | ஐந்தவித்தா னாற்ற லகல்விசும்பு ளார்கோமா <br> னிந்திரனே சாலுங் கரி | वैशंपायन उवाच \| <br> आसीत्पूर्वं महाराज मुनिर्धीमान्महातपाः \| <br> दधीच इति विख्यातो ब्रह्मचारी **जितेन्द्रियः** \|\| <br> **तस्यातितपसः शक्रो बिभेति** सततं विभो \| <br>  न स लोभयितुं शक्यः फलैर्बहुविधैरपि \|\| <br> Mahabharata Shalya Parya 9.50.5-6 (BORI) |
 | [6](#verse-6) | செயற்கரிய செய்வார் பெரியர் சிறியர் <br> செயற்கரிய செய்கலா தார் | श्रेयश्च प्रेयश्च मनुष्यमेतः तौ सम्परीत्य विविनक्ति धीरः \| <br> **श्रेयो हि धीरोऽभि प्रेयसो वृणीते प्रेयो मन्दो योगक्षेमाद्वृणीते** \|\| <br> Kathopanishad 1.2.2 |
 | [7](#verse-7) | சுவையொளி யூறோசை நாற்றமென் றைந்தின் <br> வகைதெரிவான் கட்டே யுலகு | **शब्दः स्पर्शस्तथा रूपं रसो गन्धश्च पञ्चमः** \| <br> **एते पञ्चगुणा भूमेर्विज्ञेया** द्विजसत्तमाः \|\| <br> Mahabharata, Ashvamedhika Parva 14.49.40 (BORI) |
 | [8](#verse-8) | நிறைமொழி மாந்தர் பெருமை நிலத்து <br>  மறைமொழி காட்டி விடும் | |
@@ -62,8 +62,8 @@ The resulting reading of the kural is: **By controlling the five as one, through
 
 The principal doctrinal parallel is Patanjali’s Yogasutra 3.51, तद्वैराग्यादपि दोषबीजक्षये कैवल्यम्: through dispassion even toward that, upon the destruction of the seed of the defects, there is kaivalya. The referent of तत् is supplied by the immediately preceding discussion of the yogic attainments, which is a long list of powers (siddhis) attained. Then, in Vyasa’s gloss on 3.48, एताः सिद्धयो जितेन्द्रियस्य प्रादुर्भवन्ति (these siddhis arise for one who has conquered the senses), supplies the missing connection between control of the senses and the siddhis that तत् refers to. This gloss is connected to Patanjali's verse: ग्रहणस्वरूपास्मितान्वयार्थवत्त्वसंयमादिन्द्रियजयः \|\|, which describes how victory over the senses, इन्द्रियजयः, is achieved. In verse 3.37 he states: ततः प्रातिभश्रावणवेदनादर्शास्वादवार्ता जायन्ते \|\|, from that (samyama on the Purusha discussed in preceding verse) arise a kind of intuitive knowledge called pratibha, supernatural power in all five senses: hearing, touch, seeing, tasting, and smelling. In verse 3.38: ते समाधावुपसर्गा व्युत्थाने सिद्धयः \|\|, Patanjali clearly states that these siddhis are obstacles to Samadhi; but they are powers in the worldly state. Understanding the structure of Patanjala Yoga darshana helps understand my interpretation of this kural. Patanjali ends Chapter 2 with Pratyahara, sense restraint, which is the fifth of eight steps. Pratyahara is esssentially what the kural calls ஓரைந்தும் காப்பான், which is understood as the control of the senses, leading to one-pointedness of mind. Pratyahara is followed in Chapter 3 by dharana, dhyana, and samadhi (together called samyama) that are applied to various objects, which leads to the attainment of various siddhis. Dispassion to these siddhis (வரன்) destroys the seed of defects (வைப்பிற்கோர் வித்து), and leads to kaivalya -- which is my reading of the second half of the kural. The kural is cryptic and just mentions the seed.
 
-A second, complementary correspondence may be seen in Kathopanishad 2.3.10: यदा पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह । बुद्धिश्च न विचेष्टति तामाहुः परमां गतिम् ॥ — When the five cognitions, together with the mind, come to rest, and the intellect no longer moves, that they call the supreme attainment. The correspondence with the kural is suggestive at the level of both structure and doctrine: ஓரைந்தும் காப்பான் finds a close conceptual counterpart in पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह, while வரனென்னும் வைப்பு may be read against परमां गतिम्, the supreme attainment resulting from such restraint. The Katha passage does not, however, supply an equivalent for தோட்டி; that more specific image is supplied by Kamandakiya Nitisara 1.27, where discriminative knowledge is explicitly the ज्ञानाङ्कुश, the goad by which the sense-elephant is brought under control. Nor does Katha resolve வித்து, which therefore remains the distinctive element of the proposed reading and finds its doctrinal counterpart more naturally in Patanjali’s discussion of the destruction of the residual seed of the defects. The three passages thus illuminate different components of the kural: Kamandakiya supplies the knowledge–goad–sense-elephant imagery, Katha supplies the restraint of the five senses–supreme attainment sequence, and Patanjala Yoga supplies the crucial distinction between attainment and the destruction of the residual seed (leading to kaivalya).
-
+A second, complementary correspondence may be seen in Kathopanishad 2.3.10: यदा पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह । बुद्धिश्च न विचेष्टति तामाहुः परमां गतिम् ॥ — When the five cognitions, together with the mind, come to rest, and the intellect no longer moves, that they call the supreme attainment. The correspondence with the kural is suggestive at the level of both structure and doctrine: ஓரைந்தும் காப்பான் finds a close conceptual counterpart in पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह, while வரனென்னும் வைப்பு may be read against परमां गतिम्, the supreme attainment resulting from such restraint. The Katha passage does not, however, supply an equivalent for தோட்டி; that more specific image is supplied by Kamandakiya Nitisara 1.27, where discriminative knowledge is explicitly the ज्ञानाङ्कुश, the goad by which the sense-elephant is brought under control. Katha instead uses the charioteer and steeds metaphor in verse 1.3.6:
+तस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः. Nor does Katha resolve வித்து, which therefore remains the distinctive element of the proposed reading and finds its doctrinal counterpart more naturally in Patanjali’s discussion of the destruction of the residual seed of the defects. The three passages thus illuminate different components of the kural: Kamandakiya supplies the knowledge–goad–sense-elephant imagery, Katha supplies the restraint of the five senses–supreme attainment sequence, and Patanjala Yoga supplies the crucial distinction between attainment and the destruction of the residual seed (leading to kaivalya).
 
 #### Other Corroborations and Non-Parallel Witnesses
 
@@ -142,25 +142,33 @@ The practical approach of Yoga is complemented by the mento-intellectual approac
 
 While my primary parallels are chosen to cover more of the nuances and metaphors of the individual kurals, the overall chapter is better understood from a parsimonious pair of sources, namely the Kathopanishad, and the Pantajali Yogasutra. The table below connects the kurals, placed in Manakkudavar order, which in my opinion, allows a more coherent structural presentaion of the chapter as a whole.
 
-**Table Pending**
+| No. | Kural | Primary match fragment | Katha fragment  | Patanjali fragment |
+|--|--|--|--|--|
+| [1](#verse-1) | ஒழுக்கத்து நீத்தார் ... <br> விழுப்பத்து வேண்டும் <br> பனுவற் றுணிவு | वेदान्तविज्ञानसुनिश्चितार्थाः ... <br> संन्यासयोगाद् यतयः शुद्धसत्त्वाः <br> Mundaka 3.2.6 | Broad praise for renunciation <br> श्रेयो हि धीरोऽभि प्रेयसो वृणीते <br> Katha 1.2.2 | |
+| [2](#verse-2) | துறந்தார் ... <br> வையத் திறந்தார் ... | जीवन्न् एव मृतोपमः ... <br> स जीवन्मुक्त उच्यते <br> Mokshopaya 3.9.12 | अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते <br> Katha 2.3.14 <br>  अनुष्ठाय न शोचति विमुक्तश्च विमुच्यते <br> Katha 2.2.1 | |
+| [3](#verse-3) | இருமை வகைதெரிந் <br> தீண்டறம் பூண்டார் <br> பெருமை பிறங்கிற் றுலகு | | | |
+| [4](#verse-4) | உரனென்னுந் தோட்டியா <br> னோரைந்துங் காப்பான் <br> ... வித்து | ज्ञानाङ्कुशेन कुर्वीत <br> वश्यम् इन्द्रियदन्तिनम् <br> Kamandak. Nitis. 1.27 | पञ्चावतिष्ठन्ते ज्ञानानि मनसा <br> सह ... परमां गतिम् <br> Katha 2.3.10 <br> तस्येन्द्रियाणि वश्यानि <br> सदश्वा इव सारथेः <br> Katha 1.3.6 | ते समाधावुपसर्गा व्युत्थाने सिद्धयः <br> PYS 3.38 <br> इन्द्रियजयः PYS 3.48 <br> एताः सिद्धयो जितेन्द्रियस्य प्रादुर्भवन्ति <br> Vyasa on PYS 3.48 <br> तद्वैराग्यादपि दोषबीजक्षये कैवल्यम् <br> PYS 3.50 |
+| [5](#verse-5) | ஐந்தவித்தா னாற்றல் ... <br> இந்திரனே சாலுங் கரி | जितेन्द्रियः ... <br> तस्यातितपसः शक्रो बिभेति <br> Mahabharata 9.50.5-6 | पञ्चावतिष्ठन्ते ... परमां गतिम् <br> Katha 2.3.10 | स्थान्युपनिमन्त्रणे ... PYS 3.52 <br> तत्र मधुमतीं भूमिं साक्षात्कुर्वतो ... <br> स्थानिनो देवाः ... स्थानैरुपनिमन्त्रयन्ते— ... <br> सिद्धा महर्षय उत्तमाः ... <br> अनुकूला अप्सरसो ... <br> प्रतिपद्यतामिदमक्षयमजरममरस्ठानं <br> देवानां प्रियमिति <br> Vyasa on PYS 3.52 |
+| [6](#verse-6) | செயற்கரிய செய்வார் <br> பெரியர் சிறியர் ... | श्रेयो हि धीरोऽभि प्रेयसो वृणीते <br> प्रेयो मन्दो योगक्षेमाद्वृणीते <br> Katha 1.2.2 | same as primary | |
+| [7](#verse-7) | சுவையொளி ... <br> என் றைந்தின் <br> வகைதெரிவான் ... | शब्दः स्पर्शस्तथा रूपं <br> रसो गन्धश्च पञ्चमः <br> एते पञ्चगुणा भूमेर्विज्ञेया \|\| <br> Mahabharata 14.49.40 | रूपं रसं गन्धं शब्दान् स्पर्शान् <br> ... विजानाति Katha 2.1.3 | |
+| [8](#verse-8) | நிறைமொழி மாந்தர் ... <br>  மறைமொழி காட்டி ... | | | |
+| [9](#verse-9) | குணமென்னுங் ... வெகுளி <br> கணமேயுங் காத்த லரிது |कोपास्तत्क्षणभङ्गुराः <br> ... महात्मनाम् <br> Hitopadesha 1.198 | वीतमन्यु Katha 1.1.10-11 | |
+| [10](#verse-10) | அந்தண ரென்போ ரறவோர் <br> மற் றெவ்வுயிர்க்குஞ் <br> செந்தண்மை ... | मित्रता सर्वभूतेषु ... <br> ब्राह्मणस्यैष धर्मः <br> Mahabharata 12.14.15 | ब्रह्म च क्षत्रं च ... सर्वधर्मविधारके <br> Shankara on Katha 1.2.25 | |
 
 <!-- Table in Manakkudavar order with katha and patanjali corroboration -->
 
 <!--
-Kathpanishad as backbone:  
-kural 1 1.2.2  श्रेयो हि धीरोऽभि प्रेयसो वृणीते and praise for renunciation across the text 
-kural 2 2.2.1 अनुष्ठाय न शोचति विमुक्तश्च विमुच्यते ; 2.3.14 अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते 
-kural 3 irumai vakai 
-kural 4 2.3.10 पञ्चावतिष्ठन्ते ज्ञानानि मनसा सह । बुद्धिश्च न विचेष्टति तामाहुः परमां गतिम् also 1.3.3 आत्मानं रथिनं विद्धि शरीरं रथमेव तु \| बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च \|\|
-kural 5 indriyas / indra
-kural 6 1.2.2 धीरः … श्रेयः … वृणीते … मन्दः … प्रेयः … वृणीते 
-kural 7 2.1.3 रूपं रसं गन्धं शब्दान् स्पर्शान् and विजानाति 
-kural 8 maraimozhi
-kural 9 Kathopanishad 1.1.10-11 When Yama grants Naciketas his first boon, he restores his father to him: यथा पुरस्ताद् भविता प्रतीत औद्दालकिरारुणिर्मत्प्रसृष्टः । सुखं रात्रीः शयिता वीतमन्युं त्वां ददृशिवान्मृत्युमुखात्प्रमुक्तम् ॥ १.१.११. The crucial word is: वीतमन्यु — free from manyu, anger/wrath.
-kural 10 ahimsa+brahmin 
+Kathopanishad 1.1.10-11 When Yama grants Naciketas his first boon, he restores his father to him: यथा पुरस्ताद् भविता प्रतीत औद्दालकिरारुणिर्मत्प्रसृष्टः । सुखं रात्रीः शयिता वीतमन्युं त्वां ददृशिवान्मृत्युमुखात्प्रमुक्तम् ॥ १.१.११. The crucial word is: वीतमन्यु — free from manyu, anger/wrath.
+Kaṭha Upaniṣad 1.3.5–6:
+
+यस्त्वविज्ञानवान् भवत्ययुक्तेन मनसा सदा ।
+तस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः ॥ ५ ॥
+
+यस्तु विज्ञानवान् भवति युक्तेन मनसा सदा ।
+तस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः ॥ ६ ॥
+
 Katha 1.2.25: यस्य ब्रह्म च क्षत्रं च उभे भवत ओदनः । मृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः ॥ 
 Shankara's gloss explains ब्रह्म च क्षत्रं च as referring to the Brāhmaṇa and Kṣatriya classes, and explicitly characterizes them as: सर्वधर्मविधारके “upholders/supporters of all dharma” https://www.ahambrahma.in/upanishads/kathopanishad/chapter-1?utm_source=chatgpt.com
-
 -->
 
 
