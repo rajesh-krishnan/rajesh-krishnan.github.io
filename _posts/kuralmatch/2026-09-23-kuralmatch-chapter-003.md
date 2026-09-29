@@ -15,7 +15,7 @@ tags: [kuralmatch]
 | [5](#verse-5) | ஐந்தவித்தா னாற்ற லகல்விசும்பு ளார்கோமா <br> னிந்திரனே சாலுங் கரி | वैशंपायन उवाच \| आसीत्पूर्वं महाराज मुनिर्धीमान्महातपाः \| <br> दधीच इति विख्यातो ब्रह्मचारी **जितेन्द्रियः** \|\| <br> **तस्यातितपसः शक्रो बिभेति** सततं विभो \| <br>  न स लोभयितुं शक्यः फलैर्बहुविधैरपि \|\| <br> Mahabharata Shalya Parya 9.50.5-6 (BORI) |
 | [6](#verse-6) | செயற்கரிய செய்வார் பெரியர் சிறியர் <br> செயற்கரிய செய்கலா தார் | श्रेयश्च प्रेयश्च मनुष्यमेतः तौ सम्परीत्य विविनक्ति धीरः \| <br> **श्रेयो हि धीरोऽभि प्रेयसो वृणीते प्रेयो मन्दो योगक्षेमाद्वृणीते** \|\| <br> Kathopanishad 1.2.2 |
 | [7](#verse-7) | சுவையொளி யூறோசை நாற்றமென் றைந்தின் <br> வகைதெரிவான் கட்டே யுலகு | **शब्दः स्पर्शस्तथा रूपं रसो गन्धश्च पञ्चमः** \| <br> **एते पञ्चगुणा भूमेर्विज्ञेया** द्विजसत्तमाः \|\| <br> Mahabharata, Ashvamedhika Parva 14.49.40 (BORI) |
-| [8](#verse-8) | நிறைமொழி மாந்தர் பெருமை நிலத்து <br>  மறைமொழி காட்டி விடும் | |
+| [8](#verse-8) | நிறைமொழி மாந்தர் பெருமை நிலத்து <br>  மறைமொழி காட்டி விடும் | **यच्च त्वं वक्ष्यसे** भीष्म पाण्डवायानुपृच्छते \| <br> **वेदप्रवादा इव ते स्थास्यन्ति वसुधातले** \|\| <br> Mahabharata Shanti Parva 12.54.29 (BORI) |
 | [9](#verse-9) | குணமென்னுங் குன்றேறி நின்றார் வெகுளி <br> கணமேயுங் காத்த லரிது |आमरणान्ताः प्रणयाः **कोपास्तत्क्षणभङ्गुराः** \| <br> परित्यागाश्च निःसङ्गा भवन्ति हि **महात्मनाम्** \|\| <br> Hitopadesha 1.198 |
 | [10](#verse-10) | அந்தண ரென்போ ரறவோர்மற் றெவ்வுயிர்க்குஞ் <br> செந்தண்மை பூண்டொழுக லான் | **मित्रता सर्वभूतेषु** दानमध्ययनं तपः \| <br> **ब्राह्मणस्यैष धर्मः** स्यान्न राज्ञो राजसत्तम \|\| <br> Mahabharata Shanti Parva 12.14.15 (BORI) |
 
@@ -133,6 +133,30 @@ Kathopanishad verse 2.1.3 provides corroboration of the crux of the kural: य�
 
 ### Verse 8
 
+<!--
+A natural reading of the kural is: “The greatness of men of perfect/authoritative speech is revealed on earth when their utterances become, as it were, the sacred words of the land.” Here நிறைமொழி மாந்தர் need not mean simply “learned men”; the phrase can denote those whose speech possesses an authority approaching that of revealed utterance. This reading also gives மறைமொழி its natural Sangam-era sense of a concealed or sacred utterance, precisely the semantic field that the Tolkāppiyam connects with மந்திரம்: “நிறைமொழி மாந்தர் ஆணையிற் கிளந்த மறைமொழி தானே மந்திரம் என்ப.” In this interpretation, the kural's பெருமை is not merely asserted of such men: it is demonstrated in the world by the enduring authority of their words.
+
+A remarkably close Mahābhārata formulation occurs in Śānti Parvan 12.54.28–29. Kṛṣṇa first says of Bhīṣma, “பृथிவீ … तावत् … कीर्तिः लोकान् अनुचरिष्यति”—as long as the earth remains, his imperishable fame will pass through the worlds—and immediately adds: “यच्च त्वं वक्ष्यसे भीष्म … वेदप्रवादा इव ते स्थास्यन्ति वसुधातले”: whatever Bhīṣma declares to Yudhiṣṭhira will “stand upon the earth like the pronouncements of the Vedas.” This gives an unusually tight correspondence to நிறைமொழி மாந்தர் பெருமை / நிலத்து மறைமொழி காட்டி விடும்: the greatness of the exceptional speaker is manifested நிலத்து, on வसुधातल, through words that acquire the status of वेदप्रवादा.
+
+The comparison should, however, be stated carefully. The Mahābhārata deliberately says वेदप्रवादा इव—“like the pronouncements of the Veda”—rather than identifying Bhīṣma's words as Vedic revelation. The verse therefore does not make Bhīṣma an ṛṣi. Yet this is precisely what makes it useful as a variant reading of the kural: the Tamil can be understood as saying that the greatness of நிறைமொழி மாந்தர் is shown when their words become the enduring authoritative utterances of the land. The preceding verse's अक्षया कीर्तिः लोकान् अनुचरिष्यति supplies the corroborating idea of greatness, while Bhīṣma's characterization elsewhere in the same episode as महावीर्ये, महासत्त्वे, सर्वार्थदर्शिनि and the recipient of a दिव्या मतिः provides the narrative basis for treating him as an exceptional speaker rather than an ordinary learned man.
+
+The Tolkāppiyam formulation makes the connection particularly suggestive: மறைமொழி is not merely something secret, but an utterance arising from the ஆணை of the நிறைமொழி மாந்தர் and thereby constituting மந்திரம். The Sanskrit Vedic tradition supplies the corresponding conceptual vocabulary: “ऋषयो मन्त्रद्रष्टारः”—the ṛṣis are the seers of the mantras—and the traditional definition of the Veda includes “मन्त्रब्राह्मणयोर्वेदनामधेयम्”, identifying the mantra and Brāhmaṇa portions with the Veda. Thus the Tamil மறைமொழி has a precise Sanskrit conceptual counterpart in mantra as Vedic utterance, while நிறைமொழி மாந்தர் can be understood without forcing a literal lexical equivalent as the class of authoritative seers or knowers whose words possess that status.
+
+#### Kathopanishad correspondence
+
+The deeper reason this reading belongs naturally within the chapter's Kaṭha Upaniṣadic skeleton appears in Kaṭha 1.3.12:
+एष सर्वेषु भूतेषु गूढोऽऽत्मा न प्रकाशते ।
+दृश्यते त्वग्र्यया बुद्ध्या सूक्ष्मया सूक्ष्मदर्शिभिः ॥
+The Self is गूढ, hidden in all beings, and yet दृश्यते, “is seen,” by those possessing the sharp and subtle vision of the सूक्ष्मदर्शिन्. This is not the primary lexical parallel to the kural: भूतेषु is not நிலத்து, गूढ supplies only the “hidden” aspect of மறை, and सूक्ष्मदर्शिभिः does not literally reproduce நிறைமொழி மாந்தர். But it gives a deeper Upaniṣadic interpretation of மறைமொழி காட்டி விடும்: what is hidden within the manifest world becomes दृश्यते, visible to the accomplished seer. This also resonates with Kāliṅgar's understanding of நிறைமொழி மாந்தர் as those who have mastered the senses and realized the highest truth. The immediately following verse, यच्छेद्वाङ्मनसी प्राज्ञः, also brings vāk into the discipline of the realized person.
+There is an important further Vedic bridge here. The traditional identification ऋषयो मन्त्रद्रष्टारः makes the ṛṣi precisely the one through whom the hidden Vedic mantra is seen rather than merely composed; the Vedic tradition accordingly treats the ṛṣi as the seer of the revealed mantra. Thus the Kaṭha's गूढ → दृश्यते supplies the metaphysical depth behind the more concrete Kural image of மறைமொழி → காட்டி விடும்.
+
+#### Bhavabhūti's striking parallel
+A later but extraordinarily precise Sanskrit formulation occurs in Bhavabhūti's Uttararāmacarita:
+लौकिकानां हि साधूनामर्थं वागनुवर्तते ।
+ऋषीणां पुनराद्यानां वाचमर्थोऽनुधावति ॥
+“For ordinary good men, speech follows the meaning; but for the primordial ṛṣis, the meaning follows their speech.”
+This is not the primary parallel, but it is too exact to omit. It gives an elegant Sanskrit formulation of the same reversal implicit in the kural: the greatness of the extraordinary speaker is manifested when what is said is followed by what becomes true in the world. It also resonates with the Kaṭha's distinction between the धीर, who chooses śreyas, and the मन्द, who follows preyas: the speech of the truly discerning person proceeds from a different order of understanding than ordinary worldly speech.
+-->
 
 ### Verse 9
 
@@ -148,7 +172,7 @@ It is useful to first look at Kalingar's commentary for this kural provided belo
 நிறுத்திக்கொண்டு நிற்கமாட்டாது என்றவாறு.
 ```
 
-THe kural has a striking parallel in the Hitopadesha verse 1.198, which states that the anger of great souls breaks apart at that very moment: कोपास्तत्क्षणभङ्गुराः ... महात्मनाम्. Under this interpretation, कोपाः corresponds to வெகுளி; महात्मनाम् to குணமென்னும் குன்றேறி நின்றார்; and तत्क्षणभङ्गुराः corresponds to கணமேயும் காத்தல் அரிது. Valluvar's mountain metaphor is understood as a poetic elaboration of the mahatman characterization. The further characterization परित्यागाश्च निःसङ्गाः (their renunciation is without attachment) also accords well with the chapter's vocabulary of துறந்தார், நீத்தார், ஒழுக்கத்து நீத்தார். 
+The kural has a striking parallel in the Hitopadesha verse 1.198, which states that the anger of great souls breaks apart at that very moment: कोपास्तत्क्षणभङ्गुराः ... महात्मनाम्. Under this interpretation, कोपाः corresponds to வெகுளி; महात्मनाम् to குணமென்னும் குன்றேறி நின்றார்; and तत्क्षणभङ्गुराः corresponds to கணமேயும் காத்தல் அரிது. Valluvar's mountain metaphor is understood as a poetic elaboration of the mahatman characterization. The further characterization परित्यागाश्च निःसङ्गाः (their renunciation is without attachment) also accords well with the chapter's vocabulary of துறந்தார், நீத்தார், ஒழுக்கத்து நீத்தார். 
 
 Given the chapter's strong resonance with the Kathopanishad, it is interesting to note that in verses 1.1.10-11, the specific first boon sought by Nachiketa and granted by Yama is that his father be restored to him as वीतमन्यु — free from manyu, anger/wrath.
 
@@ -181,7 +205,7 @@ While my primary parallels are chosen to cover more of the nuances and metaphors
 | [5](#verse-5) | ஐந்தவித்தா னாற்றல் ... <br> இந்திரனே சாலுங் கரி | जितेन्द्रियः ... <br> तस्यातितपसः शक्रो बिभेति <br> Mahabharata 9.50.5-6 | पञ्चावतिष्ठन्ते ... परमां गतिम् <br> Katha 2.3.10 | स्थान्युपनिमन्त्रणे ... PYS 3.52 <br> तत्र मधुमतीं भूमिं साक्षात्कुर्वतो ... <br> स्थानिनो देवाः ... स्थानैरुपनिमन्त्रयन्ते— ... <br> सिद्धा महर्षय उत्तमाः ... <br> अनुकूला अप्सरसो ... <br> प्रतिपद्यतामिदमक्षयमजरममरस्ठानं <br> देवानां प्रियमिति <br> Vyasa on PYS 3.52 |
 | [6](#verse-6) | செயற்கரிய செய்வார் <br> பெரியர் சிறியர் ... | श्रेयो हि धीरोऽभि प्रेयसो वृणीते <br> प्रेयो मन्दो योगक्षेमाद्वृणीते <br> Katha 1.2.2 | same Katha 1.2.2 | |
 | [7](#verse-7) | சுவையொளி ... <br> என் றைந்தின் <br> வகைதெரிவான் ... | शब्दः स्पर्शस्तथा रूपं <br> रसो गन्धश्च पञ्चमः <br> एते पञ्चगुणा भूमेर्विज्ञेया \|\| <br> Mahabharata 14.49.40 | रूपं रसं गन्धं शब्दान् स्पर्शान् <br> ... विजानाति Katha 2.1.3 | |
-| [8](#verse-8) | நிறைமொழி மாந்தர் ... <br>  மறைமொழி காட்டி ... | | | |
+| [8](#verse-8) | நிறைமொழி மாந்தர் ... <br>  மறைமொழி காட்டி ... | यच्च त्वं वक्ष्यसे ... <br> वेदप्रवादा इव ... वसुधातले <br> Mahabharata 12.54.29 (BORI) | भूतेषु गूढोऽऽत्मा** ... <br> दृश्यतेा ... सूक्ष्मदर्शिभिः <br> Katha 1.3.12 | |
 | [9](#verse-9) | குணமென்னுங் ... வெகுளி <br> கணமேயுங் காத்த லரிது |कोपास्तत्क्षणभङ्गुराः <br> ... महात्मनाम् <br> Hitopadesha 1.198 | वीतमन्यु Katha 1.1.10-11 | |
 | [10](#verse-10) | அந்தண ரென்போ ரறவோர் <br> மற் றெவ்வுயிர்க்குஞ் <br> செந்தண்மை ... | मित्रता सर्वभूतेषु ... <br> ब्राह्मणस्यैष धर्मः <br> Mahabharata 12.14.15 | ब्रह्म च क्षत्रं च ... सर्वधर्मविधारके <br> Shankara on Katha 1.2.25 | |
 
