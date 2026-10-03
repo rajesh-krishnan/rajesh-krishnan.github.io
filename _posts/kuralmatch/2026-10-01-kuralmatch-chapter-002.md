@@ -8,7 +8,7 @@ tags: [kuralmatch]
 
 |  | [2](#chapter-summary) : அறத்துப்பால் : பாயிரம் : வான்சிறப்பு |  |
 |--|--|--|
-| [1](#verse-1) | வானின் றுலகம் வழங்கி வருதலாற் <br> றானமிழ்த மென்றுணரற் பாற்று | |
+| [1](#verse-1) | வானின் றுலகம் வழங்கி வருதலாற் <br> றானமிழ்த மென்றுணரற் பாற்று | वृष्टिकामश्चिन्वीत \| **आपो वै वृष्टिः** \| **पर्जन्यो वर्षुको भवति** \|  **य एवं वेद** \|\| <br> आमयावी चिन्वीत \| आपो वै भेषजम् \| भेषजमेवास्मै करोति \| सर्वमायु॑रेति \|\| <br> अभिचरंश्चिन्वीत \| वज्रो वा आपः \।\| ... <br> **अमृतं वा आपः** \| **अमृतस्यानन्तरित्यै** \|\| <br> नाप्सु मूत्रपुरीषं कुर्यात् \| न निष्ठीवेत् \| न विवस्नः स्नायात् \| <br> गुह्यो वा एषोऽग्निः \| एतस्याग्नेरनतिदाहाय \|\| <br> न पुष्करपर्णानि हिरण्यम् वाधितिष्ठेत् \| एतस्याग्नेरनभ्यारोहाय \|\| <br> न कूर्मस्याश्नीयात् \| नोदकस्याघातुकान्येनमुदकानि भवन्ति \| अघातुका आपः \|\| <br> Taittiriya Aranyaka 1.26.5.5,7 |
 | [2](#verse-2) | துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத் <br>துப்பாய தூஉமழை | आरण्या उभयीषामवरुद्ध्यै \| <br> **अन्नस्यान्नस्य जुहोत्यन्नस्यान्नस्यावरुद्ध्यै** \| <br> औदुम्बरेण स्रुवेण जुहोत्युर्ग्वा उदुम्बर ऊर्गन्नमूर्जैवास्मा ऊर्जमन्नमवरुन्द्धे \| <br> अग्निर्वै देवानामभिषिक्तोऽग्निचिन्मनुष्याणाम् \| <br> तस्मादग्निचिद्वर्षति न धावेत् \| <br> **अवरुद्धं ह्यस्य अन्नम्** \| **अन्नमिव खलु वै वर्षम्** \| <br> यद्धावेदन्नाद्याद्धावेदुपावर्तेतान्नाद्यमेवाभि \|\| <br> Taittiriya Samhita 5.4.9.2 |
 | [3](#verse-3) | விண்ணின்று பொய்ப்பின் விரிநீர் வியனுலகத் <br> துண்ணின் றுடற்றும் பசி | |
 | [4](#verse-4) | ஏரி னுழாஅ ருழவர் புயலென்னும் <br> வாரி வளங்குன்றிக் கால் | |
@@ -24,6 +24,7 @@ tags: [kuralmatch]
 
 ### Verse 1
 
+Taittiriya Aranyaka (TA) 1.26.5.5,7 provides a particularly tight parallel to the Kural: आपो वै वृष्टिः, water is rain, and पर्जन्यो वर्षुको भवति, connecting that rain with Parjanya, the rain-bringing power of the heavens. This resonates with the kural's வானின் றுலகம் வழங்கி வருதலாற் றான்: since the rain that comes from the sky and sustains the world. TA 1.26.5.7 then states explicitly, अमृतं वा आपः, water indeed is amrita, directly corresponding to the kural's தானமிழ்தம். The following अमृतस्यानन्तरित्यै further emphasizes that water is the means of attaining or preserving the continuity of immortality, giving particular force to its designation as amrita. Finally, य एवं वेद, he who knows thus, closely resonates with என்றுணரற் பாற்று, the recognition that it is to be understood in this way. Thus both passages connect rain, the sustaining waters of skies, and amrita, presenting the rain that descends from the sky as the world's life-giving nectar.
 
 ### Verse 2
 
