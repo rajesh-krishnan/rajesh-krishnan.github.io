@@ -12,7 +12,7 @@ tags: [kuralmatch]
 | [2](#verse-2) | துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத் <br>துப்பாய தூஉமழை | आरण्या उभयीषामवरुद्ध्यै \| <br> **अन्नस्यान्नस्य जुहोत्यन्नस्यान्नस्यावरुद्ध्यै** \| <br> औदुम्बरेण स्रुवेण जुहोत्युर्ग्वा उदुम्बर ऊर्गन्नमूर्जैवास्मा ऊर्जमन्नमवरुन्द्धे \| <br> अग्निर्वै देवानामभिषिक्तोऽग्निचिन्मनुष्याणाम् \| <br> तस्मादग्निचिद्वर्षति न धावेत् \| <br> **अवरुद्धं ह्यस्य अन्नम्** \| **अन्नमिव खलु वै वर्षम्** \| <br> यद्धावेदन्नाद्याद्धावेदुपावर्तेतान्नाद्यमेवाभि \|\| <br> Taittiriya Samhita 5.4.9.2 |
 | [3](#verse-3) | விண்ணின்று பொய்ப்பின் விரிநீர் வியனுலகத் <br> துண்ணின் றுடற்றும் பசி | |
 | [4](#verse-4) | ஏரி னுழாஅ ருழவர் புயலென்னும் <br> வாரி வளங்குன்றிக் கால் | |
-| [5](#verse-5) | கெடுப்பதூஉங் கெட்டார்க்குச் சார்வாய்மற் றாங்கே <br> யெடுப்பதூஉ மெல்லா மழை | |
+| [5](#verse-5) | கெடுப்பதூஉங் கெட்டார்க்குச் சார்வாய்மற் றாங்கே <br> யெடுப்பதூஉ மெல்லா மழை | ज्योतिषाऽप्रतिख्येन सः \| विश्वरूपाणि वासांसि \| आदित्यानां निबोधत \| <br> संवत्सरीणं कर्मफलम् \| वर्षाभिर्ददतां सह \| अदुःखो दुःखचक्षुरिव \| <br> तद्मा पीत इव दृश्यते \| शीतेनाव्यथयन्निव \| रुरुदक्ष इव दृश्यते \| <br> ह्लादयते ज्वलतश्चैव \| शाम्यतश्चास्य चक्षुषी \| <br> **या वै प्रजा भ्रश्यन्ते** \| **संवत्सरात् ता भ्रश्यन्ते \| <br> **याः प्रतिष्ठन्ति** \| **संवत्सरे ताः प्रतिष्ठन्ति** \| **वर्षाभ्य इत्यर्थः** \|\| <br> Taittiriya Aranyaka 1.3.11 |
 | [6](#verse-6) | விசும்பிற் றுளிவீழி னல்லான்மற் றாங்கே <br> பசும்புற் றலைகாண் பரிது | |
 | [7](#verse-7) | நெடுங்கடலுந் தன்னீர்மை குன்றுந் தடிந்தெழிலி <br> தானல்கா தாகி விடின் | |
 | [8](#verse-8) | சிறப்பொடு பூசனை செல்லாது வானம் <br> வறக்குமேல் வானோர்க்கு மீண்டு | |
@@ -46,6 +46,9 @@ The trichotomy, and its tight association with rain, is also consistent with Kal
 
 ### Verse 5
 
+Taittiriya Aranyaka (TA) 1.3.11 presents the same rain-dependent duality as the kural: या वै प्रजा भ्रश्यन्ते \| संवथ्सरात् ता भ्रश्यन्ते — those people who decline, decline from the year — corresponding to கெடுப்பதூஉம்; while याः प्रतिष्ठन्ति \| संवत्सरे ताः प्रतिष्ठन्ति — those who prosper/become established, are established in the year — corresponds to எடுப்பதூஉம். The repeated संवत्सर makes the agricultural, annual cycle explicit: when the rains fail, or are otherwise adverse, the people decline, while favorable rains sustain their establishment. And the concluding वर्षाभ्य इत्यर्थः, “the meaning is with reference to the rains, identifies rain as the force behind both outcomes, exactly as the kural assigns both கெடுப்பதும் and எடுப்பதும் to மழை. The TA leaves கெட்டார்க்குச் சார்வாய் implicit: the juxtaposition of भ्रश्यन्ते (decline/fall away) and प्रतिष्ठन्ति (become established) itself suggests the rain-dependent restoration of those who have fallen.
+
+In Parimelazhakar’s commentary of the kural, பூமியின்கண் வாழ்வாரை (those who live upon the earth) fits naturally with the agricultural orientation of the TA’s प्रजा within this rain-governed annual cycle. He then makes the same duality explicit: பூமியின்கண் வாழ்வாரைப் பெய்யாது நின்று கெடுப்பதூஉம்; அவ்வாறு கெட்டார்க்குத் துணையாய்ப் பெய்து முன் கெடுத்தாற் போல எடுப்பதூஉம்; இவை எல்லாம் வல்லது மழை. 'எல்லாம்' என்றது, அம்மக்கள் முயற்சி வேறுபாடுகளால் கெடுத்தல் எடுத்தல்கள் தாம் பலவாதல் நோக்கி. 'வல்லது' என்பது அவாய் நிலையான் வந்தது. மழையினது ஆற்றல் கூறியவாறு. His concluding மழையினது ஆற்றல் கூறியவாறு (thus the power of rain has been stated) provides a striking corroboration of the TA’s वर्षाभ्य इत्यर्थः: in both readings, rain is the agency capable of producing either ruin or restoration.
 
 ### Verse 6
 
