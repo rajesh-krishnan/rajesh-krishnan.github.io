@@ -14,7 +14,7 @@ tags: [kuralmatch]
 | [4](#verse-4) | ஏரி னுழாஅ ருழவர் புயலென்னும் <br> வாரி வளங்குன்றிக் கால் | |
 | [5](#verse-5) | கெடுப்பதூஉங் கெட்டார்க்குச் சார்வாய்மற் றாங்கே <br> யெடுப்பதூஉ மெல்லா மழை | ज्योतिषाऽप्रतिख्येन सः \| विश्वरूपाणि वासांसि \| आदित्यानां निबोधत \| <br> संवत्सरीणं कर्मफलम् \| वर्षाभिर्ददतां सह \| अदुःखो दुःखचक्षुरिव \| <br> तद्मा पीत इव दृश्यते \| शीतेनाव्यथयन्निव \| रुरुदक्ष इव दृश्यते \| <br> ह्लादयते ज्वलतश्चैव \| शाम्यतश्चास्य चक्षुषी \| <br> **या वै प्रजा भ्रश्यन्ते** \| **संवत्सरात् ता भ्रश्यन्ते** \| <br> **याः प्रतिष्ठन्ति** \| **संवत्सरे ताः प्रतिष्ठन्ति** \| **वर्षाभ्य इत्यर्थः** \|\| <br> Taittiriya Aranyaka 1.3.11 |
 | [6](#verse-6) | விசும்பிற் றுளிவீழி னல்லான்மற் றாங்கே <br> பசும்புற் றலைகாண் பரிது | |
-| [7](#verse-7) | நெடுங்கடலுந் தன்னீர்மை குன்றுந் தடிந்தெழிலி <br> தானல்கா தாகி விடின் | |
+| [7](#verse-7) | நெடுங்கடலுந் தன்னீர்மை குன்றுந் தடிந்தெழிலி <br> தானல்கா தாகி விடின் | तदा **भवत्यनावृष्टिस्तदा सा शत वार्षिकी** \| <br> तथा यान्यल्पसाराणि सत्त्वानि पृथिवीतले \|\|<br> ततस्तेषां प्रतापेन दह्यमाना वसुन्धरा \| <br> **साद्रिनद्यर्णवा पृथ्वी विस्नेहा समपद्यत** \|\| <br> Vayu Purana, Uttarardha 38.137,147 |
 | [8](#verse-8) | சிறப்பொடு பூசனை செல்லாது வானம் <br> வறக்குமேல் வானோர்க்கு மீண்டு | **यज्ञाभावात्तु देवानामन्नं सर्वं क्षयं गतम्** \| <br> **पर्जन्याश्च ततो नष्टास्ततो वृष्टिर्नचाभवत्** \|\| <br> Kalika Purana 20.112  (Khemaraja 1948 ed.)  |
 | [9](#verse-9) | தானந் தவமிரண்டுந் தங்கா வியனுலகம் <br> வானம் வழங்கா தெனின் | **न च दानादिधर्माश्च न तपांसि क्षितौ क्वचित्** \| <br> **नैव वर्षति पर्जन्यः क्षीणतोयाभवत् क्षितिः** \|\| <br> Kalika Purana 20.126  (Khemaraja 1948 ed.) |
 | [10](#verse-10) | நீரின் றமையா துலகெனின் யார்யார்க்கும் <br> வானின் றமையா தொழுக்கு | |
@@ -58,6 +58,19 @@ In Parimelazhakar’s commentary of the kural, பூமியின்கண்
 
 ### Verse 7
 
+The Vayu Purana, Uttarardha 38.137 and 38.147 verses provide a close parallel to the kural. The narrative describes an unusual hundred-year drought: तदा भवत्यनावृष्टिस्तदा सा शतवार्षिकी, followed by the devastation of the earth, culminating in साद्रिनद्यर्णवा पृथ्वी विस्नेहा समपद्यत. The correspondence is especially close: अनावृष्टि corresponds to what Valluvar poetically expresses as தடிந்தெழிலி தானல்காதாகி விடின் (if the rain-clouds, having been destroyed, do not give), implying the absence of rain; अर्णवा corresponds directly to நெடுங்கடலுந், identifying the ocean;  विस्नेहा समपद्यत, became devoid of moisture, closely corresponds to தன்னீர்மை குன்றுந், the ocean losing its own essential moisture. This विस्नेहा समपद्यत has a remarkable resonance with தன்னீர்மை குன்றுந், which is a more nuanced expression than simply saying that the water is reduced or that the ocean dries up. The explicit mention of पृथ्वी also resonates with Manakkudavar’s gloss, நிலமேயன்றி நெடியகடலும் தனது தன்மை குறையும். Nor is there ambiguity about अर्णवा referring to the oceans: the same account explicitly uses महोदधिः and समुद्रेभ्यो in 38.154–155: द्वीपाश्च पर्वताश्चैव वर्षाण्यथ महोदधिः … and समुद्रेभ्यो नदीभ्यश्च पातालेभ्यश्च सर्वतः पिबन्नपः, describing the water being consumed from the oceans, rivers, and subterranean regions.
+
+#### Additional Corroborations in the Brahma Purana and the Kalika Purana
+
+The Brahma Purana 232.14–23 corroborates essentially the same episode and in strikingly similar terms. It opens with अनावृष्टिरतीवोग्रा जायते शतवार्षिकी, explicitly specifying the hundred-year drought, and then states that the waters of the समुद्रान् सरितः and other sources are exhausted: समुद्रान् सरितः शैलाञ् शैलप्रस्रवणानि च पातालेषु च यत् तोयं तत् सर्वं नयति क्षयम्. The climactic description, साद्रिनगार्णवाभोगं निःस्नेहमभिजायते, is particularly significant: the earth, with its mountains, cities, and oceans, becomes निःस्नेह, devoid of moisture, closely reinforcing the kural’s தன்னீர்மை குன்றும். 
+
+Given the strong parallels in the Kalika Purana to several other kurals in this chapter, it is also worth noting that, within the same related sequence, Markandeya records जग्मुः क्षोभं परं देवाः सागराश्च ग्रहास्तथा (20.116): the क्षोभं … सागराश्च marks the disturbance of the oceans. This is not itself a parallel to the kural, but it corroborates the wider Puranic conception of prolonged failure of rain producing consequences that extend even to the oceans.
+
+#### The 100-year drought and the 12-year drought
+
+The timeline/duration of the drought is important for understanding the nuance of the kural. Valluvar does not specify a duration, but an occasional failure of rain for a single year, or even a drought lasting several years, would not ordinarily be expected to produce a perceptible change in the oceans; water bodies on land would show the effects much sooner. 
+
+The Mahabharata, Shanti Parva 12.139, provides an illuminating narrative in which Bhishma recounts for Yudhishthira an ancient catastrophic drought lasting twelve years: अनावृष्टिरभूद्घोरा राजन्द्वादशवार्षिकी. In 12.139.16–18, he describes the disappearance of dew and clouds and the depletion of rivers, lakes, wells, and springs: नद्यः संक्षिप्ततोयौघाः क्वचिदन्तर्गताभवन्, followed by सरांसि सरितश्चैव कूपाः प्रस्रवणानि च. Yet the **oceans are notably absent** from this catalogue of waters that dry up. This stands in striking contrast to the Brahma and Vayu Purna accounts of a hundred-year drought, where the अर्णवा/ocean and the loss of स्नेह/moisture are explicitly brought into the devastation. Thus, while many of the other phenomena in the kural chapter, as well as in the corresponding Kālika Purana material, find resonance in the Mahabharata’s account of the twelve-year drought, the distinctive claim that நெடுங்கடலும் தன்னீர்மை குன்றும் finds its closest Puranic parallel in the extraordinary शतवार्षिकी अनावृष्टि narrative.
 
 ### Verse 8
 
@@ -91,7 +104,7 @@ It is especially noteworthy that the 12 year famine causes water bodies on the l
 | [10](#verse-10) | 3 | நீரின் றமையா துலகு ... வானின் றமையா தொழுக்கு | | 12 year drought |
 | [3](#verse-3) | 4 |  ... வியனுலகத் துண்ணின் றுடற்றும் பசி | लोकानामाहाराः क्षीणतां गताः ...  दुर्भिक्षव्यसनोपेते सर्वलोके द्विजोत्तमाः KP 20.113 | 12 year drought |
 | [6](#verse-6) | 5 | விசும்பிற் றுளி ... பசும்புற் றலைகாண் பரிது | | 12 year drought |
-| [7](#verse-7) | 6 | நெடுங்கடலுந் தன்னீர்மை குன்றுந் ... | | 100 year drought |
+| [7](#verse-7) | 6 | நெடுங்கடலுந் தன்னீர்மை குன்றுந் ... | भवत्यनावृष्टि ... अर्णवा ... विस्नेहा समपद्यत  Vayu Purana, Uttarardha 38.137,147 क्षोभं ... सागराश्च  KP 20.116 | 100 year drought |
 | [4](#verse-4) | 7 | ஏரி னுழாஅ ருழவர் புயலென்னும் <br> வாரி வளங்குன்றிக் கால் | | |
 | [5](#verse-5) | 8 | கெடுப்பதூஉங் கெட்டார்க்கு ..  எடுப்பதூஉ மெல்லா மழை | या वै प्रजा भ्रश्यन्ते संवत्सरात् ता भ्रश्यन्ते याः प्रतिष्ठन्ति संवत्सरे ताः प्रतिष्ठन्ति वर्षाभ्य इत्यर्थः TA 1.3.11 | |
 | [2](#verse-2) | 9 | துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத் துப்பாய தூஉமழை |  अन्नस्यान्नस्य जुहोत्यन्नस्यान्नस्यावरुद्ध्यै ... अवरुद्धं ह्यस्य अन्नम् अन्नमिव खलु वै वर्षम् TS 5.4.9.2 | |
