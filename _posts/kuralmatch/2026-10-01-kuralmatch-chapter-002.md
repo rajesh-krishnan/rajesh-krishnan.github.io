@@ -132,7 +132,7 @@ My reading of this chapter in connection with the Vedas and Puranas brings out a
 | [3](#verse-3) | 4 |  ... வியனுலகத் துண்ணின் றுடற்றும் பசி | Kalika Purana 20.113 |
 | [6](#verse-6) | 5 | விசும்பிற் றுளி ... பசும்புற் றலைகாண் பரிது |  Kalika Purana 20.126-127; Brihat Samhita 23.3 alternative meteorological reading |
 | [7](#verse-7) | 6 | நெடுங்கடலுந் தன்னீர்மை குன்றுந் ... | Kalika Purana 20.116; Vayu Purana Uttarardha 38.137,147 and Brahma Purana 232.14–23 for 100-year drought narrative |
-| [4](#verse-4) | 7 | ஏரி னுழாஅ ருழவர் ... வாரி வளங்குன்றிக் கால் | Kalika Purana 20.113; Mahabharata chapter 12.139.13-19 for 12-year drought narrative; Mahabharata 12.139.19 and Krishi Parashara 10 alternative agricultural reading |
+| [4](#verse-4) | 7 | ஏரி னுழாஅ ருழவர் ... வாரி வளங்குன்றிக் கால் | Kalika Purana 20.113; Mahabharata chapter 12.139.13-19 for 12-year drought narrative; Mahabharata 12.137.75 and Krishi Parashara 10 for alternative agricultural reading |
 | [5](#verse-5) | 8 | கெடுப்பதூஉங் கெட்டார்க்கு ..  எடுப்பதூஉ மெல்லா மழை | Taittiriya Aranyaka 1.3.11 |
 | [2](#verse-2) | 9 | துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத் துப்பாய தூஉமழை |  Taittiriya Samhita 5.4.9.2 |
 | [1](#verse-1) | 10 | வானின் றுலகம் வழங்கி ... அமிழ்த மென்றுணர | Taittiriya Aranyaka 1.26.5,7 |
