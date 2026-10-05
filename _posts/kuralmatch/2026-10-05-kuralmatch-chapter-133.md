@@ -8,7 +8,7 @@ tags: [kuralmatch]
 
 |  | [133](#chapter-summary) : காமத்துப்பால் : கற்பியல் : ஊடலுவகை |  |
 |--|--|--|
-| [1](#verse-1) | இல்லை தவறவர்க் காயினு மூடுதல் <br> வல்ல தவரளிக்கு மாறு |  |
+| [1](#verse-1) | இல்லை தவறவர்க் காயினு மூடுதல் <br> வல்ல தவரளிக்கு மாறு | बाले नाथ विमुञ्च **मानिनि रुषं** रोषान् मया किं कृतं <br> खेदोऽस्मासु **न मेऽपराध्यति भवान्** सर्वेऽपराधा मयि \| <br> तत्किं रोदिषि गद्गदेन वचसा कस्याग्रतो रुद्यते <br> नन्वेतन् **मम का तवास्मि दयिता नास्मीत्यतो रुद्यते** \|\| <br> Amarushataka 53 |
 | [2](#verse-2) | ஊடலி்ற் றோன்றுஞ் சிறுதுனி நல்லளி <br> வாடினும் பாடு பெறும் |  |
 | [3](#verse-3) | புலத்தலிற் புத்தேணா டுண்டோ நிலத்தொடு <br> நீரியைந் தன்னா ரகத்து |  |
 | [4](#verse-4) | புல்லி விடாஅப் புலவியுட் டோன்றுமென் <br> னுள்ள முடைக்கும் படை | श्रुत्वा नामापि यस्य स्फुटघनपुलकं जायतेऽङ्गं <br> समन्तात्दृष्ट्वा यस्याननेन्दुं भवति वपुरिदं चन्द्रकान्तानुकारि \| <br> तस्मिन्नागत्य **कण्ठग्रहणसरभसस्थायिनि प्राणनाथे** <br> **भग्ना मानस्य चिन्ता भवति मम प्नर्वज्रमय्याः कदा नु** \|\| <br> Amarushataka 57 |
@@ -24,6 +24,15 @@ tags: [kuralmatch]
 
 ### Verse 1
 
+As a close conceptual parallel to the kural, I propose Amarushataka 53, which is an exquisite miniature of Shringara poetry presented as a conversation between a nayaka and a manini nayika. The nayaka tenderly asks her to abandon her anger and protests his innocence; when she insists that he has done nothing wrong, he asks why she is nevertheless weeping, whereupon she reveals that her tears arise from the doubt whether she is truly his beloved. The correspondence with the kural is remarkably close:
+
+  - இல்லை தவறு அவர்க்கு ஆயினும் — although there is no fault in him ↔ न मेऽपराध्यति भवान् — you have not offended me. This is an especially direct correspondence: the nayika explicitly acknowledges that the nayaka has committed no offence.
+  - ஊடுதல் — sulking / feigned anger ↔ मानिनि रुषं and रुद्यते — the nayika is explicitly addressed as a manini, one maintaining mana, and the verse repeatedly depicts her anger and weeping.
+  - வல்ல தவரளிக்கு மாறு — is capable of making him bestow more affection ↔ मम का तवास्मि दयिता नास्मीत्यतो रुद्यते — I am weeping because I wonder: am I your beloved, or am I not?
+
+The final correspondence is deliberately indirect. The Sanskrit nayika does not explicitly say that she is sulking in order to obtain more of her lover's affection. Instead, by professing doubt about whether she is truly his दयिता, she provokes precisely the response that the kural identifies as the purpose of ஊடுதல்: an increased demonstration of his love and attention. Her apparent grievance has no factual basis; it is a feint through which she elicits reassurance of her beloved status.
+
+The difference in poetic expression and dramatic setting does not diminish the parallel: Valluvar states the principle aphoristically through the nayikā's conversation with her confidante, whereas Amaru masterfully dramatizes it in the longer, more elaborate style of Shringara-kavya through a direct exchange between the lovers. In both, however, the heroine's मान / ஊடுதல் is not occasioned by any real offence but functions as a means of eliciting a stronger demonstration of the lover's affection. Amaru thus masterfully dramatizes the crux of the *kural: வல்ல தவரளிக்கு மாறு — ஊடுதல் as a means of eliciting greater loving attention from him.
 
 ### Verse 2
 
@@ -58,4 +67,6 @@ The first half of the Amarushataka verse goes further by establishing the nayika
 
 
 ### Chapter Summary
+
+<!-- Manakkudavar order: 9, 7, 6, 10, 2, 8, 5, 4, 1, 3 -->
 
