@@ -12,7 +12,7 @@ tags: [kuralmatch]
 | [2](#verse-2) | ஊடலி்ற் றோன்றுஞ் சிறுதுனி நல்லளி <br> வாடினும் பாடு பெறும் |  |
 | [3](#verse-3) | புலத்தலிற் புத்தேணா டுண்டோ நிலத்தொடு <br> நீரியைந் தன்னா ரகத்து |  |
 | [4](#verse-4) | புல்லி விடாஅப் புலவியுட் டோன்றுமென் <br> னுள்ள முடைக்கும் படை | श्रुत्वा नामापि यस्य स्फुटघनपुलकं जायतेऽङ्गं <br> समन्तात्दृष्ट्वा यस्याननेन्दुं भवति वपुरिदं चन्द्रकान्तानुकारि \| <br> तस्मिन्नागत्य **कण्ठग्रहणसरभसस्थायिनि प्राणनाथे** <br> **भग्ना मानस्य चिन्ता भवति मम प्नर्वज्रमय्याः कदा नु** \|\| <br> Amarushataka 57 |
-| [5](#verse-5) | தவறில ராயினுந் தாம்வீழ்வார் மென்றோ <br> ளகறலி னாங்கொன் றுடைத்து | **लग्ना नांशुकपल्लवे भुजलता** न द्वारदेशेऽपिता <br> नो वा पादतले तया निपतितं तिष्ठेति नोक्तं वचः \| <br> काले केवलमम्बुदातिमलिने **गन्तुं प्रवृत्तः** शठः <br> **तन्व्या बाष्पजलौघकल्पितनदीपूरेण बद्धः प्रियः** \|\| Amarushataka 62 |
+| [5](#verse-5) | தவறில ராயினுந் தாம்வீழ்வார் மென்றோ <br> ளகறலி னாங்கொன் றுடைத்து | **लग्ना नांशुकपल्लवे भुजलता** न द्वारदेशेऽपिता <br> नो वा पादतले तया निपतितं तिष्ठेति नोक्तं वचः \| <br> काले केवलमम्बुदातिमलिने **गन्तुं प्रवृत्तः** शठः <br> **तन्व्या बाष्पजलौघकल्पितनदीपूरेण बद्धः प्रियः** \|\| <br> Amarushataka 62 |
 | [6](#verse-6) | உணலினு முண்ட தறலினிது காமம் <br> புணர்தலி னூட லினிது |  |
 | [7](#verse-7) | ஊடலிற் றோற்றவர் வென்றா ரதுமன்னும் <br> கூடலிற் காணப் படும் |  |
 | [8](#verse-8) | ஊடிப் பெறுகுவங் கொல்லோ நுதல்வெயர்ப்பக் <br> கூடலிற் றோன்றிய வுப்பு |  |
@@ -34,10 +34,9 @@ The final correspondence is deliberately indirect. The Sanskrit nayika does not 
 
 The difference in poetic expression and dramatic setting does not diminish the parallel: Valluvar states the principle aphoristically through the nayikā's conversation with her confidante, whereas Amaru masterfully dramatizes it in the longer, more elaborate style of Shringara-kavya through a direct exchange between the lovers. In both, however, the heroine's मान / ஊடுதல் is not occasioned by any real offence but functions as a means of eliciting a stronger demonstration of the lover's affection. Amaru thus masterfully dramatizes the crux of the *kural: வல்ல தவரளிக்கு மாறு — ஊடுதல் as a means of eliciting greater loving attention from him.
 
-#### Coorboration in the Gatha Saptashati
+#### Corroboration in the Gatha Saptashati
 
-A further corroborating parallel is the Gatha Saptashati 4.6: अनुनयसुखलोलुपया कष्टमकृतमपि कृतं प्रकुर्वत्या \| <br> दयितः सरलनिसर्गोऽप्यविनयमार्गं बलान्नीतः \|\|. The correspondence to the kural is striking in its narrative logic. இல்லை தவறு (there is no fault) is mirrored by अकृतमपि कृतं (even what was not done, she made into what was done): the grievance is deliberately created despite the absence of an offence. दयितः ... अविनयमार्गं ... नीतः, that is (the beloved is brought into the path of entreaty) corresponds closely to வல்ல தவரளிக்கு மாறு, that is her action is capable of eliciting a greater loving response from him. The ஊடுதல், or feigned quarrel, is implicit in the Sanskrit through अनुनयसुखलोलुपया (“desirous of the pleasure of being entreated”).
-
+A further corroborating parallel is the Sanskrit version of the Gatha Saptashati 4.6: अनुनयसुखलोलुपया कष्टमकृतमपि कृतं प्रकुर्वत्या \| <br> दयितः सरलनिसर्गोऽप्यविनयमार्गं बलान्नीतः \|\|. The correspondence to the kural is striking in its narrative logic. இல்லை தவறு (there is no fault) is mirrored by अकृतमपि कृतं (even what was not done, she made into what was done): the grievance is deliberately created despite the absence of an offence. दयितः ... अविनयमार्गं ... नीतः, that is (the beloved is brought into the path of entreaty) corresponds closely to வல்ல தவரளிக்கு மாறு, that is her action is capable of eliciting a greater loving response from him. The ஊடுதல், or feigned quarrel, is implicit in the Sanskrit through अनुनयसुखलोलुपया (“desirous of the pleasure of being entreated”).
 
 ### Verse 2
 
