@@ -12,7 +12,7 @@ tags: [kuralmatch]
 | [2](#verse-2) | ஊடலி்ற் றோன்றுஞ் சிறுதுனி நல்லளி <br> வாடினும் பாடு பெறும் |  |
 | [3](#verse-3) | புலத்தலிற் புத்தேணா டுண்டோ நிலத்தொடு <br> நீரியைந் தன்னா ரகத்து |  |
 | [4](#verse-4) | புல்லி விடாஅப் புலவியுட் டோன்றுமென் <br> னுள்ள முடைக்கும் படை | श्रुत्वा नामापि यस्य स्फुटघनपुलकं जायतेऽङ्गं <br> समन्तात्दृष्ट्वा यस्याननेन्दुं भवति वपुरिदं चन्द्रकान्तानुकारि \| <br> तस्मिन्नागत्य **कण्ठग्रहणसरभसस्थायिनि प्राणनाथे** <br> **भग्ना मानस्य चिन्ता भवति मम प्नर्वज्रमय्याः कदा नु** \|\| <br> Amarushataka 57 |
-| [5](#verse-5) | தவறில ராயினுந் தாம்வீழ்வார் மென்றோ <br> ளகறலி னாங்கொன் றுடைத்து |  |
+| [5](#verse-5) | தவறில ராயினுந் தாம்வீழ்வார் மென்றோ <br> ளகறலி னாங்கொன் றுடைத்து | **लग्ना नांशुकपल्लवे भुजलता** न द्वारदेशेऽपिता <br> नो वा पादतले तया निपतितं तिष्ठेति नोक्तं वचः \| <br> काले केवलमम्बुदातिमलिने **गन्तुं प्रवृत्तः** शठः <br> **तन्व्या बाष्पजलौघकल्पितनदीपूरेण बद्धः प्रियः** \|\| Amarushataka 62 |
 | [6](#verse-6) | உணலினு முண்ட தறலினிது காமம் <br> புணர்தலி னூட லினிது |  |
 | [7](#verse-7) | ஊடலிற் றோற்றவர் வென்றா ரதுமன்னும் <br> கூடலிற் காணப் படும் |  |
 | [8](#verse-8) | ஊடிப் பெறுகுவங் கொல்லோ நுதல்வெயர்ப்பக் <br> கூடலிற் றோன்றிய வுப்பு |  |
@@ -55,6 +55,11 @@ The first half of the Amarushataka verse goes further by establishing the nayika
 
 ### Verse 5
 
+The kural finds a striking parallel in Amarushataka 62, beginning with the shared image of the lender arms: Valluvar's மென்றோள் corresponds to Amaru's भुजलता / तन्व्या, the arm-creeper and the slender woman. The image is immediately placed in the context of separation: அகறலின் finds its concrete dramatic counterpart in लग्ना नांशुकपल्लवे, where the woman's arm does not cling to the edge of his garment as he is about to depart (गन्तुं प्रवृत्तः). Valluvar then says ஆங்கொன்று உடைத்து, only that separation has something in it, leaving the emotion deliberately unspecified; Amaru beautifully supplies that something through the woman's tears, बाष्पजलौघकल्पितनदीपूर, which well up as a flood in response to his departure. Finally, Valluvar's தாம்வீழ்வார் finds a suggestive counterpart in Amaru's बद्धः प्रियः: the lover is bound, while the nayika's welling tears signal the emotional force of the separation and the prospect of reconciliation. The caveat is that தவறிலராயினும் is not positively represented in Amaru 62: the verse neither establishes nor contradicts the lover's lack of fault.
+
+The divergence from the traditional commentary is deliberate: we read what Valluvar actually says rather than importing into ஆங்கொன்று the commentators' specification that the something is the man's joy in the prospect of reconciliation. Valluvar leaves both அகறல் and ஆங்கொன்று abstract. Amaru, by contrast, dramatizes the process of separation through a whole sequence of things the nayika deliberately does not do—she does not cling to his garment, does not fall at his feet, and does not ask him to stay. Amaru dramatizes the "there is soemthing in that separation" by the tears that well up and reveal the emotion with remarkable delicacy. Neither poet explicitly name  the cause of the separation: for example, Valluvar does not use உடல்/புலவி in this kural, and Amaru does not use मान/कोप here.
+
+The no-fault and slender-arm motifs are both well established in Sanskrit Shringara: Amaru gives the slender-arm image in कोपात्कोमललोलबाहुलतिकापाशेन (8), and the no-fault motif explicitly in तनुरपि न ते दोषः (27) and न मेऽपराध्यति भवान् (53); Kalidasa likewise describes Shakuntala's arms as कोमलविटपानुकारिणौ बाहू (Abhijnana Shakuntalam 1.19), arms resembling tender branches, while Kumarasambhava 4.7 gives the explicit no-fault formulation कृतवानसि विप्रियं न मे / प्रतिकूलं न च ते मया कृतम् ... किमकारणमेव दर्शनं.
 
 ### Verse 6
 
