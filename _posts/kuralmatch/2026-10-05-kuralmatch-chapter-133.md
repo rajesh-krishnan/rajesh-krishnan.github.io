@@ -36,7 +36,7 @@ The difference in poetic expression and dramatic setting does not diminish the p
 
 #### Corroboration in the Gatha Saptashati
 
-A further corroborating parallel is the Sanskrit version of the Gatha Saptashati 4.6: अनुनयसुखलोलुपया कष्टमकृतमपि कृतं प्रकुर्वत्या \| <br> दयितः सरलनिसर्गोऽप्यविनयमार्गं बलान्नीतः \|\|. The correspondence to the kural is striking in its narrative logic. இல்லை தவறு (there is no fault) is mirrored by अकृतमपि कृतं (even what was not done, she made into what was done): the grievance is deliberately created despite the absence of an offence. दयितः ... अविनयमार्गं ... नीतः, that is (the beloved is brought into the path of entreaty) corresponds closely to வல்ல தவரளிக்கு மாறு, that is her action is capable of eliciting a greater loving response from him. The ஊடுதல், or feigned quarrel, is implicit in the Sanskrit through अनुनयसुखलोलुपया (“desirous of the pleasure of being entreated”).
+A further corroborating parallel is the Sanskrit version of the Gatha Saptashati 4.6: अनुनयसुखलोलुपया कष्टमकृतमपि कृतं प्रकुर्वत्या \| दयितः सरलनिसर्गोऽप्यविनयमार्गं बलान्नीतः \|\|. The correspondence to the kural is striking in its narrative logic. இல்லை தவறு (there is no fault) is mirrored by अकृतमपि कृतं (even what was not done, she made into what was done): the grievance is deliberately created despite the absence of an offence. दयितः ... अविनयमार्गं ... नीतः, that is (the beloved is brought into the path of entreaty) corresponds closely to வல்ல தவரளிக்கு மாறு, that is her action is capable of eliciting a greater loving response from him. The ஊடுதல், or feigned quarrel, is implicit in the Sanskrit through अनुनयसुखलोलुपया (“desirous of the pleasure of being entreated”).
 
 ### Verse 2
 
