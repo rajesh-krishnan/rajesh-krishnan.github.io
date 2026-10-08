@@ -10,7 +10,7 @@ tags: [kuralmatch]
 |--|--|--|
 | [1](#verse-1) | இல்லை தவறவர்க் காயினு மூடுதல் <br> வல்ல தவரளிக்கு மாறு | बाले नाथ विमुञ्च **मानिनि रुषं** रोषान् मया किं कृतं <br> खेदोऽस्मासु **न मेऽपराध्यति भवान्** सर्वेऽपराधा मयि \| <br> तत्किं रोदिषि गद्गदेन वचसा कस्याग्रतो रुद्यते <br> नन्वेतन् **मम का तवास्मि दयिता नास्मीत्यतो रुद्यते** \|\| <br> Amarushataka 53 |
 | [2](#verse-2) | ஊடலி்ற் றோன்றுஞ் சிறுதுனி நல்லளி <br> வாடினும் பாடு பெறும் |  |
-| [3](#verse-3) | புலத்தலிற் புத்தேணா டுண்டோ நிலத்தொடு <br> நீரியைந் தன்னா ரகத்து |  |
+| [3](#verse-3) | புலத்தலிற் புத்தேணா டுண்டோ நிலத்தொடு <br> நீரியைந் தன்னா ரகத்து | सन्दष्टाधरपल्लवा सचकितं हस्ताग्रमाधुन्वतीम् <br> मामामुञ्च शठेति कोपवचनैरानर्तितभ्रूलता \| <br> शीत्काराञ्चितलोचना सरभसं **यैश्चुम्बिता मानिनी** <br> **प्राप्तं तैरमृतं मुधैव मथितो मूढैः सुरैः सागरः** \|\| <br> Amarushtaka 32 |
 | [4](#verse-4) | புல்லி விடாஅப் புலவியுட் டோன்றுமென் <br> னுள்ள முடைக்கும் படை | श्रुत्वा नामापि यस्य स्फुटघनपुलकं जायतेऽङ्गं <br> समन्तात्दृष्ट्वा यस्याननेन्दुं भवति वपुरिदं चन्द्रकान्तानुकारि \| <br> तस्मिन्नागत्य **कण्ठग्रहणसरभसस्थायिनि प्राणनाथे** <br> **भग्ना मानस्य चिन्ता भवति मम प्नर्वज्रमय्याः कदा नु** \|\| <br> Amarushataka 57 |
 | [5](#verse-5) | தவறில ராயினுந் தாம்வீழ்வார் மென்றோ <br> ளகறலி னாங்கொன் றுடைத்து | **लग्ना नांशुकपल्लवे भुजलता** न द्वारदेशेऽपिता <br> नो वा पादतले तया निपतितं तिष्ठेति नोक्तं वचः \| <br> काले केवलमम्बुदातिमलिने **गन्तुं प्रवृत्तः** शठः <br> **तन्व्या बाष्पजलौघकल्पितनदीपूरेण बद्धः प्रियः** \|\| <br> Amarushataka 62 |
 | [6](#verse-6) | உணலினு முண்ட தறலினிது காமம் <br> புணர்தலி னூட லினிது |  |
@@ -42,6 +42,10 @@ A further corroborating parallel is the Sanskrit version of the Gatha Saptashati
 
 
 ### Verse 3
+
+For this kural, I propose Amarushataka 32 as a conceptual parallel. Valluvar’s புலத்தலிற் புத்தேணா டுண்டோ elevates the pleasure arising from புலத்தல், the lovers’ feigned quarrel, to the level of the land of the gods. Amaru likewise places the pleasure of reconciliation with the मानिन in a divine frame: यैश्चुम्बिता मानिनी प्राप्तं तैरमृतं मुधैव मथितो मूढैः सुरैः सागरः, after the entire drama of resistance, anger and reconciliation, those who kiss her have obtained amrita, while the gods have foolishly churned the ocean for the very same nectar. Thus, although the comparison is expressed differently, both poets use a divine standard of supreme pleasure to exalt the erotic experience produced by the lovers’ quarrel.
+
+The correspondence is asymmetric in the second half. Valluvar gives the distinctive Tamil metaphor நிலத்தொடு நீரியைந் தன்னார் அகத்து, that is, the lovers’ hearts are united like land and water. Amaru supplies no corresponding metaphor for the lovers’ inner state. Instead, he dramatizes the transition from mana to reconciliation through the physical act of kissing: शीत्काराञ्चितलोचना ... यैश्चुम्बिता मानिनी, those by whom the manini, her eyes filled with sighing sounds, was kissed. Valluvar therefore achieves the elevation through the compact Sangam image of land and water, while Amaru achieves it through the kavya dramatization of mana and its resolution. The parallel is consequently conceptual rather than verbal or structural: both poets elevate the pleasure released by lovers’ quarrel and reconciliation to a divine plane, but each poet expresses that elevation through his own distinctive poetic idiom.
 
 
 ### Verse 4
