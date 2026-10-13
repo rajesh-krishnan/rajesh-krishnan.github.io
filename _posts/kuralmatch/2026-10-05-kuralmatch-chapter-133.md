@@ -15,7 +15,7 @@ tags: [kuralmatch]
 | [5](#verse-5) | தவறில ராயினுந் தாம்வீழ்வார் மென்றோ <br> ளகறலி னாங்கொன் றுடைத்து | **लग्ना नांशुकपल्लवे भुजलता** न द्वारदेशेऽपिता <br> नो वा पादतले तया निपतितं तिष्ठेति नोक्तं वचः \| <br> काले केवलमम्बुदातिमलिने **गन्तुं प्रवृत्तः** शठः <br> **तन्व्या बाष्पजलौघकल्पितनदीपूरेण बद्धः प्रियः** \|\| <br> Amarushataka 62 |
 | [6](#verse-6) | உணலினு முண்ட தறலினிது காமம் <br> புணர்தலி னூட லினிது |  |
 | [7](#verse-7) | ஊடலிற் றோற்றவர் வென்றா ரதுமன்னும் <br> கூடலிற் காணப் படும் |  |
-| [8](#verse-8) | ஊடிப் பெறுகுவங் கொல்லோ நுதல்வெயர்ப்பக் <br> கூடலிற் றோன்றிய வுப்பு |  |
+| [8](#verse-8) | ஊடிப் பெறுகுவங் கொல்லோ நுதல்வெயர்ப்பக் <br> கூடலிற் றோன்றிய வுப்பு | **कान्तामुखं सुरतकेलिविमर्दखेद-संजातघर्मकणविच्छुरितं रतान्ते** \| <br> आपाण्डुरं विलसदर्धनिमीलिताक्षं **संस्मृत्य हे हृदय किं शतधा न यासि** \|\| <br> Sridharadasa, Saduktikarnamrtam 2.128.9 |
 | [9](#verse-9) | ஊடுக மன்னோ வொளியிழை யாமிரப்ப <br> நீடுக மன்னோ விரா |  |
 | [10](#verse-10) | ஊடுதல் காமத்திற் கின்ப மதற்கின்பங் <br> கூடி முயங்கப் பெறின் |  |
 
@@ -112,6 +112,22 @@ The no-fault and slender-arm motifs are both well established in Sanskrit Shring
 
 ### Verse 8
 
+As the primary parallel for the kural, I propose Saduktikarnamrutam by Shridharadasa Verse 2.128.9. The correspondence is striking in its sequence of images: रतान्ते (at the end of love-play) echoes கூடலிற் (in union); संजात (arisen) corresponds to தோன்றிய (arisen); मुखम् (face) to நுதல் (forehead); and घर्मकण (drops of perspiration) to வியர்ப்ப (perspiration). The final உப்பு (delight) finds its emotional counterpart in the Sanskrit verse’s poignant remembrance of the pleasures of union. 
+ 
+The difference lies in their poetic movement. Valluvar asks: ஊடிப் பெறுகுவங் கொல்லோ, Might we attain this delight again through a lovers’ quarrel? The Sanskrit poet instead addresses his heart: संस्मृत्य हे हृदय किं शतधा न यासि, O heart, why do you not break into a hundred pieces at the remembrance? The kural directly expresses the desire to renew the pleasure of feigned estrangement followed by union; the Sanskrit verse conveys the intensity of longing through the memory of a past union. Its register is one of vipralambha shringara, the erotic sentiment of separation and longing.
+
+A lexical point is important: the final word உப்பு (uppu) is understood here as uvappu or uvakai, delight, rather than salt. A Sangam parallel supports this sense. Akananuru 390 reads: “அவ் வாங்கு உந்தி, அமைத் தோளாய்! நின் மெய் வாழ் உப்பின் விலை எய்யாம்.” The speaker tells the beloved, “O woman of the lovely curved navel and bamboo-like shoulders, we cannot reckon the price of the delight that dwells in your body.” This usage supports the erotic reading of the Kural’s uppu.
+
+#### Other corroborating parallels
+
+References to perspiration on the face or forehead after sexual union recur in Sanskrit sringara poetry:
+
+  - Magha, Shishupalavadha 10.80: प्राप्य मन्मथरसादतिभूमिं दुर्वहस्तनभराः सुरतस्य \| शश्रमुः **श्रमजलार्द्रललाटश्लिष्टकेश**मसितायतकेश्यः \|\|, hair clinging to foreheads moistened by the sweat of amorous exertion. The forehead-sweat motif is explicit, though the verse describes the women’s exhaustion rather than a desire for renewed union.
+  - Kalidasa, Raghuvamsa 8.41: **सुरतश्रमसंभृतो मुखे ध्रियते स्वेदलवोद्गमोऽपि ते** \| अथ चास्तमिता त्वमात्मना धिगिमाम् देहभृतामसारताम् \|\|, even the slight emergence of sweat on your face, born of the exertion of love-play, is borne by you. The context is Aja’s grief after Indumati’s death, so the erotic image serves a different emotional purpose.
+   - Amarushataka 48: रामाणां रमणीयवक्त्रशशिनः **स्वेदोदबिन्दुप्लुतो** व्यालोलालकवल्लरीं प्रचलयन् धुन्वन् नितम्बाम्बरम् \| प्रातर्वाति मधौ प्रकामविकसद्राजीवराजीरजो जालामोदमनोहरो रतिरसग्लानिं हरन्मारुतः \|\|, faces of women are bathed in drops of perspiration as the spring breeze stirs their curls and dispels the languor following love-play. Here the motif is associated with the breeze and the aftermath of erotic pleasure.
+   - Subhasitaratnakosa 92, verse 457: प्रभाते सन्नद्धस्तनिततनिमानं जलधरं स्पृशन्तः सर्वत्र स्फुटिततरमल्लीसुरभयः \| अमी मन्दं मन्दं सुरतसमरश्रान्ततरुणी **ललाटस्वेदाम्भःकणपरिमुषो वान्ति मरुतः** \|\|, breezes blow, carrying away drops of perspiration from the foreheads of young women exhausted by the battle of love. This is another close instance of the forehead-sweat image, although it does not express Valluvar’s wish to renew the quarrel and union.
+
+A related but more indirect parallel occurs in Rasarnavasudhakara 1.333 and Venisamhara 1.3, in a verse describing Vishnu and Lakshmi after love-play: उत्तिष्ठन्त्या रतान्ते भरम् उरगपतौ पाणिनैकेन कृत्वा धृत्वा चान्येन वासः शिथिलितकवरीभारम् अंसे वहन्त्याः \| भूयस् तत्कालकान्तिद्विगुणितसुरतप्रीतिना शौरिणा शय्याम् आलिङ्ग्य नीतं वपुर् अलसलसद्बाहु लक्ष्म्याः पुनातु \|\|. The commentary in Rasarnavasudhakara explains: पूर्व-रतान्त-जनिताया वपुः-कान्तेर् उत्तर-रतारम्भ-हेतुत्वान् मन्मथाप्यायकत्वम् — the bodily radiance produced at the end of a previous union becomes the cause of the beginning of another, renewing the power of love. This offers a conceptual parallel to the kural’s desire for renewed union, though it lacks both the feigned quarrel and the specific forehead-sweat metaphor.
 
 ### Verse 9
 
