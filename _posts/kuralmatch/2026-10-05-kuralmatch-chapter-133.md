@@ -14,9 +14,9 @@ tags: [kuralmatch]
 | [4](#verse-4) | புல்லி விடாஅப் புலவியுட் டோன்றுமென் <br> னுள்ள முடைக்கும் படை | श्रुत्वा नामापि यस्य स्फुटघनपुलकं जायतेऽङ्गं <br> समन्तात्दृष्ट्वा यस्याननेन्दुं भवति वपुरिदं चन्द्रकान्तानुकारि \| <br> तस्मिन्नागत्य **कण्ठग्रहणसरभसस्थायिनि प्राणनाथे** <br> **भग्ना मानस्य चिन्ता भवति मम प्नर्वज्रमय्याः कदा नु** \|\| <br> Amarushataka 57 |
 | [5](#verse-5) | தவறில ராயினுந் தாம்வீழ்வார் மென்றோ <br> ளகறலி னாங்கொன் றுடைத்து | **लग्ना नांशुकपल्लवे भुजलता** न द्वारदेशेऽपिता <br> नो वा पादतले तया निपतितं तिष्ठेति नोक्तं वचः \| <br> काले केवलमम्बुदातिमलिने **गन्तुं प्रवृत्तः** शठः <br> **तन्व्या बाष्पजलौघकल्पितनदीपूरेण बद्धः प्रियः** \|\| <br> Amarushataka 62 |
 | [6](#verse-6) | உணலினு முண்ட தறலினிது காமம் <br> புணர்தலி னூட லினிது |  |
-| [7](#verse-7) | ஊடலிற் றோற்றவர் வென்றா ரதுமன்னும் <br> கூடலிற் காணப் படும் |  |
+| [7](#verse-7) | ஊடலிற் றோற்றவர் வென்றா ரதுமன்னும் <br> கூடலிற் காணப் படும் | सत्यं **कलहे कलहे सुरतारम्भाः पुनर्नवा** भान्ति \| <br> **मानः** पुनर्मनस्विनि **गुरुकः प्रेमेह नाशयति** \|\| <br> Gatha Saptashati 6.21 |
 | [8](#verse-8) | ஊடிப் பெறுகுவங் கொல்லோ நுதல்வெயர்ப்பக் <br> கூடலிற் றோன்றிய வுப்பு | **कान्तामुखं सुरतकेलिविमर्दखेद-संजातघर्मकणविच्छुरितं रतान्ते** \| <br> आपाण्डुरं विलसदर्धनिमीलिताक्षं **संस्मृत्य हे हृदय किं शतधा न यासि** \|\| <br> Sridharadasa, Saduktikarnamrtam 2.100.4 |
-| [9](#verse-9) | ஊடுக மன்னோ வொளியிழை யாமிரப்ப <br> நீடுக மன்னோ விரா | कल्यां किल खरहृदयः प्रवत्स्यति प्रिय इति श्रुतं जनतः \| <br> भगवति वर्द्धस्व निशे तथा, यथा कल्यमेव नोदेति \|\| <br> Gatha Saptashati 1.46 |
+| [9](#verse-9) | ஊடுக மன்னோ வொளியிழை யாமிரப்ப <br> நீடுக மன்னோ விரா | कल्यां किल **खरहृदयः प्रवत्स्यति प्रिय इति श्रुतं** जनतः \| <br> **भगवति वर्द्धस्व निशे** तथा, यथा कल्यमेव नोदेति \|\| <br> Gatha Saptashati 1.46 |
 | [10](#verse-10) | ஊடுதல் காமத்திற் கின்ப மதற்கின்பங் <br> கூடி முயங்கப் பெறின் |  |
 
 
@@ -108,6 +108,8 @@ The no-fault and slender-arm motifs are both well established in Sanskrit Shring
 
 
 ### Verse 7
+
+I propose Gatha Saptashati 6.21 as a close conceptual parallel to this kural. Valluvar positively asserts that the one who loses the ஊடல் is the victor, for that victory becomes manifest in the கூடல். The Gatha Saptashati expresses a similar idea, though in a different manner: कलहे कलहे सुरतारम्भाः पुनर्नवा भान्ति—as each quarrel makes the union fresh again. This closely corresponds to the kural’s assertion that the victory of the one who loses the ஊடல் becomes evident in the union. While Valluvar leaves the pyrrhic victory of winning the ஊடல் at any cost implicit in the antithesis of தோற்றவர் and வென்றார், the Gatha states that danger explicitly: मानः … गुरुकः प्रेमेह नाशयति, for excessive pride can destroy love. The Gatha thus articulates both sides of the erotic logic: quarrels can renew union, but an overbearing insistence on pride can destroy the love that makes such union possible. Valluvar compresses this double insight into the rhetoric of winning and losing. 
 
 
 ### Verse 8
