@@ -16,7 +16,7 @@ tags: [kuralmatch]
 | [6](#verse-6) | உணலினு முண்ட தறலினிது காமம் <br> புணர்தலி னூட லினிது |  |
 | [7](#verse-7) | ஊடலிற் றோற்றவர் வென்றா ரதுமன்னும் <br> கூடலிற் காணப் படும் |  |
 | [8](#verse-8) | ஊடிப் பெறுகுவங் கொல்லோ நுதல்வெயர்ப்பக் <br> கூடலிற் றோன்றிய வுப்பு | **कान्तामुखं सुरतकेलिविमर्दखेद-संजातघर्मकणविच्छुरितं रतान्ते** \| <br> आपाण्डुरं विलसदर्धनिमीलिताक्षं **संस्मृत्य हे हृदय किं शतधा न यासि** \|\| <br> Sridharadasa, Saduktikarnamrtam 2.100.4 |
-| [9](#verse-9) | ஊடுக மன்னோ வொளியிழை யாமிரப்ப <br> நீடுக மன்னோ விரா |  |
+| [9](#verse-9) | ஊடுக மன்னோ வொளியிழை யாமிரப்ப <br> நீடுக மன்னோ விரா | कल्यां किल खरहृदयः प्रवत्स्यति प्रिय इति श्रुतं जनतः \| <br> भगवति वर्द्धस्व निशे तथा, यथा कल्यमेव नोदेति \|\| <br> Gatha Saptashati 1.46 |
 | [10](#verse-10) | ஊடுதல் காமத்திற் கின்ப மதற்கின்பங் <br> கூடி முயங்கப் பெறின் |  |
 
 
@@ -128,6 +128,10 @@ References to perspiration on the face or forehead after sexual union recur in S
 
 
 ### Verse 9
+
+As an approximate parallel to the kural, I propose Gatha Saptashati 1.46. Valluvar’s நீடுக மன்னோ விரா corresponds to the Gatha’s भगवति वर्द्धस्व निशे (O Goddess Night, grow longer) in its direct appeal to the night to extend. Valluvar’s explicit யாமிரப்ப (as I plead) is matched by the Gatha’s vocative भगवति निशे, which personifies Night as a goddess addressed in entreaty. Both evoke vipralambha, love in separation: Valluvar explicitly wishes ஊடல் to continue, leaving the desire for reconciliation implicit; the Gatha implies estrangement in खरहृदयः प्रवत्स्यति प्रिय (the hard-hearted beloved will depart), while the plea to prolong the night likewise leaves the hoped-for resolution unstated. The roles differ: the Gatha calls the man about to leave simply प्रिय (beloved), whereas Valluvar evokes the woman through ஒளியிழை, the radiant, ornamented lady due to whose quarrel, the speaker wishes to prolong the night.
+
+A suggestive, though not exact, resonance may also be found in Jagannatha Panditaraja’s Bhaminivilasa Shringaravilasa 2.56: आयातैव निशा निशापतिकरैः कीर्णं दिशामन्तरं भामिन्यो भवनेषु भूषणगणैरङ्गान्यलङ्कुर्वते \| मुग्धे मानमपाकरोषि न मनागद्यापि रोषेण ते हा हा बालमृणालतोऽप्यतितरां तन्वी तनुस्ताम्यति \|\|. The verse evokes the arrival of night (आयातैव निशा), with the beams of the lord of the night (moonbeams) spreading in all directions (निशापतिकरैः कीर्णं दिशामन्तरं), while other women adorn their bodies with ornaments (भामिन्यो भवनेषु भूषणगणैरङ्गान्यलङ्कुर्वते). These images offer a suggestive echo of both ஒளியிழை and நீடுக மன்னோ விரா: the radiance of the ornamented women is juxtaposed with moonlight spreading through the night. The verse also explicitly invokes मान (offended pride) and  रोष (anger): Jagannatha’s speaker urges the heroine to relinquish her pride and anger, thus bringing into focus the lovers’ quarrel that Valluvar evokes through ஊடுக மன்னோ. Valluvar’s யாமிரப்ப leaves the object of the plea productively ambiguous: the speaker may be entreating the woman to prolong the quarrel, or the night itself to endure while he pleads with the woman. Jagannatha’s speaker makes no explicit plea to prolong the night, whereas நீடுக மன்னோ விரா expresses precisely this wish. While Jagannatha’s verse offers a thematic resonance in its conjunction of night, radiance, ornamentation, and lovers' quarrel, it does not reproduce Valluvar’s distinctive wish to prolong the night or the ambiguity of his plea.
 
 
 ### Verse 10
