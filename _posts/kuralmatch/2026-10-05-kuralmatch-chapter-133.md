@@ -216,14 +216,14 @@ This framework gives us a theoretical reading of ஊடலுவகை: Valluvar
 
 Placing the kurals in Manakkudavar's order reveals an interesting structure. **The last six verses in Manakkudavar’s order—2, 8, 5, 4, 1, and 3—are matched primarily with Amarushataka and other Sanskrit Shringara poetry.**  Kural 8, which uses the familiar image of perspiration after love-play, has a secondary partial parallel in Amaru. Kurals 9 and 7 find parallels in the Sanskrit chaya of the Gathasaptashati, while 6 and 10 find their principal theoretical corroboration in Bhoja. 
 
-| No. | Manakkudavar Order and Kural Fragment | Principal Parallel | Significance |
+| No. | Kural in Manakkudavar Order | Principal Parallel | Significance |
 |--|--|--|--|
 | [9](#verse-9) | 1. ஊடுக மன்னோ … நீடுக மன்னோ விரா | Gathasaptashati 1.46 | The plea to prolong the night amid separation and anticipated departure. |
 | [7](#verse-7) | 2. ஊடலிற் றோற்றவர் வென்றார் | Gathasaptashati 6.21 | Union is renewed through quarrel, but excessive pride can destroy love. |
 | [6](#verse-6) | 3. உணலினு முண்ட தறலினிது … புணர்தலின் ஊடல் இனிது | Sarasvatikanthabharanam 5.81 | Erotic pleasure after absence resembles food enjoyed after fasting. |
-| [10](#verse-10) | 4. ஊடுதல் காமத்திற் கின்பம் … கூடி முயங்கப் பெறின் | Shringaraprakasha 23.1–2, 24 | The theoretical culmination: separation belongs to śṛṅgāra, and union completes the experience. |
-| [2](#verse-2) | 5. ஊடலிற் றோன்றுஞ் சிறுதுனி … | Amarushataka 17 | The distress of estrangement, the withholding of favour, and the heroine’s tears. |
-| [8](#verse-8) | 6. ஊடிப் பெறுகுவங் கொல்லோ … | Saduktikarnamrita 2.100.4, Amarushataka 58 | Perspiration after love-play evokes the remembered sweetness of union; a common śṛṅgāra motif. |
+| [10](#verse-10) | 4. ஊடுதல் காமத்திற் கின்பம் … கூடி முயங்கப் பெறின் | Shringaraprakasha 23.1–2, 24 | The theoretical culmination: separation belongs to Shrinagara, and union and embrace completes the experience. |
+| [2](#verse-2) | 5. ஊடலிற் றோன்றுஞ் சிறுதுனி … | Amarushataka 17 | The distress of estrangement, the withholding of favor, and the heroine’s tears. |
+| [8](#verse-8) | 6. ஊடிப் பெறுகுவங் கொல்லோ … | Saduktikarnamrita 2.100.4, Amarushataka 58 | Perspiration after love-play evokes the remembered sweetness of union; a common Shringara motif. |
 | [5](#verse-5) | 7. தவறில ராயினும் … மென்றோள் அகறலின் | Amarushataka 62 | The slender arm, impending departure, tears, and the emotional force of separation. |
 | [4](#verse-4) | 8. புல்லி விடாஅப் புலவியுள் … | Amarushataka 57 | The embrace becomes the means of breaking the heroine’s adamantine resolve. |
 | [1](#verse-1) | 9. இல்லை தவறவர்க் காயினும் … | Amarushataka 53 | Feigned grievance despite the lover’s innocence elicits reassurance and affection. |
