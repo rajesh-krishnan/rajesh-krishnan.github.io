@@ -15,9 +15,9 @@ tags: [kuralmatch]
 | [5](#verse-5) | தவறில ராயினுந் தாம்வீழ்வார் மென்றோ <br> ளகறலி னாங்கொன் றுடைத்து | **लग्ना नांशुकपल्लवे भुजलता** न द्वारदेशेऽपिता <br> नो वा पादतले तया निपतितं तिष्ठेति नोक्तं वचः \| <br> काले केवलमम्बुदातिमलिने **गन्तुं प्रवृत्तः** शठः <br> **तन्व्या बाष्पजलौघकल्पितनदीपूरेण बद्धः प्रियः** \|\| <br> Amarushataka 62 |
 | [6](#verse-6) | உணலினு முண்ட தறலினிது காமம் <br> புணர்தலி னூட லினிது | **प्रवासानन्तरे** तस्याभ्यवहारार्थतेष्यते \| <br> तत्र **ह्युपोषितैरन्नमिव निर्विश्यते रतिः** \|\| <br> Bhoja Sarasvatikanthabharanam 5.81 |
 | [7](#verse-7) | ஊடலிற் றோற்றவர் வென்றா ரதுமன்னும் <br> கூடலிற் காணப் படும் | सत्यं **कलहे कलहे सुरतारम्भाः पुनर्नवा** भान्ति \| <br> **मानः** पुनर्मनस्विनि **गुरुकः प्रेमेह नाशयति** \|\| <br> Gatha Saptashati 6.21 |
-| [8](#verse-8) | ஊடிப் பெறுகுவங் கொல்லோ நுதல்வெயர்ப்பக் <br> கூடலிற் றோன்றிய வுப்பு | **कान्तामुखं सुरतकेलिविमर्दखेद-संजातघर्मकणविच्छुरितं रतान्ते** \| <br> आपाण्डुरं विलसदर्धनिमीलिताक्षं **संस्मृत्य हे हृदय किं शतधा न यासि** \|\| <br> Sridharadasa, Saduktikarnamrtam 2.100.4 |
+| [8](#verse-8) | ஊடிப் பெறுகுவங் கொல்லோ நுதல்வெயர்ப்பக் <br> கூடலிற் றோன்றிய வுப்பு | **कान्तामुखं सुरतकेलिविमर्दखेद-** <br> **संजातघर्मकणविच्छुरितं रतान्ते** \| <br> आपाण्डुरं विलसदर्धनिमीलिताक्षं <br> **संस्मृत्य हे हृदय किं शतधा न यासि** \|\| <br> Sridharadasa, Saduktikarnamrtam 2.100.4 |
 | [9](#verse-9) | ஊடுக மன்னோ வொளியிழை யாமிரப்ப <br> நீடுக மன்னோ விரா | कल्यां किल **खरहृदयः प्रवत्स्यति प्रिय इति श्रुतं** जनतः \| <br> **भगवति वर्द्धस्व निशे** तथा, यथा कल्यमेव नोदेति \|\| <br> Gatha Saptashati 1.46 |
-| [10](#verse-10) | ஊடுதல் காமத்திற் கின்ப மதற்கின்பங் <br> கூடி முயங்கப் பெறின் | सोऽवस्थाद्वितयभेदाद् **द्विप्रकारः सम्भोगशृङ्गारः, विप्रलम्भशृङ्गारश्च** \| <br> **अभिलषणीयालिङ्गनादीनामवाप्‍तौ सम्भोगः** \| <br> स चतुर्धा प्रथमानुरागानन्तरः **मानानन्तरः** प्रवासानन्तरः करुणानन्तरः, इति \| <br> Bhoja Shringaraprakasha 23.1 |
+| [10](#verse-10) | ஊடுதல் காமத்திற் கின்ப மதற்கின்பங் <br> கூடி முயங்கப் பெறின் | सोऽवस्थाद्वितयभेदाद् **द्विप्रकारः सम्भोगशृङ्गारः, विप्रलम्भशृङ्गारश्च** \| <br> **अभिलषणीयालिङ्गनादीनामवाप्‍तौ सम्भोगः** \| स चतुर्धा <br> प्रथमानुरागानन्तरः **मानानन्तरः** प्रवासानन्तरः करुणानन्तरः, इति \| <br> Bhoja Shringaraprakasha 23.1 |
 
 
 ## Comments and Research Notes
@@ -111,7 +111,7 @@ The first half of the Amarushataka verse goes further by establishing the nayika
 
 ### Verse 5
 
-The kural finds a striking parallel in Amarushataka 62, beginning with the shared image of the lender arms: Valluvar's மென்றோள் corresponds to Amaru's भुजलता / तन्व्या, the arm-creeper and the slender woman. The image is immediately placed in the context of separation: அகறலின் finds its concrete dramatic counterpart in लग्ना नांशुकपल्लवे, where the woman's arm does not cling to the edge of his garment as he is about to depart (गन्तुं प्रवृत्तः). Valluvar then says ஆங்கொன்று உடைத்து, only that separation has something in it, leaving the emotion deliberately unspecified; Amaru beautifully supplies that something through the woman's tears, बाष्पजलौघकल्पितनदीपूर, which well up as a flood in response to his departure. Finally, Valluvar's தாம்வீழ்வார் finds a suggestive counterpart in Amaru's बद्धः प्रियः: the lover is bound, while the nayika's welling tears signal the emotional force of the separation and the prospect of reconciliation. The caveat is that தவறிலராயினும் is not positively represented in Amaru 62: the verse neither establishes nor contradicts the lover's lack of fault.
+The kural finds a striking parallel in Amarushataka 62, beginning with the shared image of the lender arms: Valluvar's மென்றோள் corresponds to Amaru's भुजलता / तन्व्या, the arm-creeper and the slender woman. The image is immediately placed in the context of separation: அகறலின் finds its concrete dramatic counterpart in लग्ना नांशुकपल्लवे, where the woman's arm does not cling to the edge of his garment as he is about to depart (गन्तुं प्रवृत्तः). Valluvar then says ஆங்கொன்று உடைத்து, only that separation has something in it, leaving the emotion deliberately unspecified; Amaru beautifully supplies that something through the woman's tears, बाष्पजलौघकल्पितनदीपूर, which well up as a flood in response to his departure. Finally, Valluvar's தாம்வீழ்வார் finds a suggestive counterpart in Amaru's बद्धः प्रियः: the lover is bound, while the nayika's welling tears signal the emotional force of the separation and the prospect of reconciliation. The caveat is that தவறிலராயினும் is not positively represented in Amaru 62: the verse neither establishes nor contradicts the lover's lack of fault. Valluvar’s use of வீழ்வார், suggesting both one who is loved as well as one who falls (at the beloved’s feet), resonates with the recurring Shringara motif of पादतले तया निपतितं in Amarushataka 62.
 
 The divergence from the traditional commentary is deliberate: we read what Valluvar actually says rather than importing into ஆங்கொன்று the commentators' specification that the something is the man's joy in the prospect of reconciliation. Valluvar leaves both அகறல் and ஆங்கொன்று abstract. Amaru, by contrast, dramatizes the process of separation through a whole sequence of things the nayika deliberately does not do—she does not cling to his garment, does not fall at his feet, and does not ask him to stay. Amaru dramatizes the "there is soemthing in that separation" by the tears that well up and reveal the emotion with remarkable delicacy. Neither poet explicitly name  the cause of the separation: for example, Valluvar does not use உடல்/புலவி in this kural, and Amaru does not use मान/कोप here.
 
@@ -175,5 +175,100 @@ Magha offers a further, more oblique corroboration of the pleasure associated wi
  
 ### Chapter Summary
 
-<!-- Manakkudavar order: 9, 7, 6, 10, 2, 8, 5, 4, 1, 3 -->
+#### Bharata's foundations for Shringara
+
+In Sanskrit poetics, Shringara is the erotic rasa, the aesthetic experience of love. Bharata’s Naṭyashastra provides the foundational framework for understanding Shringara. In 6.46, while defining the rasas, he identifies Shrinagra as arising from rati, the enduring affective state of love, and declares its two modes Vipralmabha (separation) and Sambhoga (union). There Shringara is that which arises from rati as its enduring affective state, and whose nature is radiant. Whatever in the world is pure, auspicious, radiant, or beautiful is compared with Shringara. … It has two bases: sambhoga (union) and vipralambha (separation). … It has already been stated that Shringara is produced by sambhoga and vipralambha. … Thus Shringara is associated with all the emotional states:
+
+```text
+तत्र शृङ्गारो नाम रतिस्थायिभावप्रभवः । उज्ज्वलवेषात्मकः । 
+यत्किञ्चिल्लोके शुचि मेध्यमुज्ज्वलं दर्शनीयं वा तच्छृङ्गारेणोपमीयते । […]
+तस्य द्वे अधिष्ठाने सम्भोगो विप्रलम्भश्च । […]
+पूर्वमेवाभिहितं सम्भोगविप्रलम्भकृतः शृङ्गार इति । […]
+एवमेष सर्वभावसंयुक्तः शृङ्गारो भवति ॥
+```
+
+Bharata’s formulation is central to the present inquiry: separation and union are not independent of Shringara, but constitute its two modes. Verse 22.96 further connects kama with the union of woman and man: धर्मकामोऽर्थकामश्च मोक्षकामस्तथैव च \| स्त्रीपुंसयोस्तु योगो यः स तु काम इति स्मृतः \|\|. Then in 22.98 he identifies the union of woman and man that produces erotic enjoyment as Shringara: यः स्त्रीपुरुषसंयोगो रतिसंभोगकारकः \| स शृङ्गार इति ज्ञेय उपचारकृतः शुभः \|\|. Bhoja’s Shringaraprakasha (Chapters 23–24) develops the relationship between these modes, emphasizing the capacity of separation to intensify erotic passion.
+
+Bharata establishes the foundational framework for reading Valluvar’s ஊடலுவகை. Just as Shringara has two modes,  vipralambha (separation) and sambhoga (union), the kural terms ஊடல் and கூடல் evoke the lovers’ separation and union.  Although ஊடல் is often interpreted narrowly as mana or praṇayakalaha—the heroine’s offended reserve or a lovers’ quarrel—it can be read more broadly as an experience of erotic separation, embracing the emotional estrangement, longing, resistance, and anticipated reconciliation, through which union acquires greater intensity. The narrower situation of mana thus belongs within the wider experiential field of vipralambha, as later expounded by Bhoja.
+ 
+The extant Sanskrit translation of the Thirukkural by S. N. Srirama Desikan repeatedly uses विप्रलम्भ for ஊடல், for example, as in विप्रलम्भसुखम् for ஊடலுவகை. This attests to the erotic significance of the distress arising from estrangement, rather than confining the verse’s meaning to a narrowly defined quarrel.
+
+#### A glimpse of Bhoja’s theory of Shringara
+
+The literature of Shringara, that was just discussed through the Natyashastra perspective, developed over several millennia across Sanskrit and Prakrit poetry through successive representations of lovers’ longing, separation, quarrel, and reunion. Bhoja’s Shringaraprakasha brings this rich literary experience into an elaborate theoretical system, illustrated with concrete examples drawn from various older sources. Its chapters 23 and 24 are especially illuminating for Valluvar’s chapter. The central propositions relevant to this kural chapter are:
+
+  - **Shringara is twofold.**  
+    *सम्भोगशृङ्गारः, विप्रलम्भशृङ्गारश्च* (23.1) — erotic experience comprises union and separation. Estrangement is not outside erotic love; it is one of its constitutive forms.
+  - **Sambhoga is the attainment of desired intimacy.**  
+    *अभिलषणीयालिङ्गनादीनामवाप्तौ सम्भोगः* (23.1)—union consists in attaining desired embraces and related intimacies. Bhoja classifies it into four kinds according to what precedes it: *प्रथमानुरागानन्तरः मानानन्तरः प्रवासानन्तरः करुणानन्तरः*—following first love, *mana*, absence, or the pathos of separation.
+  - **Vipralambha is the non-attainment of the desired intimacy.**  
+    *तेषामेवानवाप्तौ विप्रलम्भः \| सोऽपि चतुर्धा प्रथमानुरागः मानः प्रवासः करुणः इति* (23.2)—Its four forms are first love, *māna*, pravasa (separation through absence), and karuna (separation through tragic circumstances). The classification makes clear that mana is one variety of avipralambha, not its entirety.
+  - **Vipralambha intensifies passion.**  
+    *रथमानुरागादीनां विप्रलम्भानां तदनन्तराणां च सम्भोगानां पृथक्पृथक् चतुर्णां समवाये पूर्वः पूर्वो विचित्रः, परः परो रागवर्धनः\|* (23)-the four varieties of vipralambha and their corresponding varieties of sambhoga, considered in their respective combinations, exhibit increasing variety and enhancement of passion.
+  - **Superiority of Vipralambha in intensifying passion even over Sambhoga.**  
+    *वैचित्र्ये रागवर्धनत्वे वाऽपि विप्रलम्भः सम्भोगात् सर्वतः सर्वो बलीयान् इति* (23)—In variety and in the enhancement of passion, vipralambha is superior to sambhoga. Bhoja states the same principle more poetically in the Sarasvatikanthabharanam (5.52): *न विना विप्रलम्भेन सम्भोगः पुष्टिमश्नुते \| कषायिते हि वस्त्रादौ भूयान् रागोऽनुषज्यते \|\|*—Union does not attain fullness without separation, just as dye takes more strongly to cloth that has been treated. Separation increases *rāga*, the intensity of passion.
+  - **Vipralambha takes precedence.**  
+    *तत्र सम्भोगो विप्रलम्भमन्तरेण न प्रकर्षमारोहतीति विप्रलम्भ एव प्रथममुपादीयते* (24)—Since union cannot attain its highest intensity without separation, Bhoja treats vipralambha first.
+
+This framework gives us a theoretical reading of ஊடலுவகை: Valluvar is not merely describing quarrels between lovers. He explores how estrangement belongs to erotic pleasure, how it may be endured or prolonged, and how its resolution renews the experience of union. It is easy to see that all the verses can be explained parsimoniously as variations of a theme through the perspective of Bhoja's theory that we just discussed. Such a clinical reduction will do scant justice to the nuance, metaphor, and semantic range of the kurals; the primary parallels I discuss next are chosen to address those aspects.
+
+#### The ten kurals and their Sanskrit parallels
+
+Placing the kurals in Manakkudavar's order reveals an interesting structure. **The last six verses in Manakkudavar’s order—2, 8, 5, 4, 1, and 3—are matched primarily with Amarushataka and other Sanskrit Shringara poetry.**  Kural 8, which uses the familiar image of perspiration after love-play, has a secondary partial parallel in Amaru. Kurals 9 and 7 find parallels in the Sanskrit chaya of the Gathasaptashati, while 6 and 10 find their principal theoretical corroboration in Bhoja. 
+
+| No. | Manakkudavar Order and Kural Fragment | Principal Parallel | Significance |
+|--|--|--|--|
+| [9](#verse-9) | 1. ஊடுக மன்னோ … நீடுக மன்னோ விரா | Gathasaptashati 1.46 | The plea to prolong the night amid separation and anticipated departure. |
+| [7](#verse-7) | 2. ஊடலிற் றோற்றவர் வென்றார் | Gathasaptashati 6.21 | Union is renewed through quarrel, but excessive pride can destroy love. |
+| [6](#verse-6) | 3. உணலினு முண்ட தறலினிது … புணர்தலின் ஊடல் இனிது | Sarasvatikanthabharanam 5.81 | Erotic pleasure after absence resembles food enjoyed after fasting. |
+| [10](#verse-10) | 4. ஊடுதல் காமத்திற் கின்பம் … கூடி முயங்கப் பெறின் | Shringaraprakasha 23.1–2, 24 | The theoretical culmination: separation belongs to śṛṅgāra, and union completes the experience. |
+| [2](#verse-2) | 5. ஊடலிற் றோன்றுஞ் சிறுதுனி … | Amarushataka 17 | The distress of estrangement, the withholding of favour, and the heroine’s tears. |
+| [8](#verse-8) | 6. ஊடிப் பெறுகுவங் கொல்லோ … | Saduktikarnamrita 2.100.4, Amarushataka 58 | Perspiration after love-play evokes the remembered sweetness of union; a common śṛṅgāra motif. |
+| [5](#verse-5) | 7. தவறில ராயினும் … மென்றோள் அகறலின் | Amarushataka 62 | The slender arm, impending departure, tears, and the emotional force of separation. |
+| [4](#verse-4) | 8. புல்லி விடாஅப் புலவியுள் … | Amarushataka 57 | The embrace becomes the means of breaking the heroine’s adamantine resolve. |
+| [1](#verse-1) | 9. இல்லை தவறவர்க் காயினும் … | Amarushataka 53 | Feigned grievance despite the lover’s innocence elicits reassurance and affection. |
+| [3](#verse-3) | 10. புலத்தலிற் புத்தேணாடுண்டோ … | Amarushataka 32 | Reconciliation with the offended heroine is exalted above divine nectar. |
+
+The two Bhoja matches are especially significant. Kural 6 compares the pleasure of ஊடல் with eating after hunger; Bhoja’s उपोषितैरन्नमिव compares pleasure after absence with food savoured by those who have fasted. Kural 10 then supplies the conceptual key to the chapter: ஊடல் belongs to the pleasure of love, and the pleasure of reunion is realised when the lovers embrace. Bhoja’s theory explains why these are not contradictory assertions. 
+
+The remaining parallels show how the same aesthetic principle appears in different situations. Amaru dramatizes the heroine’s tears, resistance, inward longing, and eventual surrender. The Gathasaptashati captures the renewal of erotic pleasure through quarrel while warning that excessive mana may destroy love. One of the parallels concerns pravasa rather than mana specifically. This is not a defect: it illustrates the broader range of vipralambha within which the kurals can be understood.
+
+#### Valluvar’s compression and the dramatic Sanskrit tradition
+
+The correspondences are not always verbal or structural; the parallels do not require Valluvar to reproduce the dramatic situations of Sanskrit poetry. Rather, the Sanskrit works help us see the emotional and aesthetic possibilities compressed into his terse images.
+
+Kural 4, for example, presents the embrace as the படை—the means or weapon—that breaks the heroine’s inward resolve. Amaru’s image of the adamantine heroine (वज्रमय्यि)  whose mana is broken when the lover embraces her provides an unusually close conceptual and lexical correspondence. Kural 5, by contrast, leaves the significance of the heroine’s withdrawal deliberately open: Amaru supplies a dramatic scene in which her failure to cling to the departing lover, followed by her tears, binds him more powerfully than an explicit plea could.
+
+Kural 3 is more difficult. Its image of lovers’ hearts as நிலத்தொடு நீரியைந் தன்னார் is distinctively Tamil. The familiar Sangam comparison of loving hearts to rainwater mingling with red earth offers a resonance, while Pravarasena’s Setubandha imagines the sea and earth as lovers repeatedly embracing and withdrawing. Neither establishes an exact Sanskrit counterpart to Valluvar’s complete metaphor. The proper conclusion is that the image belongs to a wider field of suggestive natural and erotic associations, without reducing its particular meaning to any one of them.
+
+Kural 2 is not simply a celebration of quarrel. The qualification பாடு பெறின் is crucial: even when the beloved’s generous affection wanes, the distress of estrangement is to be acknowledged; it may yet prove worthwhile. Valluvar compresses this paradox into a few words, leaving the precise value and outcome of the distress suggestive. Amaru’s heroine, who rejects supplication and speaks harshly yet watches the departing lover through tears, offers a dramatic embodiment of the சிறுதுனி Valluvar evokes. Where Amaru unfolds the contradiction through gesture and speech, Valluvar’s aphoristic economy leaves its implications open.
+
+Kural 7 also merits a lexical reconsideration: the recurring Sanskrit motif of padapatana (falling at the beloved’s feet in supplication) may provide an alternative line of comparison for வீழ்வார், although the primary interpretation remains that of one who is loved/desired.
+
+#### Corroboration from the Kamasutra
+
+Vatsyayana’s Kamasutra, a practical treatise rather than an aesthetic theory or lyric anthology, supplies a complementary perspective. Its striking formulation is कलहरूपं सुरतमाचक्षते (2.7.1): They call sexual intercourse a form of quarrel.
+
+<!--
+The observation anticipated the conceptual movement of kural 10: ஊடுதல் காமத்திற் கின்பம் அதற்கின்பம் / கூடி முயங்கப் பெறின்.
+
+The chapter on pranayakalaha (2.10) further corroborates the kurals’ progression. In 2.10.27, Vatsyayana describes a heroine whose love is growing (वर्धमानप्रणय:) and who will not tolerate certain affronts. In 2.9.29, erotic union after the pacification of a lovers’ quarrel is said to possess an excess of natural passion: स्वाभाविकस्य रागस्यातिशयेन योगात्. This closely supports kural 2’s association of  with the intensification of love.
+
+The practical details in 2.10 depict the heroine withdrawing to the doorway without truly departing, weeping, refusing to yield immediately, and finally accepting conciliation and embrace (2.10.41–46). These actions illuminate kurals 4–9, where estrangement, inward attachment, entreaty, apparent defeat, and renewed pleasure are interwoven. Finally, 2.10.48 describes the resolution of pranayakalaha and the heroine’s return to the lover’s house. The Kamasutra thus corroborates the same broad insight found in Bhoja, Amaru, and the Gathasaptashati: erotic estrangement can be part of love’s fulfilment, provided it gives way to reconciliation.
+-->
+
+
+#### Conclusion
+
+Valluvar’s ஊடலுவகை, read alongside Bhoja’s theory of separation and union with underpinnings in Bharata's Natyashastra as well as the extensive Shringara literature, the dramatic Shringara poetry of Amarushataka and the Gathasaptashati, and Vatsyayana’s practical account of pranayakalaha, reveals a unified erotic logic in which separation renews passion and union completes it.
+
+**தலைவனைக் கண்ட தலைவியின் புலவியைக் கண்ட புலவன் வள்ளுவன்.  
+வள்ளுவன் கூறும் ஊடலும் கூடலும் காமக்கூறு; அதற்கு பரதனும் போசனும் சான்று.**
+
+
+
+
+
+
+
 
