@@ -60,4 +60,4 @@ There are numerous Sanskrit texts that discuss the evaluation of appropriate mea
 
 ### Chapter Summary
 
-
+<!-- Manakkudavar order: 5, 6, 1, 3, 2, 8, 7, 9, 4, 10 -->
