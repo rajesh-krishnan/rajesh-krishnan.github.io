@@ -245,18 +245,50 @@ Kural 2 is not simply a celebration of quarrel. The qualification பாடு �
 
 Kural 7 also merits a lexical reconsideration: the recurring Sanskrit motif of padapatana (falling at the beloved’s feet in supplication) may provide an alternative line of comparison for வீழ்வார், although the primary interpretation remains that of one who is loved/desired.
 
-#### Corroboration from the Kamasutra
+### The Kamasutra's Practical Perspective
 
-Vatsyayana’s Kamasutra, a practical treatise rather than an aesthetic theory or lyric anthology, supplies a complementary perspective. Its striking formulation is कलहरूपं सुरतमाचक्षते (2.7.1): They call sexual intercourse a form of quarrel.
+Vatsyayana's Kamasutra provides a distinctive practical perspective on Valluvar’s compressed aphorisms, complementing Bhoja’s theory of Shringara and the dramatic poetry of Amaru and the Gaathasaptasahti. Where theory explains the relationship between separation and union, and poetry renders it through metaphor and dramatic situation, Vatsyayana tells the nayaka and nayika what to do. His account of pranayakalaha supplies the practical choreography of ஊடல் and கூடல்.  Kamasutra Chapter 2.10 offers the most insights relevant to this kural chapter:
 
-<!--
-The observation anticipated the conceptual movement of kural 10: ஊடுதல் காமத்திற் கின்பம் அதற்கின்பம் / கூடி முயங்கப் பெறின்.
+```text
+ववसानेऽपि च प्रीतिरुपचारैरुपस्कृता। सःविस्रम्भकथायोगै रतिं जनयते पराम्॥ 2.10.10
+व्परस्परप्रीतिकरैरात्मभावानुवर्तनैः। क्षणात्क्रोधपरावृत्तैः क्षणात्प्रीतिविलोकितैः॥ 2.10.11
+व्हल्लीसकक्रीडनकैर् गायनैर्लाटरासकैः। रागलोलार्द्रनयनैश्चन्द्रमण्डलवीक्ष्णैः॥ 2.10.12
+आद्ये संदर्शने जाते पूर्वं ये स्युर्मनोरथाः। पुनर्वियोगे दुःखं च तस्य सर्वस्य कीर्तनैः॥ 2.10.13a
+कीर्तनान्ते च रागेण परिष्वङ्गैः सःचुम्बनैः। तैस्तैश्च भावैः संयुक्तो यूनो रागो विवर्धते॥ 2.10.13b
 
-The chapter on pranayakalaha (2.10) further corroborates the kurals’ progression. In 2.10.27, Vatsyayana describes a heroine whose love is growing (वर्धमानप्रणय:) and who will not tolerate certain affronts. In 2.9.29, erotic union after the pacification of a lovers’ quarrel is said to possess an excess of natural passion: स्वाभाविकस्य रागस्यातिशयेन योगात्. This closely supports kural 2’s association of  with the intensification of love.
+संदर्शनात्प्रभृत्युभयोरपि प्रवृद्धरागयोः प्रयत्नकृते समागमे प्रवासप्रत्यागमने वा कलहवियोगयोगे तद्रागवत्॥ 2.10.15
+वर्धमाणप्रणया तु नयिका सपत्नीनामग्रहणं तदाश्रयं आलापं वा गोत्रस्खलितं वा न मर्षयेत्। नायकव्यलीकं च॥ 2.10.27
+तत्र सुःभृशः कलहो रुदितं आयासः शिरोरुहाणां अवक्षोदनं प्रहणनं आसनाच्छयनाद्वा मह्यां पतनं माल्यभूषणावमोक्षो भूमौ शय्या च॥ 2.10.28
+तस्य च वचनं उत्तरेण योजयन्ती विवृद्धक्रोधा सःकचग्रहं अस्यास्यं उन्नमय्य पादेन बाहौ शिरसि वक्षसि पृष्ठे वा सकृद्द्विस्त्रिर्हन्यात्। द्वारदेशं गच्छेत्। तत्रोपविश्याश्रुकरणं इति॥ 2.10.29
+तत्र युक्तरूपेण साम्ना पादपतनेन वा प्रसन्नमनास्तां अनुनयन्नुपक्रम्य शयनं आरोहयेत्॥ 2.10.30
+अतिःक्रुद्धापि तु न द्वारदेशाद्भूयो गच्छेत्। दोषवत्त्वात्। इति दत्तकः। तत्र युक्तितोऽनुन्\~ईयमाना प्रसादं आकाङ्क्षेत्। प्रसन्नापि तु सःकषायैर् एव वाक्यैरेनं तुदतीव प्रसन्नरतिकाङ्क्षिणी नायकेन परिरभ्येत॥ 2.31
+स्वभवनस्था तु निमित्तात्कलहिता तथाःविदचेष्टैव नायकं अभिगच्छेत्॥ 2.10.32
+तत्र पीठमर्दविटविदूषकैर्नायकप्रयुक्तैरुपशमितरोषा तैरेवानिनीता तैः सहैव तद्भवनं अधिगच्छेत्। तत्र च वसेत्॥ चिति प्रणयकलहः॥ 2.10.33
+```
 
-The practical details in 2.10 depict the heroine withdrawing to the doorway without truly departing, weeping, refusing to yield immediately, and finally accepting conciliation and embrace (2.10.41–46). These actions illuminate kurals 4–9, where estrangement, inward attachment, entreaty, apparent defeat, and renewed pleasure are interwoven. Finally, 2.10.48 describes the resolution of pranayakalaha and the heroine’s return to the lover’s house. The Kamasutra thus corroborates the same broad insight found in Bhoja, Amaru, and the Gathasaptashati: erotic estrangement can be part of love’s fulfilment, provided it gives way to reconciliation.
--->
+#### Separation, passion, and the renewal of affection
 
+The Kamasutra is broadly consistent with the Shringara tradition’s distinction between vipralambha and sambhoga, and Valluvar’s ஊடல் and கூடல். In 2.10.15, Vatsyayana includes reunion following quarrel and separation among the circumstances associated with intensified passion: कलहवियोगयोगे तद्रागवत्. This provides a concise parallel to Bhoja’s account of the intensification of raga through separation, and to Valluvar’s paradoxical assertion that ஊடல் can itself be pleasurable when followed by கூடல்.
+
+Vatsyayana also describes what sustains or renews affection. In 2.10.10–13, affectionate gestures and intimate conversation, consideration for one another, alternating anger and loving glances, and recollections of the desires of the first meeting and the sorrow of subsequent separation all contribute to the growth of passion. The sequence culminates in रागेण परिष्वङ्गैः सच्चुम्बनैः—passionate embraces and kisses through which raga increases. These action which Vatsyayana collectively calls प्रीतिरुपचारै offer a practical counterpart to the affection and desire implicit in Valluvar’s வல்ல தவரளிக்கும் மாறு (kural 1) and நல்லளி (kural 2). Remarkably, Vatsyayana includes within these means of renewing affection the recollection of both the joys of union and the sorrows of separation: आद्ये संदर्शने जाते पूर्वं ये स्युर्मनोरथाः। पुनर्वियोगे दुःखं च तस्य सर्वस्य कीर्तनैः॥ (2.10.13). This adds a further dimension to Valluvar’s claim that ஊடல் is pleasurable: the உவகை of estrangement and reunion lies not only in the experience itself, but also in remembering and recounting its joys and sorrows. 
+
+Earlier Vatstyayana connects connects food and erotic desire with states of the body in 1.2.36: शरीरस्थितिहेतुत्वादाहारसधर्माणो हि कामाः \|\|. When read along with कलहवियोगयोगे तद्रागवत् in 2.10.15, we can see the basic ideas underpinning Valluvar’s comparison of hunger and erotic pleasure in kural 8: உணலினும் உண்ட தறலினிது காமம் புணர்தலின் ஊடல் இனிது.
+
+#### How to enact ஊடல் and arrive at கூடல்
+
+Vatsyayana provides a practical dimension to Valluvar’s ஊடுக மன்னோ வொளியிழை (kural 6) and ஊடிப் பெறுகுவங் கொல்லோ (kural 8) in 2.10.27–33 begins with the growing love of the nayika, वर्धमाणप्रणया तु नायिका (2.10.27). He first describes circumstances that may provoke the heroine’s displeasure, including the lover’s mention of rivals or a slip in which he uses another woman’s name (2.10.27); Valluvar does not discuss causes in this chapter. Vatsyayana then details the manifestations of the quarrel: tears, agitation, dishevelled hair, striking the lover, abandoning the bed or seat, removing ornaments, and lying on the ground (2.10.28). As her anger grows, she responds with further reproaches, strikes him, withdraws to the doorway, and sits weeping (2.10.29). Vatsyayana thus makes concrete what Valluvar leaves implicit in the action word ஊடல்: the quarrel is enacted through speech, gesture, bodily withdrawal, and tears. 
+
+His account also anticipates two further aspects, யாமிரப்ப (while I plead) in kural 6 and வல்ல தவரளிக்கும் மாறு (the capacity of  to elicit a response from the beloved) in kural 1. The nayaka seeks to restore her good humour and bring her back to bed, and his task is to appease her through conciliatory words or supplication: साम्ना पादपतनेन वा (2.10.30). This gives a practical context for தாம்வீழ்வார் in kural 5: falling at the beloved’s feet is one possible enactment of supplication, though it should remain a secondary resonance rather than the primary reading of this kural. Vatsyayana’s account of the nayika who, even while being appeased, continues to speak resentfully yet desires erotic union—प्रसन्नापि तु सकषायैरेव वाक्यैर् … प्रसन्नरतिकाङ्क्षिणी (2.10.31)—offers a practical counterpart to Valluvar’s ஆங்கொன் றுடைத்து (kural 10): the lovers’quarrel contains within it several coexisting movements of feeling, resistance, and desire, which Vatsyayana spells out as conduct.
+
+Even after her anger begins to subside, the nayika may continue to speak resentfully while desiring erotic union: प्रसन्नापि तु सकषायैरेव वाक्यैर् … प्रसन्नरतिकाङ्क्षिणी नायकेन परिरभ्येत (2.10.31). Vatsyayana instructs the lover to embrace her even in this state. The passage thus offers a practical dimension to kural 7, புல்லி விடாஅப் புலவியுட் டோன்றுமென்னுள்ள முடைக்கும் படை, where the heroine describes the embrace that does not let go of her amid pulavi as the weapon that breaks down her heart. The embrace bridges the interval between lingering displeasure and reconciliation, giving concrete form to the power that Valluvar attributes to the lover’s embrace.
+
+This overall sequence is particularly illuminating for kural 9: ஊடுக மன்னோ ஒளியிழை யாமிரப்ப நீடுக மன்னோ இரா. Vatsyayana describes what the extended process of entreaty can involve: conciliatory speech, supplication, continued reproach, resistance, tears, appeasement, and finally embrace. He does not prescribe an all-night reconciliation; the wish that the night be prolonged belongs to Valluvar. But the Kamasatra supplies the practical actions that make such a night imaginable.
+
+Vatsyayana shows how the lover who entreats and appears to yield can bring about renewed intimacy: साम्ना पादपतनेन वा … तामनुनयन् … शयनमारोहयेत् (2.10.30). The heroine, though still speaking resentfully, desires erotic union, and the lover embraces her: सकषायैरेव वाक्यैः … प्रसन्नरतिकाङ्क्षिणी नायकेन परिरभ्येत् (2.10.31). Valluvar compresses this reversal into a paradox—the one who loses in ஊடல் wins in கூடல் in kural 7: ஊடலில் தோற்றவர் வென்றார் அதுமன்னும் கூடலிற் காணப்படும். 
+
+The sequence concludes with the heroine approaching the lover while maintaining the appropriate gestures of displeasure, or being brought to his residence by the lover’s associates after her anger has been soothed (2.10.32–33). Vatsyayana names the whole process इति प्रणयकलहः—Thus, the lovers’ quarrel born of affection.
+
+The contribution of the Kamasutra is distinct. It does not provide any direct parallels to the kural; it does not deal with codifying principles, but rather provides on advice that puts principles into practice. Bharata and Bhoja provide the theoretical framework; Amaru and the Gathasaptashati dramatize the lovers’ emotional contradictions; Valluvar renders them as aphoristic insight. Vatsyayana supplies the practical guide: what sustains affection, how the quarrel is enacted, how the lover entreats, and how estrangement moves towards union.
 
 #### Conclusion
 
