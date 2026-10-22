@@ -237,6 +237,9 @@ There are numerous Sanskrit texts that discuss the evaluation of appropriate mea
         ◦ अमोघक्रोधहर्षस्य स्वयं कृत्यान्ववेक्षिणः । आत्मप्रत्ययकोशस्य वसुधैव वसुंधरा
         ◦ For one whose anger and approval are never ineffectual, who personally reviews affairs, and whose treasury is grounded in self-reliance—the earth itself becomes his sustaining foundation
         ◦ touches on earth and supervision by the king himself; but it is not about the world being straight but about becoming a support
+
+The chapter teaches that responsibility must be entrusted only after a careful assessment of a person's character, goodwill, knowledge, judgment, freedom from greed, and demonstrated capacity. The king should seek people who can increase revenue and prosperity, investigate difficulties, and perform the particular work required of them. General reputation, learning, or apparent suitability is insufficient: actual competence must be assessed, and the individual must be matched to the task. The task itself, its requirements, and the appropriate time must also be examined before a decision is made. Once a person's fitness has been established, the king should grant the appropriate responsibility and authority, trust the capable agent rather than misconstrue the relationship, and continue to monitor the official's conduct. In this way, sound selection, proper delegation, justified trust, and continuing oversight preserve the prosperity and stability of the kingdom.
+
 The chapter’s conceptual skeleton may emerge most clearly from reading the Arthaśāstra alongside the Pañcatantra–Hitopadeśa tradition, while the other Nīti,  Dharma, and Purana texts provide parallel formulations, corroboration, and sometimes more specific treatments of individual ideas.
 There is a productive division of labour between these bodies of literature:
     • Arthaśāstra: systematic analysis of administrative decisions, personnel, resources, counsel, and task accomplishment.
