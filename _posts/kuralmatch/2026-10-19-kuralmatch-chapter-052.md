@@ -9,13 +9,13 @@ tags: [kuralmatch]
 |  | [52](#chapter-summary) : பொருட்பால் : அரசியல் : தெரிந்து வினையாடல் |  |
 |--|--|--|
 | [1](#verse-1) | நன்மையுந் தீமையு நாடி நலம்புரிந்த <br> தன்மையா னாளப் படும் | राजा हि यः स्थिरप्रज्ञः स्वयं दोषानवेक्षते \| <br> देशकालविभागं च परं श्रेयः स विन्दति \|\| <br> Mahabharata, Striparva 11.12.4 (BORI) |
-| [2](#verse-2) | வாரி பெருக்கி வளம்படுத் துற்றவை <br> யாராய்வான் செய்க வினை | एवं कुर्यात् समुदयं वृद्धिं चायस्य दर्शयेत् \| <br> ह्रासं व्ययस्य च प्राज्ञः साधयेच्च विपर्ययम् \|\| <br> Arthashastra 2.6.28 |
+| [2](#verse-2) | வாரி பெருக்கி வளம்படுத் துற்றவை <br> யாராய்வான் செய்க வினை | **एवं कुर्यात् समुदयं वृद्धिं चायस्य दर्शयेत्** \| <br> **ह्रासं व्ययस्य च प्राज्ञः साधयेच्च विपर्ययम्** \|\| <br> Arthashastra 2.6.28 |
 | [3](#verse-3) | அன்பறிவு தேற்ற மவாவின்மை யிந்நான்கு <br> நன்குடையான் கட்டே தெளிவு | तस्मादभिजनप्रज्ञाशौचशौर्यानुरागयुक्तानमात्यान् <br> कुर्वीत गुणप्राधान्यात् \|\| <br> Arthshastra 1.8.26 |
 | [4](#verse-4) | எனைவகையாற் றேறியக் கண்ணும் வினைவகையான் <br> வேறாகு மாந்தர் பலர் | **उत्तमाधममध्यानि बुद्ध्वा कर्माणि** पार्थिवः \| <br> **उत्तमाधममध्येषु पुरुषेषु नियोजयेत्** \|\| <br> नरकर्मविपर्यासाद्राजा नाशमवाप्नुयात् \| <br> **नियोगं पौरुषं भक्तिं श्रुतं शौर्यं कुलं नयम्** \|\| <br> ज्ञात्वा वृत्तिर्विधातव्या पुरुषाणां महीक्षिता \| <br> **पुरुषान्तर**विज्ञानतत्त्वसारनिबन्धनात् \|\| <br> Matsya Purana 214.44-46 |
 | [5](#verse-5) | அறிந்தாற்றிச் செய்கிற்பாற் கல்லால் வினைதான் <br> சிறந்தானென் றேவற்பாற் றன்று | यो यत्र कुशलः कार्ये तं तत्र विनियोजयेत् \|<br> कर्मस्व् अदृष्ट-कर्मा यः शास्त्रज्ञो ऽपि विमुह्यति \|\| <br> Hitopadesha 3.56 |
 | [6](#verse-6) | செய்வானை நாடி வினைநாடிக் காலத்தோ <br> டெய்த வுணர்ந்து செயல் | **सामर्थ्यश्च विभज्यामात्यविभवं देशकालौ च कर्म च** \| <br> अमात्याः सर्व एवैताः **कार्याः** स्युर्न तु मन्त्रिणः \|\| <br> Arthashastra 1.8.29 |
 | [7](#verse-7) | இதனை யிதனா லிவன்முடிக்கு மென்றாய்ந் <br> ததனை யவன்கண் விடல்  | **कर्मणामारम्भोपायः पुरुषद्रव्य**सम्पद्देशकालविभागो <br> विनिपातप्रतीकारः **कार्यसिद्धिरिति** पञ्चाङ्गो **मन्त्रः** \|\| <br> Arthashastra 1.15.42 |
-| [8](#verse-8) | வினைக்குரிமை நாடிய பின்றை யவனை <br> யதற்குரிய னாகச் செயல் | यस्मिन् कर्मणि यस्यस्याविशेषेण कौशलम् \| <br> तस्मिन् कर्मणि तं राजा परीक्ष्य विनियोजयेत् \|\| <br> Vishnudharmottara Purana 2.24.10 |
+| [8](#verse-8) | வினைக்குரிமை நாடிய பின்றை யவனை <br> யதற்குரிய னாகச் செயல் | **यस्मिन् कर्मणि यस्य स्याद्विशेषेण च कौशलम्** \| <br> **तस्मिन् कर्मणि तं राज्ञा परीक्ष्य विनिवेशयेत्** \|\| <br> Matsya Purana 215.83 |
 | [9](#verse-9) | வினைக்கண் வினையுடையான் கேண்மைவே றாக <br> நினைப்பானை நீங்குந் திரு | भक्तं शक्तं कुलीनं च न भृत्यमवमानयेत् \| <br> पुत्रव लालयेन्नित्यं य इच्छेच्छ्रियमात्मनः \|\| <br> Panchatantra 1.382 |
 | [10](#verse-10) | நாடோறு நாடுக மன்னன் வினைசெய்வான் <br> கோடாமை கோடா துலகு | **कर्मसु चैषां नित्यं परीक्षां कारयेत् <br> चित्तानित्यत्वात् मनुष्याणाम्** \|\| <br> Arthashastra 2.9.2 |
 
@@ -47,7 +47,7 @@ tags: [kuralmatch]
 
 ### Verse 2
 
-I propose Kautilya's Arthashastra 2.6.28 as the primary parallel for this kural. Valluvar’s வாரி பெருக்கி corresponds to समुदयं वृद्धिं, while வளம்படுத்து is reflected in the combined injunction चायस्य दर्शयेत् ह्रासं व्ययस्य—to demonstrate growth in revenue and reduce expenditure. The concluding உற்றவை யாராய்வான் is consistent with प्राज्ञः साधयेच्च विपर्ययम्, which emphasizes the capable administrator’s responsibility to prevent the reversal of these gains.
+I propose Kautilya's Arthashastra 2.6.28 as the primary parallel for this kural. Valluvar’s வாரி பெருக்கி corresponds to समुदयं वृद्धिं, while வளம்படுத்து is reflected in the combined injunction चायस्य दर्शयेत् ह्रासं व्ययस्य—to demonstrate growth in revenue and reduce expenditure. The உற்றவை யாராய்வான் is consistent with प्राज्ञः साधयेच्च विपर्ययम्, which emphasizes the capable administrator’s responsibility to prevent the reversal of these gains. The செய்க வினை corrsponds to एवं कुर्यात्.
 
 The financial focus is corroborated by Yajnavalkya Smriti 1.322: तत्र तत्र च निष्णातानध्यक्षान् कुशलान् शुचीन् \| प्रकुर्यादायकर्मान्तव्ययकर्मसु चोद्यतान् \|\| — superintendents should be appointed who are expert in their respective fields, competent, upright, and diligent in matters of revenue and expenditure. The passage thus places the kural’s concern with financial growth and prudent expenditure within the broader principle of assigning responsibilities to those with the appropriate expertise. The Mahabharata, Shanti Parva (BORI) 12.120.21, similarly generalizes this principle: क्षुद्रं क्रूरं तथा प्राज्ञं शूरं चार्थविशारदम् \| स्वकर्मणि नियुञ्जीत ये चान्ये वचनाधिकाः \|\| — each person should be assigned to their proper work, including those skilled in wealth and finance (अर्थविशारदम्).
 
@@ -175,23 +175,14 @@ The broader logic of successful execution is made explicit in Arthashastra 1.15.
 
 ### Verse 8
 
-<!--
-518 வினைக்குரிமை நாடிய பின்றை யவனை / யதற்குரிய னாகச் செயல்
-    • Vishnudharmottara Purana 2.24.10 
-        ◦ यस्मिन् कर्मणि यस्यस्याविशेषेण कौशलम् । तस्मिन् कर्मणि तं राजा परीक्ष्य विनियोजयेत् ॥
-        ◦ Whatever task a person is especially skilled in, the king should examine him and assign him to that task.” This appears in the Matsya Purāṇa’s discussion of royal duties and officials.
-    • Hitopadesha 3.56
-        ◦ यो यत्र कुशलः कार्ये तं तत्र विनियोजयेत् | कर्मस्व् अदृष्ट-कर्मा यः शास्त्रज्ञोऽपि विमुह्यति || 
-        ◦ யதற்குரிய னாகச் செயல் ↔ तं तत्र विनियोजयेत्: place the person where he is suited.
-    • Yajnavalkya Smriti 1.322
-        ◦ तत्र तत्र च निष्णातानध्यक्षान् कुशलान् शुचीन् । प्रकुर्यादायकर्मान्तव्ययकर्मसु चोद्यतान् ॥
-        ◦ He should appoint experts in their respective fields as superintendents skilled, upright, and diligent in matters of income and expenditure
-        ◦ तत्र तत्र च निष्णातान् — appoint people who are experts in their respective fields. This reinforces the idea of domain-specific expertise.
-    • Arthashastra 1.8.28
-        ◦ कार्यसामर्थ्याद्धि पुरुषसामर्थ्यं कल्प्यते ॥
-        ◦ A person's capacity is inferred from their ability in the work.
-        ◦ This adds the principle of judging competence through work-related capacity.
--->
+I propose Matsya Purana 215.83 as the primary parallel for this kural. The expression यस्मिन् कर्मणि यस्य स्याद्विशेषेण च कौशलम् not only corresponds to வினைக்குரிமை but also defines the basis of that fitness: the person’s particular skill in the specific work under consideration. The word परीक्ष्य directly corresponds to நாடிய பின்றை, indicating that the candidate is to be examined before the appointment is made. Finally, तस्मिन् कर्मणि तं … विनिवेशयेत् corresponds to அதற்குரிய னாகச் செயல்: having identified and examined the person’s task-specific competence, the king should assign him to that very work. The Sanskrit makes the criterion of suitability explicit through the notion of specialized skill, whereas Valluvar expresses it through வினைக்குரிமை—fitness for the task. In essence, both passages prescribe assigning work on the basis of criteria specific to that work, implicitly distinguishing task-assignment criteria from the general criteria by which a person might be selected or appointed in the first place. A person’s general merit, reputation, or excellence in other domains does not by itself establish fitness for a particular task; that fitness must be determined with reference to the work itself.
+
+Hitopadesha 3.56 offers a concise corroboration: यो यत्र कुशलः कार्ये तं तत्र विनियोजयेत् \| कर्मस्वदृष्टकर्मा यः शास्त्रज्ञोऽपि विमुह्यति \|\|. The first line closely echoes the principle of placing a person in the work for which he is competent. The second adds a caution: even someone learned in the Shastras may falter when unfamiliar with the practical work. This reinforces the distinction between knowing a subject in theory and being competent to perform the particular task.
+
+Yajnavalkya Smriti 1.322 similarly directs the appointment of officials with domain-specific expertise: तत्र तत्र च निष्णातानध्यक्षान् कुशलान् शुचीन् \| प्रकुर्यादायकर्मान्तव्ययकर्मसु चोद्यतान् \|\|. The expression तत्र तत्र च निष्णातान्—experts in their respective fields—supports the kural’s insistence on matching the person to the work.
+
+Kautilya’s Arthashastra 1.8.28 adds a related but distinct principle: कार्यसामर्थ्याद्धि पुरुषसामर्थ्यं कल्प्यते—a person’s competence is inferred from their demonstrated ability in the work. Read alongside Kautilya, the உரிமை in Valluvar’s வினைக்குரிமை நாடுதல் may be understood to go beyond mere कौशलम् (skill or competence as an attribute): fitness for a task rests not merely on possessing a relevant skill, but on evidence of that skill in practice.
+
 
 ### Verse 9
 
@@ -216,20 +207,12 @@ The broader logic of successful execution is made explicit in Arthashastra 1.15.
 
 ### Verse 10
 
-<!--
-520 நாடோறு நாடுக மன்னன் வினைசெய்வான் / கோடாமை கோடா துலகு
-    • Arthashastra 2.9.2
-        ◦ कर्मसु चैषां नित्यं परीक्षां कारयेत्, चित्तानित्यत्वात् मनुष्याणाम् ॥
-        ◦ One should have them continually examined in their work, because the minds of human beings are inconstant.
-    • Mahabharata (BORI) 12.120.30
-        ◦ नित्यं राष्ट्रमवेक्षेत गोभिः सूर्य इवोत्पतन् । चारांश्च नचरान्विद्यात्तथा बुद्ध्या न संज्वरेत्
-        ◦ He should constantly survey the realm, like the sun moving with its rays. He should know both agents and non-agents; thus, with intelligence, he does not become anxious or unsettled.
-        ◦ 12.128.30 corroborates the Arthashastra and kural's first half; rashtram suggests king and ulaku interpreted as nadu; the sunrays over the world metaphor is suggestive of straightness and daily.
-    • Mahabharata (BORI) 12.120.28
-        ◦ अमोघक्रोधहर्षस्य स्वयं कृत्यान्ववेक्षिणः । आत्मप्रत्ययकोशस्य वसुधैव वसुंधरा
-        ◦ For one whose anger and approval are never ineffectual, who personally reviews affairs, and whose treasury is grounded in self-reliance—the earth itself becomes his sustaining foundation
-        ◦ touches on earth and supervision by the king himself; but it is not about the world being straight but about becoming a support
--->
+I propose Kautilya’s Arthashastra 2.9.2 as the primary parallel for this Kural. The first half, நாடோறு நாடுக மன்னன் வினைசெய்வான், corresponds closely to Kautilya’s injunction, कर्मसु चैषां नित्यं परीक्षां कारयेत्, prescribing continual examination of officials in the performance of their duties. Kautilya explains the reason for this oversight: चित्तानित्यत्वात् मनुष्याणाम्—the minds of human beings are inconstant. This inconstancy suggests the possibility of their going astray, making continual supervision the means by which their கோடாமை is ensured. The general observation about human inconstancy also resonates with கோடாமை கோடா உலகு, though the kural’s specific formulation—that the realm remains unerring through the functionary’s non-deviation—is not an exact correspondence to Kautilya’s statement.
+
+The Mahabharata, Shanti Parva (BORI) 12.120.30, corroborates the first half and offers broader contextual support: नित्यं राष्ट्रमवेक्षेत गोभिः सूर्य इवोत्पतन् \| चारांश्च नचरान्विद्यात्तथा बुद्ध्या न संज्वरेत् \|\| — the king should constantly survey the realm, like the sun moving with its rays, and discern the activities of agents and non-agents. The नित्यम् ... अवेक्षेत directly corroborates நாடோறு நாடுக, while राष्ट्र provides a contextual parallel for the realm denoted by உலகு, which traditional commentaries on the kural gloss as நாடு. The image of the sun’s pervasive, recurring passage across the world offers a further metaphorical resonance with நாடோறு and உலகு. The image of the sun’s pervasive, recurring passage across the world resonates with நாடோறு நாடுக and உலகு. Read against the Vedic association of the Sun with Rta (ऋत), the cosmic order, it also offers a deeper conceptual resonance with கோடாமை கோடா உலகு: just as the Sun’s regular course sustains cosmic order, the functionary’s fidelity and the king’s vigilant supervision sustain order in the realm. The sun’s illumination also evokes the modern metaphor of transparency: by bringing conduct to light, public scrutiny can help expose and deter misconduct, offering a further interpretive resonance with கோடாமை.
+
+A related emphasis on personal supervision appears in Mahabharata, Shanti Parva (BORI) 12.120.28: अमोघक्रोधहर्षस्य स्वयं कृत्यान्ववेक्षिणः । आत्मप्रत्ययकोशस्य वसुधैव वसुंधरा ॥ — the ruler who personally reviews affairs and maintains a treasury grounded in self-reliance finds the earth itself a sustaining foundation. This reinforces the value of direct oversight, though its concluding image concerns the earth as the king’s support, not the realm’s stability through a functionary’s fidelity.
+
 
 ### Chapter Summary
 
