@@ -13,7 +13,7 @@ tags: [kuralmatch]
 | [3](#verse-3) | அன்பறிவு தேற்ற மவாவின்மை யிந்நான்கு <br> நன்குடையான் கட்டே தெளிவு | तस्मादभिजनप्रज्ञाशौचशौर्यानुरागयुक्तानमात्यान् <br> कुर्वीत गुणप्राधान्यात् \|\| <br> Arthshastra 1.8.26 |
 | [4](#verse-4) | எனைவகையாற் றேறியக் கண்ணும் வினைவகையான் <br> வேறாகு மாந்தர் பலர் | **उत्तमाधममध्यानि बुद्ध्वा कर्माणि** पार्थिवः \| <br> **उत्तमाधममध्येषु पुरुषेषु नियोजयेत्** \|\| <br> नरकर्मविपर्यासाद्राजा नाशमवाप्नुयात् \| <br> **नियोगं पौरुषं भक्तिं श्रुतं शौर्यं कुलं नयम्** \|\| <br> ज्ञात्वा वृत्तिर्विधातव्या पुरुषाणां महीक्षिता \| <br> **पुरुषान्तर**विज्ञानतत्त्वसारनिबन्धनात् \|\| <br> Matsya Purana 214.44-46 |
 | [5](#verse-5) | அறிந்தாற்றிச் செய்கிற்பாற் கல்லால் வினைதான் <br> சிறந்தானென் றேவற்பாற் றன்று | यो यत्र कुशलः कार्ये तं तत्र विनियोजयेत् \|<br> कर्मस्व् अदृष्ट-कर्मा यः शास्त्रज्ञो ऽपि विमुह्यति \|\| <br> Hitopadesha 3.56 |
-| [6](#verse-6) | செய்வானை நாடி வினைநாடிக் காலத்தோ <br> டெய்த வுணர்ந்து செயல் | सामर्थ्यश्च विभज्यामात्यविभवं देशकालौ च कर्म च \| <br> अमात्याः सर्व एवैताः कार्याः स्युर्न तु मन्त्रिणः \|\| <br> Arthashastra 1.8.29 |
+| [6](#verse-6) | செய்வானை நாடி வினைநாடிக் காலத்தோ <br> டெய்த வுணர்ந்து செயல் | **सामर्थ्यश्च विभज्यामात्यविभवं देशकालौ च कर्म च** \| <br> अमात्याः सर्व एवैताः **कार्याः** स्युर्न तु मन्त्रिणः \|\| <br> Arthashastra 1.8.29 |
 | [7](#verse-7) | இதனை யிதனா லிவன்முடிக்கு மென்றாய்ந் <br> ததனை யவன்கண் விடல்  | **कर्मणामारम्भोपायः पुरुषद्रव्य**सम्पद्देशकालविभागो <br> विनिपातप्रतीकारः **कार्यसिद्धिरिति** पञ्चाङ्गो **मन्त्रः** \|\| <br> Arthashastra 1.15.42 |
 | [8](#verse-8) | வினைக்குரிமை நாடிய பின்றை யவனை <br> யதற்குரிய னாகச் செயல் | यस्मिन् कर्मणि यस्यस्याविशेषेण कौशलम् \| <br> तस्मिन् कर्मणि तं राजा परीक्ष्य विनियोजयेत् \|\| <br> Vishnudharmottara Purana 2.24.10 |
 | [9](#verse-9) | வினைக்கண் வினையுடையான் கேண்மைவே றாக <br> நினைப்பானை நீங்குந் திரு | भक्तं शक्तं कुलीनं च न भृत्यमवमानयेत् \| <br> पुत्रव लालयेन्नित्यं य इच्छेच्छ्रियमात्मनः \|\| <br> Panchatantra 1.382 |
@@ -47,18 +47,9 @@ tags: [kuralmatch]
 
 ### Verse 2
 
-<!--
-512 வாரி பெருக்கி வளம்படுத் துற்றவை / யாராய்வான் செய்க வினை
-    • Arthashastra 2.6.28 
-        ◦ एवं कुर्यात् समुदयं वृद्धिं चायस्य दर्शयेत् । ह्रासं व्ययस्य च प्राज्ञः साधयेच्च विपर्ययम् ॥
-        ◦ A capable administrator should increase the aggregate and demonstrate growth in income, reduce expenditure, and prevent the reverse from occurring. 
-    • Mahabharata Shanti Parva 12.84.16
-        ◦ अत ऊर्ध्वममात्यानां परीक्षेत गुणागुणान् । संयतात्मा कृतप्रज्ञो भूतिकामश्च भूमिपः ॥
-        ◦ Thereafter, the king—self-restrained, practically wise, and intent on the prosperity of the realm—should examine the merits and faults of his ministers.
-    • Yajnavalkya Smriti  1.322
-        ◦ तत्र तत्र च निष्णातानध्यक्षान् कुशलान् शुचीन् । प्रकुर्यादायकर्मान्तव्ययकर्मसु चोद्यतान् ॥
-        ◦ He should appoint experts in their respective fields as superintendents skilled, upright, and diligent in matters of income and expenditure
--->
+I propose Kautilya's Arthashastra 2.6.28 as the primary parallel for this kural. Valluvar’s வாரி பெருக்கி corresponds to समुदयं वृद्धिं, while வளம்படுத்து is reflected in the combined injunction चायस्य दर्शयेत् ह्रासं व्ययस्य—to demonstrate growth in revenue and reduce expenditure. The concluding உற்றவை யாராய்வான் is consistent with प्राज्ञः साधयेच्च विपर्ययम्, which emphasizes the capable administrator’s responsibility to prevent the reversal of these gains.
+
+The financial focus is corroborated by Yajnavalkya Smriti 1.322: तत्र तत्र च निष्णातानध्यक्षान् कुशलान् शुचीन् \| प्रकुर्यादायकर्मान्तव्ययकर्मसु चोद्यतान् \|\| — superintendents should be appointed who are expert in their respective fields, competent, upright, and diligent in matters of revenue and expenditure. The passage thus places the kural’s concern with financial growth and prudent expenditure within the broader principle of assigning responsibilities to those with the appropriate expertise. The Mahabharata, Shanti Parva (BORI) 12.120.21, similarly generalizes this principle: क्षुद्रं क्रूरं तथा प्राज्ञं शूरं चार्थविशारदम् \| स्वकर्मणि नियुञ्जीत ये चान्ये वचनाधिकाः \|\| — each person should be assigned to their proper work, including those skilled in wealth and finance (अर्थविशारदम्).
 
 ### Verse 3
 
@@ -156,19 +147,11 @@ tags: [kuralmatch]
 
 ### Verse 6
 
-<!--
-516 செய்வானை நாடி வினைநாடிக் காலத்தோ / டெய்த வுணர்ந்து செயல்
-    • Arthashastra 1.8.29 
-        ◦ सामर्थ्यश्च विभज्यामात्यविभवं देशकालौ च कर्म च । अमात्याः सर्व एवैताः कार्याः स्युर्न तु मन्त्रिणः ॥ 
-        ◦ Capacity should be assessed in distributing responsibilities, with regard to the place, time, and work. All such persons may be employed as officials, though not necessarily as counsellors.
-        ◦ செய்வானை நாடி	अमात्यविभवं विभज्य; வினைநாடிக்	कर्म च; காலத்தோ டெய்த देशकालौ च உணர்ந்து सामर्थ्यः; செயல்	कार्याः स्युः
-    • Mahabharata Shani Parva 12.84.22 
-        ◦ देशकालविधानज्ञान्भर्तृकार्यहितैषिणः । नित्यमर्थेषु सर्वेषु राजा कुर्वीत मन्त्रिणः ॥ 
-        ◦ The king should appoint as ministers those who know the requirements of place, time, and procedure, and who seek the interests of their master’s work in all affairs.
-    • Arthashastra 1.15.42
-        ◦ कर्मणामारम्भोपायः पुरुषद्रव्यसम्पद्देशकालविभागो विनिपातप्रतीकारः कार्यसिद्धिरिति पञ्चाङ्गो मन्त्रः
-        ◦ deshakalavibhaga = kalathtodeitha, purusha = cheivan, karamana/karya = vinai/cheyal
--->
+I propose Kautilya's Arthashastra 1.8.29 as the primary parallel for this kural. Valluvar’s செய்வானை நாடி வினைநாடி finds a close correspondence in Kautilya’s instruction to assess capacity when distributing responsibilities, सामर्थ्यश्च विभज्यामात्यविभवं, and to consider the work itself, कर्म च; காலத்தோ டெய்த is echoed in देशकालौ च, while செயல் finds its counterpart in कार्याः. The scope is not confined to appointing counsellors: Kautilya explicitly extends the principle to all such officials, सर्व एवैताः कार्याः, making the suitability of the person to the task, rather than general distinction alone, central to the correspondence.
+
+The देशकाल motif is corroborated in the Mahabharata, Shanti Parva 12.84.22 (BORI Critical Edition): देशकालविधानज्ञान्भर्तृकार्यहितैषिणः \| नित्यमर्थेषु सर्वेषु राजा कुर्वीत मन्त्रिणः \|\|” — the king should appoint as ministers those who understand place, time, and procedure, and who seek the interests of their master’s work in all affairs. Valluvar’s காலத்தோ டெய்த should likewise be read in the broader context of இடம்–பொருள்–ஏவல்: although இடம் remains implicit in the Kural, Sanskrit niti texts repeatedly couple place and time as देशकाल.
+
+The broader logic of successful execution is made explicit in Arthashastra 1.15.42: कर्मणामारम्भोपायः पुरुषद्रव्यसम्पद्देशकालविभागो विनिपातप्रतीकारः कार्यसिद्धिरिति पञ्चाङ्गो मन्त्रः \|. Kautilya’s framework connects the means of initiating a task, the personnel and material available, the allocation according to place and time, and remedies for contingencies with successful completion; correspondingly, पुरुष resonates with செய்வானை, देशकालविभाग with காலத்தோ டெய்த, and कर्मणामारम्भोपायः together with कार्यसिद्धिः with Valluvar’s வினைநாடி … செயல்.
 
 ### Verse 7
 
