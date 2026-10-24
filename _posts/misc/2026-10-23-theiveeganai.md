@@ -85,11 +85,13 @@ The core message of the poem is the case for veganism: it suggests that one's aw
 It drives home the point by placing on an equal footing the dog, the horse, the boar, the cow, the buffalo, the goat, the rooster, the fish, and other creatures: the implication is that they are all equal and sacred, and humans ought not to exploit, eat, and/or kill them. It also argues that the maternal sacredness acoorded to an animal that gives milk ought to be extended to the others -- a messaage of universal benevolence toward living beings and non-harming that Valluvar and Patanjali spoke of.
 The implicit corrollary is that taboos on eating an animal should be extended to the others as well. The poem predominatly invokes the imagery of Indic cultural milieu and spiritual traditions, which dovetails nicely with the invocation of the scriptural authority of Valluvar and Patanjali, who are part of those Indic traditions, and reading anything further into the poetic ornamentaion will be counter-productive. 
 
-Although the poem's free-form structure does not conform to Tamil grammar for poetry (யாப்பிலக்கணம்), it nevertheless employs classical poetic resources of poetic ornamentaion. The title தெய்வீகநாய் / தெய்வீகனாய் is the beginning and end of the poem that are the homophone: theiveeganai. This is the first of several applications of the rhetoric device antanaclasis in the poem. The first usage means 'the divine dog' and the last means 'be one who is divine'; it signals the idea that recognizing the divine sacredness of the animal and treating it benevolently makes one divine. Additional poetic elements are dicussed in each part below.
+Although the poem's free-form structure does not conform to Tamil grammar for poetry (யாப்பிலக்கணம்), it nevertheless employs classical poetic resources of poetic ornamentaion. The title தெய்வீகநாய் / தெய்வீகனாய் is the beginning and end of the poem that are the homophone: theiveeganai. This is the first of several applications of the rhetoric device antanaclasis in the poem. The first usage means 'the divine dog' and the last means 'be one who is divine'; it signals the idea that recognizing the divine sacredness of the animal and treating it benevolently makes one divine. The Rather than reading it quietly, I suggest vocalizing the poem to a Rap-style beat.
+
+Additional poetic elements are dicussed in each part below. 
 
 The pen name கோவிறை (kovirai), is an unattested coinage to map the author’s name Rajesh to Tamil, using words largely of Dravidian origin.
 
-The poem has a six-part progression, and I will explain each part.
+The poem has a six-part progression, and I will explain each part.  Content-wise each part can stand alone, however, there are threads that run through the poem from the first word to the last, and reading them in sequence is recommended.
 
 ### Part 1: Divine Association of Animals
 
@@ -144,31 +146,37 @@ The second quarter, எதிர்ப்பும் வெகுளியு�
 
 Then the poem asserts quite directly that Valluvar, Patanjali, and many other sages Have given mighty testimony to non-harming. The word used is வருத்தாமை which denotes Ahimsa.  In addition to concretely establishing shabda pramana (scriptural testimony) for the core message of Ahimsa of this poem, it also suggest that this is widely attested by many sages and is not the individual opinion of two sages.
 
-<!--
+
 ### Part 6: Defintion of, Praise for, and Invitation to Veganism
--->
+
+This part opens with the words of a popular prayer to Lord Ganesha, பாலும் தெளிதேனும், milk and clear honey, than departs abruptly to a vegam message. It is almost as if this verse invokes Ganesha's blessings for the vegan proposition. The verse follows the list with meat, eggs, leather, silk, coral, and pearls, representative of animal-derived products, and asks the reader to renounce these (விலக்கு). Basically an approximate, but concise, definition of veganism, the word itself is introduced later in this part. 
+
+This part then delivers the most important message: வீணாய் விலங்கினம் தெய்யா வீக(ர)னாய்,  be the vegan who does not needlessly kill animals, and வியத்தகு விளக்காய் விளங்கு தெய்வீகனாய், as a wondrous lamp, an (shining) example, be divine!
+
+
+The poetic elements in the second half of this part are notable. 
+  - It closes with the hopmophone of the opening:the verse started with the image of the divine dog signifying sacredness of animal life to becoming divine (by adopting ahimsa and veganism). Why this word repeated twice serves as the title of the poem is revealed as the climax in the ending.
+  - The ends of the last two quarters have a clever rhyming word-play: theiyya-veganai (தெய்யா வீகனாய்), vegan who does not kill, and theiveeganai (தெய்வீகனாய்), become a divine person. For purists, who do not accept the word vegan as a Tamil word, a parenthetical in the verse provides a wording alternative veeranai (வீரனாய்), that is, as a brave person. While the rhyme is retained for the most part, it does not carry the same power that connects vegan and divine. It also loses the connection to the first half of this part that essentially defines vegan. A different parse of theeyaveeganai as valid Tamil may be possible (say, through, ஈகை, giving), but the point of the verse is to introduce the vegan proposition. So I recommend importing வீகன் into Tamil as a loanword, and it stays in this verse in any case.
+  - The use of the older word தெய் for kill is in itself interesting. The use of the older vocabulary (e.g., அரி, கரி, புத்தேள்) and old world scripture (Valluvar, Patanjali) and imagery (Vedic and Puranic Gods) while arguing for the modern vegan position, which may have been impractical in the pre-industrial old world, is suggestive of a gentle reform to vegan adoption can nevertheless be solidly grounded in tradition and scripture; however, the poem does not explicitly voice this sentiment.
+  - There is word play with the phonologically close விலக்கு (renounce/remove), விலங்கு (animal), விளக்கு (lamp), and விளங்கு (become/be an example), further accentuated by the preponderance of words starting with the consonant v.
+
+
+## Concluding thought
+
+Of the eight limbs of Patanjali's yoga darshana, the first is yama, which is five-fold, the first of which is Ahimsa, non-violence. 
+
+Non-violence is, therefore, the first stone in the foundation of yogic spirituality. 
+
+Violence occurs through action, words, or thought; and so all three must be purified. 
+
+Violence can be done, caused, or approved of; the last one is worth pondering about. 
+
+This is the summit of Ahimsa: in the presence of one firmly established in non-violence, all hostilities cease.
+
+Veganism is only the base camp to Ahimsa.
 
 
 
+  
 
-
-
-
-
-
-
-
-<!--
-
-Finally, theiyā veganai—the vegan who does not kill—leads into theiveeganai, becoming divine. The closing movement from abstention to shining light and divinity completes the poem's argument: non-harming is not merely a prohibition; it is a way of becoming.
-
-
-தெய்யா -- not killing
-வீக(ர)னாய் -- wants to import english word vegan, but purists can read is as veeran (braveman)
-விளங்கு -- become or be an example
-
-பாலும் தெளிதேனும் -- hijacks the starting of a famous verse that offers these to Ganesha.
- 
-
--->
 
