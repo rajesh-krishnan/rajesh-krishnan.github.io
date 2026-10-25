@@ -44,6 +44,10 @@ tags: [misc]
 
 வியத்தகு விளக்காய் விளங்கு தெய்வீகனாய் 
 
+.
+
+(TL;DR: தெய்யா வீகனாய் விலங்கை விலக்கு, தெய்வீகனாய் விளக்காய் விளங்கு)
+
 
 ## Translation
 
@@ -163,7 +167,7 @@ The poetic elements in the second half of this part are notable.
   - It closes with the phonetic echo of the opening: the verse started with the image of the divine dog signifying sacredness of animal life to becoming divine (by adopting ahimsa and veganism). The repeated phrase, used as the title, reveals its full significance at the close.
   - The ends of the last two quarters have a clever rhyming word-play: theiyya-veganai (தெய்யா வீகனாய்), vegan who does not kill, and theiveeganai (தெய்வீகனாய்), become a divine person. For purists, who do not accept the word vegan as a Tamil word, a parenthetical in the verse provides a wording alternative veeranai (வீரனாய்), that is, as a brave person. While the rhyme is retained for the most part, it does not carry the same power that connects vegan and divine. It also loses the connection to the first half of this part that essentially defines vegan. A different parse of theeyaveeganai as valid Tamil may be possible (say, through, ஈகை, giving), but the point of the verse is to introduce the vegan proposition. So I recommend importing வீகன் into Tamil as a loanword, and it stays in this verse in any case.
   - The word-play is clarified by this reordered excerpt extracted as an aphorism: **தெய்யா வீகனாய் விலங்கை விலக்கு, தெய்வீகனாய் விளக்காய் விளங்கு** 
-(theyyaa-veekan-aai vilankai vilakku, theiveekan-aai viLakkaai viLanku). Basically, it says: be a non-killing vegan, renounce animals; be divine, set an example as a shining lamp.    
+(theyyaa-veekan-aai vilankai vilakku, theiveekan-aai viLakkaai viLanku). Basically, it says: be a non-killing vegan, renounce animals; be divine, set an example as a shining lamp. The aphorism can also be read as follows: be a non-killing vegan and remove the fetters, be divine and shine as a lamp.   
   - The older word தெய் (“to kill”) sits alongside அரி, கரி, and புத்தேள், as well as the older scriptural and mythological traditions invoked earlier. This older vocabulary frames a contemporary vegan proposition in a traditional literary register. The poem does not explicitly argue that veganism is an ancient doctrine; rather, it invites the reader to see its ethical demand as consonant with inherited traditions of non-harming.
   - There is word play with the phonologically close விலக்கு (renounce/remove), விலங்கு (animal), விளக்கு (lamp), and விளங்கு (become/be an example), further accentuated by the recurrence of word beginning with வ் (v).
 
