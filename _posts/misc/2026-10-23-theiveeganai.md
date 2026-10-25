@@ -8,7 +8,7 @@ tags: [misc]
 
 ## தெய்வீகநாய் / தெய்வீகனாய்  - கோவிறை
 
-தெய்வீகநாய்-பைரவன் எருமை-அரி ஆடு-அரி கரி-அரி அரி-அரி 
+தெய்வீகநாய்-பைரவன் .  எருமை-அரி ஆடு-அரி கரி-அரி அரி-அரி 
 
 நாகம்-அரி காகம்-சனி என விலங்கொடு-புத்தேள் இயைவதேனோ?
 
@@ -22,7 +22,9 @@ tags: [misc]
 
 விலங்கிய ஒழுக்கால் அறம் தாழ்ந்து விலங்கிய வலையில் தானாய் வீழ்ந்து 
 
-விலங்கினம் வருத்தி உண்டூன்பெருக்கி விலங்கணிதர்க்கு மறு பிறப்போ?
+விலங்கினம் வருத்தி உண்டூன்பெருக்கி விலங்கணிதர்க்கு மறுபிறப்போ(4)? 
+
+.
 
 எவ்வுயிர்க்கும் செந்தண்மை பூண்டார் அறவோர் 
 
@@ -32,9 +34,11 @@ tags: [misc]
 
 வருத்தாமைக்களித்த வல்லிய சான்று  
 
-பாலும் தெளிதேனும் புலாலும் அண்டமும் 
+.
 
-தோலும் பட்டும் பவழமுத்தும் விலக்கி 
+பாலும் தெளிதேனும்  . புலாலும் அண்டமும் 
+
+தோலும் பட்டும் பவழமுத்தும் விலக்கி . 
 
 வீணாய் விலங்கினம் தெய்யா வீக(ர)னாய்  
 
@@ -84,10 +88,13 @@ Shine as a wondrous light; become divine!
 
 The poem makes a case for veganism through reverence for the divine, an appeal to our humanity, spiritual enlightenment, liberation from rebirth, and the ethical authority of Valluvar and Patanjali. It culminates by presenting veganism as a path toward becoming divine.
 
-It drives home the point by placing on an equal footing the dog, the horse, the boar, the cow, the buffalo, the goat, the rooster, the fish, and other creatures: the poem therefore suggests treating their lives as equally worthy of consideration. It also argues that the maternal sacredness accorded to an animal that gives milk ought to be extended to the others -- a message of universal benevolence toward living beings and non-harming that Valluvar and Patanjali spoke of.
-The implicit corollary is that taboos on eating an animal should be extended to the others as well. The poem predominatly draws on Indic cultural and spiritual traditions; its allusions enrich the argument, but they should not obscure the central ethical message.
+It drives home the point by placing on an equal footing the dog, the horse, the boar, the cow, the buffalo, the goat, the rooster, the fish, and other creatures: the poem therefore suggests treating their lives as equally worthy of consideration. It also argues that the maternal sacredness accorded to an animal that gives milk ought to be extended to the others -- a message of universal benevolence toward living beings and non-harming that Valluvar and Patanjali spoke of. The implicit corollary is that taboos on eating an animal should be extended to the others as well. The poem predominatly draws on Indic cultural and spiritual traditions; its allusions enrich the argument, but they should not obscure the central ethical message.
 
-Although the poem's free-form structure does not conform to Tamil grammar for poetry (யாப்பிலக்கணம்), it nevertheless employs classical poetic resources of poetic ornamentation. Rather than reading the poem silently, I suggest vocalizing it to a rap-style beat. The title, தெய்வீகநாய் / தெய்வீகனாய், frames the poem through a phonetic pun: theiveeganai. At the opening it means “divine dog”; at the close it means “become divine.” This transformation links the recognition of sacredness in animal life to the ethical transformation of the human being. Additional poetic elements are discussed in each part below. 
+Although the poem's free-form structure does not conform to Tamil grammar for poetry (யாப்பிலக்கணம்), it nevertheless employs classical poetic resources of poetic ornamentation. 
+
+Rather than reading the poem silently, I suggest vocalizing it to a rap-style beat. The dots in the verse signal an abrupt shif tin prosody, and (4) after மறுபிறப்போ suggests that the word be repeated four times.
+
+The title, தெய்வீகநாய் / தெய்வீகனாய், frames the poem through a phonetic pun: theiveeganai. At the opening it means “divine dog”; at the close it means “become divine.” This transformation links the recognition of sacredness in animal life to the ethical transformation of the human being. Additional poetic elements are discussed in each part below. 
 
 The pen name கோவிறை (Kovirai) is an unattested coinage devised as a Tamil rendering of the author's name, Rajesh, using words of largely Dravidian origin.
 
@@ -96,7 +103,6 @@ The poem has a six-part progression, and I will explain each part.  Content-wise
 ### Part 1: Divine Association of Animals
 
 This part asks rhetorically asks why animals are associated with Gods and provides a catalog of associations starting with the divine dog associated with Bhairava. The idea is to establish an association of animals with divinity, suggesting that all life should be seen as sacred. The catalog continues into the next two parts as well, with progressively new messages being introduced.
-
 
 In my primary intended reading, the dog, the buffalo, the goat, the elephant, the horse (denoted by அரி), the serpent, and the crow are associated respectively with Bhairava, Yama (denoted by அரி), Agni (denoted by அரி), Indra (denoted by அரி), Surya (denoted by அரி), Shiva (denoted by அரி), and Shani. The primary reading is slightly biased somewhat toward older Vedic deities, although their animal associations were developed later in the Puranas. The buffalo here is the Indian water buffalo which is domesticated cattle. 
 
