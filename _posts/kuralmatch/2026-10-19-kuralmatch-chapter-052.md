@@ -49,6 +49,8 @@ tags: [kuralmatch]
 
 I propose Kautilya's Arthashastra 2.6.28 as the primary parallel for this kural. Valluvar’s வாரி பெருக்கி corresponds to समुदयं वृद्धिं, while வளம்படுத்து is reflected in the combined injunction चायस्य दर्शयेत् ह्रासं व्ययस्य—to demonstrate growth in revenue and reduce expenditure. The உற்றவை யாராய்வான் is consistent with प्राज्ञः साधयेच्च विपर्ययम्, which emphasizes the capable administrator’s responsibility to prevent the reversal of these gains. The செய்க வினை corrsponds to एवं कुर्यात्.
 
+Arthashastra 2.9.36 offers a further corroboration: न भक्षयन्ति ये त्वर्थान्न्यायतो वर्धयन्ति च नित्याधिकाराः कार्यास्ते राज्ञः प्रियहिते रताः \|\|. The correspondence வாரி பெருக்கி = अर्थान् … वर्धयन्ति links revenue enhancement with the officials’ duty to increase the king’s resources, while செய்க வினை = नित्याधिकाराः कार्याः adds the dimension of retaining such officials in permanent service. The phrase न भक्षयन्ति ये त्वर्थान् further brings out the avoidance of waste, fraud, and abuse of public resources, which is one, though not the only, aspect of வளம்படுத்து.
+
 The financial focus is corroborated by Yajnavalkya Smriti 1.322: तत्र तत्र च निष्णातानध्यक्षान् कुशलान् शुचीन् \| प्रकुर्यादायकर्मान्तव्ययकर्मसु चोद्यतान् \|\| — superintendents should be appointed who are expert in their respective fields, competent, upright, and diligent in matters of revenue and expenditure. The passage thus places the kural’s concern with financial growth and prudent expenditure within the broader principle of assigning responsibilities to those with the appropriate expertise. The Mahabharata, Shanti Parva (BORI) 12.120.21, similarly generalizes this principle: क्षुद्रं क्रूरं तथा प्राज्ञं शूरं चार्थविशारदम् \| स्वकर्मणि नियुञ्जीत ये चान्ये वचनाधिकाः \|\| — each person should be assigned to their proper work, including those skilled in wealth and finance (अर्थविशारदम्).
 
 ### Verse 3
@@ -124,6 +126,9 @@ The financial focus is corroborated by Yajnavalkya Smriti 1.322: तत्र �
     • Mahabharata (BORI) 12.120.21
         ◦ क्षुद्रं क्रूरं तथा प्राज्ञं शूरं चार्थविशारदम् । स्वकर्मणि नियुञ्जीत ये चान्ये वचनाधिकाः
         ◦ He should assign each person to his proper work—whether petty, harsh, wise, valorous, or skilled in wealth and finance—and also others who are competent in counsel and speech.
+        
+Arthashastra 2.9.3 states: अश्वसधर्माणो हि मनुष्या नियुक्ताः कर्मसु विकुर्वते \|\| — For human beings, like horses, behave differently when appointed to tasks. This corroborates வினைவகையான் வேறாகு மாந்தர்: people differ in their behaviour when engaged in particular work. The comparison implicitly evokes carefully selected horses in a royal stable, yet their differences emerge when put to work—suggestively echoing எனைவகையாற் றேறியக் கண்ணும், even after people have been assessed by various criteria.
+
 -->
 
 ### Verse 5
@@ -203,6 +208,8 @@ Kautilya’s Arthashastra 1.8.28 adds a related but distinct principle: का�
         ◦ मूढमैन्द्रियकं लुब्धमनार्यचरितं शठम् । अनतीतोपधं हिंस्रं दुर्बुद्धिमबहुश्रुतम् ।। त्यक्तोपात्तं मद्यरतं द्यूतस्त्रीमृगयापरम् । कार्ये महति यो युञ्ज्याद्धीयते स नृपः श्रियः ।।
         ◦ One who is foolish, driven by the senses, greedy, ignoble in conduct, deceitful, untested in integrity, inclined to harm, of poor judgment, and scant in learning—who squanders what is entrusted and what is gained, devoted to intoxicants and absorbed in gambling, sensual indulgence, and hunting—if a king assigns such a one to a great undertaking, that king’s prosperity declines.
         ◦ Mahabharata’s complementary warning about improper personnel management: prosperity is endangered when a king entrusts an important task to a person disqualified by numerous defects; it does not address the misinterpretation of a devoted official’s relationship with him that is central to Kural 9
+
+        Arthaśāstra 9.4.1–3 provides a broader framework for evaluating the costs and benefits of state action: युग्यपुरुषापचयः क्षयः ॥ (9.4.1), the loss of capable personnel, is a form of depletion; हिरण्यधान्यापचयो व्ययः ॥ (9.4.2), the depletion of gold and grain, is an expenditure; and ताभ्यां बहुगुणविशिष्टे लाभे यायात् ॥ (9.4.3), one should proceed when the anticipated gain substantially outweighs these two costs. Valluvar’s calculus addresses a specific case within this broader problem space: treating a dutiful employee as an outsider leads to the departure of prosperity (திரு). Where Kautilya frames the ruler’s decision in terms of weighing gains against the potential loss of personnel and material resources, Valluvar draws attention to how a particular relational choice itself carries an economic consequence.
 -->
 
 ### Verse 10
@@ -219,13 +226,17 @@ A related emphasis on personal supervision appears in Mahabharata, Shanti Parva 
 <!-- 
 The chapter teaches that responsibility must be entrusted only after a careful assessment of a person's character, goodwill, knowledge, judgment, freedom from greed, and demonstrated capacity. The king should seek people who can increase revenue and prosperity, investigate difficulties, and perform the particular work required of them. General reputation, learning, or apparent suitability is insufficient: actual competence must be assessed, and the individual must be matched to the task. The task itself, its requirements, and the appropriate time must also be examined before a decision is made. Once a person's fitness has been established, the king should grant the appropriate responsibility and authority, trust the capable agent rather than misconstrue the relationship, and continue to monitor the official's conduct. In this way, sound selection, proper delegation, justified trust, and continuing oversight preserve the prosperity and stability of the kingdom.
 
-The chapter’s conceptual skeleton may emerge most clearly from reading the Arthaśāstra alongside the Pañcatantra–Hitopadeśa tradition, while the other Nīti,  Dharma, and Purana texts provide parallel formulations, corroboration, and sometimes more specific treatments of individual ideas.
+The chapter’s conceptual skeleton may emerge most clearly from reading the Arthaśāstra primarily, while the Pañcatantra–Hitopadeśa tradition and the other Nīti,  Dharma, and Purana texts provide parallel formulations, corroboration, and sometimes more specific treatments of individual ideas in the kurals.
 There is a productive division of labour between these bodies of literature:
     • Arthaśāstra: systematic analysis of administrative decisions, personnel, resources, counsel, and task accomplishment.
     • Pañcatantra and Hitopadeśa: compact, memorable formulations of practical wisdom about people, loyalty, competence, and the consequences of misjudgment.
     • Kāmandakīya Nītisāra: a related theoretical treatment of statecraft and political methods.
     • Mahābhārata and Rāmāyaṇa: broader reflections on royal responsibility, personnel, vigilance, and the welfare of the realm.
     • Yājñavalkya Smṛti, Matsya Purāṇa, Viṣṇudharmottara Purāṇa, and other texts: potentially valuable parallels for appointment criteria, task-specific competence, and the proper administration of work.
+
+    Valluvar’s chapter brings particular precepts of statecraft into sharp focus through ten compact couplets. Kautilya’s Arthaśāstra, with its much wider and deeper treatment of governance, administration, and political economy, supplies a larger framework within which several of those precepts can be situated. Our task is to identify genuine correspondences while preserving differences in emphasis, formulation, and purpose.
+
+"a broad congruence of principles, expressed at different scales and for different purposes"
 
 The Manakkudavar ordering of the kurals of this chapter is 5, 6, 1, 3, 2, 8, 7, 9, 4, 10.  That ordering does not provide any further insights into the structure and content of the chapter.   
 
