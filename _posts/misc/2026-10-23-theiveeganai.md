@@ -55,7 +55,7 @@ tags: [misc]
 
 - by *Kovirai (a coined Tamil rendering of the author's name Rajesh)*
 
-The divine dog—Bhairava; the buffalo—Yama; the Ram—Agni; the elephant—Indra; the horse—Surya;
+The divine dog—Bhairava; the buffalo—Yama; the ram—Agni; the elephant—Indra; the horse—Surya;
 
 The serpent—Shiva; the crow—Shani. Why are gods associated with animals?
 
@@ -87,6 +87,7 @@ Without needlessly killing animals, become a vegan—
 
 Shine as a wondrous light; become divine!
 
+(TL;DR: Be a non-killing vegan, renounce animals / remove the fetters; be divine, shine forth as an example, as a lamp.)
 
 ## Commentary
 
