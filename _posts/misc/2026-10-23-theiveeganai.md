@@ -163,15 +163,15 @@ The poetic elements in the second half of this part are notable.
 
 ## Concluding thought
 
-Of the eight limbs of Patanjali's yoga darshana, the first is yama, which is five-fold, the first of which is Ahimsa, non-violence. 
+Patanjali's yoga darshana has eight limbs, the first of which is the five-fold yama, the first of which is Ahimsa, non-violence; Himsa, violence, is its opposite. 
 
-Non-violence is, therefore, the first stone in the foundation of yogic spirituality. 
+Ahimsa is the first stone in the foundation of yogic spirituality. 
 
-Violence occurs through action, words, or thought; and so all three must be purified. 
+Himsa occurs through action, words, or thought; all three must be purified. 
 
-Violence can be done, caused, or approved of; the last one is worth pondering about. 
+Himsa can be done, caused, or approved of; the last one is worth pondering deeply about. 
 
-This is the summit of Ahimsa: in the presence of one firmly established in non-violence, all hostilities cease.
+In the presence of one firmly established in Ahimsa, all hostilities cease: this is the summit of Ahimsa.
 
 Veganism is only the base camp to Ahimsa.
 
