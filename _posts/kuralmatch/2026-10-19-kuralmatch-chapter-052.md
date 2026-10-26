@@ -22,28 +22,16 @@ tags: [kuralmatch]
 
 ## Comments and Research Notes
 
-### Verse 1
+Hari OM, my dear friend. The contextual nature of the Mahābhārata parallel is a strength here: it lets us distinguish a close conceptual correspondence from an aphoristic identity, while the Kaṭha Upaniṣad supplies the broader ethical principle and the Arthaśāstra locates that principle within statecraft.
 
-<!--
-511 நன்மையுந் தீமையு நாடி நலம்புரிந்த / தன்மையா னாளப் படும்
-    • Mahabharata, Striparva 11.12.4
-        ◦ राजा हि यः स्थिरप्रज्ञः स्वयं दोषानवेक्षते । देशकालविभागं च परं श्रेयः स विन्दति ॥
-        ◦ For a king steady in judgment, who personally examines faults and discerns place and time, attains the highest welfare. 
-        ◦ The context is important: this is part of Krishna’s rebuke of dhritarashtra for doing wrong to the Pandavas. So we get a contextual, not general/aphoristic correspondence.
-            ▪ राजा ஆளப் படும் (context of rulership, in the context of  Pandavas claim for rulership)
-            ▪ दोषानवेक्षते தீமையு நாடி (but the later श्रेयः connects back to the kathopanishad maxim of examining shreya/preya sort of implying the நன்மையுந்)
-            ▪ परं श्रेयः स विन्दति suggestive of நலம்புரிந்த / தன்மை
-            ▪ Implicit in the context is that Dhritarashtra picked what is good for his sons without evaluating the good and bad that leads to the welfare of all; the rebuke in verse 11.12.6 is ततोऽन्यवृत्तमात्मानं समवेक्षस्व (examine yourself as one who acted otherwise than was proper) and in verse 11, the rebuke is आत्मापराधादायस्तस्तत् (since this distress has arisen from your own wrongdoing) and स्वमनुस्मृत्य दुष्कृतम् (recalling your own misconduct …). So this is a strong conceptual parallel embedded in a scenario that is a negative example of the kural’s aphorism.
-    • Kaṭha Upaniṣad 1.2.2
-        ◦ श्रेयश्च प्रेयश्च मनुष्यमेतस्तौ सम्परीत्य विविनक्ति धीरः ।
-श्रेयो हि धीरोऽभिप्रेयसो वृणीते प्रेयो मन्दो योगक्षेमाद्वृणीते ॥
-        ◦ The good and the pleasant approach a person. The discerning person, having examined them, distinguishes between the two. The wise person chooses the good over the pleasant; the less discerning person chooses the pleasant for the sake of acquisition and preservation.
-        ◦ நாடி ↔ सम्परीत्य — having considered, examined thoroughly; நன்மை / தீமை ↔ potentially श्रेयस् / प्रेयस्;  the beneficial or better versus the merely pleasant; நலம்புரிந்த ↔ choosing the better rather than the immediately attractive
-    • Arthashastra 1.19.34:
-        ◦ प्रजासुखे सुखं राज्ञः प्रजानां च हिते हितम् । नात्मप्रियं हितं राज्ञः प्रजानां तु प्रियं हितम् ॥
-        ◦ In the happiness of the subjects lies the king’s happiness; in their welfare lies his welfare. What pleases the king personally is not necessarily his good; the people’s good is his good.
-   
--->
+## Research note: Kural 511
+
+I propose Mahabharata, Striparva 11.12.4 (BORI) as the primary parallel for this kural. The correspondence lies in दोषानवेक्षते (examines faults) with தீமையு நாடி, while परं श्रेयः स विन्दति (attains the highest good) closely echoes நலம்புரிந்த. The examination of நன்மை is implicit in the movement from scrutinizing faults to discerning and attaining श्रेयस्; राजा provides the explicit context of rulership for ஆளப் படும். The context makes this implicit dimension particularly significant: earlier, in 11.12.2, Krishna reminds Dhritarashtra of his learning in the Vedas, Shastras, and Rajadharma—श्रुतानि च पुराणानि राजधर्माश्च—so discerning the good is a standard he already knows but has failed to apply. The surrounding rebuke makes the connection especially pointed: Dhritarashtra has failed to examine his own misconduct and its consequences for the Pandavas’ rightful claim. Krishna’s injunction in 11.12.6, ततोऽन्यवृत्तमात्मानं समवेक्षस्व (examine yourself as one who has acted otherwise than properly), reinforces the demand for self-scrutiny.
+
+The broader ethical principle is expressed in Kathopanishad 1.2.2: श्रेयश्च प्रेयश्च मनुष्यमेतस्तौ सम्परीत्य विविनक्ति धीरः \| श्रेयो हि धीरोऽभिप्रेयसो वृणीते प्रेयो मन्दो योगक्षेमाद्वृणीते \|\|. The good and the pleasant approach a person. Having examined them, the discerning person distinguishes between the two. The wise choose the good over the pleasant, whereas the less discerning choose the pleasant for the sake of acquisition and preservation. सम्परीत्य, having examined thoroughly, illuminates நாடி; श्रेयस् and प्रेयस् offer a conceptual lens for நன்மை and தீமை, although the latter pair is not an exact lexical equivalent of the good and the pleasant. The choice of श्रेयस् over प्रेयस् also clarifies நலம்புரிந்த: the orientation is toward what is genuinely beneficial, rather than what is merely attractive or immediately advantageous.
+
+Within the specific domain of statecraft, Arthashastra 1.19.34 establishes the governing criterion: प्रजासुखे सुखं राज्ञः प्रजानां च हिते हितम् \| नात्मप्रियं हितं राज्ञः प्रजानां तु प्रियं हितम् \|\|. In the happiness of the subjects lies the king’s happiness; in their welfare lies his welfare. What pleases the king personally is not necessarily his good; the subjects’ good is his good. This supplies the political dimension of the distinction between immediate preference and genuine welfare: the ruler’s judgment must be directed toward the good of those he governs, not merely toward what pleases him. Read together, the three sources distinguish the act of examining alternatives, the ethical criterion by which they are judged, and the public welfare that should govern the ruler’s choice.
+
 
 ### Verse 2
 
@@ -105,50 +93,25 @@ The financial focus is corroborated by Yajnavalkya Smriti 1.322: तत्र �
 
 ### Verse 4
 
-<!--
-514 எனைவகையாற் றேறியக் கண்ணும் வினைவகையான் / வேறாகு மாந்தர் பலர்
-    • Matsya Purana 214.44-46 / 45-47 in some rescensions
-        ◦ उत्तमाधममध्यानि बुद्ध्वा कर्माणि पार्थिवः । 
-उत्तमाधममध्येषु पुरुषेषु नियोजयेत् ॥
-        ◦ नरकर्मविपर्यासाद्राजा नाशमवाप्नुयात् ।
-        ◦ नियोगं पौरुषं भक्तिं श्रुतं शौर्यं कुलं नयम् ।|
-        ◦ ज्ञात्वा वृत्तिर्विधातव्या पुरुषाणां महीक्षिता |
-        ◦ पुरुषान्तरविज्ञानतत्त्वसारनिबन्धनात् ॥  ४६–४७ ॥
-        ◦ Having understood the superior, inferior, and intermediate kinds of work, the king should assign them to superior, inferior, and intermediate persons. 
-        ◦ The king meets with ruin through the misassignment of people and tasks.
-        ◦ The king should determine people’s livelihood or remuneration after understanding their appointment or service, capability, loyalty, learning, valour, lineage, and policy or practical judgment; the decision depends on genuine knowledge of individuals. 
-        ◦ MatsyaPurana 214.44-26 (wikisource numbering and words, we will check later) can be the primary parallel; verse 44 establishes  வினைவகையான் / வேறாகு மாந்தர் பலர், verse 45 lists the many bases of selection नियोगं पौरुषं भक्ति श्रुतं शौर्यं कुलं नयम् for எனைவகையாற் றேறியக்; verse 46 पुरुषान्तर is a direct match for வேறாகு மாந்தர் பலர் and also reinforces the occupation selection based on those differences, distinctive of hiring criteria भक्ति श्रुतं शौर्यं कुलं.  MBh 12.120.31 can corroborate the idea with a different way of differentiation; the same hiring critieria will still apply to them (implicitly). 
-    • Ramayana, Ayodhya Kanda  2.94.20 
-        ◦ कच्चिन्मुख्या महत्स्वेव मध्यमेषु च मध्यमाः ।
-जघन्याश्च जघन्येषु भृत्याः कर्मसु योजिताः ॥
-        ◦ Are your foremost servants assigned to the most important tasks, the middling ones to middling tasks, and the least capable to lesser tasks?”
-        ◦ Corroborates Matsya Purana उत्तमाधममध्यानि बुद्ध्वा कर्माणि providing one sense of வினைவகையான் / வேறாகு மாந்தர் பலர் 
-    • Mahabharata (BORI) 12.120.21
-        ◦ क्षुद्रं क्रूरं तथा प्राज्ञं शूरं चार्थविशारदम् । स्वकर्मणि नियुञ्जीत ये चान्ये वचनाधिकाः
-        ◦ He should assign each person to his proper work—whether petty, harsh, wise, valorous, or skilled in wealth and finance—and also others who are competent in counsel and speech.
-        
-Arthashastra 2.9.3 states: अश्वसधर्माणो हि मनुष्या नियुक्ताः कर्मसु विकुर्वते \|\| — For human beings, like horses, behave differently when appointed to tasks. This corroborates வினைவகையான் வேறாகு மாந்தர்: people differ in their behaviour when engaged in particular work. The comparison implicitly evokes carefully selected horses in a royal stable, yet their differences emerge when put to work—suggestively echoing எனைவகையாற் றேறியக் கண்ணும், even after people have been assessed by various criteria.
+I propose Matsya Purana 214.44–46 as the primary parallel for this kural. The opening verse states उत्तमाधममध्यानि बुद्ध्वा कर्माणि पार्थिवः \| उत्तमाधममध्येषु पुरुषेषु नियोजयेत् \|\|. The verse says that, having understood the superior, inferior, and intermediate kinds of work, the king should assign them to superior, inferior, and intermediate persons. This directly corresponds to வினைவகையான் வேறாகு மாந்தர் பலர்: people differ in their suitability for different kinds of work. The subsequent verses specify the criteria for assessing individuals—नियोगं पौरुषं भक्तिं श्रुतं शौर्यं कुलं नयम् (appointment, capability, loyalty, learning, valour, lineage, and practical judgment). These details illuminate the several ways people have been assessed, எனைவகையாற் றேறியக் கண்ணும், which point to assessment along several dimensions. The expression पुरुषान्तरविज्ञानतत्त्वसारनिबन्धनात् further emphasizes that such decisions depend on genuine knowledge of individual differences. For example, a person selected for ethical conduct, loyalty, and bravery would still need battlefield experience and knowledge of warfare strategy to serve as a general; the qualifications appropriate to a soldier would differ, illustrating how suitability depends on grades of work.
 
--->
+The Ramayana, Ayodhya Kanda 2.94.20, gives a concise parallel to the matching of tasks and personnel: कच्चिन्मुख्या महत्स्वेव मध्यमेषु च मध्यमाः \| जघन्याश्च जघन्येषु भृत्याः कर्मसु योजिताः \|\|, that is, are your foremost servants assigned to the most important tasks, the middling ones to middling tasks, and the least capable to lesser tasks. This directly corroborates the Matsya Purana’s उत्तमाधममध्यानि … कर्माणि and illustrates one dimension of வினைவகையான் வேறாகு மாந்தர்: assignments should reflect the relative importance of the work and the capabilities of those undertaking it.
+
+The kural’s வினைவகையான் வேறாகு can also encompass differences in people’s propensities and skills across kinds of work. The Mahabharata Shanti Parva, 12.120.21 (BORI Critical Edition), recommends assigning people according to their particular qualities: क्षुद्रं क्रूरं तथा प्राज्ञं शूरं चार्थविशारदम् \| स्वकर्मणि नियुञ्जीत ये चान्ये वचनाधिकाः \|\|, that is, he should assign each person to the appropriate work, whether petty, harsh, wise, valorous, or skilled in wealth and finance, as well as those distinguished in counsel and speech. 
+
+The Arthashastra 2.9.3 adds a distinct nuance: अश्वसधर्माणो हि मनुष्या नियुक्ताः कर्मसु विकुर्वते \|\|, that is human beings, like horses, behave differently when appointed to tasks. This corroborates வினைவகையான் வேறாகு மாந்தர் from the perspective of actual performance: people exhibit differences when engaged in work. The comparison with horses suggests a further consideration: assessment alone may not settle the question, since people’s conduct can reveal additional differences once they are assigned to a task.
+
+Thus, the Matsya Purana and Ramayana emphasize matching the level of work to the capability of the person; the Mahabharata illustrates assignment according to particular skills and qualities; and the Arthashastra highlights differences that emerge in actual work performance. Together, these sources illuminate the kural’s distinction between assessing people for selection and discerning their suitability for particular tasks.
+
 
 ### Verse 5
 
-<!--
-515 அறிந்தாற்றிச் செய்கிற்பாற் கல்லால் வினைதான் / சிறந்தானென் றேவற்பாற் றன்று
-    • Hitopadesha 3.56
-        ◦ यो यत्र कुशलः कार्ये तं तत्र विनियोजयेत् | कर्मस्व् अदृष्ट-कर्मा यः शास्त्रज्ञोऽपि विमुह्यति || 
-    • Arthashastra 1.8.25
-        ◦ शास्त्रविददृष्टकर्मा कर्मसु विषादं गच्छेत् ॥ १.८.२५ ॥
-        ◦ A person who knows the texts but has no practical experience may falter when undertaking actual work.
-    • Shukraniti 2.115
-        ◦ तत्कार्ये कुशलं चान्यं तत्पदानुगतं खलु । नियोजयेद्वर्तने तु तदभावे तथा परम् ॥ ११५ ॥
-        ◦ Just supports the first part really, plus has a lot of contextual baggage in the surrounding verses – do not keep his in a position for long to avoid abuse of power, okay to appoint son but only if he is competent
-    • Correspondence
-        ◦ First part is straightforward. Second part is inferred. The Hitopadesha explains why general distinction is insufficient: even a shastrajna, a person learned in the treatises, may falter when faced with unfamiliar practical work. Valluvar compresses the same practical lesson into a pointed injunction against assigning a task merely because someone is சிறந்தான்—distinguished or excellent.
-        ◦ Difference in poetic expression: the Hitopadesha states the positive rule and illustrates its rationale; Valluvar states the rule through a restrictive injunction and leaves the rationale implicit. The two formulations converge on task-specific competence without requiring verbal identity.
-        ◦ Arthashastra 1.8.25 corroborates the Hitopadesha's rationale. It does not independently corroborate the Kural's second half, since it does not explicitly prohibit assigning a task on the basis of some other form of excellence.
-        ◦ Shukraniti 2.115: Its surrounding discussion concerns rotation of officials, replacement when an incumbent is unavailable, and conditional appointment of a son. Although तत्कार्ये कुशलम् … नियोजयेत् expresses task-specific appointment, the context does not directly support the Kural's contrast with someone who is merely distinguished.
--->
+I propose Hitopadesha 3.56 as the primary parallel for this kural. The opening line, यो यत्र कुशलः कार्ये तं तत्र विनियोजयेत्, corresponds to அறிந்தாற்றிச் செய்கிற்பாற் … வினைதான் … ஏவற்பால்: one should assign a task to a person competent in that particular work. Valluvar’s சிறந்தான் corresponds to शास्त्रज्ञः, the person distinguished by learning, while அல்லால் explicitly rejects such distinction alone as sufficient grounds for assignment. The Hitopadesha supplies the rationale in its second line, अदृष्ट-कर्मा यः शास्त्रज्ञोऽपि विमुह्यति: even a learned person may falter when inexperienced in practical work. Valluvar explicitly rejects distinction alone as sufficient grounds for assignment, while the Hitopadesha explains why: even a learned person may falter when undertaking work in which he lacks practical experience.
+
+The Arthashastra 1.8.25 corroborates the Hitopadesha’s rationale for the kural’s restriction: शास्त्रविददृष्टकर्मा कर्मसु विषादं गच्छेत् ॥—one who knows the treatises but lacks practical experience may falter in work.
+
+Shukraniti 2.115 offers a limited parallel: तत्कार्ये कुशलं चान्यं तत्पदानुगतं खलु \| नियोजयेद्वर्तने तु तदभावे तथा परम् \|\|. The verse says, appoint another who is skilled in that particular task and suited to the position; in that person’s absence, appoint another likewise. This supports அறிந்தாற்றிச் செய்கிற்பாற் கல்லால், which makes task-specific competence the condition for assignment. The following verse adds that even a son may be appointed only if he possesses the requisite qualities: तद्गुणो यदि तत्पुत्रः (if his son possesses those same qualities). The surrounding discussion places task-specific appointment within a broader administrative strategy of rotating officials to prevent the accumulation and abuse of power. Śukranīti thus extends the principle to qualified substitution, rotation, and merit-based succession.
+
 
 ### Verse 6
 
