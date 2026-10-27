@@ -10,9 +10,9 @@ tags: [kuralmatch]
 |--|--|--|
 | [1](#verse-1) | நன்மையுந் தீமையு நாடி நலம்புரிந்த <br> தன்மையா னாளப் படும் | राजा हि यः स्थिरप्रज्ञः स्वयं दोषानवेक्षते \| <br> देशकालविभागं च परं श्रेयः स विन्दति \|\| <br> Mahabharata, Striparva 11.12.4 (BORI) |
 | [2](#verse-2) | வாரி பெருக்கி வளம்படுத் துற்றவை <br> யாராய்வான் செய்க வினை | **एवं कुर्यात् समुदयं वृद्धिं चायस्य दर्शयेत्** \| <br> **ह्रासं व्ययस्य च प्राज्ञः साधयेच्च विपर्ययम्** \|\| <br> Arthashastra 2.6.28 |
-| [3](#verse-3) | அன்பறிவு தேற்ற மவாவின்மை யிந்நான்கு <br> நன்குடையான் கட்டே தெளிவு | तस्मादभिजनप्रज्ञाशौचशौर्यानुरागयुक्तानमात्यान् <br> कुर्वीत गुणप्राधान्यात् \|\| <br> Arthshastra 1.8.26 |
+| [3](#verse-3) | அன்பறிவு தேற்ற மவாவின்மை யிந்நான்கு <br> நன்குடையான் கட்டே தெளிவு | तस्मादभिजन**प्रज्ञाशौचशौर्यानुरागयुक्तानमात्यान्** <br> **कुर्वीत गुणप्राधान्यात्** \|\| <br> Arthshastra 1.8.26 |
 | [4](#verse-4) | எனைவகையாற் றேறியக் கண்ணும் வினைவகையான் <br> வேறாகு மாந்தர் பலர் | **उत्तमाधममध्यानि बुद्ध्वा कर्माणि** पार्थिवः \| <br> **उत्तमाधममध्येषु पुरुषेषु नियोजयेत्** \|\| <br> नरकर्मविपर्यासाद्राजा नाशमवाप्नुयात् \| <br> **नियोगं पौरुषं भक्तिं श्रुतं शौर्यं कुलं नयम्** \|\| <br> ज्ञात्वा वृत्तिर्विधातव्या पुरुषाणां महीक्षिता \| <br> **पुरुषान्तर**विज्ञानतत्त्वसारनिबन्धनात् \|\| <br> Matsya Purana 214.44-46 |
-| [5](#verse-5) | அறிந்தாற்றிச் செய்கிற்பாற் கல்லால் வினைதான் <br> சிறந்தானென் றேவற்பாற் றன்று | यो यत्र कुशलः कार्ये तं तत्र विनियोजयेत् \|<br> कर्मस्व् अदृष्ट-कर्मा यः शास्त्रज्ञो ऽपि विमुह्यति \|\| <br> Hitopadesha 3.56 |
+| [5](#verse-5) | அறிந்தாற்றிச் செய்கிற்பாற் கல்லால் வினைதான் <br> சிறந்தானென் றேவற்பாற் றன்று | **यो यत्र कुशलः कार्ये तं तत्र विनियोजयेत्** \|<br> **कर्मस्व् अदृष्ट-कर्मा यः शास्त्रज्ञो ऽपि विमुह्यति** \|\| <br> Hitopadesha 3.56 |
 | [6](#verse-6) | செய்வானை நாடி வினைநாடிக் காலத்தோ <br> டெய்த வுணர்ந்து செயல் | **सामर्थ्यश्च विभज्यामात्यविभवं देशकालौ च कर्म च** \| <br> अमात्याः सर्व एवैताः **कार्याः** स्युर्न तु मन्त्रिणः \|\| <br> Arthashastra 1.8.29 |
 | [7](#verse-7) | இதனை யிதனா லிவன்முடிக்கு மென்றாய்ந் <br> ததனை யவன்கண் விடல்  | **कर्मणामारम्भोपायः पुरुषद्रव्य**सम्पद्देशकालविभागो <br> विनिपातप्रतीकारः **कार्यसिद्धिरिति** पञ्चाङ्गो **मन्त्रः** \|\| <br> Arthashastra 1.15.42 |
 | [8](#verse-8) | வினைக்குரிமை நாடிய பின்றை யவனை <br> யதற்குரிய னாகச் செயல் | **यस्मिन् कर्मणि यस्य स्याद्विशेषेण च कौशलम्** \| <br> **तस्मिन् कर्मणि तं राज्ञा परीक्ष्य विनिवेशयेत्** \|\| <br> Matsya Purana 215.83 |
@@ -22,9 +22,7 @@ tags: [kuralmatch]
 
 ## Comments and Research Notes
 
-Hari OM, my dear friend. The contextual nature of the Mahābhārata parallel is a strength here: it lets us distinguish a close conceptual correspondence from an aphoristic identity, while the Kaṭha Upaniṣad supplies the broader ethical principle and the Arthaśāstra locates that principle within statecraft.
-
-## Research note: Kural 511
+## Verse 1
 
 I propose Mahabharata, Striparva 11.12.4 (BORI) as the primary parallel for this kural. The correspondence lies in दोषानवेक्षते (examines faults) with தீமையு நாடி, while परं श्रेयः स विन्दति (attains the highest good) closely echoes நலம்புரிந்த. The examination of நன்மை is implicit in the movement from scrutinizing faults to discerning and attaining श्रेयस्; राजा provides the explicit context of rulership for ஆளப் படும். The context makes this implicit dimension particularly significant: earlier, in 11.12.2, Krishna reminds Dhritarashtra of his learning in the Vedas, Shastras, and Rajadharma—श्रुतानि च पुराणानि राजधर्माश्च—so discerning the good is a standard he already knows but has failed to apply. The surrounding rebuke makes the connection especially pointed: Dhritarashtra has failed to examine his own misconduct and its consequences for the Pandavas’ rightful claim. Krishna’s injunction in 11.12.6, ततोऽन्यवृत्तमात्मानं समवेक्षस्व (examine yourself as one who has acted otherwise than properly), reinforces the demand for self-scrutiny.
 
@@ -40,6 +38,7 @@ I propose Kautilya's Arthashastra 2.6.28 as the primary parallel for this kural.
 Arthashastra 2.9.36 offers a further corroboration: न भक्षयन्ति ये त्वर्थान्न्यायतो वर्धयन्ति च नित्याधिकाराः कार्यास्ते राज्ञः प्रियहिते रताः \|\|. The correspondence வாரி பெருக்கி = अर्थान् … वर्धयन्ति links revenue enhancement with the officials’ duty to increase the king’s resources, while செய்க வினை = नित्याधिकाराः कार्याः adds the dimension of retaining such officials in permanent service. The phrase न भक्षयन्ति ये त्वर्थान् further brings out the avoidance of waste, fraud, and abuse of public resources, which is one, though not the only, aspect of வளம்படுத்து.
 
 The financial focus is corroborated by Yajnavalkya Smriti 1.322: तत्र तत्र च निष्णातानध्यक्षान् कुशलान् शुचीन् \| प्रकुर्यादायकर्मान्तव्ययकर्मसु चोद्यतान् \|\| — superintendents should be appointed who are expert in their respective fields, competent, upright, and diligent in matters of revenue and expenditure. The passage thus places the kural’s concern with financial growth and prudent expenditure within the broader principle of assigning responsibilities to those with the appropriate expertise. The Mahabharata, Shanti Parva (BORI) 12.120.21, similarly generalizes this principle: क्षुद्रं क्रूरं तथा प्राज्ञं शूरं चार्थविशारदम् \| स्वकर्मणि नियुञ्जीत ये चान्ये वचनाधिकाः \|\| — each person should be assigned to their proper work, including those skilled in wealth and finance (अर्थविशारदम्).
+
 
 ### Verse 3
 
@@ -63,12 +62,13 @@ Yajnavalkya Smriti 1.322 further attests to शुचीन् (upright, pure) a
 
 Thus, both Valluvar and the Sanskrit statecraft tradition treat purity of character—including freedom from acquisitive desire and incorruptibility—as an important qualification for appointment to office.
 
-### An alternative reading of தேற்றம்
+#### An alternative reading of தேற்றம்
 
 The term தேற்றம் may also be considered in the sense of discernment or assurance reached through examination. The Sanskrit statecraft tradition gives considerable attention to the testing of prospective ministers through उपधा. Kamandakiya Nitisara IV.26 defines this procedure: उपेत्य धीयते यस्मादुपधेति ततः स्मृता \| उपाय उपधा ज्ञेया तयामात्यान् परीक्षयेत् \|\|. The verse explains the term upadha and prescribes its use in examining ministers. Note that the Mahabharata, Shanti Parva 12.84.20 (BORI), recommends appointing five (ministers, according to Nilakantha's gloss) who have passed the upadhas (पञ्चोपधाव्यतीतांश्च), but does not specify the number or nature of the upadhas themselves. The Arthashastra, Book 1, Chapter 10, describes four upadhas—धर्मोपधा (dharma), अर्थोपधा (wealth), कामोपधा (desire), and भयोपधा (fear)—through which the purity or impurity of prospective ministers is ascertained: उपधाभिः शौचाशौचज्ञानममात्यानाम् (through the upadhas, one learns the purity or impurity of ministers). This explicit connection between उपधा and शौच strengthens the proposed link to Valluvar’s அவாவின்மை, understood as freedom from desire within the broader ideal of purity of character. 
 
 I therefore favor reading தேற்றம் primarily as mental fortitude, steadiness, or freedom from inner perturbation, corresponding to Kautilya's शौर्य and reinforced by the Mahabharata's धैर्य, स्थितिः, and धृतिः. The Upadha material remains a useful interpretive possibility, but the direct correspondence with the established list of ministerial qualities is stronger. More broadly, the Sanskrit sources attest a shared repertoire of qualifications, often adding lineage and other attributes beyond Valluvar’s four. 
 The lists thus converge in principle while differing in scope and emphasis.
+
 
 ### Verse 4
 
@@ -100,25 +100,15 @@ The देशकाल motif is corroborated in the Mahabharata, Shanti Parva 12
 
 The broader logic of successful execution is made explicit in Arthashastra 1.15.42: कर्मणामारम्भोपायः पुरुषद्रव्यसम्पद्देशकालविभागो विनिपातप्रतीकारः कार्यसिद्धिरिति पञ्चाङ्गो मन्त्रः \|. Kautilya’s framework connects the means of initiating a task, the personnel and material available, the allocation according to place and time, and remedies for contingencies with successful completion; correspondingly, पुरुष resonates with செய்வானை, देशकालविभाग with காலத்தோ டெய்த, and कर्मणामारम्भोपायः together with कार्यसिद्धिः with Valluvar’s வினைநாடி … செயல்.
 
+
 ### Verse 7
 
-<!--
-517 இதனை யிதனா லிவன்முடிக்கு மென்றாய்ந் / ததனை யவன்கண் விடல்
-    • Arthashastra 1.15.42
-        ◦ कर्मणामारम्भोपायः पुरुषद्रव्यसम्पद्देशकालविभागो विनिपातप्रतीकारः कार्यसिद्धिरिति पञ्चाङ्गो मन्त्रः
-        ◦ karmana/karya = ithanai, upaya+dravya = ithanal, purusha = ivan, siddhi = mudikkum; mantrah = endrainthu (that is after all the role of counsel)
-        ◦ avan kan vidal: appointment/delegation is left implicit in the arthashastra's context of managing a task, and is addressed elsewhere 
-        ◦ note this is not just ஏவல் based on வினைக்குரிமை or அறிந்தாற்றிச் செய்கிற்பாற்
-    • Arthashastra 2.10.47:
-        ◦ उपायाः सामोपप्रदानभेददण्डाः ॥
-        ◦ The political means are conciliation, inducement, division, and coercion.” 
-        ◦ Fills the gap for the nitishastra usage of upaya (ithanal) 
-    • Vishnudharmottara Purana 2.24.10
-        ◦ कृतज्ञाः कर्मणां शूरास्तथा क्लेशसहा ऋजुः ॥
-        ◦ व्यूहतत्त्वविधानज्ञः फल्गुसारविशेषवित् ॥ १० ॥
-        ◦ Experienced in their duties, courageous, able to endure hardship, and upright; knowledgeable in the principles and application of battle formations, and skilled in distinguishing what is weak from what is strong 
-        ◦ कृतज्ञाः कर्मणाम् இதனை (knowing the work) can also mean grateful, check; शूराः क्लेशसहाः ऋजुः	Courage, endurance under difficulty, and uprightness relevant to whether இவன் முடிக்கும்; व्यूहतत्त्वविधानज्ञः Knows the principles and practical deployment of formations — relevant to இதனால், the means or method, specifically in warfare; फल्गुसारविशेषवित् Can discriminate between weakness and strength
--->
+I propose Arthashastra 1.15.42 as the primary parallel for this kural. Valluvar’s இதனை is the task to be accomplished, corresponding to कर्मणाम्; இதனால் encompasses the methods, personnel, material, and wealth required for its execution, reflected in आरम्भोपायः and पुरुषद्रव्यसम्पत्; and இவன் முடிக்கும் corresponds to the assessment of the individual’s capacity to accomplish the task, culminating in कार्यसिद्धिः. The instruction to entrust the task to him, அதனை அவன்கண் விடல், follows from this assessment, while என்றாய்ந்து corresponds to the deliberative process expressed in Kautilya’s concluding definition: इति पञ्चाङ्गो मन्त्रः.  There is substantial verbal as well as conceptual correspondence, though the two passages differ in scope: Kautilya enumerates the five aspects of counsel—methods, personnel and resources, allocation by place and time, remedies for setbacks, and successful completion—while Valluvar distils the deliberation into the task, the means and resources required, the individual’s capacity, and the decision to delegate.
+
+The correspondence of இதனால் with Kautilya’s आरम्भोपायः and पुरुषद्रव्यसम्पत् also invites a more specific consideration of upaya (means) in its political sense. The Arthashastra defines these measures at 2.10.47: उपायाः सामोपप्रदानभेददण्डाः \|\|. The upaya are conciliation, inducement, division, and coercion. These four upayas illustrate the methods available to a ruler, while पुरुषद्रव्यसम्पत् extends the assessment to personnel, material, and wealth required for execution. Together, the passages illuminate the breadth of Valluvar’s compact இதனால் without restricting it to the four political measures.
+
+A further corroboration is available in the Vishnudharmottara Purana 2.24.10, which describes the qualifications of a military commander: कृतज्ञाः कर्मणां शूरास्तथा क्लेशसहा ऋजुः \| व्यूहतत्त्वविधानज्ञः फल्गुसारविशेषवित् \|\|. The qualities शूराः, क्लेशसहाः, and ऋजुः—courage, endurance under difficulty, and uprightness—bear on whether இவன் முடிக்கும்; व्यूहतत्त्वविधानज्ञः, knowledge of the principles and deployment of formations, concerns the means by which the task is performed; and फल्गुसारविशेषवित्, the ability to distinguish weakness from strength, adds a dimension of discriminative judgment. The same chapter’s preceding verses 3–7 address the selection and assignment of royal aides more directly, including यथायोग्येषु भार्गव (according to suitability).
+
 
 ### Verse 8
 
@@ -133,26 +123,14 @@ Kautilya’s Arthashastra 1.8.28 adds a related but distinct principle: का�
 
 ### Verse 9
 
-<!--
-519 வினைக்கண் வினையுடையான் கேண்மைவே றாக / நினைப்பானை நீங்குந் திரு
-    • Panchatantra 1.382 
-        ◦ भक्तं शक्तं कुलीनं च न भृत्यमवमानयेत् । पुत्रव लालयेन्नित्यं य इच्छेच्छ्रियमात्मनः ॥
-        ◦ One should not insult a devoted, capable, high-born servant; one should cherish him like a son, if one desires one’s own prosperity. 
-        ◦ The Sanskrit states the positive rule—cherish the devoted, capable servant if you desire prosperity—while the Kural states the negative consequence of violating that rule. This reading accords with the interpretations of Parimelalhagar.
-            ▪ Under my reading Kenmai veraka ninaippathu can be understood as Mitra bheda, the topic under which the panchatantra verse falls.
-            ▪ வினைக்கண் வினையுடையான் ↔ śaktaṃ: the person capable in his work; கேண்மைவே றாக நினைப்பானை ↔ bhṛtyam avamānayet: misjudging or slighting the relationship with the devoted servant; நீங்குந் திரு ↔ icchec chriyam ātmanaḥ: the loss of prosperity versus the desire to preserve it.
-            ▪ The Kural foregrounds the worker’s diligence — வினைக்கண் வினையுடையான் — and warns against misconstruing the relationship that grows out of his devoted work
-            ▪ The Panchatantra foregrounds the master’s obligation — भक्तं शक्तं … न भृत्यमवमानयेत् — not to slight a devoted and capable servant, but to cherish him पुत्रवत्, “like a son.”
-            ▪ Both make prosperity the consequence. In the Kural, திரு departs when the relationship is misjudged; in the Panchatantra, the desire to preserve श्री motivates good relations.
-    • Parimelazhakar
-        ◦ எப்பொழுதும் தன் வினையின்கண்ணே முயறலை உடையான் அவ்வுரிமையால் தனக்குக் கேளாய் ஒழுகுகின்ற தன்மையை; அது பொறாதார் சொற்கேட்டு அரசன் மாறுபடக் கருதுமாயின், திருமகள் அவனை விட்டு நீங்கும். கேளாய் ஒழுகுகின்ற தன்மையாவது: தான் பிறனாய் நில்லாது கேளிர்செய்தொழுகும் அவனை அவமதிப்பாகக் கொண்டு செறக்கருதுமாயின், பின் ஒருவரும்உட்பட்டு முயல்வார் இல்லையாம். ஆகவே, தன் செல்வம்கெடும் என்பது கருத்து. இந்நான்கு பாட்டானும் ஆடற்குரியானைஆளும் திறம் கூறப்பட்டது.
-    • Mahabharata Shanti Parva 12.94.16-17
-        ◦ मूढमैन्द्रियकं लुब्धमनार्यचरितं शठम् । अनतीतोपधं हिंस्रं दुर्बुद्धिमबहुश्रुतम् ।। त्यक्तोपात्तं मद्यरतं द्यूतस्त्रीमृगयापरम् । कार्ये महति यो युञ्ज्याद्धीयते स नृपः श्रियः ।।
-        ◦ One who is foolish, driven by the senses, greedy, ignoble in conduct, deceitful, untested in integrity, inclined to harm, of poor judgment, and scant in learning—who squanders what is entrusted and what is gained, devoted to intoxicants and absorbed in gambling, sensual indulgence, and hunting—if a king assigns such a one to a great undertaking, that king’s prosperity declines.
-        ◦ Mahabharata’s complementary warning about improper personnel management: prosperity is endangered when a king entrusts an important task to a person disqualified by numerous defects; it does not address the misinterpretation of a devoted official’s relationship with him that is central to Kural 9
+I propose Pañcatantra 1.382 as the primary parallel for this kural. Valluvar’s வினைக்கண் வினையுடையான், the person devoted to his work, corresponds to भक्तं शक्तम्, the devoted and capable servant, while கேண்மைவேறாக நினைப்பானை, misjudging the relationship with such a worker, finds its counterpart in न भृत्यमवमानयेत्, the injunction not to slight a servant: भक्तं शक्तं कुलीनं च न भृत्यमवमानयेत् । पुत्रव लालयेन्नित्यं य इच्छेच्छ्रियमात्मनः \|\|. The verse says that one should not insult a devoted, capable, high-born servant; one should cherish him like a son, if one desires one’s own prosperity. The lexical connection between கேண்மைவேறாக and mitrabheda—the separation or rupture of a relationship—is particularly suggestive, as the verse appears in the Mitrabheda chapter, the first of five principles of statecraft covered in the Panchatantra.  The kural foregrounds the worker’s diligence and warns against misconstruing the relationship arising from his devoted service; the Panchatantra foregrounds the master’s obligation to cherish such a servant पुत्रवत्, like a son. Both connect the treatment of the worker with prosperity: in the kural, திரு departs when the relationship is misjudged; in the Panchatantra, the desire to preserve श्री motivates the injunction against mistreatment. The Sanskrit states the positive rule, while Valluvar states the adverse consequence of violating it. This reading accords with Parimelazhakar’s interpretation.
 
-        Arthaśāstra 9.4.1–3 provides a broader framework for evaluating the costs and benefits of state action: युग्यपुरुषापचयः क्षयः ॥ (9.4.1), the loss of capable personnel, is a form of depletion; हिरण्यधान्यापचयो व्ययः ॥ (9.4.2), the depletion of gold and grain, is an expenditure; and ताभ्यां बहुगुणविशिष्टे लाभे यायात् ॥ (9.4.3), one should proceed when the anticipated gain substantially outweighs these two costs. Valluvar’s calculus addresses a specific case within this broader problem space: treating a dutiful employee as an outsider leads to the departure of prosperity (திரு). Where Kautilya frames the ruler’s decision in terms of weighing gains against the potential loss of personnel and material resources, Valluvar draws attention to how a particular relational choice itself carries an economic consequence.
--->
+Parimelazhakar’s commentary makes the relational dimension explicit and adds the possibility of intrigue by jealous third parties: எப்பொழுதும் தன் வினையின்கண்ணே முயறலை உடையான் அவ்வுரிமையால் தனக்குக் கேளாய் ஒழுகுகின்ற தன்மையை; அது பொறாதார் சொற்கேட்டு அரசன் மாறுபடக் கருதுமாயின், திருமகள் அவனை விட்டு நீங்கும். கேளாய் ஒழுகுகின்ற தன்மையாவது: தான் பிறனாய் நில்லாது கேளிர்செய்தொழுகும் அவனை அவமதிப்பாகக் கொண்டு செறக்கருதுமாயின், பின் ஒருவரும்உட்பட்டு முயல்வார் இல்லையாம். ஆகவே, தன் செல்வம்கெடும் என்பது கருத்து. இந்நான்கு பாட்டானும் ஆடற்குரியானைஆளும் திறம் கூறப்பட்டது. The commentary explains that the worker, through his commitment to his duties, behaves as one belonging to the ruler’s own circle rather than as an outsider. If the ruler, listening to those who resent this closeness, comes to regard the worker differently and seeks to punish him, prosperity will depart: others will no longer be willing to participate wholeheartedly in the work. The jealous informants and the resulting change of mind on the ruler’s part are additional elements in Parimelalhagar’s explanation; they are not explicit in the couplet itself.
+
+A complementary warning appears in the Mahabharata, Shanti Parva 12.94.16–17: मूढमैन्द्रियकं लुब्धमनार्यचरितं शठम् \| अनतीतोपधं हिंस्रं दुर्बुद्धिमबहुश्रुतम् \|\| त्यक्तोपात्तं मद्यरतं द्यूतस्त्रीमृगयापरम् \| कार्ये महति यो युञ्ज्याद्धीयते स नृपः श्रियः \|\|. A king who assigns an important undertaking to a foolish, greedy, deceitful, harmful, poorly judged, and otherwise disqualified person loses prosperity. The passage complements the present kural by showing how the ruler’s handling of personnel affects the state’s prosperity, but its focus is different: the Mahābhārata warns against entrusting a major task to an unsuitable person, whereas Valluvar warns against misconstruing the relationship with a capable and dutiful worker.
+
+Arthashastra 9.4.1–3 provides a broader framework for evaluating the costs and benefits of state action: युग्यपुरुषापचयः क्षयः \|\| (9.4.1), the loss of capable personnel, is a form of depletion; हिरण्यधान्यापचयो व्ययः ॥ (9.4.2), the depletion of gold and grain, is an expenditure; and ताभ्यां बहुगुणविशिष्टे लाभे यायात् \|\| (9.4.3), one should proceed when the anticipated gain substantially outweighs these two costs. Valluvar’s calculus addresses a specific case within this broader problem space: treating a dutiful employee as an outsider leads to the departure of prosperity (திரு). Where Kautilya frames the ruler’s decision in terms of weighing gains against the potential loss of personnel and material resources, Valluvar draws attention to how a particular personnel-relations choice itself carries an economic consequence.
+
 
 ### Verse 10
 
