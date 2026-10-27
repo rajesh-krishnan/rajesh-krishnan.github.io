@@ -43,57 +43,36 @@ The financial focus is corroborated by Yajnavalkya Smriti 1.322: तत्र �
 
 ### Verse 3
 
-<!--
-513 அன்பறிவு தேற்ற மவாவின்மை யிந்நான்கு / நன்குடையான் கட்டே தெளிவு
-    • Arthshastra 1.8.26 
-        ◦ तस्मादभिजनप्रज्ञाशौचशौर्यानुरागयुक्तानमात्यान् कुर्वीत गुणप्राधान्यात् ॥
-        ◦ Therefore, ministers should be appointed for the pre-eminence of their qualities, including good lineage, intelligence, purity, courage, and loyalty.
-        ◦ அன்பு अनुराग (dual sense of love and loyalty); அறிவு प्रज्ञा; அவாவின்மை शौच; தேற்றம் शौर्य;  
+I propose Arthashastra 1.8.26 as the primary parallel for this kural. Kautilya recommends appointing ministers on the basis of qualities including अभिजन, प्रज्ञा, शौच, शौर्य, and अनुराग (good lineage, intelligence, purity, courage, and loyalty), with appointments based on the pre-eminence of their qualities: गुणप्राधान्यात्. Parimelazhakar glosses the four qualities specified by Valluvar as “அரசன் மாட்டு அன்பும், அவனுக்கு ஆவன அறியும் அறிவும், அவை செய்தற்கண் கலங்காமையும், அவற்றால் பொருள் கையுற்ற வழி அதன்மேல் அவா இன்மையும் ஆகிய”—love for the king, knowledge of what benefits him, freedom from perturbation in carrying out his purposes, and absence of desire for the wealth acquired through those actions. These provide the interpretive basis for mapping Valluvar’s four qualities to Kautilya’s list:
 
-    • Parimelazhakar commentary to justify thettram as kalankamai
-        ◦ அரசன் மாட்டு அன்பும், அவனுக்கு ஆவன அறியும் அறிவும், அவை செய்தற்கண் கலங்காமையும், அவற்றால் பொருள் கையுற்ற வழி அதன்மேல் அவா இன்மையும் ஆகிய; 
+  - அன்பு — अनुराग -- as अनुराग denotes both affection and loyalty, it closely matches Parimelazhakar’s explanation of அன்பு as love for the king.
+  - அறிவு — प्रज्ञा -- This is a direct correspondence: both denote intelligence or sound understanding.
+  - அவாவின்மை — शौच -- शौच denotes purity or cleanliness of thought, word, and deed. Valluvar’s own treatment supports this mapping. Kural 34 states: மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன் ஆகுல நீர பிற (Freedom from blemish in the mind is the entirety of virtue; all else is mere appearance) and Kural 35 further specifies: அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும் இழுக்கா இயன்றது அறம் (Virtue consists in avoiding these four: envy, desire, anger, and hurtful speech). Together, these verses show how freedom from mental blemish (மாசின்மை) entails avoiding corrupting dispositions, including desire (அவா). This supports mapping அவாவின்மை to शौच, which encompasses freedom from desire within a broader ideal of purity of thought, speech, and action. Kautilya’s criterion is thus broader than Valluvar’s specific quality.
+  - தேற்றம் — शौर्य -- We read தேற்றம் primarily as courage and determination in the face of obstacles, consistent with Parimelazhakar’s gloss கலங்காமை, remaining unperturbed while carrying out the assigned purposes. This maps naturally to शौर्य, courage or valour. Since தேற்றம் has a wider semantic range, including other possible senses relevant to ministerial selection, we return to it below.
 
-    • Kural 34-35 (to support repeated saucha and map to avainmai)
-        ◦ மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன் / ஆகுல நீர பிற
-        ◦ Being free from blemish in the mind is the entirety of virtue; all else is mere appearance.
-        ◦ அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும் / இழுக்கா இயன்றது அறம் 
-        ◦ Virtue consists in avoiding envy, desire, anger, and hurtful speech.
-            ▪ Attested again in the Snaskrit MBh 12.84.12 समर्थान्पूजयेद्यश्च नास्पर्ध्यैः स्पर्धते च यः । न च कामाद्भयात्क्रोधाल्लोभाद्वा धर्ममुत्सृजेत्
-    
-    • Kamandakiya Nitisara  IV.24 (to support saucha and shaurya)
-        ◦ कुलीनाः शुचयः शूराः श्रुतवन्तोऽनुरागिणः । दण्डनीतेः प्रयोक्तारः सचिवाः स्युर्महीपतेः ॥
-        ◦ The king’s ministers should be well-born, upright, brave, learned, loyal, and capable of applying the science of statecraft.
-    • Mahabharata Shanti Parva 12.84.19 (to support saucha and shaurya)
-        ◦ येषां वैनयिकी बुद्धिः प्रकृता चैव शोभना । तेजो धैर्यं क्षमा शौचमनुराग स्थितिर्धृतिः ॥
-        ◦ Those whose intellect is cultivated and disposition excellent, and who possess energy, courage, forbearance, purity, loyalty, steadiness, and firmness.
-    • Yajnavalkya Smriti  1.322 (to support saucha)
-        ◦ तत्र तत्र च निष्णातानध्यक्षान् कुशलान् शुचीन् । प्रकुर्यादायकर्मान्तव्ययकर्मसु चोद्यतान् ॥
-        ◦ He should appoint experts in their respective fields as superintendents skilled, upright, and diligent in matters of income and expenditure
-    
-    • Alternative reading of thettram in the sense of selection-after-examination 
+Thus, இந்நான்கு நன்குடையான் கட்டே தெளிவு identifies possession of all four qualities as the basis for confidence in a minister’s suitability, while Kautilya likewise prescribes appointing ministers endowed with the listed qualities, giving precedence to their pre-eminence: युक्तानमात्यान् कुर्वीत गुणप्राधान्यात्. Kautilya’s list additionally includes अभिजन, good lineage, which Valluvar does not specify among these four qualities. The two lists therefore converge on key personal qualifications for office while differing in scope and emphasis.
 
-    The word thettram has a wide semantic range, beyond the traditional commentary as courage and determination in the face of obstacles, in can be read in this context as selection after examination, called Upadha in Nitisahstra literature.
-      ◦  Kamandakiya Nitisara defines this:
-            ▪ IV.26  उपेत्य धीयते यस्मादुपधेति ततः स्मृता । उपाय उपधा ज्ञेया तयामात्यान् परीक्षयेत् ॥ The method by which a person’s disposition is tested is called upadhā; the king should use it to test ministers.
-            
-    Although Upadha is a recurring motif, texts differ on the numnber of Upadhas and what they are. We present two common schemes.
-   
-        ◦ Mahabharata Shanti Parva 12.84.20 (fivefold tests)
-            ▪ परीक्षितगुणान्नित्यं प्रौढभावान्धुरंधरान् । पञ्चोपधाव्यतीतांश्च कुर्याद्राजार्थकारिणः.
-            ▪ Nilakantha gloss connecting upadha to saucha: manas, vacha, karamana, vaca+karamana, manas+vaca+karmana
-    
-        ◦ Arthashasta chapter 1.10 upadhas
-            ▪ Ascertaining by Temptations Purity or Impurity in the Character of Ministers (1.10.1–14). It lays out four upadhas, not five: Dharma, Artha, Kama, and Bhaya. 
-            
-     It is remarkable is that the Mahabharata's five Upadhas under Nilakantha gloss, and Arthashastra list of Upadhas both connect the tests to saucha, which in my reading of Valluvar is mapped to avainmai.  And given that our reading of Valluvar maps saucha as avainmai, so I am in favor of the primary reading of thettram as determination and mental fortitude (manamkalankamai), which I map to shaurya (common across many Nitishastra texts) or to subsume धैर्यं क्षमा स्थिति र्धृतिः in the extended Mahabharata's extended list. 
-     
-     More braodly, while the Sanskrit texts and kural differ considerably in how they list and present the selection criteria, they are ultimately convergent; Valluvar's list of four is widely attested, however, additional ones are often mentioned in the Sanskrit texts. A notable difference is that the Sanskrit literature consistently places an emphasis on lineage, which is not surprising in staecraft in the monarchic contexts; in contrast, Valluvar does not mention lineage as a criteria.
-             
--->
+#### Additional Corroborations
+
+Kamandakiya Nitisara IV.24 corroborates Valluvar’s list of qualities: कुलीनाः शुचयः शूराः श्रुतवन्तोऽनुरागिणः \| दण्डनीतेः प्रयोक्तारः सचिवाः स्युर्महीपतेः \|\|. The verse states that the king’s ministers should be well-born, pure, brave, learned, loyal, and capable of applying statecraft. श्रुतवन्तः, learned or well-versed, complements அறிவு; शुचयः corresponds to அவாவின்மை through the broader ideal of purity; शूराः supports தேற்றம் as courage; and अनुरागिणः corresponds to அன்பு as loyalty and attachment. The inclusion of lineage and expertise in applying statecraft extends beyond Valluvar’s four qualities, but accords with the broader Sanskrit tradition.
+
+Mahabharata, Shanti Parva 12.84.19 (BORI), offers a longer list: येषां वैनयिकी बुद्धिः प्रकृता चैव शोभना \| तेजो धैर्यं क्षमा शौचमनुराग स्थितिर्धृतिः \|\|. It includes cultivated intelligence, energy, fortitude, forbearance, purity, loyalty, steadiness, and firmness. The Mahabharata list contains close counterparts to all four of Valluvar’s qualities: अनुराग corresponds to அன்பு, as affection and loyalty; वैनयिकी बुद्धिः, cultivated intelligence shaped by learning and humility, complements அறிவு; धैर्यं, स्थितिः, and धृतिः reinforce various aspects of தேற்றம் as mental fortitude and steadfastness; and शौच corresponds to அவாவின்மை within the broader ideal of purity. 
+The following verse, 12.84.20, further corroborates this emphasis on discernment through examination: परीक्षितगुणान्नित्यं प्रौढभावान्धुरंधरान् \| पञ्चोपधाव्यतीतांश्च कुर्याद्राजार्थकारिणः \|\|. The phrase परीक्षितगुणान् (‘those whose qualities have been examined’) reinforces the sense of தெளிவு as a considered judgment of suitability, while कुर्याद्राजार्थकारिणः (appoint ministers who act for the king’s purposes) connects that judgment to the selection of ministers.
+
+Yajnavalkya Smriti 1.322 further attests to शुचीन् (upright, pure) as a qualification for officials entrusted with financial administration. The full verse reads: तत्र तत्र च निष्णातानध्यक्षान् कुशलान् शुचीन् \| प्रकुर्यादायकर्मान्तव्ययकर्मसु चोद्यतान् \|\|. It recommends appointing experts in their respective fields who are skilled, upright, and diligent in revenue and expenditure administration. 
+
+Thus, both Valluvar and the Sanskrit statecraft tradition treat purity of character—including freedom from acquisitive desire and incorruptibility—as an important qualification for appointment to office.
+
+### An alternative reading of தேற்றம்
+
+The term தேற்றம் may also be considered in the sense of discernment or assurance reached through examination. The Sanskrit statecraft tradition gives considerable attention to the testing of prospective ministers through उपधा. Kamandakiya Nitisara IV.26 defines this procedure: उपेत्य धीयते यस्मादुपधेति ततः स्मृता \| उपाय उपधा ज्ञेया तयामात्यान् परीक्षयेत् \|\|. The verse explains the term upadha and prescribes its use in examining ministers. Note that the Mahabharata, Shanti Parva 12.84.20 (BORI), recommends appointing five (ministers, according to Nilakantha's gloss) who have passed the upadhas (पञ्चोपधाव्यतीतांश्च), but does not specify the number or nature of the upadhas themselves. The Arthashastra, Book 1, Chapter 10, describes four upadhas—धर्मोपधा (dharma), अर्थोपधा (wealth), कामोपधा (desire), and भयोपधा (fear)—through which the purity or impurity of prospective ministers is ascertained: उपधाभिः शौचाशौचज्ञानममात्यानाम् (through the upadhas, one learns the purity or impurity of ministers). This explicit connection between उपधा and शौच strengthens the proposed link to Valluvar’s அவாவின்மை, understood as freedom from desire within the broader ideal of purity of character. 
+
+I therefore favor reading தேற்றம் primarily as mental fortitude, steadiness, or freedom from inner perturbation, corresponding to Kautilya's शौर्य and reinforced by the Mahabharata's धैर्य, स्थितिः, and धृतिः. The Upadha material remains a useful interpretive possibility, but the direct correspondence with the established list of ministerial qualities is stronger. More broadly, the Sanskrit sources attest a shared repertoire of qualifications, often adding lineage and other attributes beyond Valluvar’s four. 
+The lists thus converge in principle while differing in scope and emphasis.
 
 ### Verse 4
 
-I propose Matsya Purana 214.44–46 as the primary parallel for this kural. The opening verse states उत्तमाधममध्यानि बुद्ध्वा कर्माणि पार्थिवः \| उत्तमाधममध्येषु पुरुषेषु नियोजयेत् \|\|. The verse says that, having understood the superior, inferior, and intermediate kinds of work, the king should assign them to superior, inferior, and intermediate persons. This directly corresponds to வினைவகையான் வேறாகு மாந்தர் பலர்: people differ in their suitability for different kinds of work. The subsequent verses specify the criteria for assessing individuals—नियोगं पौरुषं भक्तिं श्रुतं शौर्यं कुलं नयम् (appointment, capability, loyalty, learning, valour, lineage, and practical judgment). These details illuminate the several ways people have been assessed, எனைவகையாற் றேறியக் கண்ணும், which point to assessment along several dimensions. The expression पुरुषान्तरविज्ञानतत्त्वसारनिबन्धनात् further emphasizes that such decisions depend on genuine knowledge of individual differences. For example, a person selected for ethical conduct, loyalty, and bravery would still need battlefield experience and knowledge of warfare strategy to serve as a general; the qualifications appropriate to a soldier would differ, illustrating how suitability depends on grades of work.
+I propose Matsya Purana 214.44–46 as the primary parallel for this kural. The opening verse states उत्तमाधममध्यानि बुद्ध्वा कर्माणि पार्थिवः \| उत्तमाधममध्येषु पुरुषेषु नियोजयेत् \|\|. The verse says that, having understood the superior, inferior, and intermediate kinds of work, the king should assign them to superior, inferior, and intermediate persons. This directly corresponds to வினைவகையான் வேறாகு மாந்தர் பலர்: people differ in their suitability for different kinds of work. The subsequent verses specify the criteria for assessing individuals—नियोगं पौरुषं भक्तिं श्रुतं शौर्यं कुलं नयम् (appointment, capability, loyalty, learning, valor, lineage, and practical judgment). These details illuminate the several ways people have been assessed, எனைவகையாற் றேறியக் கண்ணும், which point to assessment along several dimensions. The expression पुरुषान्तरविज्ञानतत्त्वसारनिबन्धनात् further emphasizes that such decisions depend on genuine knowledge of individual differences. For example, a person selected for ethical conduct, loyalty, and bravery would still need battlefield experience and knowledge of warfare strategy to serve as a general; the qualifications appropriate to a soldier would differ, illustrating how suitability depends on grades of work.
 
 The Ramayana, Ayodhya Kanda 2.94.20, gives a concise parallel to the matching of tasks and personnel: कच्चिन्मुख्या महत्स्वेव मध्यमेषु च मध्यमाः \| जघन्याश्च जघन्येषु भृत्याः कर्मसु योजिताः \|\|, that is, are your foremost servants assigned to the most important tasks, the middling ones to middling tasks, and the least capable to lesser tasks. This directly corroborates the Matsya Purana’s उत्तमाधममध्यानि … कर्माणि and illustrates one dimension of வினைவகையான் வேறாகு மாந்தர்: assignments should reflect the relative importance of the work and the capabilities of those undertaking it.
 
