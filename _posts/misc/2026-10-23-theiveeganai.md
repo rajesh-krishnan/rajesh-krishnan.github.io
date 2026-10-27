@@ -51,7 +51,7 @@ tags: [misc]
 
 ## Translation
 
-**Divine Dog / Become Divine ** 
+**Divine Dog / Be Divine** 
 
 - by *Kovirai (a coined Tamil rendering of the author's name Rajesh)*
 
