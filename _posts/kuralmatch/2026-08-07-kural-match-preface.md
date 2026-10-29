@@ -31,8 +31,8 @@ It is my observation that the Thirukkural uses metaphors judiciously and favors 
 I am attempting this because I thought this would be a fun exercise. 
 I have no axe to grind, no agenda to set, and no desire to gain fame or notoriety from this work. 
 I find Tamil, Samskrutam, English, and a few other languages all enjoyable in their own way.
-I do not claim the original ideas flowed directly between the kural and the matched verse; rather I just rejoice in the abundance we have been bequeathed with.
-I do not to claim congruence to any single shastra, such as dharma shastra or niti shastra.
+I do not claim that the original ideas flowed directly between the kural and the matched verse in either direction; rather I just rejoice in the abundance we have been bequeathed with.
+I do not to claim congruence of the entire Thirukkural to any single text or even a single shastra, such as dharma shastra or niti shastra.
 I do not explore congruences outside of ancient Indic literature, religious or otherwise.
 There are extant scholarly works that explore such congruences.
 
