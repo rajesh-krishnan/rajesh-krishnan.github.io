@@ -14,7 +14,7 @@ tags: [kuralmatch]
 | [4](#verse-4) | தெளிவிலதனைத் தொடங்கா ரிளிவென்னு <br> மேதப்பா டஞ்சு பவர் |  |
 | [5](#verse-5) | வகையறச் சூழா தெழுதல் பகைவரைப் <br> பாத்திப் படுப்பதோ ராறு |  |
 | [6](#verse-6) | செய்தக்க வல்ல செயக்கெடுஞ் செய்தக்க  <br> செய்யாமை யானுங் கெடும் |  |
-| [7](#verse-7) | எண்ணித் துணிக கருமந் துணிந்தபி <br> னெண்ணுவ மென்ப திழுக்கு | **अपरीक्ष्य न कर्तव्यं कर्तव्यं सुपरीक्षितम्** \| <br> **पश्चाद् भवति सन्तापो ब्राह्मणी नकुलं यथा** \|\| <br> Panchatantra 5.17 |
+| [7](#verse-7) | எண்ணித் துணிக கருமந் துணிந்தபி <br> னெண்ணுவ மென்ப திழுக்கு | <!-- **अपरीक्ष्य न कर्तव्यं कर्तव्यं सुपरीक्षितम्** \| <br> **पश्चाद् भवति सन्तापो ब्राह्मणी नकुलं यथा** \|\| <br> Panchatantra 5.17 --> |
 | [8](#verse-8) | ஆற்றின் வருந்தா வருத்தம் பலர்நின்று <br> போற்றினும் பொத்துப் படும் |  |
 | [9](#verse-9) | நன்றாற்ற லுள்ளுந் தவறுண் டவரவர் <br> பண்பறிந் தாற்றாக் கடை |  |
 | [10](#verse-10) | எள்ளாத வெண்ணிச் செயல்வேண்டுந் தம்மொடு <br> கொள்ளாத கொள்ளா வுலகு |  |
@@ -43,9 +43,11 @@ tags: [kuralmatch]
 
 ## Verse 7
 
+<!-- 
 The shloka is an excellent semantic match for the kural. A difference is that the kural says that having second thoughts after commencing a task is a *disgrace*, whereas the Panchatantra verse says that will lead to *remorse*. In that sense, the kural includes in the disgrace both the potential thought to abort a task as well as remorse after completing the task. Also the kural uses the word for *think*, whereas the Panchatantra verse uses the word   *examine*, but they carry the same meaning in this case. The Panchatantra verse provides an example by referring to a story summarized here. A Brahmin lady leaves her baby with a pet mongoose. It kills a threatening snake. Seeing blood on the mongoose, she imagines the worst and kills it, then regrets when she discovers the truth. 
 
 Another parallel can be found in Bharavi's Kiratarjuniyam 2.30: सहसा विदधीत न क्रिया-मविवेकः परमापदां पदम् \| वृणते हि विमृश्यकारिणं गुणलुब्धाः स्वयमेव सम्पदः \|\|. The second half of the kural is matched by the injunction in the first half of the shloka: one should not act rashly, for thoughtlessness is the source of the greatest calamities. The first half of the kural is matched, but with additional poetic flourish: fortunes, themselves desirous of virtues, of their own accord choose a person who acts with due deliberation. Is supplies the positive benefit of thoughtful action, which Valluvar leaves implicit. 
+-->
 
 
 ## Verse 8
@@ -58,4 +60,318 @@ Another parallel can be found in Bharavi's Kiratarjuniyam 2.30: सहसा व
 
 
 ### Chapter Summary
+
+<!-- 
+| [1](#verse-1) | அழிவதூஉ மாவதூஉ மாகி வழிபயக்கு <br> மூதியமுஞ் சூழ்ந்து செயல் |  |
+
+    • Arthashastra 7.12.32
+        ◦ अल्पागमातिव्ययता क्षयो वृद्धिर्विपर्यये । समायव्ययता स्थानं कर्मसु ज्ञेयमात्मनः ॥ ७.१२.३१–३२ ॥
+        ◦ Little return and excessive expenditure means decline; the reverse means increase.  In undertaking a work, one should know equally well one's own position with respect to income and expenditure. 
+        ◦ Valluvar's அழிவதூஉம் ஆவதூஉம் finds its counterpart in Kauṭilya's क्षयः वृद्धिः. The opening expression अल्पागमातिव्ययता establishes the financial condition that leads to क्षयः: inadequate revenue combined with excessive expenditure bring about decline; the reverse condition leads to growth. This causal formulation is particularly significant for understanding வழிபயக்கும் ஊதியம். The net income ஊதியம் of an undertaking, which depnds on both आय and व्यय,  is the means through which it may lead either to அழிவு or ஆக்கம்.  The concluding कर्मसु connects directly with Valluvar's செயல்: the assessment concerns an undertaking or action being contemplated. The gerundive ज्ञेयम् supplies the deliberative injunction expressed by சூழ்ந்து: one's financial position must be known and assessed before proceeding. Kautilya’s injunction further requires that one's position with respect to revenue and expenditure in the undertaking be ascertained, with equal attention given to both.
+    • Arthaśāstra 2.6.27 संजातादायव्ययविशुद्धा नीवी, प्राप्ता चानुवृत्ता च ॥
+        ◦ Kauṭilya defines नीवी as the balance remaining after the reckoning of आय and व्यय, distinguishing between a balance newly received and one carried forward. In our reading, Valluvar's ஊதியம் in this context is related to this difference between revenue and expenditure. This is a conceptual correspondence, not a claim that the two terms are technically identical: the precise accounting treatment of items such as interest on debt, taxes, depreciation and amortisation may differ between the two systems.
+    • The broader statecraft dimension of the Kural's அழிவு, ஆக்கம் and ஊதியம் is illuminated by Kauṭilya's preceding formulation in Arthaśāstra 7.12.31: परकर्मोदयो नेतुः क्षयो वृद्धिर्विपर्यये । तुल्ये कर्मपथे स्थानं ज्ञेयं स्वं विजिगीषुणा ॥ Here, क्षय and वृद्धि describe the decline or advancement of the ruler arising from the outcome of an undertaking, rather than merely a commercial loss or gain. Read in this wider statecraft context, Valluvar's அழிவு and ஆக்கம், and the ஊதியம் that may lead to either, need not be understood in purely monetary terms: they may encompass the broader consequences and returns of an action for the ruler and the state. 
+
+
+| [2](#verse-2) | தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்  <br> கரும்பொருள் யாதொன்று மில் |  |
+
+
+    • Mahabharata (BORI) 5.40.21 - Udyoga Parva
+        ◦ प्रज्ञावृद्धं धर्मवृद्धं स्वबन्धुं विद्यावृद्धं वयसापि वृद्धम् । कार्याकार्ये पूजयित्वा प्रसाद्य यः सम्पृच्छेन्न स मुह्येत् कदाचित् ॥
+        ◦ MBh 5.40.21 could be the primary parallel. One who honors, conciliates, and consults a wise, dharmic, learned, trusted elder kinsman—advanced in age—is not deluded in deciding what should or should not be done. 
+1. தெரிந்த    (प्रज्ञावृद्ध, धर्मवृद्ध विद्यावृद्ध) இனத்தோடு  (स्वबन्धु) is well corroborated
+2. தேர்ந்துஎண்ணிச் செய்வார்க்கு  कार्याकार्ये यः सम्पृच्छेत्  (deliberation implied by asking what is to be done or not done, and the doing is left implicit)
+3. स मुह्येत् कदाचित् அரும்பொருள் யாதுஒன்றும் இல்:  (nothing is hard vs, never deluded; interestingly porul can mean thing or meaning -- so the kural can be read as nothing is hard to understand, hence nver deluded)
+        ◦ Kalingar’s gloss: 
+            ▪ தெரிந்த இனத்தோடு தேர்ந்துஎண்ணிச் செய்வார்க்கு : யாதும் ஒரு கருமம் செய்யுமிடத்து அதனைத் தெரிந்து செய்யும் திறமையரேனும் மற்று அதனைக் கல்வியால் தெரிந்த நல்லினத்துடனே உசாவிக்கொண்டு தமது நெஞ்சானும் தெரியத் தேர்ந்துகொண்டு இங்ஙனம் செய்யும் அரசர்க்கு; [உசாவி- வினவியாராய்ந்து]
+        ◦ Mahabharata Śāntiparvan 12.82.3: counselor must be a friend (inam), learned (therintha), and have self-control:  
+            ▪ नासुहृत्परमं मन्त्रं नारदार्हति वेदितुम् । अपण्डितो वापि सुहृत्पण्डितो वापि नात्मवान् ॥ ३ ॥
+            ▪ “Neither a person who is not a friend, nor a friend who is unlearned, nor even a learned friend who lacks self-control, is fit to know the highest counsel
+    • Correpsondence summary:
+        ◦ 1. தெரிந்த இனத்தொடு read in the broadest sense: The primary parallel Mahābhārata 5.40.21 विद्यावृद्धम् + स्वबन्धुम् -- gets us the therintha inam pun; it stops at deliebrating with counsel  on action rather than deliberating with counsel then acting; it also gives us not deluded by anything rather than nothing is hard.  Still considering what we have otherwise, this is the best fit. Kalingar's gloss of the kural matches this reading of consulting the learned, but is ambiguous by repeating the words of the kural for inam. Mahabharata Śāntiparvan 12.82.3 corroborates a similar reading of counsel as friend and learned, but it not a parallel, We discuss correspondence in the other senses below.
+        ◦ 2. தெரிந்த இனத்தொடு read purely as learned counsel without the kinsmen/friend angle: We have Kamandakiya giving us action based on learned counsel and a metaphorical accomplishment of a hard task. This is a second parallel. The same is also corroborated by Arthashastra 1.15.20-21
+        ◦ 3. இனத்தொடு செய்வார்க்கு  read as working with friends, not alone: Hitopadesha gives the sense of working with friends accomplishes tassks easily; Manusmiriti 7.55 corroborates the doing things alone makes things hard, and its converse corroborates the kural's sense no task too hard (if done with the support of therintha inam)
+        ◦ 4. அரும்பொருள் யாதொன்றும் இல் Valmiki Ramayanam corrobroates this part however its injunction is to follow the conduct of gurus in general, and it is not quite about deliberating with counsel before undertaking a task. 
+        ◦ 5. An ideal parallel would combine this assertion of nothing is hard to obtain with the counsel of learned kinsmen, but MBh 5.40.21 captures the crux of the kural.
+    • Kamandakiya Nitisara 12.8-9:
+        ◦ अशिक्षितनयः सिंहो हन्तीभं केवलं बलात् । तं च धीरो नरस् तेषां शतानि मतिमाञ् जयेत् ॥ ८ ॥
+        ◦ पश्यद्भिर् दूरतोऽपायान् सूपायप्रतिपत्तिभिः । भवन्तीह फलायैव विद्वद्भिर् मन्त्रिताः क्रियाः ॥ ९ ॥
+        ◦ The second verse is especially suggestive: विद्वद्भिर् मन्त्रिताः क्रियाः — actions deliberated upon by the learned — फलाय एव भवन्ति, are productive of results. The first verse talks about a human using wisdom to defeat a hundred uneducated lions that kills with brute strength, suggestive of nothing is hard.
+    • Arthashastra 1.15.20-21
+        ◦ अर्थद्वैधस्य संशयच्छेदनमेकदेशदृष्टस्य शेषोपलब्धिरिति मन्त्रिसाध्यमेतत् । तस्माद् बुद्धिवृद्धैः सार्धमध्यासीत मन्त्रं ॥
+        ◦ Kauṭilya's अर्थद्वैधस्य संशयच्छेदनम् (resolving uncertainty where alternatives present themselves) and एकदेशदृष्टस्य शेषोपलब्धिः (ascertaining what remains from what has been only partially perceived) are tasks requiring collective counsel (मन्त्रिसाध्यमेतत्); hence he enjoins the king to deliberate with those mature in intellect (बुद्धिवृद्धैः सार्धम्), closely corroborating Valluvar's தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்கு. 
+        ◦ Kautilya also  corroborates the primary parallel Mahabharata (BORI) 5.40.21 कार्याकार्ये ... यः सम्पृच्छेन्न स मुह्येत् कदाचित् ॥
+    • Hitopadeśa 1.2
+        ◦ असाधना वित्तहीना बुद्धिमन्तः सुहृन्मताः । साधयन्त्याशु कार्याणि काककूर्ममृगाखुवत् ॥ १.२ ॥
+        ◦ “Though without resources and bereft of wealth, the intelligent, endowed with friends, quickly accomplish their tasks, as did the crow, the tortoise, the deer and the mouse.”
+        ◦ The two expressions deserve to be set beside the Kural:
+            ▪ - बुद्धिमन्तः सुहृन्मताः — intelligent, and possessing the support of friends. This is not merely an individual possessing intelligence; it is intelligence operating in a network of trusted associates. Dual sense of therintha inam
+            ▪ - साधयन्त्याशु कार्याणि — they quickly accomplish their undertakings.
+The verse does not say that nothing whatsoever is difficult, but it does say that even those without material resources can accomplish their tasks through intelligence and friendship. It is an unusually close correspondence to the Kural's structure
+    • Manu Smṛti 7.55 
+        ◦ अपि यत् सुकरं कर्म तदप्येकेन दुष्करम् । विशेषतोऽसहायेन किं तु राज्यं महोदयम् ॥ ७.५५ ॥
+Even an easy undertaking becomes difficult for one person acting alone, especially without assistance—how much more so the great undertaking of governing a kingdom!
+        ◦ doing task alone, makes task harder; doing with help makes it easier  
+
+    • Vālmīki Rāmāyaṇa, Ayodhyā Kāṇḍa 30.36 — the result clause
+        ◦ स्वर्गो धनं वा धान्यं वा विद्या पुत्रास्सुखानि च । गुरुवृत्यानुरोधेन न किञ्चिदपि दुर्लभम् ॥
+        ◦ Heaven, wealth, grain, learning, children and happiness—nothing is unattainable through following the instructions of one's gurus.
+        ◦ The phrase न किञ्चिदपि दुर्लभम् is strikingly close to அரும்பொருள் யாதொன்றும் இல்.
+
+| [3](#verse-3) | ஆக்கங் கருதி முதலிழக்குஞ் செய்வினை <br> யூக்கா ரறிவுடை யார் |  |
+
+
+    • Bṛhaspati Smṛti, Ṛṇādāna, section 6, 1.10.37-43 on pledged property:
+        ◦ आधिस्तु भुज्यते तावद्यावत्तन्न प्रदीयते । आधिर्बन्धः समाख्यातः स च प्रोक्तश्चतुर्विधः 
+        ◦ जङ्गमः स्थावरश्चैव गोप्यो भोग्यस्तथैव च ।यादृच्छिकः सावधिश्च लेख्यारूढोऽथ साक्षिमान् ॥ 
+        ◦ अशान्तलाभे च ऋणे तथा पूर्णेऽवधौ धनी । 
+        ◦ यो भुङ्क्ते बन्धकं लोभान्न स लाभो भवेत्पुनः । न्यासवत्परिपाल्योऽसौ वृद्धिर्नश्यति हापिते ॥
+        ◦ दैवराजोपघाते च यथाधिर्नाशमाप्नुयात् । तत्राधिं दापयेद्दद्यात्सोदयंधनमन्यथा ॥
+        ◦ बन्धहस्तस्य यद्देयं चित्रेण चरितेन वा । अदत्तेऽर्थेऽखिलं बन्धं नाकामो दाप्यते क्वचित् ॥
+        ◦ भुक्ते चासारतां प्राप्ते मूलहानिः प्रजायते । बहुमूल्यं तत्र नष्टं ऋणिकं तत्र तोषयेत् ॥
+        ◦ The decisive expression is मूलहानिः प्रजायते: the apparent gain or enjoyment of the pledged asset can result in the loss of the principal. This gives us the strongest lexical and conceptual correspondence to முதலிழக்கும். The preceding verses matter: they discuss the creditor's enjoyment of the pledge, the duty to preserve it, and the consequences of its destruction.
+The limitation should be stated plainly: Bṛhaspati treats the specific case of pledged property, whereas Valluvar formulates a general principle about an undertaking pursued in expectation of advancement. 
+
+    • Arthashastra 9.4.5-7 defines the type of income that results in evenutal return of the gain, and warns it will lead to destruction:” 
+        ◦ सुप्राप्यानुपाल्यः परेषामप्रत्यादेय इत्यादेयः ॥ 
+        ◦ विपर्यये प्रत्यादेयः ॥
+        ◦ तमाददानस्तत्रस्थो वा विनाशं प्राप्नोति ॥
+        ◦ A gain that is easily acquired, can be maintained, and need not be returned to others is ādeya (a retainable gain). The reverse is pratyādeya—a gain that must be returned. One who takes such a gain, or remains dependent upon it, meets destruction. 
+        ◦ The distinction between ādeya and pratyādeya is especially useful. What appears to be a gain may in reality be a liability that eventually destroys the person who accepts it.
+        ◦ Kauṭilya's distinction involving आदेय and प्रत्यादेय supplies the economic framework: a sum that is repayable cannot simply be treated as an expendable gain. It helps clarify what is at stake in முதல்—the underlying capital, not merely the expected return. I would describe this as a definitional or conceptual corroboration, not as a direct parallel to the Kural's injunction. 
+    • Yajnavalkya Smriti 2.37 with commentary of Mitakshara gives a different dimension of the interest being high for high-risk pursuits
+        ◦ ग्रहीतृविशेषेण प्रकारान्तरम् आह । कान्तारगास् तु दशकं सामुद्रा विंशकं शतम् । या०ध०२.३८अब्
+        ◦ कान्तारम् अरण्यं तत्र गच्छतीति कान्तारगाः । ये वृद्ध्या धनं गृहीत्वाधिकलाभार्थम् अतिगहनं प्राणधनविनाशशङ्कास्थानं प्रविशन्ति ते दशकं शतं दद्युः । ये च समुद्रगास् ते विंशकं शतं मासि मासीत्य् एव । एतद् उक्तं भवति : कान्तारगेभ्यो दशकं शतं सामुद्रेभ्यश् च विंशकम् उत्तमर्ण आदद्यान् मूलविनाशस्यापि शङ्कितत्वाद् इति ॥
+    • Mahābhārata, Śānti Parva 12.106.15–18 — deliberately draining a king's treasury In the dialogue of the Kālakavṛkṣīya sage, a prince is instructed how to undermine a rival ruler:
+        ◦ आरम्भांश्चास्य महतो दुष्करांस्त्वं प्रयोजय । नदीबन्धविरोधांश्च बलवद्भिर्विरुध्यताम् ॥ १५ ॥
+        ◦ त्रिविष्टपे पुण्यतमं स्थानं प्राप्नोति पार्थिवः । कोशक्षये त्वमित्राणां वशं कौसल्य गच्छति ॥ १८ ॥
+        ◦ The advice is to induce the rival king to: undertake great and difficult projects; engage in costly conflicts over river embankments; construct expensive gardens and provide luxurious beds and seats; spend the treasury on pleasures and extravagant consumption. "When the treasury is depleted, he comes under the control of his enemies." 
+        ◦ It is almost an inverted illustration of the principle we want: a counsellor deliberately recommends expensive, unproductive undertakings to an enemy king in order to drain his treasury. 
+        ◦ The aakkam meaning profit and muthal meaning capital/principal remain the primary reading of the kural.
+| [4](#verse-4) | தெளிவிலதனைத் தொடங்கா ரிளிவென்னு <br> மேதப்பா டஞ்சு பவர் |  |
+
+
+    • Kāmandakīya Nītisāra XII.39 as the primary parallel
+        ◦ यत्र मन्त्रिमनःसाम्यं यत्र चेतो न शङ्कते । यत्र सन्तो न निन्दन्ति तत् परीयाच् चिकीर्षितम् ॥ १२.३९ ॥
+        ◦ Your reading of the correspondence is persuasive:
+        ◦ தெளிவு இலதனை — यत्र मन्त्रिमनःसाम्यम्: agreement among ministers presupposes deliberation and examination; it is not merely an absence of disagreement. It represents the considered judgement that emerges from counsel.
+        ◦ தெளிவு in its inward sense — यत्र चेतो न शङ्कते: the mind itself has no doubt or misgiving. The verse thus captures both the external, deliberative dimension and the internal assurance of தெளிதல்.
+        ◦ இளிவென்னும் ஏதப்பாடு — यत्र सन्तो न निन्दन्ति: the undertaking should not invite the censure of good people. निन्दा is not identical to ridicule, but it conveys the reproach and loss of standing that Kalingar's gloss brings out.
+        ◦ தொடங்கார் — तत् परीयाच् चिकीर्षितम्: one should pursue precisely that undertaking which satisfies these conditions. The Sanskrit expresses the positive prescription; Valluvar expresses the restraint negatively. The fear of censure is implicit in the condition that the good do not condemn the undertaking.
+
+    • Kauṭilya Arthaśāstra 1.15.1–2 tightly corroborates counsel and start of a task
+        ◦ कृतस्वपक्षपरपक्षोपग्रहः कार्यारम्भांश्चिन्तयेत् । मन्त्रपूर्वाः सर्वारम्भाः ॥
+        ◦ The first sūtra directs the ruler, after securing his own side and dealing with the opposing side, to deliberate on the commencement of undertakings. The second states:
+All undertakings are to be preceded by counsel.
+        ◦ Kalingar further corroborates the examination involving counsel: தெளிவு இலதனைத் தொடங்கார்: kalingar glosses this as:இங்ஙனம் தாமும் சான்றோரும் தம்முள் கூடியாயினும் தனித்தாயினும் தெளிந்து, சிறந்த கருமஞ் செய்யும் அத்துணை அல்லது மற்றுந் தெளிவில்லதனைச் செய்யத் தொடங்கார்; 
+        ◦ मन्त्रपूर्वाः सर्वारम्भाः => mantrapurva = thelivudaiyathu;  arambha = thodangu; sarva basically corroborates the kural’s thodangar (start everything only with vs. do not start anything without)
+
+    • Examination with counsel involves a number of dimensions discussed below:
+    • Kamandakiya Nitisara 12.11-12 further corroborates the examination of feasibility before commencement: 
+            ▪ शक्याशक्यपरिच्छेदं कुर्याद् बुद्ध्या प्रसन्नया । केवलं दन्तभङ्गाय दन्तिनः शैलताडनम् ॥ १२.११ ॥ अशक्यारम्भवृत्तीनां कुतः क्लेशाद् ऋते फलम् । आकाशम् आस्वादयतः कुतस् तु कवलग्रहः ॥ १२.१२ ॥
+            ▪ अशक्यारम्भवृत्तीनां -- Starting an infeasible task also leads to despair
+            ▪ The perceding verses in Kamandakiya list a number of other considerations such as discerning dangers from afar, identifying appropriate means, and considering the place and time, which are more systematicaaly listed by Kautilya below. 
+    • Arthashastra 1.15.42 
+        ◦ कर्मणामारम्भोपायः पुरुषद्रव्यसम्पद् देशकालविभागो विनिपातप्रतीकारः कार्यसिद्धिरिति पञ्चाङ्गो मन्त्रः 
+        ◦ Kauṭilya identifies five constituents of counsel:
+1. कर्मणामारम्भोपायः — the means of commencing the undertaking.
+2. पुरुषद्रव्यसम्पत् — the availability and adequacy of personnel and resources.
+3. देशकालविभागः — consideration of place and time.
+4. विनिपातप्रतीकारः — provision for setbacks and contingencies.
+5. कार्यसिद्धिः — successful completion of the undertaking.
+
+    • Subhāṣitaratnabhāṇḍāgāra Sankirnaka Prakaranam 119
+        ◦ अक्षमः क्षमतामानी क्रियायां यः प्रवर्तते । स हि हास्यास्पदत्वं च लभते प्राणसंशयम् ॥ ११९ ॥
+        ◦ One who, though incapable, thinks himself capable and enters into an undertaking becomes an object of ridicule and even risks his life. 
+            ▪ Arguably examining competence is a dimension of thelithal; the ridicule portion of the kural is  corroborated
+
+
+
+
+
+
+| [5](#verse-5) | வகையறச் சூழா தெழுதல் பகைவரைப் <br> பாத்திப் படுப்பதோ ராறு | |
+
+    • Mahābhārata, Sabhā Parva 2.5.47 (57?)
+        ◦ कच्चिद्व्यसनिनं शत्रुं निशम्य भरतर्षभ । अभियासि जवेनैव समीक्ष्य त्रिविधं बलम् ॥
+        ◦ “Having heard that the enemy is in distress, do you rush against him, O best of the Bharatas, after examining the threefold strength?”
+            ▪ வகையற	त्रिविधं बलम्	The different kinds or dimensions of strength that must be distinguished and assessed.
+            ▪ சூழா	समीक्ष्य	To examine, consider, and assess carefully. The Sanskrit is positive: act after examining. The Kural states the negative condition: act without such examination.
+            ▪ எழுதல்	अभियासि जवेनैव	To set out against or attack the enemy, and to do so swiftly. This is a particularly good correspondence for the movement into action.
+            ▪ பகைவரைப்	शत्रुम्	Direct lexical correspondence: the enemy.
+            ▪ பாத்திப் படுப்பது	—	Not directly expressed in this verse. The verse does not explicitly say that rash action causes the enemy to prosper or grow stronger.
+        ◦ Nilakantha's commentary on trividham balam: एवं विजयहेतुं प्रकृतिसंपदमुक्त्वा विजयकालमाह। कश्चिद्यसानिन- अभिति। व्यसनैः 'स्त्री द्यूतं मृगया मद्यं नृत्यं गीतं वृथाटनम्। वाद्यं निन्दाऽदिवास्वापो व्यसनानि नृणां दश 'इत्युक्तैर्युक्तम्। त्रिविधं बलं। मन्त्रक्रोशमृत्युबलानि प्रभुमन्त्रोत्साहशक्तीर्वा॥ ५७॥
+                • Nīlakaṇṭha offers two interpretations:
+First: मन्त्र, क्रोश, मृत्यु — three kinds of strength.
+Alternatively: प्रभु, मन्त्र, उत्साह — the three powers:
+- प्रभुशक्ति — the power of sovereignty, material resources, and military might.
+- मन्त्रशक्ति — the power of counsel, deliberation, and strategic intelligence.
+- उत्साहशक्ति — the power of energy, initiative, and personal enterprise.
+The second interpretation is particularly important for our Kural.
+                • ten vices according to nilakantha: स्त्री द्यूतं मृगया मद्यं नृत्यं गीतं वृथाटनम् । वाद्यं निन्दाऽदिवास्वापो व्यसनानि नृणां दश ॥ The enemy is distracted or impaired by indulgence in these vices. The king hears of this vulnerability and considers whether to advance against him.
+            ▪ The context places the verse within a practical account of the conditions for undertaking a campaign. The king is asked whether, upon learning that an enemy is व्यसनिन्—afflicted by the vices enumerated by Nīlakaṇṭha—he advances only after examining the relevant dimensions of strength (समीक्ष्य त्रिविधं बलम्). The following verses elaborate the preparations that make such an advance sound: assessing the enemy's position and the possibility of defeat, securing and paying one's own forces, cultivating support within the enemy's camp, mastering oneself, applying the appropriate diplomatic measures, and ensuring a secure base and capable army. The implicit warning is that an ill-considered advance can reverse the apparent advantage: instead of exploiting the enemy's vulnerability, one may expose one's own weaknesses, squander one's resources, and give the enemy time or opportunity to recover and strengthen his position. In this sense, the passage supports வகையறச் சூழா தெழுதல் strongly; it also helps us understand how rash action may become an indirect means of பகைவரைப் பாத்திப் படுப்பது. 
+    • Arthashastra 9.1.1 corroborates not rising against the enemy without examining their kinds of strengths.
+        ◦ विजिगीषुरात्मनः परस्य च बलाबलं शक्तिदेशकालयात्राकालबलसमुद्दानकालपश्चात्कोपक्षयव्ययलाभापदां ज्ञात्वा विशिष्टबलो यायात्, अन्यथाऽऽसीत 09.1.01
+        ◦ prescribes that a king contemplating an expedition must first ascertain his own and the enemy's relative strengths and weaknesses, the suitability of power, place and time, and the prospective losses, expenses, gains and dangers; only then should he march, otherwise he should remain still 
+    • Panchatantra Mitrabheda 1.337
+        ◦ शत्रोर्विक्रममज्ञात्वा वैरमारभते हि यः । स पराभवमाप्नोति समुद्र इव टिट्टिभात् ॥ “Whoever begins hostilities without knowing the strength of the enemy meets with defeat—as the ṭiṭṭibha bird did at the hands of the ocean.”
+    • Valmiki Ramayana Yuddha Kāṇḍa 6.104 -105:
+        ◦ देशकालौ च विज्ञेयौ लक्षणान्यिङ्गितानि च । दैन्यं हर्षश्च खेदश्च रथिनश्च बलाबलम् स्थलनिम्नानि भूमेश्च समानि विषमाणि च । युद्धकालश्च विज्ञेयः परस्यान्तरदर्शनम् 
+        ◦ Here the assessment includes:
+            ▪ Place and time — देशकालौ
+            ▪  Signs and indications — लक्षणानि, इङ्गितानि
+            ▪ The warrior's morale and fatigue
+            ▪ Strength and weakness — बलाबलम्
+            ▪ Terrain
+            ▪ The enemy's vulnerabilities — परस्यान्तरदर्शनम्
+        ◦ This is much closer to the breadth of வகையறச் சூழாது எழுதல்
+    • Mahabharata 2.50.23
+        ◦ शत्रुपक्षं समृध्यन्तं यो मोहात्समुपेक्षते ।व्याधिराप्यायित इव तस्य मूलं छिनत्ति सः ॥ अल्पोऽपि ह्यरिरत्यन्तं वर्धमानपराक्रमः । वल्मीको मूलज इव ग्रसते वृक्षमन्तिकात् ॥
+        ◦ The first verse says that the person who, through delusion, neglects an enemy faction that is prospering, will have his foundations cut away by it, just as by a disease that has been allowed to grow. The key expression is व्याधिराप्यायितः: a disease that has been nourished, augmented or allowed to thrive.
+        ◦ these are the words of duryodhana who is jealous of his cousins 
+| [6](#verse-6) | செய்தக்க வல்ல செயக்கெடுஞ் செய்தக்க <br> செய்யாமை யானுங் கெடும் | 
+
+    • Arthashastra 7.5.21 and 7.5.26
+        ◦ अकार्याणां च करणैः कार्याणां च प्रणाशनैः । अप्रदानैश्च देयानामदेयानां च साधनैः ॥ 
+        ◦ By doing what ought not to be done and failing to do what ought to be done; by withholding what ought to be given and exacting what ought not to be taken.
+        ◦ राज्ञः प्रमादालस्याभ्यां योगक्षेमवधेन वा ।प्रकृतीनां क्षयो लोभो विराग्यं चोपजायते ॥ 
+        ◦ Through the king’s carelessness and indolence, or his failure to secure the welfare and security of his subjects, impoverishment, greed, and disaffection arise among them.
+        ◦ The first half of 7.5.21 matches most of the kural, and 7.5.26 gives the statecraft dimension of கெடும்
+        ◦ Kauṭilya, Arthashastra 7.5.21 first half plus 7.5.26 is the primary parallel
+The negative formulation matches the kural: doing what ought not to be done and frustrating what ought to be done, followed by an extended account of political and social deterioration. 
+        ◦ Establish a tight fine-grained correspondence to kural fragments
+            ▪ செய்தக்க வல்ல செயக்கெடுஞ் अकार्याणां च करणैः 
+            ▪ செய்தக்க செய்யாமை யானுங் कार्याणां च प्रणाशनैः 
+                • (tight match -- even the யானுங் is matched by the च)
+            ▪ கெடும் -- योगक्षेमवधेन … क्षयो लोभो विराग्यं चोपजायते 
+    • Then explain the context 7.5.19–28 that this is part of a broader and detailed elabotation in the statecraft context:
+            ▪ 1. From 7.5.19 to 7.5.25, Kauṭilya elaborates the principle of “doing what ought not to be done and failing to do what ought to be done” through fourteen paired forms of misgovernance: insulting the good and favouring the wicked; permitting unjustified violence; abandoning righteous customs and neglecting dharma; doing what ought not to be done and frustrating what ought to be done; withholding what is due and exacting what is not due; failing to punish the guilty and punishing the innocent; arresting those who should not be seized and releasing those who should be apprehended; undertaking unprofitable works and frustrating profitable ones; failing to protect the people from thieves and robbing them oneself; abandoning enterprise and condemning good works; harming leaders and dishonouring the worthy; provoking elders and acting with partiality and falsehood; failing to remedy wrongs; and neglecting work already undertaken. 
+            ▪ 2. From 7.5.26 onward, Kauṭilya explains the destructive consequences: through the king’s negligence and failure to safeguard his subjects’ welfare, impoverishment, greed, and disaffection arise; the impoverished become greedy, the greedy become disaffected, and the disaffected may defect to the enemy or turn against their ruler, making it imperative for the king to prevent these causes or remedy them immediately.
+
+    • Yoga Vāsiṣṭha 6.126.54
+        ◦ कर्तव्यमाचरन्काममकर्तव्यमनाचरन् । तिष्ठति प्राकृताचारो यः स आर्य इति स्मृतः ॥
+        ◦ “Whoever willingly performs what ought to be done and refrains from what ought not to be done, living according to proper conduct, is regarded as noble.” 
+        ◦ Yoga Vāsiṣṭha 6.126.54 is the Positive spiritual counterpart of the kural for one seeking liberation. The ideal of nobility: कर्तव्यमाचरन् ... अकर्तव्यमनाचरन् — doing what ought to be done and refraining from what ought not to be done. The kural states the converse proposition.
+
+    • Mahabharata Shanti Parva 12.35.2:
+        ◦ व्यास उवाच । अकुर्वन्विहितं कर्म प्रतिषिद्धानि चाचरन् । प्रायश्चित्तीयते ह्येवं नरो मिथ्या च वर्तयन् Vyāsa said: “In this way a person becomes one who must undertake expiation: by failing to perform prescribed duties, by engaging in prohibited acts, and by living in a false and improper manner.”
+        ◦ Mahabharata, Shanti Parva 12.35.2 (BORI numbering)	 In addition to corroborating “doing what ought not to be done and failing to do what ought to be done” but goes beyond “kedum” into “prayaschitta”/expiation. The pairing of failing to perform prescribed acts and performing prohibited acts, in an expiatory context.
+    • Manusmṛti 11.44
+        ◦ अकुर्वन् विहितं कर्म निन्दितं च समाचरन् । प्रसक्तश्चेन्द्रियार्थेषु प्रायश्चित्तीयते नरः ॥ ११.४४ ॥ “Failing to perform prescribed duties, performing censured acts, and being attached to sense-objects, a person becomes liable to expiation.” 	
+        ◦ Additional corroboration from Manusmṛti 11.44 to the MBh verse and to the kural itself. Echoes the prescribed/prohibited action pairing (as in the kural) and its connection witt liability to expiation (as in the Mahabahrata verse).
+
+[7](#verse-7) | எண்ணித் துணிக கருமந் துணிந்தபி <br> னெண்ணுவ மென்ப திழுக்கு |
+
+    • Mahābhārata — Vidura Nīti, Udyogaparva 5.33
+        ◦ निश्चित्य यः प्रक्रमते नान्तर्वसति कर्मणः । अवन्ध्यकालो वश्यात्मा स वै पण्डित उच्यते ॥
+        ◦ He who commences an undertaking having first reached a firm decision, and does not linger in the midst of the work, whose time is not wasted and who has control over himself, is called wise.
+        ◦ connect to kural fragments tightly
+    • Vidura niti is the primary parallel. It matches निश्चित्य यः प्रक्रमते with எண்ணித் துணிக கருமம்  as well as providing  अन्तर्वसति कर्मणः as a close match for  துணிந்தபி னெண்ணுவம்; the placement of the nischaya making is not after the task has commenced. Vidura niti just provides a do - don't injunction, and states it positively as what a learned person would do, Valluvar expresses it negatively: not doing so is a disgrace.  Panchatantra can be a second parallel, through a reference to a parable. Kautilya and Bharavai further corroborate the need to deliberate prior to commencing action.  
+    • Panchatantra 5.17 
+        ◦ अपरीक्ष्य न कर्तव्यं कर्तव्यं सुपरीक्षितम् |  पश्चाद् भवति सन्तापो ब्राह्मणी नकुलं यथा ||
+        ◦ The shloka is an excellent semantic match for the kural. A difference is that the kural says that having second thoughts after commencing a task is a disgrace, whereas the Panchatantra verse says that will lead to remorse. In that sense, the kural includes in the disgrace both the potential thought to abort a task as well as remorse after completing the task. Also the kural uses the word for think, whereas the Panchatantra verse uses the word examine, but they carry the same meaning in this case. The Panchatantra verse provides an example by referring to a story summarized here. A Brahmin lady leaves her baby with a pet mongoose. It kills a threatening snake. Seeing blood on the mongoose, she imagines the worst and kills it, then regrets when she discovers the truth.
+        ◦ This verse is part of the fifth tantra of Panchatantra called Aparīkṣitakārakam — “action undertaken without adequate examination.”
+    •  Arthaśāstra 1.15.1–2
+        ◦ कृतस्वपक्षपरपक्षोपग्रहः कार्यारम्भांश्चिन्तयेत् । मन्त्रपूर्वाः सर्वारम्भाः ॥
+        ◦ The first sūtra directs the ruler, after securing his own side and dealing with the opposing side, to deliberate on the commencement of undertakings. The second states:
+All undertakings are to be preceded by counsel.
+        ◦ कार्यारम्भांश्चिन्तयेत् = எண்ணித் துணிக கருமம்; but says more on what must be considered and the need for counsel
+    • Bharavi's Kiratarjuniyam 2.30: 
+        ◦ सहसा विदधीत न क्रिया-मविवेकः परमापदां पदम् | वृणते हि विमृश्यकारिणं गुणलुब्धाः स्वयमेव सम्पदः || 
+        ◦ The second half of the kural is matched by the injunction in the first half of the shloka: one should not act rashly, for thoughtlessness is the source of the greatest calamities. The first half of the kural is matched, but with additional poetic flourish: fortunes, themselves desirous of virtues, of their own accord choose a person who acts with due deliberation. Is supplies the positive benefit of thoughtful action, which Valluvar leaves implicit.
+| [8](#verse-8) | ஆற்றின் வருந்தா வருத்தம் பலர்நின்று <br> போற்றினும் பொத்துப் படும் | |
+
+    • Mahabharata (BORI) 12.91.7-8 - Shanti Parva,
+        ◦ अधर्मे वर्तमानानामर्थसिद्धिः प्रदृश्यते । तदेव मङ्गलं सर्वं लोकः समनुवर्ततेFor those who persist in adharma, material success is sometimes seen; and the world then follows that alone, treating it as the whole of what is auspicious. 
+        ◦ उच्छिद्यते धर्मवृत्तमधर्मो वर्तते महान् । भयमाहुर्दिवारात्रं यदा पापो न वार्यतेThe established practice of dharma is cut down, and adharma grows powerful. People speak of fear by day and by night when wrongdoing is not restrained.
+        ◦ Subsequent verses describe the deterioration in great detail
+        ◦ Primary parallel: ஆற்றின் வருந்தா = अधर्मे वर्तमानानाम्; வருத்தம் = अर्थसिद्धिः; 
+        ◦ பலர் = सर्वं लोकः; நின்று = समनुवर्तते (nindru can mean follow a practice, not just stand); போற்றினும் = तदेव मङ्गलं (that is auspicious implies praise); பொத்துப் படும் = उच्छिद्यते धर्मवृत्तम् (has the exact connotation of பொத்து and also says what is damaged)
+    • The layered ambiguity of ஆற்றின் வருந்தா, பலர்நின்று போற்றினும், and பொத்துப் படும் is therefore a strength of the synthesis: the undertaking may be unrighteous, improperly conceived, or wrongly executed; others may endorse its apparent success or support it in advance; and the consequence may be practical failure, the destruction of dharma despite worldly success, or the moral failure inherent in the course itself. The parallels illuminate these dimensions collectively without requiring any single Sanskrit passage to encode them all.
+        ◦ ஆற்றின் வருந்தா can mean against dharma or wrong statecraft principles or both
+        ◦ வருத்தம் can mean (successful) effort or sadness due to failure 
+        ◦ பலர்நின்று போற்றினும் can mean the support/praise of others on apparent success, or wider social acceptance and following of others on apparent success, support of others prior to action (which still proves inaequate for success), or support by counsel for the improper means
+        ◦ பொத்துப் படும் - could mean leads to failure of the tasks itself, leads to apaprent success ot failure of dherma and conseuqent deterioration, or just that is evil/morally reprehhensible.
+
+    • We unpack some of these nuiances through additional corroborations
+
+    • Kauṭilya 8.2.11–12 — support cannot rescue a ruler pursuing an improper course, leading to ruin
+        ◦ अन्धो राजा शक्यते सहायसम्पदा यत्र तत्र वा पर्यवस्थापयितुम् ।
+चलितशास्त्रस्तु शास्त्रादन्यथाभिनिविष्टबुद्धिरन्यायेन राज्यं आत्मानं चोपहन्ति ॥
+        ◦ Key terms: सहायसम्पदा, “through the resources of supporters”; अन्यायेन, “unjustly / by an improper course”; उपहन्ति, “injures, destroys.”
+        ◦ Kauṭilya’s contrast is sharp: supporters can keep an ignorant ruler on a proper course, but a ruler whose mind is fixed on acting contrary to the science destroys both himself and his kingdom through misrule.
+        ◦ connect to kural fragments as appropriate
+    • Mahabharata 5.34.6-7: focus on improper statecraft methods leading to failure
+        ◦ मिथ्योपेतानि कर्माणि सिध्येयुर्यानि भारत ।अनुपायप्रयुक्तानि मा स्म तेषु मनः कृथाः ॥तथैव योगविहितं न सिध्येत्कर्म यन्नृप । उपाययुक्तो मेधावी न तत्र ग्लपयेन्मनः ॥५.३४.६–७
+        ◦ secondary corroboration, gives both मिथ्योपेतानि and अनुपायप्रयुक्तानि but says तथैव योगविहितं न सिध्येत्कर्म 
+        ◦ उपाययुक्तो मेधावी न तत्र ग्लपयेन्मनः -- see if this helps our case too
+        ◦ connect to kural fragments as appropriate
+    • Mahabharata Shanti Parva 12.97.2 
+        ◦ अधर्मयुक्तो विजयो ह्यप्रवृत्तोऽस्वर्ग्य एव च । सादयत्येष राजानं महीं च भरतर्षभ ॥
+        ◦ The crucial assertion is that victory obtained through adharma is unstable and brings down both the king and his kingdom. 
+        ◦ connect to kural fragments as appropriate
+    • Summarize concisely and include table below. The primary parallel is Mahābhārata (BORI) Śānti Parva 12.91.7–8: captures the apparent success of an unrighteous course, while सर्वं लोकः समनुवर्तते conveys collective endorsement, and उच्छिद्यते धर्मवृत्तम् expresses the ensuing destruction of established dharma. Kauṭilya 8.2.11–12 and Mahābhārata 5.34.6–7 corroborate the broader point that support cannot compensate for improper statecraft or means; Śānti Parva 12.97.2 adds that victory through adharma brings down both ruler and kingdom. 
+
+| Kural fragment | Mahābhārata (BORI) 12.91.7–8 | Kauṭilya, Arthaśāstra 8.2.11–12 | Mahābhārata 5.34.6–7 | Mahābhārata Śānti Parva 12.97.2 |
+|--|--|--|--|--| 
+| ஆற்றின் வருந்தா | अधर्मे वर्तमानानाम् — pursuing a course contrary to dharma | अन्यथाभिनिविष्टबुद्धिः … अन्यायेन — a ruler committed to improper statecraft and unjust action | मिथ्योपेतानि … अनुपायप्रयुक्तानि — undertakings pursued through false or inappropriate means | अधर्मेण … अधर्मयुक्तः — seeking victory through adharma |
+| வருத்தம் | अर्थसिद्धिः प्रदृश्यते — apparent or visible material success | राज्यं आत्मानं चोपहन्ति — an undertaking that harms the ruler and kingdom | कर्माणि सिध्येयुः … न सिध्येत्कर्म — an undertaking that succeeds or fails according to its means | विजयः — victory, even when obtained through adharma |
+| பலர்நின்று போற்றினும் | सर्वं लोकः समनुवर्तते — society follows and accepts the apparent success as auspicious | सहायसम्पदा — the resources and support of others, which cannot rescue a ruler fixed on an improper course | अनुपायप्रयुक्तानि — even a planned undertaking requires appropriate means; support alone is not the criterion of success | — No explicit reference to collective support or approval |
+| பொத்துப் படும் | उच्छिद्यते धर्मवृत्तम् … अधर्मो वर्तते महान् — established dharma is destroyed and adharma prevails, even amid apparent success | राज्यं आत्मानं चोपहन्ति — the ruler and kingdom are brought to harm or ruin | न सिध्येत्कर्म — an undertaking may fail when its means are inappropriate | सादयत्येष राजानं महीं च — an adharmic victory brings down both ruler and kingdom |
+
+| [9](#verse-9) | நன்றாற்ற லுள்ளுந் தவறுண் டவரவர் பண்பறிந் தாற்றாக் கடை |  |
+
+    • Arthaśāstra 2.10.41 anugraha is nandrattral, could include sama and dana
+        ◦ यथार्हगुणसंयुक्ता पूजा यत्रोपलक्ष्यते । अप्याधौ परिदाने वा भवतस्तावुपग्रहौ ॥
+        ◦ Where the bestowal of honour appropriate to a person's deserving qualities is contemplated, whether as assistance in distress or as a gift, these are called forms of favour (upagraha).
+        ◦ यथार्ह — according to what is deserved, गुण — qualities or merit. संयुक्ता — conjoined with, determined by पूजा — honour, recognition or respectful treatment.
+        ◦ subsequent verse 2.10.42
+            ▪ जातेर्विशेषेषु परेषु चैव ग्रामेषु देशेषु च तेषु तेषु। अनुग्रहो यो नृपतेर्निदेशात्तज्ज्ञः परिहार इति व्यवस्येत्॥ 
+            ▪ This concerns royal favours or remissions (anugraha) extended to particular communities, villages and regions. It is not directly about individual qualities, but it establishes the principle that royal beneficence is differentiated according to the recipient and circumstances.
+        ◦ The error is left implicit.
+    • The overall structure of  original structure:
+        ◦ Arthaśāstra 2.10.41 — primary parallel already addressed: favour or gift according to the recipient's deserving qualities.
+        ◦ Bhaviṣya Purāṇa 1.189.1, 4 — the futility and adverse consequences of giving without regard to the recipient's qualification.
+        ◦ Arthaśāstra 2.10.48–49 — clarification of the constituents of sāma, especially guṇasaṃkīrtana.  Is tehre anything on 
+        ◦ Mahābhārata, Anuśāsana Parva 13.145 — broader ethical context of giving.
+    • Bhaviṣya Purāṇa 1.189.1,4 — the gift and its recipient perish together
+        ◦ जपोपेक्षे तथा दानं सह पात्रेण नश्यति । सद्बीजमूषरे यद्वत्समुप्तं निष्फलं भवेत् ॥१॥
+लोहोडुपेन प्रतरन्निमज्जत्युदके यथा । दाता दाता ग्रहीता च पतत्यंधे तमस्यथ ॥४॥
+        ◦ The imagery is that of seed sown in barren soil: the gift becomes fruitless when the recipient lacks the relevant qualification. The fourth verse says that giver and receiver alike sink into darkness, like people attempting to cross water in a boat of iron.
+    • Arthaśāstra 2.10.48, 54 provides more on sama and upapradana, which can be read as நன்றாற்றல்
+        ◦ तत्र साम पञ्चविधं — गुणसंकीर्तनम्, सम्बन्धोपाख्यानम्, परस्परोपकारसंदर्शनम्, आयतिप्रदर्शनम्, आत्मोपनिधानम् इति ॥ 2.10.48 – list the five types in english
+        ◦ उपप्रदानमर्थोपकारः ॥ 2.10.54 Upapradāna is material assistance or the conferral of material benefit.
+
+        ◦ This reading is corroborated by பரிமேலழகர்:  வேந்தர்மாட்டு நன்றான உபாயம் செய்தற்கண்ணும் குற்றம் உண்டாம்; பரிமேலழகர் குறிப்புரை: நன்றான உபாயமாவது: கொடுத்தலும் இன்சொல் சொல்லுதலுமாம். அவை யாவர் கண்ணும் இனியவாதல் சிறப்புடைமையாயின், உம்மை சிறப்பு உம்மை. 
+
+    • Mahābhārata, Anuśāsana Parva 13.145
+        ◦ The Mahābhārata's Anuśāsana Parva (Dāna-dharma) offers a useful ethical corroboration through its elaborate discussion of pātratā (worthiness or suitability of the recipient). It identifies the giver, the recipient, the object given, the manner of giving, and the place and time as the six constituents of a proper gift. Particularly relevant is its insistence that the gift must be suited to the recipient's individual need: अन्नस्य क्षुधितं पात्रं तृषितं तु जलस्य वै — food is appropriate for the hungry, and water for the thirsty. It further states एवं पात्रेषु नानात्वमिष्यते पुरुषं प्रति, recognising that the suitability of recipients differs from person to person. The text also enjoins the giver to ascertain the recipient's pātratā before giving and to bestow the gift in a manner that satisfies the recipient. Thus, the Mahābhārata reinforces the principle that benevolence is not simply a matter of giving what is intrinsically good, but of discerning what is appropriate to the particular recipient. While its immediate concern is the propriety of charitable giving rather than the possible error in conciliatory treatment, it provides a valuable ethical parallel to Valluvar's insistence on understanding அவரவர் பண்பு before undertaking even a well-intentioned act. 
+
+
+| [10](#verse-10) | எள்ளாத வெண்ணிச் செயல்வேண்டுந் தம்மொடு <br> கொள்ளாத கொள்ளா வுலகு |  |
+
+    • Yājñavalkya Smṛti 1.156:
+        ◦ कर्मणा मनसा वाचा यत्नाद् धर्मं समाचरेत् । अस्वर्ग्यं लोकविद्विष्टं धर्म्यमप्याचरेन् न तु
+        ◦ The verse invokes precisely the idea of लोकविद्विष्ट—that which is disliked or rejected by the world. It says that one should diligently practise dharma through deed, thought, and speech, but should not practise even something apparently dharmic if it is asvargya and lokavidviṣṭa.
+        ◦ Vijñāneśvara's Mitākṣarā commentary explains: लोकविद्विष्टम्,—लोकैर्निन्दितम् 
+        ◦ The decisive expression is लोकविद्विष्टम् which does double duty. It directly corresponds to கொள்ளாத கொள்ளா வுலகு — the world's refusal to accept what is inappropriate to it. Vijñāneśvara's Mitākṣarā gloss, लोकैर्निन्दितम् (censured by the people), brings out the sense of Tamil எள்ளாத: conduct that invites public contempt or reproach. यत्नाद् समाचरेत् corresponds to செயல்வேண்டும், and the எண்ணிச்  — the injunction to exercise judgment before undertaking an action is implicit in the Sanskrit.
+    • Yājñavalkya supplies the aphoristic ethical principle, while Vālmīki supplies the poetic image of public rejection of unpopular act, as discussed next. 
+    • Vālmīki Rāmāyaṇa, Araṇya Kāṇḍa 3.28.4 provides poetic corroboration
+        ◦ कर्म लोकविरुद्धं तु कुर्वाणं क्षणदाचर । तीक्ष्णं सर्वजनो हन्ति सर्पं दुष्टमिवागतम् ॥
+        ◦ O night-roaming one, everyone destroys a person performing a cruel deed opposed to the world, just as they destroy a wicked serpent that has appeared before them.
+corroboration of the idea
+        ◦ Vālmīki gives poetic expression to the consequence implicit in Valluvar's metaphor. One who performs an act लोकविरुद्धम्, opposed to the world, is destroyed by the people just as a wicked serpent is killed when encountered. Thus the Rāmāyaṇa vividly illustrates கொள்ளாத கொள்ளா வுலகு: the world does not merely disapprove of such conduct; it rejects and acts against it.
+    • Arthashastra Corroborations
+        ◦ Arthashastra 1.19.34 gives the general overarching principle
+            ▪ प्रजासुखे सुखं राज्ञः प्रजानां च हिते हितम् । नात्मप्रियं हितं राज्ञः प्रजानां तु प्रियं हितम् ॥ The king's happiness lies in the happiness of his subjects, and his welfare in their welfare. What is pleasing to the king is not necessarily beneficial; what is pleasing to the subjects is beneficial to him.
+        ◦ Arthaśāstra 1.4.8–12 — elaborates the principle in the specific context of punishment
+            ▪ तीक्ष्णदण्डो हि भूतानामुद्वेजनीयो भवति ।
+            ▪ मृदुदण्डः परिभूयते ।
+            ▪ यथार्हदण्डः पूज्यते ।
+            ▪ सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति ।
+            ▪ दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद् वा वानप्रस्थपरिव्राजकानपि कोपयति, किं पुनर्गृहस्थान् ॥
+            ▪ The progression is especially significant: punishment that is too lenient is disregarded or held in contempt; punishment appropriate to the offence is respected; improperly administered punishment provokes resentment, even among forest-dwellers and ascetics.
+
+-->
+
 
