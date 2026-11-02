@@ -8,7 +8,7 @@ tags: [kuralmatch]
 
 |  | [47](#chapter-summary) : பொருட்பால் : அரசியல் : தெரிந்து செயல்வகை |  |
 |--|--|--|
-| [1](#verse-1) | அழிவதூஉ மாவதூஉ மாகி வழிபயக்கு <br> மூதியமுஞ் சூழ்ந்து செயல் |  |
+| [1](#verse-1) | அழிவதூஉ மாவதூஉ மாகி வழிபயக்கு <br> மூதியமுஞ் சூழ்ந்து செயல் | **अल्पागमातिव्ययता क्षयो वृद्धिर्विपर्यये** \| <br> **समायव्ययता स्थानं कर्मसु ज्ञेयमात्मनः** \| <br>  Arthashastra 7.12.31-32 |
 | [2](#verse-2) | தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்  <br> கரும்பொருள் யாதொன்று மில் |  |
 | [3](#verse-3) | ஆக்கங் கருதி முதலிழக்குஞ் செய்வினை <br> யூக்கா ரறிவுடை யார் |  |
 | [4](#verse-4) | தெளிவிலதனைத் தொடங்கா ரிளிவென்னு <br> மேதப்பா டஞ்சு பவர் |  |
@@ -24,6 +24,12 @@ tags: [kuralmatch]
 ## Comments and Research Notes
 
 ## Verse 1
+
+I propose Arthashastra 7.12.31-32 as the primary parallel for this kural. Valluvar's அழிவதூஉம் ஆவதூஉம் finds its direct counterpart in Kautilya's क्षयः वृद्धिः, while the opening अल्पागमातिव्ययता identifies the financial condition that produces decline: inadequate revenue combined with excessive expenditure; the reverse produces growth. This causal formulation illuminates வழிபயக்கும் ஊதியம்: the net return of an undertaking, determined by आय and व्यय, is what may lead either to அழிவு or ஆக்கம். The concluding कर्मसु connects directly with Valluvar's செயல், while ज्ञेयम् supplies the deliberative injunction expressed by சூழ்ந்து: the financial position of the undertaking must be assessed before proceeding. Kautilya specifically requires equal attention to revenue and expenditure, rather than considering either in isolation.
+
+The accounting concept underlying this assessment is further clarified by Arthashastra 2.6.27: संजातादायव्ययविशुद्धा नीवी, प्राप्ता चानुवृत्ता च \|\|. Kautilya defines नीवी as the balance remaining after the reckoning of आय and व्यय, distinguishing between a newly received balance and one carried forward. Valluvar's ஊதியம் may be understood in relation to this difference between revenue and expenditure. This is a conceptual correspondence rather than an assertion of technical identity: the precise accounting treatment of items such as interest on debt, taxes, depreciation, and amortization may differ between the two systems.
+
+The broader statecraft dimension of அழிவு, ஆக்கம், and ஊதியம் emerges from Kauṭilya's preceding formulation in Arthashastra 7.12.29-30: परकर्मोदयो नेतुः क्षयो वृद्धिर्विपर्यये \| तुल्ये कर्मपथे स्थानं ज्ञेयं स्वं विजिगीषुणा \|\| Here क्षय and वृद्धि describe the decline or advancement of the ruler arising from the outcome of an undertaking, rather than merely a commercial loss or gain. Read in this wider context, Valluvar's அழிவு and ஆக்கம், and the ஊதியம் that may lead to either, need not be confined to monetary consequences. They may encompass the broader consequences and returns of an action for the ruler and the state.
 
 
 ## Verse 2
@@ -62,16 +68,6 @@ Another parallel can be found in Bharavi's Kiratarjuniyam 2.30: सहसा व
 ### Chapter Summary
 
 <!-- 
-| [1](#verse-1) | அழிவதூஉ மாவதூஉ மாகி வழிபயக்கு <br> மூதியமுஞ் சூழ்ந்து செயல் |  |
-
-    • Arthashastra 7.12.32
-        ◦ अल्पागमातिव्ययता क्षयो वृद्धिर्विपर्यये । समायव्ययता स्थानं कर्मसु ज्ञेयमात्मनः ॥ ७.१२.३१–३२ ॥
-        ◦ Little return and excessive expenditure means decline; the reverse means increase.  In undertaking a work, one should know equally well one's own position with respect to income and expenditure. 
-        ◦ Valluvar's அழிவதூஉம் ஆவதூஉம் finds its counterpart in Kauṭilya's क्षयः वृद्धिः. The opening expression अल्पागमातिव्ययता establishes the financial condition that leads to क्षयः: inadequate revenue combined with excessive expenditure bring about decline; the reverse condition leads to growth. This causal formulation is particularly significant for understanding வழிபயக்கும் ஊதியம். The net income ஊதியம் of an undertaking, which depnds on both आय and व्यय,  is the means through which it may lead either to அழிவு or ஆக்கம்.  The concluding कर्मसु connects directly with Valluvar's செயல்: the assessment concerns an undertaking or action being contemplated. The gerundive ज्ञेयम् supplies the deliberative injunction expressed by சூழ்ந்து: one's financial position must be known and assessed before proceeding. Kautilya’s injunction further requires that one's position with respect to revenue and expenditure in the undertaking be ascertained, with equal attention given to both.
-    • Arthaśāstra 2.6.27 संजातादायव्ययविशुद्धा नीवी, प्राप्ता चानुवृत्ता च ॥
-        ◦ Kauṭilya defines नीवी as the balance remaining after the reckoning of आय and व्यय, distinguishing between a balance newly received and one carried forward. In our reading, Valluvar's ஊதியம் in this context is related to this difference between revenue and expenditure. This is a conceptual correspondence, not a claim that the two terms are technically identical: the precise accounting treatment of items such as interest on debt, taxes, depreciation and amortisation may differ between the two systems.
-    • The broader statecraft dimension of the Kural's அழிவு, ஆக்கம் and ஊதியம் is illuminated by Kauṭilya's preceding formulation in Arthaśāstra 7.12.31: परकर्मोदयो नेतुः क्षयो वृद्धिर्विपर्यये । तुल्ये कर्मपथे स्थानं ज्ञेयं स्वं विजिगीषुणा ॥ Here, क्षय and वृद्धि describe the decline or advancement of the ruler arising from the outcome of an undertaking, rather than merely a commercial loss or gain. Read in this wider statecraft context, Valluvar's அழிவு and ஆக்கம், and the ஊதியம் that may lead to either, need not be understood in purely monetary terms: they may encompass the broader consequences and returns of an action for the ruler and the state. 
-
 
 | [2](#verse-2) | தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்  <br> கரும்பொருள் யாதொன்று மில் |  |
 
