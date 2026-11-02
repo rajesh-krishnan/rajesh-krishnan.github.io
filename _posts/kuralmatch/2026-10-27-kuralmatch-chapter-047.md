@@ -13,7 +13,7 @@ tags: [kuralmatch]
 | [3](#verse-3) | ஆக்கங் கருதி முதலிழக்குஞ் செய்வினை <br> யூக்கா ரறிவுடை யார் |  |
 | [4](#verse-4) | தெளிவிலதனைத் தொடங்கா ரிளிவென்னு <br> மேதப்பா டஞ்சு பவர் |  |
 | [5](#verse-5) | வகையறச் சூழா தெழுதல் பகைவரைப் <br> பாத்திப் படுப்பதோ ராறு |  |
-| [6](#verse-6) | செய்தக்க வல்ல செயக்கெடுஞ் செய்தக்க  <br> செய்யாமை யானுங் கெடும் |  |
+| [6](#verse-6) | செய்தக்க வல்ல செயக்கெடுஞ் செய்தக்க  <br> செய்யாமை யானுங் கெடும் | **अकार्याणां च करणैः कार्याणां च प्रणाशनैः** \| <br> अप्रदानैश्च देयानामदेयानां च साधनैः \|\| <br> राज्ञः प्रमादालस्याभ्यां **योगक्षेमवधेन** वा \| <br> प्रकृतीनां **क्षयो लोभो विराग्यं चोपजायते** \|\| <br> Arthashastra 7.5.21,26 |
 | [7](#verse-7) | எண்ணித் துணிக கருமந் துணிந்தபி <br> னெண்ணுவ மென்ப திழுக்கு | **निश्चित्य यः प्रक्रमते नान्तर्वसति कर्मणः** \| <br> अवन्ध्यकालो वश्यात्मा **स वै पण्डित उच्यते** \|\| <br> Mahabharata Udyoga Parva 5.33.24 |
 | [8](#verse-8) | ஆற்றின் வருந்தா வருத்தம் பலர்நின்று <br> போற்றினும் பொத்துப் படும் |  |
 | [9](#verse-9) | நன்றாற்ற லுள்ளுந் தவறுண் டவரவர் <br> பண்பறிந் தாற்றாக் கடை |  |
@@ -46,10 +46,28 @@ The broader statecraft dimension of அழிவு, ஆக்கம், and ஊ
 
 ### Verse 6
 
+I propose Arthashastra 7.5.21 and 7.5.26 as the primary parallels for this kural. The correspondence in 7.5.21 is particularly close: செய்தக்க வல்ல செயக்கெடும் finds its counterpart in अकार्याणां च करणैः (doing what ought not to be done), while செய்தக்க செய்யாமை யானுங் matches कार्याणां च प्रणाशनैः (frustrating what ought to be done). Even Valluvar's யானுங் finds an echo in Kautilya's च, reinforcing the pairing of the two forms of misconduct. The consequences captured by கெடும் are developed in 7.5.26: योगक्षेमवधेन (through the failure to secure the welfare and security of the subjects) leads to क्षयः, लोभः, and विराग्यम् (impoverishment, greed, and disaffection). 
+
+The significance of this correspondence becomes clearer from the larger passage. Arthashastra 7.5.19–25 develops the principle through a series of paired forms of misgovernance. These include insulting the good and favoring the wicked; permitting unjustified violence; abandoning righteous customs and neglecting dharma; doing what ought not to be done and frustrating what ought to be done; withholding what is due and exacting what is not due; failing to punish the guilty and punishing the innocent; arresting those who should not be seized and releasing those who should be apprehended; undertaking unprofitable works and frustrating profitable ones; failing to protect the people from thieves and robbing them oneself; abandoning enterprise and condemning good works; harming leaders and dishonoring the worthy; provoking elders and acting with partiality and falsehood; failing to remedy wrongs; and neglecting work already undertaken. The passage thus elaborates Valluvar's compact pairing of wrongful action and omission across the full range of royal administration.
+
+From Arthashastra 7.5.26 onward, Kauṭilya turns to the consequences of such misgovernance. Through the king's negligence, indolence, and failure to secure the welfare and security of his subjects, impoverishment, greed, and disaffection arise. The progression is particularly significant: the impoverished become greedy, the greedy become disaffected, and the disaffected may defect to the enemy or turn against their own ruler. The king must therefore prevent these conditions from arising or remedy them without delay. This gives a distinctly political dimension to Valluvar's கெடும்: the consequences of doing what ought not to be done, or neglecting what ought to be done, extend beyond the immediate undertaking to the deterioration of the kingdom and the ruler's own position.
+
+Yoga Vasistha 6.126.54 provides a positive ethical and spiritual counterpart: कर्तव्यमाचरन्काममकर्तव्यमनाचरन् \| तिष्ठति प्राकृताचारो यः स आर्य इति स्मृतः \|\| (One who willingly performs what ought to be done and refrains from what ought not to be done, living according to proper conduct, is regarded as noble.) The pairing कर्तव्यमाचरन् and अकर्तव्यमनाचरन् directly echoes the two complementary obligations in Valluvar's formulation (செய்தக்க வல்ல and செய்தக்க செய்யாமை). The distinction is in emphasis: the kural warns of the consequences of violating these obligations, whereas the Yoga Vasistha presents their observance as the mark of noble conduct, particularly in the spiritual pursuit.
+
+Mahabharata, Shanti Parva 12.35.2 (BORI) offers another corroboration, extending the consequences from worldly deterioration to moral accountability. Vyasa declares: अकुर्वन्विहितं कर्म प्रतिषिद्धानि चाचरन् \| प्रायश्चित्तीयते ह्येवं नरो मिथ्या च वर्तयन् \|\|. (A person becomes liable to expiation by failing to perform prescribed duties, engaging in prohibited acts, and conducting himself improperly.) The pairing of अकुर्वन् विहितं कर्म (failing to perform prescribed action) and प्रतिषिद्धानि चाचरन् (performing prohibited actions) closely corresponds to Valluvar's twofold formulation. The Mahabharata goes further by explicitly connecting such conduct with प्रायश्चित्त, the need for expiation.
+
+Manusmriti 11.44 reinforces the same connection: अकुर्वन् विहितं कर्म निन्दितं च समाचरन् \| प्रसक्तश्चेन्द्रियार्थेषु प्रायश्चित्तीयते नरः \|\|. (Failing to perform prescribed duties, performing censured acts, and becoming attached to sense-objects make a person liable to expiation.) The correspondence with the Mahabharata is particularly close in the shared expressions अकुर्वन् विहितं कर्म and प्रायश्चित्तीयते. Manusmriti thus corroborates both the prescribed-action/prohibited-action pairing and its connection with expiation, while adding attachment to sense-objects as a further cause of transgression.
+
+A concluding observation: The parallels reveal three complementary dimensions of Valluvar's compact formulation:
+
+  - Statecraft: Kauṭilya demonstrates how wrongful action and neglect undermine the ruler, the subjects, and the kingdom.
+  - Ethical ideal: The Yoga Vasistha presents the converse—performing what ought to be done and refraining from what ought not to be done—as the defining mark of noble conduct.
+  - Moral accountability: The Mahabharata and Manusmriti associate the same pairing of commission and omission with the need for expiation.
+
 
 ### Verse 7
 
-I propose Mahabharata, Udyoga Parva 5.33 (Vidura Niti) as the primary parallel for this kural. The correspondence is particularly close between निश्चित्य यः प्रक्रमते, one who commences an undertaking having first reached a firm decision, and எண்ணித் துணிக கருமம். The subsequent नान्तर्वसति कर्मणः, one who does not hesitate or linger in the midst of an undertaking, resonates with துணிந்தபின் எண்ணுவம்: deliberation and resolution must precede commencement, not become grounds for vacillation once the work is underway. Vidura presents this as the conduct of a wise person, further characterized by अवन्ध्यकालः (one who does not waste time) and वश्यात्मा (one who has control over himself). Valluvar expresses the same injunction from the negative perspective, declaring post-commencement second-guessing to be இழுக்கு, a fault or disgrace.
+I propose a Vidura Niti verse, Mahabharata Udyoga Parva 5.33 (BORI), as the primary parallel for this kural. The correspondence is particularly close between निश्चित्य यः प्रक्रमते, one who commences an undertaking having first reached a firm decision, and எண்ணித் துணிக கருமம். The subsequent नान्तर्वसति कर्मणः, one who does not hesitate or linger in the midst of an undertaking, resonates with துணிந்தபின் எண்ணுவம்: deliberation and resolution must precede commencement, not become grounds for vacillation once the work is underway. Vidura presents this as the conduct of a wise person, further characterized by अवन्ध्यकालः (one who does not waste time) and वश्यात्मा (one who has control over himself). Valluvar expresses the same injunction from the negative perspective, declaring post-commencement second-guessing to be இழுக்கு, a fault or disgrace.
 
 Panchatantra 5.17 provides a particularly close semantic parallel: अपरीक्ष्य न कर्तव्यं कर्तव्यं सुपरीक्षितम् \| पश्चाद् भवति सन्तापो ब्राह्मणी नकुलं यथा \|\| (One should not undertake an action without examining it; one should act only after thorough examination. Otherwise, remorse follows, as in the case of the Brahmani and the mongoose.) The distinction is that Valluvar identifies the fault in reconsidering an undertaking after committing to it, whereas the Panchatantra emphasizes the remorse resulting from acting without adequate prior examination. The latter uses परीक्ष् (to examine) rather than எண்ணு (to think), but the concepts converge in the requirement for careful deliberation before action. The Panchatantra verse introduces the story of a Brahmin lady who leaves her infant in the care of their pet mongoose. The mongoose kills a snake that threatens the child, but when the mother returns and sees blood on the mongoose, she mistakenly assumes that it has harmed the infant and kills it. Discovering the truth, she is overcome with remorse. The story illustrates the consequences of acting without examining the circumstances. Significantly, the verse belongs to the fifth tantra, Aparikshitakarakam, which deals with actions undertaken without adequate examination. The Panchatantra thus complements Valluvar: the kural identifies post-commitment reconsideration as a fault, while the fable demonstrates the consequences of insufficient deliberation before acting.
 
@@ -232,37 +250,6 @@ The second interpretation is particularly important for our Kural.
         ◦ The first verse says that the person who, through delusion, neglects an enemy faction that is prospering, will have his foundations cut away by it, just as by a disease that has been allowed to grow. The key expression is व्याधिराप्यायितः: a disease that has been nourished, augmented or allowed to thrive.
         ◦ these are the words of duryodhana who is jealous of his cousins 
 
-
-| [6](#verse-6) | செய்தக்க வல்ல செயக்கெடுஞ் செய்தக்க <br> செய்யாமை யானுங் கெடும் | 
-
-    • Arthashastra 7.5.21 and 7.5.26
-        ◦ अकार्याणां च करणैः कार्याणां च प्रणाशनैः । अप्रदानैश्च देयानामदेयानां च साधनैः ॥ 
-        ◦ By doing what ought not to be done and failing to do what ought to be done; by withholding what ought to be given and exacting what ought not to be taken.
-        ◦ राज्ञः प्रमादालस्याभ्यां योगक्षेमवधेन वा ।प्रकृतीनां क्षयो लोभो विराग्यं चोपजायते ॥ 
-        ◦ Through the king’s carelessness and indolence, or his failure to secure the welfare and security of his subjects, impoverishment, greed, and disaffection arise among them.
-        ◦ The first half of 7.5.21 matches most of the kural, and 7.5.26 gives the statecraft dimension of கெடும்
-        ◦ Kauṭilya, Arthashastra 7.5.21 first half plus 7.5.26 is the primary parallel
-The negative formulation matches the kural: doing what ought not to be done and frustrating what ought to be done, followed by an extended account of political and social deterioration. 
-        ◦ Establish a tight fine-grained correspondence to kural fragments
-            ▪ செய்தக்க வல்ல செயக்கெடுஞ் अकार्याणां च करणैः 
-            ▪ செய்தக்க செய்யாமை யானுங் कार्याणां च प्रणाशनैः 
-                • (tight match -- even the யானுங் is matched by the च)
-            ▪ கெடும் -- योगक्षेमवधेन … क्षयो लोभो विराग्यं चोपजायते 
-    • Then explain the context 7.5.19–28 that this is part of a broader and detailed elabotation in the statecraft context:
-            ▪ 1. From 7.5.19 to 7.5.25, Kauṭilya elaborates the principle of “doing what ought not to be done and failing to do what ought to be done” through fourteen paired forms of misgovernance: insulting the good and favouring the wicked; permitting unjustified violence; abandoning righteous customs and neglecting dharma; doing what ought not to be done and frustrating what ought to be done; withholding what is due and exacting what is not due; failing to punish the guilty and punishing the innocent; arresting those who should not be seized and releasing those who should be apprehended; undertaking unprofitable works and frustrating profitable ones; failing to protect the people from thieves and robbing them oneself; abandoning enterprise and condemning good works; harming leaders and dishonouring the worthy; provoking elders and acting with partiality and falsehood; failing to remedy wrongs; and neglecting work already undertaken. 
-            ▪ 2. From 7.5.26 onward, Kauṭilya explains the destructive consequences: through the king’s negligence and failure to safeguard his subjects’ welfare, impoverishment, greed, and disaffection arise; the impoverished become greedy, the greedy become disaffected, and the disaffected may defect to the enemy or turn against their ruler, making it imperative for the king to prevent these causes or remedy them immediately.
-
-    • Yoga Vāsiṣṭha 6.126.54
-        ◦ कर्तव्यमाचरन्काममकर्तव्यमनाचरन् । तिष्ठति प्राकृताचारो यः स आर्य इति स्मृतः ॥
-        ◦ “Whoever willingly performs what ought to be done and refrains from what ought not to be done, living according to proper conduct, is regarded as noble.” 
-        ◦ Yoga Vāsiṣṭha 6.126.54 is the Positive spiritual counterpart of the kural for one seeking liberation. The ideal of nobility: कर्तव्यमाचरन् ... अकर्तव्यमनाचरन् — doing what ought to be done and refraining from what ought not to be done. The kural states the converse proposition.
-
-    • Mahabharata Shanti Parva 12.35.2:
-        ◦ व्यास उवाच । अकुर्वन्विहितं कर्म प्रतिषिद्धानि चाचरन् । प्रायश्चित्तीयते ह्येवं नरो मिथ्या च वर्तयन् Vyāsa said: “In this way a person becomes one who must undertake expiation: by failing to perform prescribed duties, by engaging in prohibited acts, and by living in a false and improper manner.”
-        ◦ Mahabharata, Shanti Parva 12.35.2 (BORI numbering)	 In addition to corroborating “doing what ought not to be done and failing to do what ought to be done” but goes beyond “kedum” into “prayaschitta”/expiation. The pairing of failing to perform prescribed acts and performing prohibited acts, in an expiatory context.
-    • Manusmṛti 11.44
-        ◦ अकुर्वन् विहितं कर्म निन्दितं च समाचरन् । प्रसक्तश्चेन्द्रियार्थेषु प्रायश्चित्तीयते नरः ॥ ११.४४ ॥ “Failing to perform prescribed duties, performing censured acts, and being attached to sense-objects, a person becomes liable to expiation.” 	
-        ◦ Additional corroboration from Manusmṛti 11.44 to the MBh verse and to the kural itself. Echoes the prescribed/prohibited action pairing (as in the kural) and its connection witt liability to expiation (as in the Mahabahrata verse).
 
 
 
