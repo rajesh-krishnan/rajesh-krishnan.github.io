@@ -305,11 +305,13 @@ The second interpretation is particularly important for our Kural.
             ▪ जातेर्विशेषेषु परेषु चैव ग्रामेषु देशेषु च तेषु तेषु। अनुग्रहो यो नृपतेर्निदेशात्तज्ज्ञः परिहार इति व्यवस्येत्॥ 
             ▪ This concerns royal favours or remissions (anugraha) extended to particular communities, villages and regions. It is not directly about individual qualities, but it establishes the principle that royal beneficence is differentiated according to the recipient and circumstances.
         ◦ The error is left implicit.
+        
     • The overall structure of  original structure:
         ◦ Arthaśāstra 2.10.41 — primary parallel already addressed: favour or gift according to the recipient's deserving qualities.
         ◦ Bhaviṣya Purāṇa 1.189.1, 4 — the futility and adverse consequences of giving without regard to the recipient's qualification.
         ◦ Arthaśāstra 2.10.48–49 — clarification of the constituents of sāma, especially guṇasaṃkīrtana.  Is tehre anything on 
         ◦ Mahābhārata, Anuśāsana Parva 13.145 — broader ethical context of giving.
+        
     • Bhaviṣya Purāṇa 1.189.1,4 — the gift and its recipient perish together
         ◦ जपोपेक्षे तथा दानं सह पात्रेण नश्यति । सद्बीजमूषरे यद्वत्समुप्तं निष्फलं भवेत् ॥१॥
 लोहोडुपेन प्रतरन्निमज्जत्युदके यथा । दाता दाता ग्रहीता च पतत्यंधे तमस्यथ ॥४॥
@@ -317,7 +319,6 @@ The second interpretation is particularly important for our Kural.
     • Arthaśāstra 2.10.48, 54 provides more on sama and upapradana, which can be read as நன்றாற்றல்
         ◦ तत्र साम पञ्चविधं — गुणसंकीर्तनम्, सम्बन्धोपाख्यानम्, परस्परोपकारसंदर्शनम्, आयतिप्रदर्शनम्, आत्मोपनिधानम् इति ॥ 2.10.48 – list the five types in english
         ◦ उपप्रदानमर्थोपकारः ॥ 2.10.54 Upapradāna is material assistance or the conferral of material benefit.
-
         ◦ This reading is corroborated by பரிமேலழகர்:  வேந்தர்மாட்டு நன்றான உபாயம் செய்தற்கண்ணும் குற்றம் உண்டாம்; பரிமேலழகர் குறிப்புரை: நன்றான உபாயமாவது: கொடுத்தலும் இன்சொல் சொல்லுதலுமாம். அவை யாவர் கண்ணும் இனியவாதல் சிறப்புடைமையாயின், உம்மை சிறப்பு உம்மை. 
 
     • Mahābhārata, Anuśāsana Parva 13.145
