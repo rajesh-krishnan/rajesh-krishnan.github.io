@@ -22,7 +22,7 @@ tags: [kuralmatch]
 
 ## Comments and Research Notes
 
-## Verse 1
+### Verse 1
 
 I propose Mahabharata, Striparva 11.12.4 (BORI) as the primary parallel for this kural. The correspondence lies in दोषानवेक्षते (examines faults) with தீமையு நாடி, while परं श्रेयः स विन्दति (attains the highest good) closely echoes நலம்புரிந்த. The examination of நன்மை is implicit in the movement from scrutinizing faults to discerning and attaining श्रेयस्; राजा provides the explicit context of rulership for ஆளப் படும். The context makes this implicit dimension particularly significant: earlier, in 11.12.2, Krishna reminds Dhritarashtra of his learning in the Vedas, Shastras, and Rajadharma—श्रुतानि च पुराणानि राजधर्माश्च—so discerning the good is a standard he already knows but has failed to apply. The surrounding rebuke makes the connection especially pointed: Dhritarashtra has failed to examine his own misconduct and its consequences for the Pandavas’ rightful claim. Krishna’s injunction in 11.12.6, ततोऽन्यवृत्तमात्मानं समवेक्षस्व (examine yourself as one who has acted otherwise than properly), reinforces the demand for self-scrutiny.
 
@@ -172,7 +172,7 @@ The corroborating texts offer several further insights into the principles compr
 
 These parallels do not make the texts interchangeable, nor do they imply that every nuance is explicit in Valluvar. Rather, they show how the wider niti tradition can illuminate the concentrated force of his formulations while preserving the distinct contribution of each text.
 
-### Discernment and நன்மை பயக்கும்: a tripartite reading of the Tirukkural
+#### Discernment and நன்மை பயக்கும்: a tripartite reading of the Tirukkural
 
 The title தெரிந்து வினையாடல் suggests a connection between discernment and action, a theme that can be illuminated by the Kathopanishad’s distinction between shreyas and preyas (1.2.2). This offers a broad conceptual lens across the Arattuppal, Porutpal, and Kamattuppal, provided that shreyas and preyas are not simplistically equated with a universal moral opposition between good and evil. The central concern is discerning what is genuinely beneficial rather than merely attractive or immediately desirable.
 
@@ -184,7 +184,7 @@ Across the three sections, இருமை வகைதெரிந்து in 
 
 This is a synthetic interpretation of Valluvar’s thought, not a claim that every occurrence of நன்மை, தீமை, அறம், or shreyas and preyas in the proposed parallels has precisely the same meaning in every context.
 
-### Concluding thoughts
+#### Concluding thoughts
 
 Taken together, the correspondences reveal a broad congruence between Valluvar and the Sanskrit niti tradition: sound governance depends on discerning the good, selecting and matching capable people to particular work, delegating with judgment, and maintaining oversight. The Arthashastra supplies the larger framework, while Valluvar’s ten compact couplets selectively distill particular principles within it, preserving their own emphasis and force.
 
