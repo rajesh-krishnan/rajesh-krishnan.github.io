@@ -23,7 +23,7 @@ tags: [kuralmatch]
 
 ## Comments and Research Notes
 
-## Verse 1
+### Verse 1
 
 I propose Arthashastra 7.12.31-32 as the primary parallel for this kural. Valluvar's அழிவதூஉம் ஆவதூஉம் finds its direct counterpart in Kautilya's क्षयः वृद्धिः, while the opening अल्पागमातिव्ययता identifies the financial condition that produces decline: inadequate revenue combined with excessive expenditure; the reverse produces growth. This causal formulation illuminates வழிபயக்கும் ஊதியம்: the net return of an undertaking, determined by आय and व्यय, is what may lead either to அழிவு or ஆக்கம். The concluding कर्मसु connects directly with Valluvar's செயல், while ज्ञेयम् supplies the deliberative injunction expressed by சூழ்ந்து: the financial position of the undertaking must be assessed before proceeding. Kautilya specifically requires equal attention to revenue and expenditure, rather than considering either in isolation.
 
@@ -32,22 +32,22 @@ The accounting concept underlying this assessment is further clarified by Arthas
 The broader statecraft dimension of அழிவு, ஆக்கம், and ஊதியம் emerges from Kauṭilya's preceding formulation in Arthashastra 7.12.29-30: परकर्मोदयो नेतुः क्षयो वृद्धिर्विपर्यये \| तुल्ये कर्मपथे स्थानं ज्ञेयं स्वं विजिगीषुणा \|\| Here क्षय and वृद्धि describe the decline or advancement of the ruler arising from the outcome of an undertaking, rather than merely a commercial loss or gain. Read in this wider context, Valluvar's அழிவு and ஆக்கம், and the ஊதியம் that may lead to either, need not be confined to monetary consequences. They may encompass the broader consequences and returns of an action for the ruler and the state.
 
 
-## Verse 2
+### Verse 2
 
 
-## Verse 3
+### Verse 3
 
 
-## Verse 4
+### Verse 4
 
 
-## Verse 5
+### Verse 5
 
 
-## Verse 6
+### Verse 6
 
 
-## Verse 7
+### Verse 7
 
 I propose Mahabharata, Udyoga Parva 5.33 (Vidura Niti) as the primary parallel for this kural. The correspondence is particularly close between निश्चित्य यः प्रक्रमते, one who commences an undertaking having first reached a firm decision, and எண்ணித் துணிக கருமம். The subsequent नान्तर्वसति कर्मणः, one who does not hesitate or linger in the midst of an undertaking, resonates with துணிந்தபின் எண்ணுவம்: deliberation and resolution must precede commencement, not become grounds for vacillation once the work is underway. Vidura presents this as the conduct of a wise person, further characterized by अवन्ध्यकालः (one who does not waste time) and वश्यात्मा (one who has control over himself). Valluvar expresses the same injunction from the negative perspective, declaring post-commencement second-guessing to be இழுக்கு, a fault or disgrace.
 
@@ -58,10 +58,10 @@ Arthashastra 1.15.1–2 corroborates the requirement that deliberation precede t
 Bharavi's Kiratarjuniyam 2.30 offers a poetic formulation that brings out both the danger of rash action and the benefit of deliberation: सहसा विदधीत न क्रिया-मविवेकः परमापदां पदम् \| वृणते हि विमृश्यकारिणं गुणलुब्धाः स्वयमेव सम्पदः \|\| (One should not undertake an action hastily, for lack of discernment is the source of the greatest calamities. Indeed, prosperity, desirous of virtues, chooses of its own accord the person who acts after due deliberation.) The first half, सहसा विदधीत न क्रियाम् (one should not act hastily), reinforces the injunction எண்ணித் துணிக கருமம், while अविवेकः परमापदां पदम् (thoughtlessness is the source of the greatest calamities) underscores the danger of acting without prior consideration. The second half adds a positive dimension that Valluvar leaves implicit: prosperity itself gravitates toward the person who acts विमृश्य (after due deliberation). Thus, Bharavi not only warns against rash action but also presents thoughtful action as a quality that attracts success.
 
 
-## Verse 8
+### Verse 8
 
 
-## Verse 9
+### Verse 9
 
 
 ### Verse 10
