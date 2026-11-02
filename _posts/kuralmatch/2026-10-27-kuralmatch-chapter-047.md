@@ -17,7 +17,7 @@ tags: [kuralmatch]
 | [7](#verse-7) | எண்ணித் துணிக கருமந் துணிந்தபி <br> னெண்ணுவ மென்ப திழுக்கு | <!-- **अपरीक्ष्य न कर्तव्यं कर्तव्यं सुपरीक्षितम्** \| <br> **पश्चाद् भवति सन्तापो ब्राह्मणी नकुलं यथा** \|\| <br> Panchatantra 5.17 --> |
 | [8](#verse-8) | ஆற்றின் வருந்தா வருத்தம் பலர்நின்று <br> போற்றினும் பொத்துப் படும் |  |
 | [9](#verse-9) | நன்றாற்ற லுள்ளுந் தவறுண் டவரவர் <br> பண்பறிந் தாற்றாக் கடை |  |
-| [10](#verse-10) | எள்ளாத வெண்ணிச் செயல்வேண்டுந் தம்மொடு <br> கொள்ளாத கொள்ளா வுலகு |  |
+| [10](#verse-10) | எள்ளாத வெண்ணிச் செயல்வேண்டுந் தம்மொடு <br> கொள்ளாத கொள்ளா வுலகு | कर्मणा मनसा वाचा **यत्नाद् धर्मं समाचरेत्** \| <br> **अस्वर्ग्यं लोकविद्विष्टं धर्म्यमप्याचरेन् न तु**  \|\| <br> Yajnavalkya Smriti 1.155 |
 
 <!-- Mankkudavar verse order: 2, 4, 7, 1, 3, 10, 9, 6, 8, 5 -->
 
@@ -64,13 +64,68 @@ Another parallel can be found in Bharavi's Kiratarjuniyam 2.30: सहसा व
 
 ### Verse 10
 
+I propose Yajnavalkya Smriti 1.155 as the primary parallel for this kural. Yajnavalkya cautions against undertaking even an apparently righteous act when it is contrary to accepted social norms and invites public condemnation. The correspondence is between Valluvar's கொள்ளாத கொள்ளா வுலகு and Yajnavalkya's लोकविद्विष्टम्, that which is disliked or censured by the world. Valluvar's எள்ளாத, conveying conduct that invites public reproach or contempt, is implicit in Yajnavalkya's लोकविद्विष्टम्. The injunction यत्नाद् धर्मं समाचरेत्, to practise dharma diligently, corresponds to செயல்வேண்டும், while எண்ணிச், the deliberation preceding action, is implicit in the qualification that even apparently dharmic conduct must not be undertaken if it is अस्वर्ग्यम् and लोकविद्विष्टम्.  
+
+Valluvar's கொள்ளாத encompasses actions disliked by people whether or not they are righteous, which Yajnavalkya makes explicit with धर्म्यमपि (even if righteous); Yajnavalkya states the positive and the negative, समाचरेत् and आचरेन्न 
+
+. 
+
+
+An additional resonance occurs in कर्मणा मनसा वाचा, which evokes the three dimensions of Valluvar's expression: எள்ளாத (relating to words), எண்ணி (relating to thought), and செயல் (relating to action). While this is not the primary correspondence, the convergence is suggestive: both formulations encompass speech, thought, and action.
+
+The relevant verse reads: कर्मणा मनसा वाचा यत्नाद् धर्मं समाचरेत् । अस्वर्ग्यं लोकविद्विष्टं धर्म्यमप्याचरेन् न तु ॥ (Yājñavalkya Smṛti 1.156).  The formulation is especially significant because it places public acceptance among the considerations relevant to ethical judgment, without making popular approval alone the definition of dharma.
+
+Vālmīki Rāmāyaṇa, Araṇya Kāṇḍa 3.28.4 provides poetic corroboration of the consequence implicit in Valluvar's expression: कर्म लोकविरुद्धं तु कुर्वाणं क्षणदाचर । तीक्ष्णं सर्वजनो हन्ति सर्पं दुष्टमिवागतम् ॥ (O night-roaming one, everyone destroys a person performing a cruel deed opposed to the world, just as they destroy a wicked serpent that has appeared before them.) Vālmīki's लोकविरुद्धम्, conduct opposed to the world, is closely related to Yājñavalkya's लोकविद्विष्टम्. The simile of the serpent makes the consequence particularly vivid: the world does not merely disapprove of such conduct but actively rejects its perpetrator. This gives a forceful poetic expression to கொள்ளாத கொள்ளா வுலகு.
+
+Kauṭilya extends the same principle into the sphere of governance. Arthashastra 1.19.34 establishes the overarching criterion for the ruler: प्रजासुखे सुखं राज्ञः प्रजानां च हिते हितम् । नात्मप्रियं हितं राज्ञः प्रजानां तु प्रियं हितम् ॥ The king's happiness lies in the happiness of his subjects, and his welfare in their welfare; what is pleasing to the king is not necessarily beneficial, whereas what is pleasing to the subjects is beneficial to him. The ruler must therefore assess his actions not merely by his own preferences but by their consequences for the people whose welfare sustains his own.
+
+Arthashastra 1.4.8–12 elaborates this principle in the specific context of punishment. Kauṭilya observes: तीक्ष्णदण्डो हि भूतानामुद्वेजनीयो भवति (excessively severe punishment causes distress among the people); मृदुदण्डः परिभूयते (excessively mild punishment is disregarded or held in contempt); यथार्हदण्डः पूज्यते (punishment proportionate to the offence is respected); सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति (properly understood and administered punishment enables the subjects to pursue dharma, artha, and kama). He further warns that improperly administered punishment, whether arising from desire, anger, or ignorance, provokes even forest-dwellers and ascetics, let alone householders: दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद् वा वानप्रस्थपरिव्राजकानपि कोपयति, किं पुनर्गृहस्थान् ॥ The progression is instructive: excessive severity provokes the people, excessive leniency invites contempt, and proportionate punishment earns respect. Thus, the ruler's actions must be measured against the standards and legitimate expectations of those subject to them.
+
+A research observation: There is a useful distinction among the three Sanskrit formulations:
+
+- लोकविद्विष्टम् — that which the world censures (Yājñavalkya).
+- लोकविरुद्धम् — that which runs counter to the world (Vālmīki).
+- प्रजाप्रियं हितम् — that which is pleasing and beneficial to the subjects (Kauṭilya).
+
+Together, they illuminate three aspects of Valluvar's thought: public censure as a criterion of judgment, popular rejection as a consequence of transgression, and the ruler's obligation to align his actions with the welfare of his people.
+
+I would preserve this distinction rather than collapse all three into a single notion of public opinion. It makes the correspondence richer while keeping the primary parallel firmly anchored in Yājñavalkya.
+
+OM.
+
+<!--
+| [10](#verse-10) | எள்ளாத வெண்ணிச் செயல்வேண்டுந் தம்மொடு <br> கொள்ளாத கொள்ளா வுலகு |  |
+
+    • Yājñavalkya Smṛti 1.156:
+        ◦ कर्मणा मनसा वाचा यत्नाद् धर्मं समाचरेत् । अस्वर्ग्यं लोकविद्विष्टं धर्म्यमप्याचरेन् न तु
+        ◦ The verse invokes precisely the idea of लोकविद्विष्ट—that which is disliked or rejected by the world. It says that one should diligently practise dharma through deed, thought, and speech, but should not practise even something apparently dharmic if it is asvargya and lokavidviṣṭa.
+        ◦ Vijñāneśvara's Mitākṣarā commentary explains: लोकविद्विष्टम्,—लोकैर्निन्दितम् 
+        ◦ The decisive expression is लोकविद्विष्टम् which does double duty. It directly corresponds to கொள்ளாத கொள்ளா வுலகு — the world's refusal to accept what is inappropriate to it. Vijñāneśvara's Mitākṣarā gloss, लोकैर्निन्दितम् (censured by the people), brings out the sense of Tamil எள்ளாத: conduct that invites public contempt or reproach. यत्नाद् समाचरेत् corresponds to செயல்வேண்டும், and the எண்ணிச்  — the injunction to exercise judgment before undertaking an action is implicit in the Sanskrit.
+    • Yājñavalkya supplies the aphoristic ethical principle, while Vālmīki supplies the poetic image of public rejection of unpopular act, as discussed next. 
+    • Vālmīki Rāmāyaṇa, Araṇya Kāṇḍa 3.28.4 provides poetic corroboration
+        ◦ कर्म लोकविरुद्धं तु कुर्वाणं क्षणदाचर । तीक्ष्णं सर्वजनो हन्ति सर्पं दुष्टमिवागतम् ॥
+        ◦ O night-roaming one, everyone destroys a person performing a cruel deed opposed to the world, just as they destroy a wicked serpent that has appeared before them.
+corroboration of the idea
+        ◦ Vālmīki gives poetic expression to the consequence implicit in Valluvar's metaphor. One who performs an act लोकविरुद्धम्, opposed to the world, is destroyed by the people just as a wicked serpent is killed when encountered. Thus the Rāmāyaṇa vividly illustrates கொள்ளாத கொள்ளா வுலகு: the world does not merely disapprove of such conduct; it rejects and acts against it.
+    • Arthashastra Corroborations
+        ◦ Arthashastra 1.19.34 gives the general overarching principle
+            ▪ प्रजासुखे सुखं राज्ञः प्रजानां च हिते हितम् । नात्मप्रियं हितं राज्ञः प्रजानां तु प्रियं हितम् ॥ The king's happiness lies in the happiness of his subjects, and his welfare in their welfare. What is pleasing to the king is not necessarily beneficial; what is pleasing to the subjects is beneficial to him.
+        ◦ Arthaśāstra 1.4.8–12 — elaborates the principle in the specific context of punishment
+            ▪ तीक्ष्णदण्डो हि भूतानामुद्वेजनीयो भवति ।
+            ▪ मृदुदण्डः परिभूयते ।
+            ▪ यथार्हदण्डः पूज्यते ।
+            ▪ सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति ।
+            ▪ दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद् वा वानप्रस्थपरिव्राजकानपि कोपयति, किं पुनर्गृहस्थान् ॥
+            ▪ The progression is especially significant: punishment that is too lenient is disregarded or held in contempt; punishment appropriate to the offence is respected; improperly administered punishment provokes resentment, even among forest-dwellers and ascetics.
+-->
+
+
 
 ### Chapter Summary
 
 <!-- 
 
 | [2](#verse-2) | தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்  <br> கரும்பொருள் யாதொன்று மில் |  |
-
 
     • Mahabharata (BORI) 5.40.21 - Udyoga Parva
         ◦ प्रज्ञावृद्धं धर्मवृद्धं स्वबन्धुं विद्यावृद्धं वयसापि वृद्धम् । कार्याकार्ये पूजयित्वा प्रसाद्य यः सम्पृच्छेन्न स मुह्येत् कदाचित् ॥
@@ -114,8 +169,8 @@ Even an easy undertaking becomes difficult for one person acting alone, especial
         ◦ Heaven, wealth, grain, learning, children and happiness—nothing is unattainable through following the instructions of one's gurus.
         ◦ The phrase न किञ्चिदपि दुर्लभम् is strikingly close to அரும்பொருள் யாதொன்றும் இல்.
 
-| [3](#verse-3) | ஆக்கங் கருதி முதலிழக்குஞ் செய்வினை <br> யூக்கா ரறிவுடை யார் |  |
 
+| [3](#verse-3) | ஆக்கங் கருதி முதலிழக்குஞ் செய்வினை <br> யூக்கா ரறிவுடை யார் |  |
 
     • Bṛhaspati Smṛti, Ṛṇādāna, section 6, 1.10.37-43 on pledged property:
         ◦ आधिस्तु भुज्यते तावद्यावत्तन्न प्रदीयते । आधिर्बन्धः समाख्यातः स च प्रोक्तश्चतुर्विधः 
@@ -144,8 +199,9 @@ The limitation should be stated plainly: Bṛhaspati treats the specific case of
         ◦ The advice is to induce the rival king to: undertake great and difficult projects; engage in costly conflicts over river embankments; construct expensive gardens and provide luxurious beds and seats; spend the treasury on pleasures and extravagant consumption. "When the treasury is depleted, he comes under the control of his enemies." 
         ◦ It is almost an inverted illustration of the principle we want: a counsellor deliberately recommends expensive, unproductive undertakings to an enemy king in order to drain his treasury. 
         ◦ The aakkam meaning profit and muthal meaning capital/principal remain the primary reading of the kural.
-| [4](#verse-4) | தெளிவிலதனைத் தொடங்கா ரிளிவென்னு <br> மேதப்பா டஞ்சு பவர் |  |
 
+
+| [4](#verse-4) | தெளிவிலதனைத் தொடங்கா ரிளிவென்னு <br> மேதப்பா டஞ்சு பவர் |  |
 
     • Kāmandakīya Nītisāra XII.39 as the primary parallel
         ◦ यत्र मन्त्रिमनःसाम्यं यत्र चेतो न शङ्कते । यत्र सन्तो न निन्दन्ति तत् परीयाच् चिकीर्षितम् ॥ १२.३९ ॥
@@ -180,10 +236,6 @@ All undertakings are to be preceded by counsel.
         ◦ अक्षमः क्षमतामानी क्रियायां यः प्रवर्तते । स हि हास्यास्पदत्वं च लभते प्राणसंशयम् ॥ ११९ ॥
         ◦ One who, though incapable, thinks himself capable and enters into an undertaking becomes an object of ridicule and even risks his life. 
             ▪ Arguably examining competence is a dimension of thelithal; the ridicule portion of the kural is  corroborated
-
-
-
-
 
 
 | [5](#verse-5) | வகையறச் சூழா தெழுதல் பகைவரைப் <br> பாத்திப் படுப்பதோ ராறு | |
@@ -225,6 +277,8 @@ The second interpretation is particularly important for our Kural.
         ◦ शत्रुपक्षं समृध्यन्तं यो मोहात्समुपेक्षते ।व्याधिराप्यायित इव तस्य मूलं छिनत्ति सः ॥ अल्पोऽपि ह्यरिरत्यन्तं वर्धमानपराक्रमः । वल्मीको मूलज इव ग्रसते वृक्षमन्तिकात् ॥
         ◦ The first verse says that the person who, through delusion, neglects an enemy faction that is prospering, will have his foundations cut away by it, just as by a disease that has been allowed to grow. The key expression is व्याधिराप्यायितः: a disease that has been nourished, augmented or allowed to thrive.
         ◦ these are the words of duryodhana who is jealous of his cousins 
+
+
 | [6](#verse-6) | செய்தக்க வல்ல செயக்கெடுஞ் செய்தக்க <br> செய்யாமை யானுங் கெடும் | 
 
     • Arthashastra 7.5.21 and 7.5.26
@@ -256,6 +310,7 @@ The negative formulation matches the kural: doing what ought not to be done and 
         ◦ अकुर्वन् विहितं कर्म निन्दितं च समाचरन् । प्रसक्तश्चेन्द्रियार्थेषु प्रायश्चित्तीयते नरः ॥ ११.४४ ॥ “Failing to perform prescribed duties, performing censured acts, and being attached to sense-objects, a person becomes liable to expiation.” 	
         ◦ Additional corroboration from Manusmṛti 11.44 to the MBh verse and to the kural itself. Echoes the prescribed/prohibited action pairing (as in the kural) and its connection witt liability to expiation (as in the Mahabahrata verse).
 
+
 [7](#verse-7) | எண்ணித் துணிக கருமந் துணிந்தபி <br> னெண்ணுவ மென்ப திழுக்கு |
 
     • Mahābhārata — Vidura Nīti, Udyogaparva 5.33
@@ -275,6 +330,8 @@ All undertakings are to be preceded by counsel.
     • Bharavi's Kiratarjuniyam 2.30: 
         ◦ सहसा विदधीत न क्रिया-मविवेकः परमापदां पदम् | वृणते हि विमृश्यकारिणं गुणलुब्धाः स्वयमेव सम्पदः || 
         ◦ The second half of the kural is matched by the injunction in the first half of the shloka: one should not act rashly, for thoughtlessness is the source of the greatest calamities. The first half of the kural is matched, but with additional poetic flourish: fortunes, themselves desirous of virtues, of their own accord choose a person who acts with due deliberation. Is supplies the positive benefit of thoughtful action, which Valluvar leaves implicit.
+
+
 | [8](#verse-8) | ஆற்றின் வருந்தா வருத்தம் பலர்நின்று <br> போற்றினும் பொத்துப் படும் | |
 
     • Mahabharata (BORI) 12.91.7-8 - Shanti Parva,
@@ -344,29 +401,6 @@ All undertakings are to be preceded by counsel.
         ◦ The Mahābhārata's Anuśāsana Parva (Dāna-dharma) offers a useful ethical corroboration through its elaborate discussion of pātratā (worthiness or suitability of the recipient). It identifies the giver, the recipient, the object given, the manner of giving, and the place and time as the six constituents of a proper gift. Particularly relevant is its insistence that the gift must be suited to the recipient's individual need: अन्नस्य क्षुधितं पात्रं तृषितं तु जलस्य वै — food is appropriate for the hungry, and water for the thirsty. It further states एवं पात्रेषु नानात्वमिष्यते पुरुषं प्रति, recognising that the suitability of recipients differs from person to person. The text also enjoins the giver to ascertain the recipient's pātratā before giving and to bestow the gift in a manner that satisfies the recipient. Thus, the Mahābhārata reinforces the principle that benevolence is not simply a matter of giving what is intrinsically good, but of discerning what is appropriate to the particular recipient. While its immediate concern is the propriety of charitable giving rather than the possible error in conciliatory treatment, it provides a valuable ethical parallel to Valluvar's insistence on understanding அவரவர் பண்பு before undertaking even a well-intentioned act. 
 
 
-| [10](#verse-10) | எள்ளாத வெண்ணிச் செயல்வேண்டுந் தம்மொடு <br> கொள்ளாத கொள்ளா வுலகு |  |
-
-    • Yājñavalkya Smṛti 1.156:
-        ◦ कर्मणा मनसा वाचा यत्नाद् धर्मं समाचरेत् । अस्वर्ग्यं लोकविद्विष्टं धर्म्यमप्याचरेन् न तु
-        ◦ The verse invokes precisely the idea of लोकविद्विष्ट—that which is disliked or rejected by the world. It says that one should diligently practise dharma through deed, thought, and speech, but should not practise even something apparently dharmic if it is asvargya and lokavidviṣṭa.
-        ◦ Vijñāneśvara's Mitākṣarā commentary explains: लोकविद्विष्टम्,—लोकैर्निन्दितम् 
-        ◦ The decisive expression is लोकविद्विष्टम् which does double duty. It directly corresponds to கொள்ளாத கொள்ளா வுலகு — the world's refusal to accept what is inappropriate to it. Vijñāneśvara's Mitākṣarā gloss, लोकैर्निन्दितम् (censured by the people), brings out the sense of Tamil எள்ளாத: conduct that invites public contempt or reproach. यत्नाद् समाचरेत् corresponds to செயல்வேண்டும், and the எண்ணிச்  — the injunction to exercise judgment before undertaking an action is implicit in the Sanskrit.
-    • Yājñavalkya supplies the aphoristic ethical principle, while Vālmīki supplies the poetic image of public rejection of unpopular act, as discussed next. 
-    • Vālmīki Rāmāyaṇa, Araṇya Kāṇḍa 3.28.4 provides poetic corroboration
-        ◦ कर्म लोकविरुद्धं तु कुर्वाणं क्षणदाचर । तीक्ष्णं सर्वजनो हन्ति सर्पं दुष्टमिवागतम् ॥
-        ◦ O night-roaming one, everyone destroys a person performing a cruel deed opposed to the world, just as they destroy a wicked serpent that has appeared before them.
-corroboration of the idea
-        ◦ Vālmīki gives poetic expression to the consequence implicit in Valluvar's metaphor. One who performs an act लोकविरुद्धम्, opposed to the world, is destroyed by the people just as a wicked serpent is killed when encountered. Thus the Rāmāyaṇa vividly illustrates கொள்ளாத கொள்ளா வுலகு: the world does not merely disapprove of such conduct; it rejects and acts against it.
-    • Arthashastra Corroborations
-        ◦ Arthashastra 1.19.34 gives the general overarching principle
-            ▪ प्रजासुखे सुखं राज्ञः प्रजानां च हिते हितम् । नात्मप्रियं हितं राज्ञः प्रजानां तु प्रियं हितम् ॥ The king's happiness lies in the happiness of his subjects, and his welfare in their welfare. What is pleasing to the king is not necessarily beneficial; what is pleasing to the subjects is beneficial to him.
-        ◦ Arthaśāstra 1.4.8–12 — elaborates the principle in the specific context of punishment
-            ▪ तीक्ष्णदण्डो हि भूतानामुद्वेजनीयो भवति ।
-            ▪ मृदुदण्डः परिभूयते ।
-            ▪ यथार्हदण्डः पूज्यते ।
-            ▪ सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति ।
-            ▪ दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद् वा वानप्रस्थपरिव्राजकानपि कोपयति, किं पुनर्गृहस्थान् ॥
-            ▪ The progression is especially significant: punishment that is too lenient is disregarded or held in contempt; punishment appropriate to the offence is respected; improperly administered punishment provokes resentment, even among forest-dwellers and ascetics.
 
 -->
 
