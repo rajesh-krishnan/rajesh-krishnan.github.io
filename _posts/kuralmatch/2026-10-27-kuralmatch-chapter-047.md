@@ -17,7 +17,7 @@ tags: [kuralmatch]
 | [7](#verse-7) | எண்ணித் துணிக கருமந் துணிந்தபி <br> னெண்ணுவ மென்ப திழுக்கு | <!-- **अपरीक्ष्य न कर्तव्यं कर्तव्यं सुपरीक्षितम्** \| <br> **पश्चाद् भवति सन्तापो ब्राह्मणी नकुलं यथा** \|\| <br> Panchatantra 5.17 --> |
 | [8](#verse-8) | ஆற்றின் வருந்தா வருத்தம் பலர்நின்று <br> போற்றினும் பொத்துப் படும் |  |
 | [9](#verse-9) | நன்றாற்ற லுள்ளுந் தவறுண் டவரவர் <br> பண்பறிந் தாற்றாக் கடை |  |
-| [10](#verse-10) | எள்ளாத வெண்ணிச் செயல்வேண்டுந் தம்மொடு <br> கொள்ளாத கொள்ளா வுலகு | कर्मणा मनसा वाचा **यत्नाद् धर्मं समाचरेत्** \| <br> **अस्वर्ग्यं लोकविद्विष्टं धर्म्यमप्याचरेन् न तु**  \|\| <br> Yajnavalkya Smriti 1.155 |
+| [10](#verse-10) | எள்ளாத வெண்ணிச் செயல்வேண்டுந் தம்மொடு <br> கொள்ளாத கொள்ளா வுலகு | **कर्मणा मनसा वाचा यत्नाद् धर्मं समाचरेत्** \| <br> अस्वर्ग्यं **लोकविद्विष्टं धर्म्यमप्याचरेन् न तु**  \|\| <br> Yajnavalkya Smriti 1.155 |
 
 <!-- Mankkudavar verse order: 2, 4, 7, 1, 3, 10, 9, 6, 8, 5 -->
 
@@ -64,61 +64,13 @@ Another parallel can be found in Bharavi's Kiratarjuniyam 2.30: सहसा व
 
 ### Verse 10
 
-I propose Yajnavalkya Smriti 1.155 as the primary parallel for this kural. Yajnavalkya cautions against undertaking even an apparently righteous act when it is contrary to accepted social norms and invites public condemnation. The correspondence is between Valluvar's கொள்ளாத கொள்ளா வுலகு and Yajnavalkya's लोकविद्विष्टम्, that which is disliked or censured by the world. Valluvar's எள்ளாத, conveying conduct that invites public reproach or contempt, is implicit in Yajnavalkya's लोकविद्विष्टम्. The injunction यत्नाद् धर्मं समाचरेत्, to practise dharma diligently, corresponds to செயல்வேண்டும், while எண்ணிச், the deliberation preceding action, is implicit in the qualification that even apparently dharmic conduct must not be undertaken if it is अस्वर्ग्यम् and लोकविद्विष्टम्.  
+I propose Yajnavalkya Smriti 1.155 as the primary parallel for this kural. Yajnavalkya cautions against undertaking even an apparently righteous act when it is contrary to accepted social norms and invites public condemnation. The correspondence is between Valluvar's கொள்ளாத கொள்ளா வுலகு and Yajnavalkya's लोकविद्विष्टम्, that which is disliked or censured by the world. Valluvar's எள்ளாத, conveying conduct that invites public reproach or contempt, is implicit in Yajnavalkya's लोकविद्विष्टम्. The injunction यत्नाद् धर्मं समाचरेत्, to practise dharma diligently, corresponds to செயல்வேண்டும், while எண்ணிச், the deliberation preceding action, is implicit in the qualification that even apparently dharmic conduct must not be undertaken if it is अस्वर्ग्यम् and लोकविद्विष्टम्. Valluvar's கொள்ளாத encompasses actions that the world will not accept, whether or not they are righteous; Yajnavalkya makes this breadth explicit through धर्म्यमपि (even if righteous). Yajnavalkya also articulates both the positive and negative injunctions explicitly through समाचरेत् and आचरेन्न, whereas Valluvar's செயல்வேண்டும் expresses the positive injunction, leaving its negative counterpart implicit. An additional resonance occurs in कर्मणा मनसा वाचा, which evokes the three dimensions of Valluvar's expression: எள்ளாத (relating to speech), எண்ணி (relating to thought), and செயல் (relating to action). While this is not the primary correspondence, the convergence is suggestive: both formulations encompass speech, thought, and action. Despite differences in poetic expression, Yajnavalkya Smriti 1.155 closely matches the crux of the kural.
 
-Valluvar's கொள்ளாத encompasses actions disliked by people whether or not they are righteous, which Yajnavalkya makes explicit with धर्म्यमपि (even if righteous); Yajnavalkya states the positive and the negative, समाचरेत् and आचरेन्न 
+Valmiki Ramayana, Aranya Kanda 3.28.4 provides poetic corroboration of the consequence implicit in Valluvar's expression: कर्म लोकविरुद्धं तु कुर्वाणं क्षणदाचर \| तीक्ष्णं सर्वजनो हन्ति सर्पं दुष्टमिवागतम् \|\|. (O night-roaming one, everyone destroys a person performing a cruel deed opposed to the world, just as they destroy a wicked serpent that has appeared before them.) Valmiki's लोकविरुद्धम्, conduct opposed to the world, is closely related to Yajaavalkya's लोकविद्विष्टम्. The simile of the serpent being destroyed makes the consequence particularly vivid: the world does not merely disapprove of such conduct but actively rejects its perpetrator. This gives a forceful poetic expression to கொள்ளாத கொள்ளா வுலகு.
 
-. 
+Kautilya extends the same principle into the sphere of governance. Arthashastra 1.19.34 establishes the overarching criterion for the ruler: प्रजासुखे सुखं राज्ञः प्रजानां च हिते हितम् \| नात्मप्रियं हितं राज्ञः प्रजानां तु प्रियं हितम् \|\|. The king's happiness lies in the happiness of his subjects, and his welfare in their welfare; what is pleasing to the king is not necessarily beneficial, whereas what is pleasing to the subjects is beneficial to him. The ruler must therefore assess his actions not merely by his own preferences but by their consequences for the people whose welfare sustains his own. Kautilya's प्रजानां तु प्रियं हितम् signifies the positive counterpart of Valluvar's கொள்ளாத கொள்ளா வுலகு. 
 
-
-An additional resonance occurs in कर्मणा मनसा वाचा, which evokes the three dimensions of Valluvar's expression: எள்ளாத (relating to words), எண்ணி (relating to thought), and செயல் (relating to action). While this is not the primary correspondence, the convergence is suggestive: both formulations encompass speech, thought, and action.
-
-The relevant verse reads: कर्मणा मनसा वाचा यत्नाद् धर्मं समाचरेत् । अस्वर्ग्यं लोकविद्विष्टं धर्म्यमप्याचरेन् न तु ॥ (Yājñavalkya Smṛti 1.156).  The formulation is especially significant because it places public acceptance among the considerations relevant to ethical judgment, without making popular approval alone the definition of dharma.
-
-Vālmīki Rāmāyaṇa, Araṇya Kāṇḍa 3.28.4 provides poetic corroboration of the consequence implicit in Valluvar's expression: कर्म लोकविरुद्धं तु कुर्वाणं क्षणदाचर । तीक्ष्णं सर्वजनो हन्ति सर्पं दुष्टमिवागतम् ॥ (O night-roaming one, everyone destroys a person performing a cruel deed opposed to the world, just as they destroy a wicked serpent that has appeared before them.) Vālmīki's लोकविरुद्धम्, conduct opposed to the world, is closely related to Yājñavalkya's लोकविद्विष्टम्. The simile of the serpent makes the consequence particularly vivid: the world does not merely disapprove of such conduct but actively rejects its perpetrator. This gives a forceful poetic expression to கொள்ளாத கொள்ளா வுலகு.
-
-Kauṭilya extends the same principle into the sphere of governance. Arthashastra 1.19.34 establishes the overarching criterion for the ruler: प्रजासुखे सुखं राज्ञः प्रजानां च हिते हितम् । नात्मप्रियं हितं राज्ञः प्रजानां तु प्रियं हितम् ॥ The king's happiness lies in the happiness of his subjects, and his welfare in their welfare; what is pleasing to the king is not necessarily beneficial, whereas what is pleasing to the subjects is beneficial to him. The ruler must therefore assess his actions not merely by his own preferences but by their consequences for the people whose welfare sustains his own.
-
-Arthashastra 1.4.8–12 elaborates this principle in the specific context of punishment. Kauṭilya observes: तीक्ष्णदण्डो हि भूतानामुद्वेजनीयो भवति (excessively severe punishment causes distress among the people); मृदुदण्डः परिभूयते (excessively mild punishment is disregarded or held in contempt); यथार्हदण्डः पूज्यते (punishment proportionate to the offence is respected); सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति (properly understood and administered punishment enables the subjects to pursue dharma, artha, and kama). He further warns that improperly administered punishment, whether arising from desire, anger, or ignorance, provokes even forest-dwellers and ascetics, let alone householders: दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद् वा वानप्रस्थपरिव्राजकानपि कोपयति, किं पुनर्गृहस्थान् ॥ The progression is instructive: excessive severity provokes the people, excessive leniency invites contempt, and proportionate punishment earns respect. Thus, the ruler's actions must be measured against the standards and legitimate expectations of those subject to them.
-
-A research observation: There is a useful distinction among the three Sanskrit formulations:
-
-- लोकविद्विष्टम् — that which the world censures (Yājñavalkya).
-- लोकविरुद्धम् — that which runs counter to the world (Vālmīki).
-- प्रजाप्रियं हितम् — that which is pleasing and beneficial to the subjects (Kauṭilya).
-
-Together, they illuminate three aspects of Valluvar's thought: public censure as a criterion of judgment, popular rejection as a consequence of transgression, and the ruler's obligation to align his actions with the welfare of his people.
-
-I would preserve this distinction rather than collapse all three into a single notion of public opinion. It makes the correspondence richer while keeping the primary parallel firmly anchored in Yājñavalkya.
-
-OM.
-
-<!--
-| [10](#verse-10) | எள்ளாத வெண்ணிச் செயல்வேண்டுந் தம்மொடு <br> கொள்ளாத கொள்ளா வுலகு |  |
-
-    • Yājñavalkya Smṛti 1.156:
-        ◦ कर्मणा मनसा वाचा यत्नाद् धर्मं समाचरेत् । अस्वर्ग्यं लोकविद्विष्टं धर्म्यमप्याचरेन् न तु
-        ◦ The verse invokes precisely the idea of लोकविद्विष्ट—that which is disliked or rejected by the world. It says that one should diligently practise dharma through deed, thought, and speech, but should not practise even something apparently dharmic if it is asvargya and lokavidviṣṭa.
-        ◦ Vijñāneśvara's Mitākṣarā commentary explains: लोकविद्विष्टम्,—लोकैर्निन्दितम् 
-        ◦ The decisive expression is लोकविद्विष्टम् which does double duty. It directly corresponds to கொள்ளாத கொள்ளா வுலகு — the world's refusal to accept what is inappropriate to it. Vijñāneśvara's Mitākṣarā gloss, लोकैर्निन्दितम् (censured by the people), brings out the sense of Tamil எள்ளாத: conduct that invites public contempt or reproach. यत्नाद् समाचरेत् corresponds to செயல்வேண்டும், and the எண்ணிச்  — the injunction to exercise judgment before undertaking an action is implicit in the Sanskrit.
-    • Yājñavalkya supplies the aphoristic ethical principle, while Vālmīki supplies the poetic image of public rejection of unpopular act, as discussed next. 
-    • Vālmīki Rāmāyaṇa, Araṇya Kāṇḍa 3.28.4 provides poetic corroboration
-        ◦ कर्म लोकविरुद्धं तु कुर्वाणं क्षणदाचर । तीक्ष्णं सर्वजनो हन्ति सर्पं दुष्टमिवागतम् ॥
-        ◦ O night-roaming one, everyone destroys a person performing a cruel deed opposed to the world, just as they destroy a wicked serpent that has appeared before them.
-corroboration of the idea
-        ◦ Vālmīki gives poetic expression to the consequence implicit in Valluvar's metaphor. One who performs an act लोकविरुद्धम्, opposed to the world, is destroyed by the people just as a wicked serpent is killed when encountered. Thus the Rāmāyaṇa vividly illustrates கொள்ளாத கொள்ளா வுலகு: the world does not merely disapprove of such conduct; it rejects and acts against it.
-    • Arthashastra Corroborations
-        ◦ Arthashastra 1.19.34 gives the general overarching principle
-            ▪ प्रजासुखे सुखं राज्ञः प्रजानां च हिते हितम् । नात्मप्रियं हितं राज्ञः प्रजानां तु प्रियं हितम् ॥ The king's happiness lies in the happiness of his subjects, and his welfare in their welfare. What is pleasing to the king is not necessarily beneficial; what is pleasing to the subjects is beneficial to him.
-        ◦ Arthaśāstra 1.4.8–12 — elaborates the principle in the specific context of punishment
-            ▪ तीक्ष्णदण्डो हि भूतानामुद्वेजनीयो भवति ।
-            ▪ मृदुदण्डः परिभूयते ।
-            ▪ यथार्हदण्डः पूज्यते ।
-            ▪ सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति ।
-            ▪ दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद् वा वानप्रस्थपरिव्राजकानपि कोपयति, किं पुनर्गृहस्थान् ॥
-            ▪ The progression is especially significant: punishment that is too lenient is disregarded or held in contempt; punishment appropriate to the offence is respected; improperly administered punishment provokes resentment, even among forest-dwellers and ascetics.
--->
-
+Valluvar's injunction to consider what the world will accept or reject finds a specific practical application in Kautilya's treatment of punishment in Arthashastra 1.4.8–12. Kauṭilya observes: तीक्ष्णदण्डो हि भूतानामुद्वेजनीयो भवति (excessively severe punishment causes distress among the people); मृदुदण्डः परिभूयते (excessively mild punishment is disregarded or held in contempt); यथार्हदण्डः पूज्यते (punishment proportionate to the offence is respected); सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति (properly understood and administered punishment enables the subjects to pursue dharma, artha, and kama). He further warns that improperly administered punishment, whether arising from desire, anger, or ignorance, provokes even forest-dwellers and ascetics, let alone householders: दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद् वा वानप्रस्थपरिव्राजकानपि कोपयति, किं पुनर्गृहस्थान् \|\|. The progression is instructive: excessive severity provokes the people, excessive leniency invites contempt, and proportionate punishment earns respect. Thus, the ruler's actions must be measured against the standards and legitimate expectations of those subject to them. 
 
 
 ### Chapter Summary
