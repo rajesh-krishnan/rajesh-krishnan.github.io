@@ -61,7 +61,7 @@ Manusmriti 11.44 reinforces the same connection: अकुर्वन् वि
 A concluding observation: The parallels reveal three complementary dimensions of Valluvar's compact formulation:
 
   - Statecraft: Kauṭilya demonstrates how wrongful action and neglect undermine the ruler, the subjects, and the kingdom.
-  - Ethical ideal: The Yoga Vasistha presents the converse—performing what ought to be done and refraining from what ought not to be done—as the defining mark of noble conduct.
+  - Ethical ideal: The Yoga Vasistha presents the converse, performing what ought to be done and refraining from what ought not to be done, as the defining mark of noble conduct.
   - Moral accountability: The Mahabharata and Manusmriti associate the same pairing of commission and omission with the need for expiation.
 
 
