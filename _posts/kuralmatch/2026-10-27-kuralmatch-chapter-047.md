@@ -12,7 +12,7 @@ tags: [kuralmatch]
 | [2](#verse-2) | தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்  <br> கரும்பொருள் யாதொன்று மில் | **प्रज्ञावृद्धं धर्मवृद्धं स्वबन्धुं विद्यावृद्धं वयसापि वृद्धम्** \| <br> **कार्याकार्ये पूजयित्वा प्रसाद्य यः सम्पृच्छेन्न स मुह्येत् कदाचित्** \|\| <br> Mahabharata Udyoga Parva 5.40.21 (BORI) |
 | [3](#verse-3) | ஆக்கங் கருதி முதலிழக்குஞ் செய்வினை <br> யூக்கா ரறிவுடை யார் | **यो भुङ्क्ते बन्धकं लोभान्न स लाभो भवेत्पुनः** \| <br> न्यासवत्परिपाल्योऽसौ वृद्धिर्नश्यति हापिते \|\| <br> **भुक्ते चासारतां प्राप्ते मूलहानिः प्रजायते** \| <br> बहुमूल्यं तत्र नष्टं ऋणिकं तत्र तोषयेत् \|\| <br> Brihaspati Smriti, Rinadana 1.10.40,43 |
 | [4](#verse-4) | தெளிவிலதனைத் தொடங்கா ரிளிவென்னு <br> மேதப்பா டஞ்சு பவர் | **यत्र मन्त्रिमनःसाम्यं यत्र चेतो न शङ्कते** \| <br> **यत्र सन्तो न निन्दन्ति तत् परीयाच् चिकीर्षितम्** \|\| <br> Kamandakiya Nitisara 12.39 |
-| [5](#verse-5) | வகையறச் சூழா தெழுதல் பகைவரைப் <br> பாத்திப் படுப்பதோ ராறு |  |
+| [5](#verse-5) | வகையறச் சூழா தெழுதல் பகைவரைப் <br> பாத்திப் படுப்பதோ ராறு | कच्चिद्व्यसनिनं **शत्रुं निशम्य** भरतर्षभ \| <br> **अभियासि जवेनैव समीक्ष्य त्रिविधं बलम्**  \|\| <br> Mahabharata, Sabha Parva 2.5.47 (BORI) |
 | [6](#verse-6) | செய்தக்க வல்ல செயக்கெடுஞ் செய்தக்க  <br> செய்யாமை யானுங் கெடும் | **अकार्याणां च करणैः कार्याणां च प्रणाशनैः** \| <br> अप्रदानैश्च देयानामदेयानां च साधनैः \|\| <br> राज्ञः प्रमादालस्याभ्यां **योगक्षेमवधेन** वा \| <br> प्रकृतीनां **क्षयो लोभो विराग्यं चोपजायते** \|\| <br> Arthashastra 7.5.21,26 |
 | [7](#verse-7) | எண்ணித் துணிக கருமந் துணிந்தபி <br> னெண்ணுவ மென்ப திழுக்கு | **निश्चित्य यः प्रक्रमते नान्तर्वसति कर्मणः** \| <br> अवन्ध्यकालो वश्यात्मा **स वै पण्डित उच्यते** \|\| <br> Mahabharata Udyoga Parva 5.33.24 (BORI) |
 | [8](#verse-8) | ஆற்றின் வருந்தா வருத்தம் பலர்நின்று <br> போற்றினும் பொத்துப் படும் | <br> **अधर्मे वर्तमानानामर्थसिद्धिः प्रदृश्यते** \| <br> **तदेव मङ्गलं सर्वं लोकः समनुवर्तते** \|\| <br> **उच्छिद्यते धर्मवृत्तमधर्मो वर्तते महान्** \| <br> भयमाहुर्दिवारात्रं यदा पापो न वार्यते \|\| <br> Mahabharata Shanti Parva 12.91.7-8 (BORI) |
@@ -85,51 +85,21 @@ The parallels illuminate three complementary aspects of the kural. Kamandakiya N
 
 ### Verse 5
 
+I propose Mahabharata Sabha Parva 2.5.47 (BORI) as the primary parallel for this kural. The Sanskrit verse asks whether the king advances against an enemy only after examining the threefold strength (समीक्ष्य त्रिविधं बलम्), whereas the kural warns against advancing without such examination (வகையறச் சூழா). The correspondence is further seen in எழுதல் and अभियासि जवेनैव, setting out against the enemy with haste, and பகைவரைப் and शत्रुम्, the enemy against whom the advance is directed. Thus, the Sanskrit articulates the precaution positively, while the kural states the danger through its negation. 
 
-<!--
+While பாத்திப் படுப்பது is not explicitly stated in this verse, it is implied by the context. The surrounding discussion elaborates the preparations necessary for a sound military advance, including assessing the enemy's position, securing one's own forces, cultivating support within the enemy's camp, and ensuring a secure base. An ill-considered advance may therefore squander one's resources and give the enemy an opportunity to recover and grow stronger, providing an interpretive connection to பாத்திப் படுப்பது.
 
-| [5](#verse-5) | வகையறச் சூழா தெழுதல் பகைவரைப் <br> பாத்திப் படுப்பதோ ராறு | |
+Nilakantha's commentary on त्रिविधं बलम् offers two interpretations. The first is मन्त्र, क्रोश, मृत्यु — the strengths of counsel, territorial extent (or distance), and military force. Alternatively, he reads it as प्रभु, मन्त्र, उत्साह — the three powers of sovereignty and material resources, counsel and strategic intelligence, and energy and personal enterprise. The latter interpretation is especially pertinent to the Kural, since it encompasses not merely the numerical strength of the contending forces but also their resources, deliberative capacity, and ability to act. 
 
-    • Mahābhārata, Sabhā Parva 2.5.47 (57?)
-        ◦ कच्चिद्व्यसनिनं शत्रुं निशम्य भरतर्षभ । अभियासि जवेनैव समीक्ष्य त्रिविधं बलम् ॥
-        ◦ “Having heard that the enemy is in distress, do you rush against him, O best of the Bharatas, after examining the threefold strength?”
-            ▪ வகையற	त्रिविधं बलम्	The different kinds or dimensions of strength that must be distinguished and assessed.
-            ▪ சூழா	समीक्ष्य	To examine, consider, and assess carefully. The Sanskrit is positive: act after examining. The Kural states the negative condition: act without such examination.
-            ▪ எழுதல்	अभियासि जवेनैव	To set out against or attack the enemy, and to do so swiftly. This is a particularly good correspondence for the movement into action.
-            ▪ பகைவரைப்	शत्रुम्	Direct lexical correspondence: the enemy.
-            ▪ பாத்திப் படுப்பது	—	Not directly expressed in this verse. The verse does not explicitly say that rash action causes the enemy to prosper or grow stronger.
-        ◦ Nilakantha's commentary on trividham balam: एवं विजयहेतुं प्रकृतिसंपदमुक्त्वा विजयकालमाह। कश्चिद्यसानिन- अभिति। व्यसनैः 'स्त्री द्यूतं मृगया मद्यं नृत्यं गीतं वृथाटनम्। वाद्यं निन्दाऽदिवास्वापो व्यसनानि नृणां दश 'इत्युक्तैर्युक्तम्। त्रिविधं बलं। मन्त्रक्रोशमृत्युबलानि प्रभुमन्त्रोत्साहशक्तीर्वा॥ ५७॥
-                • Nīlakaṇṭha offers two interpretations:
-First: मन्त्र, क्रोश, मृत्यु — three kinds of strength.
-Alternatively: प्रभु, मन्त्र, उत्साह — the three powers:
-- प्रभुशक्ति — the power of sovereignty, material resources, and military might.
-- मन्त्रशक्ति — the power of counsel, deliberation, and strategic intelligence.
-- उत्साहशक्ति — the power of energy, initiative, and personal enterprise.
-The second interpretation is particularly important for our Kural.
-                • ten vices according to nilakantha: स्त्री द्यूतं मृगया मद्यं नृत्यं गीतं वृथाटनम् । वाद्यं निन्दाऽदिवास्वापो व्यसनानि नृणां दश ॥ The enemy is distracted or impaired by indulgence in these vices. The king hears of this vulnerability and considers whether to advance against him.
-            ▪ The context places the verse within a practical account of the conditions for undertaking a campaign. The king is asked whether, upon learning that an enemy is व्यसनिन्—afflicted by the vices enumerated by Nīlakaṇṭha—he advances only after examining the relevant dimensions of strength (समीक्ष्य त्रिविधं बलम्). The following verses elaborate the preparations that make such an advance sound: assessing the enemy's position and the possibility of defeat, securing and paying one's own forces, cultivating support within the enemy's camp, mastering oneself, applying the appropriate diplomatic measures, and ensuring a secure base and capable army. The implicit warning is that an ill-considered advance can reverse the apparent advantage: instead of exploiting the enemy's vulnerability, one may expose one's own weaknesses, squander one's resources, and give the enemy time or opportunity to recover and strengthen his position. In this sense, the passage supports வகையறச் சூழா தெழுதல் strongly; it also helps us understand how rash action may become an indirect means of பகைவரைப் பாத்திப் படுப்பது. 
-    • Arthashastra 9.1.1 corroborates not rising against the enemy without examining their kinds of strengths.
-        ◦ विजिगीषुरात्मनः परस्य च बलाबलं शक्तिदेशकालयात्राकालबलसमुद्दानकालपश्चात्कोपक्षयव्ययलाभापदां ज्ञात्वा विशिष्टबलो यायात्, अन्यथाऽऽसीत 09.1.01
-        ◦ prescribes that a king contemplating an expedition must first ascertain his own and the enemy's relative strengths and weaknesses, the suitability of power, place and time, and the prospective losses, expenses, gains and dangers; only then should he march, otherwise he should remain still 
-    • Panchatantra Mitrabheda 1.337
-        ◦ शत्रोर्विक्रममज्ञात्वा वैरमारभते हि यः । स पराभवमाप्नोति समुद्र इव टिट्टिभात् ॥ “Whoever begins hostilities without knowing the strength of the enemy meets with defeat—as the ṭiṭṭibha bird did at the hands of the ocean.”
-    • Valmiki Ramayana Yuddha Kāṇḍa 6.104 -105:
-        ◦ देशकालौ च विज्ञेयौ लक्षणान्यिङ्गितानि च । दैन्यं हर्षश्च खेदश्च रथिनश्च बलाबलम् स्थलनिम्नानि भूमेश्च समानि विषमाणि च । युद्धकालश्च विज्ञेयः परस्यान्तरदर्शनम् 
-        ◦ Here the assessment includes:
-            ▪ Place and time — देशकालौ
-            ▪  Signs and indications — लक्षणानि, इङ्गितानि
-            ▪ The warrior's morale and fatigue
-            ▪ Strength and weakness — बलाबलम्
-            ▪ Terrain
-            ▪ The enemy's vulnerabilities — परस्यान्तरदर्शनम्
-        ◦ This is much closer to the breadth of வகையறச் சூழாது எழுதல்
-    • Mahabharata 2.50.23
-        ◦ शत्रुपक्षं समृध्यन्तं यो मोहात्समुपेक्षते ।व्याधिराप्यायित इव तस्य मूलं छिनत्ति सः ॥ अल्पोऽपि ह्यरिरत्यन्तं वर्धमानपराक्रमः । वल्मीको मूलज इव ग्रसते वृक्षमन्तिकात् ॥
-        ◦ The first verse says that the person who, through delusion, neglects an enemy faction that is prospering, will have his foundations cut away by it, just as by a disease that has been allowed to grow. The key expression is व्याधिराप्यायितः: a disease that has been nourished, augmented or allowed to thrive.
-        ◦ these are the words of duryodhana who is jealous of his cousins 
+Valmiki Ramayana, Yuddha Kanda 6.104–105, offers an even broader account of what such an assessment entails: देशकालौ च विज्ञेयौ लक्षणान्यिङ्गितानि च \| दैन्यं हर्षश्च खेदश्च रथिनश्च बलाबलम् \|\| स्थलनिम्नानि भूमेश्च समानि विषमाणि च \| युद्धकालश्च विज्ञेयः परस्यान्तरदर्शनम् \|\| The considerations include place and time (देशकालौ), signs and indications (लक्षणानि, इङ्गितानि), the morale and fatigue of the warriors, relative strengths and weaknesses (बलाबलम्), the character of the terrain, and opportunities arising from the enemy's vulnerabilities (परस्यान्तरदर्शनम्). This is a useful elaboration of வகையறச் சூழுதல்: the assessment must be comprehensive, taking account of the enemy, one's own forces, the terrain, and the circumstances governing the timing of action.
 
+A further, particularly interesting connection to பாத்திப் படுப்பது occurs in Mahabharata 2.50.23–24, where Duryodhana describes the danger of allowing a prospering enemy faction to grow unchecked: शत्रुपक्षं समृध्यन्तं यो मोहात्समुपेक्षते \| व्याधिराप्यायित इव तस्य मूलं छिनत्ति सः \|\| अल्पोऽपि ह्यरिरत्यन्तं वर्धमानपराक्रमः \| वल्मीको मूलज इव ग्रसते वृक्षमन्तिकात् \|\|. The person who, through delusion, neglects an enemy faction that is prospering will have his foundations cut away by it, just as by a disease that has been allowed to thrive. The expression व्याधिराप्यायितः is especially suggestive: an enemy, like a disease, becomes more dangerous when allowed to grow. Even a seemingly insignificant adversary, if his strength continues to increase, can eventually consume a powerful opponent, like a termite mound destroying a tree from its roots. These are Duryodhana's words, spoken in the context of his jealousy toward the Pandavas, rather than an independent statement of the epic's ethical position. Nevertheless, the imagery is valuable for understanding the Kural's closing expression: failure to act with proper judgment can itself become a means of nurturing the enemy.
 
--->
+Arthashastra 9.1.1 provides a particularly close corroboration of the principle: विजिगीषुरात्मनः परस्य च बलाबलं शक्तिदेशकालयात्राकालबलसमुद्दानकालपश्चात्कोपक्षयव्ययलाभापदां ज्ञात्वा विशिष्टबलो यायात्, अन्यथाऽऽसीत \| Kautilya prescribes that a king contemplating an expedition must first ascertain his own and the enemy's relative strengths and weaknesses, the suitability of power, place and time, and the prospective losses, expenses, gains, and dangers. Only when his own strength is superior should he march; otherwise, he should remain still. This is an especially comprehensive exposition of வகையறச் சூழாது எழுதல்: the assessment must extend beyond the opposing forces to the entire strategic and material circumstances of the proposed undertaking.
+
+Panchatantra, Mitrabheda 1.337, expresses the danger more directly through an illustrative maxim: शत्रोर्विक्रममज्ञात्वा वैरमारभते हि यः \| स पराभवमाप्नोति समुद्र इव टिट्टिभात् \|\|. Whoever begins hostilities without knowing the enemy's strength meets with defeat, as did the tiny tittiibha bird in its conflict with the ocean. The emphasis here is on the consequence of underestimating an adversary, corroborating the relationship between inadequate assessment and the danger inherent in undertaking action.
+
+I read Valluvar's வகையறச் சூழாது எழுதல் primarily in the context of statecraft and warfare, as a caution against undertaking action against an adversary without adequate deliberation. What Valluvar leaves cryptic in வகையறச் சூழுதல் — the range of considerations to be examined before acting — is illuminated by the Mahabharata's त्रिविधं बलम् and the Ramayana's more extensive enumeration of the factors governing a military engagement. Valluvar's warning that rash action may cause the enemy to grow, as though one were sowing and watering a crop, finds a striking metaphorical parallel in Duryodhana's comparison of a neglected, prospering enemy to a disease allowed to spread unchecked. The Arthashastra and the Panchatantra both offer direct practical injunctions against engaging an enemy without first ascertaining his strength and the circumstances governing the undertaking.
 
 
 ### Verse 6
