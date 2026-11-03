@@ -9,9 +9,9 @@ tags: [kuralmatch]
 |  | [47](#chapter-summary) : பொருட்பால் : அரசியல் : தெரிந்து செயல்வகை |  |
 |--|--|--|
 | [1](#verse-1) | அழிவதூஉ மாவதூஉ மாகி வழிபயக்கு <br> மூதியமுஞ் சூழ்ந்து செயல் | **अल्पागमातिव्ययता क्षयो वृद्धिर्विपर्यये** \| <br> **समायव्ययता स्थानं कर्मसु ज्ञेयमात्मनः** \| <br>  Arthashastra 7.12.31-32 |
-| [2](#verse-2) | தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்  <br> கரும்பொருள் யாதொன்று மில் |  |
-| [3](#verse-3) | ஆக்கங் கருதி முதலிழக்குஞ் செய்வினை <br> யூக்கா ரறிவுடை யார் |  |
-| [4](#verse-4) | தெளிவிலதனைத் தொடங்கா ரிளிவென்னு <br> மேதப்பா டஞ்சு பவர் |  |
+| [2](#verse-2) | தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்  <br> கரும்பொருள் யாதொன்று மில் | **प्रज्ञावृद्धं धर्मवृद्धं स्वबन्धुं विद्यावृद्धं वयसापि वृद्धम्** \| <br> **कार्याकार्ये पूजयित्वा प्रसाद्य यः सम्पृच्छेन्न स मुह्येत् कदाचित्** \|\| <br> Mahabharata Udyoga Parva 5.40.21 (BORI) |
+| [3](#verse-3) | ஆக்கங் கருதி முதலிழக்குஞ் செய்வினை <br> யூக்கா ரறிவுடை யார் | **यो भुङ्क्ते बन्धकं लोभान्न स लाभो भवेत्पुनः** \| <br> न्यासवत्परिपाल्योऽसौ वृद्धिर्नश्यति हापिते \|\| <br> **भुक्ते चासारतां प्राप्ते मूलहानिः प्रजायते** \| <br> बहुमूल्यं तत्र नष्टं ऋणिकं तत्र तोषयेत् \|\| <br> Brihaspati Smriti, Rinadana 1.10.40,43 |
+| [4](#verse-4) | தெளிவிலதனைத் தொடங்கா ரிளிவென்னு <br> மேதப்பா டஞ்சு பவர் | **यत्र मन्त्रिमनःसाम्यं यत्र चेतो न शङ्कते** \| <br> **यत्र सन्तो न निन्दन्ति तत् परीयाच् चिकीर्षितम्** \|\| <br> Kamandakiya Nitisara 12.39 |
 | [5](#verse-5) | வகையறச் சூழா தெழுதல் பகைவரைப் <br> பாத்திப் படுப்பதோ ராறு |  |
 | [6](#verse-6) | செய்தக்க வல்ல செயக்கெடுஞ் செய்தக்க  <br> செய்யாமை யானுங் கெடும் | **अकार्याणां च करणैः कार्याणां च प्रणाशनैः** \| <br> अप्रदानैश्च देयानामदेयानां च साधनैः \|\| <br> राज्ञः प्रमादालस्याभ्यां **योगक्षेमवधेन** वा \| <br> प्रकृतीनां **क्षयो लोभो विराग्यं चोपजायते** \|\| <br> Arthashastra 7.5.21,26 |
 | [7](#verse-7) | எண்ணித் துணிக கருமந் துணிந்தபி <br> னெண்ணுவ மென்ப திழுக்கு | **निश्चित्य यः प्रक्रमते नान्तर्वसति कर्मणः** \| <br> अवन्ध्यकालो वश्यात्मा **स वै पण्डित उच्यते** \|\| <br> Mahabharata Udyoga Parva 5.33.24 (BORI) |
@@ -34,14 +34,102 @@ The broader statecraft dimension of அழிவு, ஆக்கம், and ஊ
 
 ### Verse 2
 
+I propose Mahabharata Udyoga Parva 5.40.21 (BORI) as the primary parallel for this kural. The expression தெரிந்த வினத்தொடு finds a close correspondence in प्रज्ञावृद्धं धर्मवृद्धं विद्यावृद्धं स्वबन्धुम् — a trusted kinsman who is mature in wisdom, dharma, and learning. Likewise, தேர்ந்தெண்ணிச் செய்வார்க்கு corresponds to कार्याकार्ये पूजयित्वा प्रसाद्य यः सम्पृच्छेत्: one who honors, conciliates, and consults such a person concerning what ought and ought not to be done. The concluding न स मुह्येत् कदाचित् — he is never deluded — captures the assurance of அரும்பொருள் யாதொன்றும் இல், although the former expresses freedom from delusion rather than the latter's more affirmative assertion that nothing is difficult or beyond comprehension. The correspondence is therefore not exact in its concluding sense, and the Mahabharata leaves the actual undertaking implicit, but it captures the central idea of deliberating with trusted, learned associates before deciding upon action.
+
+Kalingar's gloss supports this interpretation of தெரிந்த வினத்தொடு as consultation with learned associates. He explains that even a king capable of discerning how an undertaking should be performed ought to consult a learned and good assembly, and then deliberate within his own mind before proceeding: கல்வியால் தெரிந்த நல்லினத்துடனே உசாவிக்கொண்டு தமது நெஞ்சானும் தெரியத் தேர்ந்துகொண்டு. His explanation of உசாவி as வினவியாராய்ந்து is particularly relevant to the deliberative dimension of the kural. The gloss is not entirely unambiguous, however, since it largely repeats the kural's own expression when explaining இனத்தொடு.
+
+A related conception of the qualifications of a counselor appears in Mahabharata Shanti Parvan 12.82.3 (BORI): नासुहृत्परमं मन्त्रं नारदार्हति वेदितुम् \| <br> अपण्डितो वापि सुहृत्पण्डितो वापि नात्मवान् \|\|. Neither one who is not a friend, nor a friend who is unlearned, nor even a learned friend who lacks self-control, is fit to know the highest counsel. Its conjunction of friendship, learning, and self-mastery corroborates a reading of தெரிந்த வினம் in which trusted association and intellectual discernment are complementary qualifications.
+
+If தெரிந்த வினத்தொடு is read primarily as learned counsel, without emphasizing the kinship or friendship dimension, Kamandakiya Nitisara 12.8–9 offers another close correspondence: अशिक्षितनयः सिंहो हन्तीभं केवलं बलात् \| तं च धीरो नरस्तेषां शतानि मतिमाञ् जयेत् \|\| पश्यद्भिर्दूरतोऽपायान् सूपायप्रतिपत्तिभिः \| भवन्तीह फलायैव विद्वद्भिर्मन्त्रिताः क्रियाः \|\|. The second verse is especially suggestive: विद्वद्भिर्मन्त्रिताः क्रियाः — undertakings deliberated upon with the learned — फलाय एव भवन्ति, are productive of results. This corresponds closely to தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்கு, with the emphasis on deliberation informed by learned counsel. The preceding verse supplies a complementary illustration: a wise and discerning man can overcome a hundred uneducated lions, whose strength is merely brute force. The contrast between मतिमान् and अशिक्षितनयः suggests that intelligence and discernment can overcome formidable obstacles, offering a metaphorical correspondence to அரும்பொருள் யாதொன்றும் இல். 
+
+Kautilya provides a more systematic corroboration of the deliberative dimension in Arthashastra 1.15.20–21: अर्थद्वैधस्य संशयच्छेदनमेकदेशदृष्टस्य शेषोपलब्धिरिति मन्त्रिसाध्यमेतत् \| तस्माद् बुद्धिवृद्धैः सार्धमध्यासीत मन्त्रं \|\|. He identifies the resolution of uncertainty where alternatives present themselves (अर्थद्वैधस्य संशयच्छेदनम्) and the ascertainment of what remains when only part of a matter has been perceived (एकदेशदृष्टस्य शेषोपलब्धिः) as tasks requiring collective counsel (मन्त्रिसाध्यमेतत्). Hence the king should deliberate with those mature in intellect (बुद्धिवृद्धैः सार्धम्). This closely corroborates தேர்ந்தெண்ணிச் செய்வார்க்கு and the learned-associate dimension of தெரிந்த வினத்தொடு. It also reinforces the reasoning underlying the primary parallel: consultation with intellectually mature counselors prevents the king from proceeding on incomplete understanding or unresolved uncertainty.
+
+If இனத்தொடு is instead read as emphasizing the support of friends and associates in carrying out an undertaking, Hitopadesha 1.2 offers a particularly close parallel: असाधना वित्तहीना बुद्धिमन्तः सुहृन्मताः \| साधयन्त्याशु कार्याणि काककूर्ममृगाखुवत् \|\|. Though without resources and bereft of wealth, the intelligent, endowed with friends, quickly accomplish their tasks, as did the crow, the tortoise, the deer, and the mouse. Two expressions deserve particular attention: बुद्धिमन्तः सुहृन्मताः, which combines intelligence with the support of friends, and साधयन्त्याशु कार्याणि, which affirms the swift accomplishment of undertakings. The former is especially interesting in relation to தெரிந்த வினம், since it brings together the intellectual and relational dimensions of the expression. The latter corresponds to the assurance of அரும்பொருள் யாதொன்றும் இல். The verse does not assert that nothing whatsoever is difficult, but demonstrates that even those without material resources can accomplish their undertakings through intelligence and friendship. Therefore it has a correspondence to the kural's overall structure.
+
+Manu Smriti 7.55 supplies the converse proposition: अपि यत् सुकरं कर्म तदप्येकेन दुष्करम् \| विशेषतोऽसहायेन किं तु राज्यं महोदयम् \|\|. Even an easy undertaking becomes difficult for one person acting alone, especially without assistance — how much more so the great undertaking of governing a kingdom! While Manu emphasizes the difficulty of acting alone rather than the efficacy of learned deliberation, the verse corroborates the relational dimension of the kural. The implication is that an undertaking becomes more manageable through the support of others, lending further force to the assertion that no task need remain difficult when undertaken with appropriate associates.
+
+Finally, Vālmiki Ramayana, Ayodhya Kanda 30.36, offers a striking correspondence to the concluding expression: स्वर्गो धनं वा धान्यं वा विद्या पुत्रास्सुखानि च \| गुरुवृत्यानुरोधेन न किञ्चिदपि दुर्लभम् \|\|. Heaven, wealth, grain, learning, children, and happiness — nothing is unattainable through following the instructions of one's gurus. The phrase न किञ्चिदपि दुर्लभम् is remarkably close to அரும்பொருள் யாதொன்றும் இல். The context differs: the Ramayana verse recommends following the conduct and instructions of one's gurus generally, rather than specifically deliberating with learned counselors before undertaking an action.
+
+The parallels illuminate three complementary dimensions of the kural. First, தெரிந்த வினத்தொடு can denote trusted, learned associates with whom one deliberates before acting; Mahabharata 5.40.21 captures this most fully, with Mahabharata 12.82.3 corroborating the conjunction of friendship and learning. Second, it can emphasize deliberation with intellectually mature counselors, as expressed particularly well by Kamandakiya Nitisara 12.9 and Arthashastra 1.15.20–21. Third, இனத்தொடு can be understood relationally as undertaking work with the support of friends rather than alone, a dimension brought out by Hitopadesha 1.2 and Manu Smriti 7.55. The concluding அரும்பொருள் யாதொன்றும் இல் receives its closest verbal correspondence in Ramayana 30.36, न किञ्चिदपि दुर्लभम्, while Kamandakiya 12.8 offers a metaphorical expression of the power of wisdom to overcome formidable difficulties. An ideal parallel would unite the learned and trusted associates of Mahabharata 5.40.21, the deliberative process of Kamandakiya and Kautilya, and the assurance of न किञ्चिदपि दुर्लभम्. No single verse does so. Nevertheless, Mahabharata 5.40.21 remains the best primary parallel because it captures the central prescription of the kural: sound action proceeds from prior deliberation with trusted and qualified associates.
+
 
 ### Verse 3
+
+I propose Brihaspati Smriti, Rinadana 1.10.40,43 as the primary parallel for this kural. The context of भुङ्क्ते बन्धकं लोभात् — enjoying pledged property out of greed — suggests an undertaking motivated by the prospect of gain (ஆக்கம் கருதி); its consequence, मूलहानिः प्रजायते — results in the loss of the principal — corresponds directly to முதலிழக்கும். The reference to the enjoyment and eventual deterioration of the pledged asset supplies the context for செய்வினை, an undertaking whose apparent benefit comes at the expense of the underlying capital. The limitation is that Brihaspati addresses pledged property specifically, whereas Valluvar generalizes the principle to any undertaking in which anticipated gain imperils the principal.
+
+Kautilya provides a useful economic framework for understanding the distinction between apparent gain and genuine gain in Arthashastra 9.4.5–7: सुप्राप्यानुपाल्यः परेषामप्रत्यादेय इत्यादेयः \| विपर्यये प्रत्यादेयः \| तमाददानस्तत्रस्थो वा विनाशं प्राप्नोति \|\|. A gain that is easily acquired, can be maintained, and need not be returned to another is classified as आदेय (retainable gain). The reverse is प्रत्यादेय (gain liable to be returned). One who takes such a gain, or remains dependent upon it, meets destruction. The distinction is important because an apparent acquisition may in reality constitute a liability whose eventual repayment destroys the recipient. Kauṭilya's classification helps clarify the economic dimension of முதலிழக்கும்: an anticipated gain cannot be treated as genuine advancement if its acquisition entails the eventual surrender of the underlying capital. This is a conceptual and economic corroboration rather than a direct parallel to Valluvar's injunction.
+
+Yajnavalkya Smriti 2.38, introduces a related consideration:  ग्रहीतृविशेषेण प्रकारान्तरम् आह \| कान्तारगास् तु दशकं सामुद्रा विंशकं शतम् \|, that is, extremely high interest rates are associated with high risk undertakings. The Mitakshara commentary explains the differential interest applicable to those who borrow money for dangerous journeys through forests and across the sea: कान्तारम् अरण्यं तत्र गच्छतीति कान्तारगाः \| ये वृद्ध्या धनं गृहीत्वाधिकलाभार्थम् अतिगहनं प्राणधनविनाशशङ्कास्थानं प्रविशन्ति ते दशकं शतं दद्युः \| ये च समुद्रगास् ते विंशकं शतं मासि मासीत्य् एव \| एतद् उक्तं भवति : कान्तारगेभ्यो दशकं शतं सामुद्रेभ्यश् च विंशकं उत्तमर्ण आदद्यान् मूलविनाशस्यापि शङ्कितत्वाद् इति \|\|. Those who borrow at interest to pursue greater profits by undertaking dangerous journeys through forests or across the sea are charged higher rates of interest, reflecting the risk of loss of both life and capital. The commentary explicitly recognizes the possibility of मूलविनाश — destruction of the principal — as the reason for the higher return demanded by the lender. Although this is not a direct injunction against such undertakings, it corroborates the underlying economic reasoning of the kural: the prospect of greater returns must be weighed against the possibility of losing the principal. It is a useful qualification, since Valluvar does not condemn the pursuit of gain itself, but the pursuit of gain through undertakings that imperil the capital.
+
+Mahabharata Shanti Parva 12.106.15,18 (BORI) offers a particularly interesting illustration of the principle through its deliberate inversion. In the dialogue concerning the Kalakavrikshiya sage, a prince is advised how to undermine a rival ruler by inducing him to undertake costly and unproductive projects: आरम्भांश्चास्य महतो दुष्करांस्त्वं प्रयोजय \| नदीबन्धविरोधांश्च बलवद्भिर्विरुध्यताम् \|\| त्रिविष्टपे पुण्यतमं स्थानं प्राप्नोति पार्थिवः \| कोशक्षये त्वमित्राणां वशं कौसल्य गच्छति \|\|. The advice is to induce the rival king to embark on great and difficult undertakings, engage in costly conflicts over river embankments, and expend his treasury on extravagant projects and pleasures. The intended consequence is expressed in कोशक्षये त्वमित्राणां वशं ... गच्छति — when the treasury is depleted, he falls under the control of his enemies. This is almost an inverted illustration of Valluvar's principle: instead of a wise ruler refusing an undertaking that sacrifices capital for anticipated gain, an adversary deliberately recommends such undertakings to bring about the ruler's financial ruin. The Mahabharata thus demonstrates the strategic consequences of failing to preserve the treasury, although its immediate concern is the deliberate impoverishment of an enemy rather than the prudence of selecting undertakings.
+
+The parallels converge on the distinction between apparent gain and the preservation of underlying capital. Brihaspato Smriti supplies the closest correspondence through मूलहानिः प्रजायते, directly expressing the loss of principal resulting from the pursuit or enjoyment of an asset. Arthashastra 9.4.5–7 provides the conceptual distinction between retainable gain and a gain that carries an eventual liability, while Yajnavalkya Smriti, through the Mitakshara commentary, recognizes the possibility of principal loss as a defining consideration in high-risk undertakings. Mahabharata 12.106.15–18 illustrates the strategic consequences of deliberately inducing a ruler to undertake expenditures that deplete his treasury. Taken together, these texts reinforce the economic prudence underlying the kural: the prospect of advancement cannot justify an undertaking that places the principal at risk. The wise assess not merely what an undertaking may yield, but what it may consume in the process.
 
 
 ### Verse 4
 
+I propose Kamandakiya Nitisara 12.39 as the primary parallel for this kural. தெளிவிலதனை finds correspondence in यत्र मन्त्रिमनःसाम्यम् — where there is agreement among the counselors — and यत्र चेतो न शङ्कते — where the mind itself entertains no doubt. Together, these express both the deliberative assurance arising from counsel and the inward certainty required before commencing an undertaking. இளிவென்னும் ஏதப்பாடு அஞ்சு பவர் finds its correspondence in यत्र सन्तो न निन्दन्ति — where the virtuous do not condemn; while तत् परीयाच् चिकीर्षितम् — one should pursue precisely that undertaking — expresses the positive prescription corresponding to தொடங்கார். The correspondence is particularly close in its combination of considered judgment, freedom from misgiving, and protection from reproach.
+
+Kalingar's gloss reinforces the deliberative interpretation of தெளிதல். He explains that an undertaking should be commenced only after the king and the learned have examined and reached clarity, whether together or separately: தாமும் சான்றோரும் தம்முள் கூடியாயினும் தனித்தாயினும் தெளிந்து, சிறந்த கருமஞ் செய்யும் அத்துணை அல்லது மற்றுந் தெளிவில்லதனைச் செய்யத் தொடங்கார். This is particularly significant because it makes clear that தெளிவு is not simply the ruler's private conviction; it is informed by examination with the learned, while also requiring his own considered judgment.
+
+Kautilya articulates the same principle as an explicit rule of statecraft in Arthashastra 1.15.1–2: कृतस्वपक्षपरपक्षोपग्रहः कार्यारम्भांश्चिन्तयेत् \| मन्त्रपूर्वाः सर्वारम्भाः \|\|. The first sutra directs the ruler, after securing his own side and dealing with the opposing side, to deliberate on the commencement of undertakings. The second states that all undertakings must be preceded by counsel (मन्त्रपूर्वाः सर्वारम्भाः). This is a particularly close corroboration of தொடங்கார்: whereas Valluvar cautions against commencing an undertaking without clarity, Kautilya positively prescribes that every undertaking begin with deliberation. The expression मन्त्रपूर्वाः also provides a concise Sanskrit counterpart to the deliberative dimension of தெளிவு.
+
+Kamandakiya Nitisara 12.11–12 further develops the requirement to examine feasibility before commencement: शक्याशक्यपरिच्छेदं कुर्याद् बुद्ध्या प्रसन्नया \| केवलं दन्तभङ्गाय दन्तिनः शैलताडनम् \|\| अशक्यारम्भवृत्तीनां कुतः क्लेशाद् ऋते फलम् \| आकाशम् आस्वादयतः कुतस् तु कवलग्रहः \|\|. One should carefully distinguish what is feasible from what is infeasible through a clear and discerning intellect. An elephant striking a mountain merely breaks its tusks; those who undertake impossible tasks obtain nothing from their exertions but hardship, just as one who attempts to taste the sky cannot obtain a mouthful. The expression शक्याशक्यपरिच्छेदम् — discerning what is possible and impossible — gives a further dimension to தெளிவிலதனை. The warning अशक्यारम्भवृत्तीनां कुतः क्लेशाद् ऋते फलम् directly explains why an undertaking should not be commenced without such examination: its likely outcome is hardship without fruit. These verses complement the primary parallel by emphasizing practical feasibility, rather than the agreement of counselors and the avoidance of censure.
+
+Kautilya provides a systematic account of the dimensions that such deliberation must cover in Arthashastra 1.15.42: कर्मणामारम्भोपायः पुरुषद्रव्यसम्पद् देशकालविभागो विनिपातप्रतीकारः कार्यसिद्धिरिति पञ्चाङ्गो मन्त्रः \|||. He identifies five constituents of counsel (पञ्चाङ्गो मन्त्रः): 1. कर्मणामारम्भोपायः — the means of commencing the undertaking; 2. पुरुषद्रव्यसम्पद् — the adequacy of personnel and material resources; 3. देशकालविभागः — consideration of place and time' 4. विनिपातप्रतीकारः — provision for setbacks and contingencies; and 5. कार्यसिद्धिः — successful completion of the undertaking. This enumeration makes explicit what is involved in reaching the clarity required before commencement. It is not merely agreement among counselors or confidence in one's judgment, but an examination of the means, resources, circumstances, risks, and prospects of completion. Kautilya thus supplies the practical and procedural dimensions underlying Valluvar's தெளிதல்.
+
+Finally, Subhashitaratnabhandagara, Sankirnaka Prakarana 119, provides a particularly apt corroboration of the consequence of commencing an undertaking without properly assessing one's capabilities: अक्षमः क्षमतामानी क्रियायां यः प्रवर्तते \| स हि हास्यास्पदत्वं च लभते प्राणसंशयम् \|\|. One who is incapable, yet considers himself capable, and proceeds with an undertaking becomes an object of ridicule and even risks his life. The correspondence is especially strong in हास्यास्पदत्वम् — becoming an object of ridicule — which directly illustrates இளிவு. The verse also introduces an important dimension of தெளிதல்: an honest assessment of one's own competence. Where the Kamandakiya verses emphasize the feasibility of the undertaking, this subhashita emphasizes the fitness of the person undertaking it. Both are necessary considerations before commencement.
+
+The parallels illuminate three complementary aspects of the kural. Kamandakiya Nitisara 12.39 captures the central prescription: an undertaking should be pursued only when there is agreement among counselors, no inward misgiving, and no prospect of censure from the virtuous. Kautilya's मन्त्रपूर्वाः सर्वारम्भाः establishes deliberation as a prerequisite to all undertakings, while his five constituents of counsel enumerate what that examination entails. Kamandakiya 12.11–12 adds the assessment of feasibility, and Subhashitaratnabhāṇḍāgāra 119 highlights the danger and ridicule that follow when one overestimates one's own competence. Together, these texts show that தெளிதல் is not merely confidence in a proposed action, but a considered judgment of its feasibility, the adequacy of the means and the person undertaking it, and its likely consequences. The fear of இளிவு is thus not simply fear of public ridicule; it is the prudent avoidance of undertakings that cannot withstand either rational examination or the judgment of the discerning.
+
 
 ### Verse 5
+
+
+<!--
+
+| [5](#verse-5) | வகையறச் சூழா தெழுதல் பகைவரைப் <br> பாத்திப் படுப்பதோ ராறு | |
+
+    • Mahābhārata, Sabhā Parva 2.5.47 (57?)
+        ◦ कच्चिद्व्यसनिनं शत्रुं निशम्य भरतर्षभ । अभियासि जवेनैव समीक्ष्य त्रिविधं बलम् ॥
+        ◦ “Having heard that the enemy is in distress, do you rush against him, O best of the Bharatas, after examining the threefold strength?”
+            ▪ வகையற	त्रिविधं बलम्	The different kinds or dimensions of strength that must be distinguished and assessed.
+            ▪ சூழா	समीक्ष्य	To examine, consider, and assess carefully. The Sanskrit is positive: act after examining. The Kural states the negative condition: act without such examination.
+            ▪ எழுதல்	अभियासि जवेनैव	To set out against or attack the enemy, and to do so swiftly. This is a particularly good correspondence for the movement into action.
+            ▪ பகைவரைப்	शत्रुम्	Direct lexical correspondence: the enemy.
+            ▪ பாத்திப் படுப்பது	—	Not directly expressed in this verse. The verse does not explicitly say that rash action causes the enemy to prosper or grow stronger.
+        ◦ Nilakantha's commentary on trividham balam: एवं विजयहेतुं प्रकृतिसंपदमुक्त्वा विजयकालमाह। कश्चिद्यसानिन- अभिति। व्यसनैः 'स्त्री द्यूतं मृगया मद्यं नृत्यं गीतं वृथाटनम्। वाद्यं निन्दाऽदिवास्वापो व्यसनानि नृणां दश 'इत्युक्तैर्युक्तम्। त्रिविधं बलं। मन्त्रक्रोशमृत्युबलानि प्रभुमन्त्रोत्साहशक्तीर्वा॥ ५७॥
+                • Nīlakaṇṭha offers two interpretations:
+First: मन्त्र, क्रोश, मृत्यु — three kinds of strength.
+Alternatively: प्रभु, मन्त्र, उत्साह — the three powers:
+- प्रभुशक्ति — the power of sovereignty, material resources, and military might.
+- मन्त्रशक्ति — the power of counsel, deliberation, and strategic intelligence.
+- उत्साहशक्ति — the power of energy, initiative, and personal enterprise.
+The second interpretation is particularly important for our Kural.
+                • ten vices according to nilakantha: स्त्री द्यूतं मृगया मद्यं नृत्यं गीतं वृथाटनम् । वाद्यं निन्दाऽदिवास्वापो व्यसनानि नृणां दश ॥ The enemy is distracted or impaired by indulgence in these vices. The king hears of this vulnerability and considers whether to advance against him.
+            ▪ The context places the verse within a practical account of the conditions for undertaking a campaign. The king is asked whether, upon learning that an enemy is व्यसनिन्—afflicted by the vices enumerated by Nīlakaṇṭha—he advances only after examining the relevant dimensions of strength (समीक्ष्य त्रिविधं बलम्). The following verses elaborate the preparations that make such an advance sound: assessing the enemy's position and the possibility of defeat, securing and paying one's own forces, cultivating support within the enemy's camp, mastering oneself, applying the appropriate diplomatic measures, and ensuring a secure base and capable army. The implicit warning is that an ill-considered advance can reverse the apparent advantage: instead of exploiting the enemy's vulnerability, one may expose one's own weaknesses, squander one's resources, and give the enemy time or opportunity to recover and strengthen his position. In this sense, the passage supports வகையறச் சூழா தெழுதல் strongly; it also helps us understand how rash action may become an indirect means of பகைவரைப் பாத்திப் படுப்பது. 
+    • Arthashastra 9.1.1 corroborates not rising against the enemy without examining their kinds of strengths.
+        ◦ विजिगीषुरात्मनः परस्य च बलाबलं शक्तिदेशकालयात्राकालबलसमुद्दानकालपश्चात्कोपक्षयव्ययलाभापदां ज्ञात्वा विशिष्टबलो यायात्, अन्यथाऽऽसीत 09.1.01
+        ◦ prescribes that a king contemplating an expedition must first ascertain his own and the enemy's relative strengths and weaknesses, the suitability of power, place and time, and the prospective losses, expenses, gains and dangers; only then should he march, otherwise he should remain still 
+    • Panchatantra Mitrabheda 1.337
+        ◦ शत्रोर्विक्रममज्ञात्वा वैरमारभते हि यः । स पराभवमाप्नोति समुद्र इव टिट्टिभात् ॥ “Whoever begins hostilities without knowing the strength of the enemy meets with defeat—as the ṭiṭṭibha bird did at the hands of the ocean.”
+    • Valmiki Ramayana Yuddha Kāṇḍa 6.104 -105:
+        ◦ देशकालौ च विज्ञेयौ लक्षणान्यिङ्गितानि च । दैन्यं हर्षश्च खेदश्च रथिनश्च बलाबलम् स्थलनिम्नानि भूमेश्च समानि विषमाणि च । युद्धकालश्च विज्ञेयः परस्यान्तरदर्शनम् 
+        ◦ Here the assessment includes:
+            ▪ Place and time — देशकालौ
+            ▪  Signs and indications — लक्षणानि, इङ्गितानि
+            ▪ The warrior's morale and fatigue
+            ▪ Strength and weakness — बलाबलम्
+            ▪ Terrain
+            ▪ The enemy's vulnerabilities — परस्यान्तरदर्शनम्
+        ◦ This is much closer to the breadth of வகையறச் சூழாது எழுதல்
+    • Mahabharata 2.50.23
+        ◦ शत्रुपक्षं समृध्यन्तं यो मोहात्समुपेक्षते ।व्याधिराप्यायित इव तस्य मूलं छिनत्ति सः ॥ अल्पोऽपि ह्यरिरत्यन्तं वर्धमानपराक्रमः । वल्मीको मूलज इव ग्रसते वृक्षमन्तिकात् ॥
+        ◦ The first verse says that the person who, through delusion, neglects an enemy faction that is prospering, will have his foundations cut away by it, just as by a disease that has been allowed to grow. The key expression is व्याधिराप्यायितः: a disease that has been nourished, augmented or allowed to thrive.
+        ◦ these are the words of duryodhana who is jealous of his cousins 
+
+
+-->
 
 
 ### Verse 6
@@ -136,170 +224,5 @@ Valluvar's injunction to consider what the world will accept or reject finds a s
 
 ### Chapter Summary
 
-<!-- 
-
-| [2](#verse-2) | தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்  <br> கரும்பொருள் யாதொன்று மில் |  |
-
-    • Mahabharata (BORI) 5.40.21 - Udyoga Parva
-        ◦ प्रज्ञावृद्धं धर्मवृद्धं स्वबन्धुं विद्यावृद्धं वयसापि वृद्धम् । कार्याकार्ये पूजयित्वा प्रसाद्य यः सम्पृच्छेन्न स मुह्येत् कदाचित् ॥
-        ◦ MBh 5.40.21 could be the primary parallel. One who honors, conciliates, and consults a wise, dharmic, learned, trusted elder kinsman—advanced in age—is not deluded in deciding what should or should not be done. 
-1. தெரிந்த    (प्रज्ञावृद्ध, धर्मवृद्ध विद्यावृद्ध) இனத்தோடு  (स्वबन्धु) is well corroborated
-2. தேர்ந்துஎண்ணிச் செய்வார்க்கு  कार्याकार्ये यः सम्पृच्छेत्  (deliberation implied by asking what is to be done or not done, and the doing is left implicit)
-3. स मुह्येत् कदाचित् அரும்பொருள் யாதுஒன்றும் இல்:  (nothing is hard vs, never deluded; interestingly porul can mean thing or meaning -- so the kural can be read as nothing is hard to understand, hence nver deluded)
-        ◦ Kalingar’s gloss: 
-            ▪ தெரிந்த இனத்தோடு தேர்ந்துஎண்ணிச் செய்வார்க்கு : யாதும் ஒரு கருமம் செய்யுமிடத்து அதனைத் தெரிந்து செய்யும் திறமையரேனும் மற்று அதனைக் கல்வியால் தெரிந்த நல்லினத்துடனே உசாவிக்கொண்டு தமது நெஞ்சானும் தெரியத் தேர்ந்துகொண்டு இங்ஙனம் செய்யும் அரசர்க்கு; [உசாவி- வினவியாராய்ந்து]
-        ◦ Mahabharata Śāntiparvan 12.82.3: counselor must be a friend (inam), learned (therintha), and have self-control:  
-            ▪ नासुहृत्परमं मन्त्रं नारदार्हति वेदितुम् । अपण्डितो वापि सुहृत्पण्डितो वापि नात्मवान् ॥ ३ ॥
-            ▪ “Neither a person who is not a friend, nor a friend who is unlearned, nor even a learned friend who lacks self-control, is fit to know the highest counsel
-    • Correpsondence summary:
-        ◦ 1. தெரிந்த இனத்தொடு read in the broadest sense: The primary parallel Mahābhārata 5.40.21 विद्यावृद्धम् + स्वबन्धुम् -- gets us the therintha inam pun; it stops at deliebrating with counsel  on action rather than deliberating with counsel then acting; it also gives us not deluded by anything rather than nothing is hard.  Still considering what we have otherwise, this is the best fit. Kalingar's gloss of the kural matches this reading of consulting the learned, but is ambiguous by repeating the words of the kural for inam. Mahabharata Śāntiparvan 12.82.3 corroborates a similar reading of counsel as friend and learned, but it not a parallel, We discuss correspondence in the other senses below.
-        ◦ 2. தெரிந்த இனத்தொடு read purely as learned counsel without the kinsmen/friend angle: We have Kamandakiya giving us action based on learned counsel and a metaphorical accomplishment of a hard task. This is a second parallel. The same is also corroborated by Arthashastra 1.15.20-21
-        ◦ 3. இனத்தொடு செய்வார்க்கு  read as working with friends, not alone: Hitopadesha gives the sense of working with friends accomplishes tassks easily; Manusmiriti 7.55 corroborates the doing things alone makes things hard, and its converse corroborates the kural's sense no task too hard (if done with the support of therintha inam)
-        ◦ 4. அரும்பொருள் யாதொன்றும் இல் Valmiki Ramayanam corrobroates this part however its injunction is to follow the conduct of gurus in general, and it is not quite about deliberating with counsel before undertaking a task. 
-        ◦ 5. An ideal parallel would combine this assertion of nothing is hard to obtain with the counsel of learned kinsmen, but MBh 5.40.21 captures the crux of the kural.
-    • Kamandakiya Nitisara 12.8-9:
-        ◦ अशिक्षितनयः सिंहो हन्तीभं केवलं बलात् । तं च धीरो नरस् तेषां शतानि मतिमाञ् जयेत् ॥ ८ ॥
-        ◦ पश्यद्भिर् दूरतोऽपायान् सूपायप्रतिपत्तिभिः । भवन्तीह फलायैव विद्वद्भिर् मन्त्रिताः क्रियाः ॥ ९ ॥
-        ◦ The second verse is especially suggestive: विद्वद्भिर् मन्त्रिताः क्रियाः — actions deliberated upon by the learned — फलाय एव भवन्ति, are productive of results. The first verse talks about a human using wisdom to defeat a hundred uneducated lions that kills with brute strength, suggestive of nothing is hard.
-    • Arthashastra 1.15.20-21
-        ◦ अर्थद्वैधस्य संशयच्छेदनमेकदेशदृष्टस्य शेषोपलब्धिरिति मन्त्रिसाध्यमेतत् । तस्माद् बुद्धिवृद्धैः सार्धमध्यासीत मन्त्रं ॥
-        ◦ Kauṭilya's अर्थद्वैधस्य संशयच्छेदनम् (resolving uncertainty where alternatives present themselves) and एकदेशदृष्टस्य शेषोपलब्धिः (ascertaining what remains from what has been only partially perceived) are tasks requiring collective counsel (मन्त्रिसाध्यमेतत्); hence he enjoins the king to deliberate with those mature in intellect (बुद्धिवृद्धैः सार्धम्), closely corroborating Valluvar's தெரிந்த வினத்தொடு தேர்ந்தெண்ணிச் செய்வார்க்கு. 
-        ◦ Kautilya also  corroborates the primary parallel Mahabharata (BORI) 5.40.21 कार्याकार्ये ... यः सम्पृच्छेन्न स मुह्येत् कदाचित् ॥
-    • Hitopadeśa 1.2
-        ◦ असाधना वित्तहीना बुद्धिमन्तः सुहृन्मताः । साधयन्त्याशु कार्याणि काककूर्ममृगाखुवत् ॥ १.२ ॥
-        ◦ “Though without resources and bereft of wealth, the intelligent, endowed with friends, quickly accomplish their tasks, as did the crow, the tortoise, the deer and the mouse.”
-        ◦ The two expressions deserve to be set beside the Kural:
-            ▪ - बुद्धिमन्तः सुहृन्मताः — intelligent, and possessing the support of friends. This is not merely an individual possessing intelligence; it is intelligence operating in a network of trusted associates. Dual sense of therintha inam
-            ▪ - साधयन्त्याशु कार्याणि — they quickly accomplish their undertakings.
-The verse does not say that nothing whatsoever is difficult, but it does say that even those without material resources can accomplish their tasks through intelligence and friendship. It is an unusually close correspondence to the Kural's structure
-    • Manu Smṛti 7.55 
-        ◦ अपि यत् सुकरं कर्म तदप्येकेन दुष्करम् । विशेषतोऽसहायेन किं तु राज्यं महोदयम् ॥ ७.५५ ॥
-Even an easy undertaking becomes difficult for one person acting alone, especially without assistance—how much more so the great undertaking of governing a kingdom!
-        ◦ doing task alone, makes task harder; doing with help makes it easier  
-
-    • Vālmīki Rāmāyaṇa, Ayodhyā Kāṇḍa 30.36 — the result clause
-        ◦ स्वर्गो धनं वा धान्यं वा विद्या पुत्रास्सुखानि च । गुरुवृत्यानुरोधेन न किञ्चिदपि दुर्लभम् ॥
-        ◦ Heaven, wealth, grain, learning, children and happiness—nothing is unattainable through following the instructions of one's gurus.
-        ◦ The phrase न किञ्चिदपि दुर्लभम् is strikingly close to அரும்பொருள் யாதொன்றும் இல்.
-
-
-| [3](#verse-3) | ஆக்கங் கருதி முதலிழக்குஞ் செய்வினை <br> யூக்கா ரறிவுடை யார் |  |
-
-    • Bṛhaspati Smṛti, Ṛṇādāna, section 6, 1.10.37-43 on pledged property:
-        ◦ आधिस्तु भुज्यते तावद्यावत्तन्न प्रदीयते । आधिर्बन्धः समाख्यातः स च प्रोक्तश्चतुर्विधः 
-        ◦ जङ्गमः स्थावरश्चैव गोप्यो भोग्यस्तथैव च ।यादृच्छिकः सावधिश्च लेख्यारूढोऽथ साक्षिमान् ॥ 
-        ◦ अशान्तलाभे च ऋणे तथा पूर्णेऽवधौ धनी । 
-        ◦ यो भुङ्क्ते बन्धकं लोभान्न स लाभो भवेत्पुनः । न्यासवत्परिपाल्योऽसौ वृद्धिर्नश्यति हापिते ॥
-        ◦ दैवराजोपघाते च यथाधिर्नाशमाप्नुयात् । तत्राधिं दापयेद्दद्यात्सोदयंधनमन्यथा ॥
-        ◦ बन्धहस्तस्य यद्देयं चित्रेण चरितेन वा । अदत्तेऽर्थेऽखिलं बन्धं नाकामो दाप्यते क्वचित् ॥
-        ◦ भुक्ते चासारतां प्राप्ते मूलहानिः प्रजायते । बहुमूल्यं तत्र नष्टं ऋणिकं तत्र तोषयेत् ॥
-        ◦ The decisive expression is मूलहानिः प्रजायते: the apparent gain or enjoyment of the pledged asset can result in the loss of the principal. This gives us the strongest lexical and conceptual correspondence to முதலிழக்கும். The preceding verses matter: they discuss the creditor's enjoyment of the pledge, the duty to preserve it, and the consequences of its destruction.
-The limitation should be stated plainly: Bṛhaspati treats the specific case of pledged property, whereas Valluvar formulates a general principle about an undertaking pursued in expectation of advancement. 
-
-    • Arthashastra 9.4.5-7 defines the type of income that results in evenutal return of the gain, and warns it will lead to destruction:” 
-        ◦ सुप्राप्यानुपाल्यः परेषामप्रत्यादेय इत्यादेयः ॥ 
-        ◦ विपर्यये प्रत्यादेयः ॥
-        ◦ तमाददानस्तत्रस्थो वा विनाशं प्राप्नोति ॥
-        ◦ A gain that is easily acquired, can be maintained, and need not be returned to others is ādeya (a retainable gain). The reverse is pratyādeya—a gain that must be returned. One who takes such a gain, or remains dependent upon it, meets destruction. 
-        ◦ The distinction between ādeya and pratyādeya is especially useful. What appears to be a gain may in reality be a liability that eventually destroys the person who accepts it.
-        ◦ Kauṭilya's distinction involving आदेय and प्रत्यादेय supplies the economic framework: a sum that is repayable cannot simply be treated as an expendable gain. It helps clarify what is at stake in முதல்—the underlying capital, not merely the expected return. I would describe this as a definitional or conceptual corroboration, not as a direct parallel to the Kural's injunction. 
-    • Yajnavalkya Smriti 2.37 with commentary of Mitakshara gives a different dimension of the interest being high for high-risk pursuits
-        ◦ ग्रहीतृविशेषेण प्रकारान्तरम् आह । कान्तारगास् तु दशकं सामुद्रा विंशकं शतम् । या०ध०२.३८अब्
-        ◦ कान्तारम् अरण्यं तत्र गच्छतीति कान्तारगाः । ये वृद्ध्या धनं गृहीत्वाधिकलाभार्थम् अतिगहनं प्राणधनविनाशशङ्कास्थानं प्रविशन्ति ते दशकं शतं दद्युः । ये च समुद्रगास् ते विंशकं शतं मासि मासीत्य् एव । एतद् उक्तं भवति : कान्तारगेभ्यो दशकं शतं सामुद्रेभ्यश् च विंशकम् उत्तमर्ण आदद्यान् मूलविनाशस्यापि शङ्कितत्वाद् इति ॥
-    • Mahābhārata, Śānti Parva 12.106.15–18 — deliberately draining a king's treasury In the dialogue of the Kālakavṛkṣīya sage, a prince is instructed how to undermine a rival ruler:
-        ◦ आरम्भांश्चास्य महतो दुष्करांस्त्वं प्रयोजय । नदीबन्धविरोधांश्च बलवद्भिर्विरुध्यताम् ॥ १५ ॥
-        ◦ त्रिविष्टपे पुण्यतमं स्थानं प्राप्नोति पार्थिवः । कोशक्षये त्वमित्राणां वशं कौसल्य गच्छति ॥ १८ ॥
-        ◦ The advice is to induce the rival king to: undertake great and difficult projects; engage in costly conflicts over river embankments; construct expensive gardens and provide luxurious beds and seats; spend the treasury on pleasures and extravagant consumption. "When the treasury is depleted, he comes under the control of his enemies." 
-        ◦ It is almost an inverted illustration of the principle we want: a counsellor deliberately recommends expensive, unproductive undertakings to an enemy king in order to drain his treasury. 
-        ◦ The aakkam meaning profit and muthal meaning capital/principal remain the primary reading of the kural.
-
-
-| [4](#verse-4) | தெளிவிலதனைத் தொடங்கா ரிளிவென்னு <br> மேதப்பா டஞ்சு பவர் |  |
-
-    • Kāmandakīya Nītisāra XII.39 as the primary parallel
-        ◦ यत्र मन्त्रिमनःसाम्यं यत्र चेतो न शङ्कते । यत्र सन्तो न निन्दन्ति तत् परीयाच् चिकीर्षितम् ॥ १२.३९ ॥
-        ◦ Your reading of the correspondence is persuasive:
-        ◦ தெளிவு இலதனை — यत्र मन्त्रिमनःसाम्यम्: agreement among ministers presupposes deliberation and examination; it is not merely an absence of disagreement. It represents the considered judgement that emerges from counsel.
-        ◦ தெளிவு in its inward sense — यत्र चेतो न शङ्कते: the mind itself has no doubt or misgiving. The verse thus captures both the external, deliberative dimension and the internal assurance of தெளிதல்.
-        ◦ இளிவென்னும் ஏதப்பாடு — यत्र सन्तो न निन्दन्ति: the undertaking should not invite the censure of good people. निन्दा is not identical to ridicule, but it conveys the reproach and loss of standing that Kalingar's gloss brings out.
-        ◦ தொடங்கார் — तत् परीयाच् चिकीर्षितम्: one should pursue precisely that undertaking which satisfies these conditions. The Sanskrit expresses the positive prescription; Valluvar expresses the restraint negatively. The fear of censure is implicit in the condition that the good do not condemn the undertaking.
-
-    • Kauṭilya Arthaśāstra 1.15.1–2 tightly corroborates counsel and start of a task
-        ◦ कृतस्वपक्षपरपक्षोपग्रहः कार्यारम्भांश्चिन्तयेत् । मन्त्रपूर्वाः सर्वारम्भाः ॥
-        ◦ The first sūtra directs the ruler, after securing his own side and dealing with the opposing side, to deliberate on the commencement of undertakings. The second states:
-All undertakings are to be preceded by counsel.
-        ◦ Kalingar further corroborates the examination involving counsel: தெளிவு இலதனைத் தொடங்கார்: kalingar glosses this as:இங்ஙனம் தாமும் சான்றோரும் தம்முள் கூடியாயினும் தனித்தாயினும் தெளிந்து, சிறந்த கருமஞ் செய்யும் அத்துணை அல்லது மற்றுந் தெளிவில்லதனைச் செய்யத் தொடங்கார்; 
-        ◦ मन्त्रपूर्वाः सर्वारम्भाः => mantrapurva = thelivudaiyathu;  arambha = thodangu; sarva basically corroborates the kural’s thodangar (start everything only with vs. do not start anything without)
-
-    • Examination with counsel involves a number of dimensions discussed below:
-    • Kamandakiya Nitisara 12.11-12 further corroborates the examination of feasibility before commencement: 
-            ▪ शक्याशक्यपरिच्छेदं कुर्याद् बुद्ध्या प्रसन्नया । केवलं दन्तभङ्गाय दन्तिनः शैलताडनम् ॥ १२.११ ॥ अशक्यारम्भवृत्तीनां कुतः क्लेशाद् ऋते फलम् । आकाशम् आस्वादयतः कुतस् तु कवलग्रहः ॥ १२.१२ ॥
-            ▪ अशक्यारम्भवृत्तीनां -- Starting an infeasible task also leads to despair
-            ▪ The perceding verses in Kamandakiya list a number of other considerations such as discerning dangers from afar, identifying appropriate means, and considering the place and time, which are more systematicaaly listed by Kautilya below. 
-    • Arthashastra 1.15.42 
-        ◦ कर्मणामारम्भोपायः पुरुषद्रव्यसम्पद् देशकालविभागो विनिपातप्रतीकारः कार्यसिद्धिरिति पञ्चाङ्गो मन्त्रः 
-        ◦ Kauṭilya identifies five constituents of counsel:
-1. कर्मणामारम्भोपायः — the means of commencing the undertaking.
-2. पुरुषद्रव्यसम्पत् — the availability and adequacy of personnel and resources.
-3. देशकालविभागः — consideration of place and time.
-4. विनिपातप्रतीकारः — provision for setbacks and contingencies.
-5. कार्यसिद्धिः — successful completion of the undertaking.
-
-    • Subhāṣitaratnabhāṇḍāgāra Sankirnaka Prakaranam 119
-        ◦ अक्षमः क्षमतामानी क्रियायां यः प्रवर्तते । स हि हास्यास्पदत्वं च लभते प्राणसंशयम् ॥ ११९ ॥
-        ◦ One who, though incapable, thinks himself capable and enters into an undertaking becomes an object of ridicule and even risks his life. 
-            ▪ Arguably examining competence is a dimension of thelithal; the ridicule portion of the kural is  corroborated
-
-
-| [5](#verse-5) | வகையறச் சூழா தெழுதல் பகைவரைப் <br> பாத்திப் படுப்பதோ ராறு | |
-
-    • Mahābhārata, Sabhā Parva 2.5.47 (57?)
-        ◦ कच्चिद्व्यसनिनं शत्रुं निशम्य भरतर्षभ । अभियासि जवेनैव समीक्ष्य त्रिविधं बलम् ॥
-        ◦ “Having heard that the enemy is in distress, do you rush against him, O best of the Bharatas, after examining the threefold strength?”
-            ▪ வகையற	त्रिविधं बलम्	The different kinds or dimensions of strength that must be distinguished and assessed.
-            ▪ சூழா	समीक्ष्य	To examine, consider, and assess carefully. The Sanskrit is positive: act after examining. The Kural states the negative condition: act without such examination.
-            ▪ எழுதல்	अभियासि जवेनैव	To set out against or attack the enemy, and to do so swiftly. This is a particularly good correspondence for the movement into action.
-            ▪ பகைவரைப்	शत्रुम्	Direct lexical correspondence: the enemy.
-            ▪ பாத்திப் படுப்பது	—	Not directly expressed in this verse. The verse does not explicitly say that rash action causes the enemy to prosper or grow stronger.
-        ◦ Nilakantha's commentary on trividham balam: एवं विजयहेतुं प्रकृतिसंपदमुक्त्वा विजयकालमाह। कश्चिद्यसानिन- अभिति। व्यसनैः 'स्त्री द्यूतं मृगया मद्यं नृत्यं गीतं वृथाटनम्। वाद्यं निन्दाऽदिवास्वापो व्यसनानि नृणां दश 'इत्युक्तैर्युक्तम्। त्रिविधं बलं। मन्त्रक्रोशमृत्युबलानि प्रभुमन्त्रोत्साहशक्तीर्वा॥ ५७॥
-                • Nīlakaṇṭha offers two interpretations:
-First: मन्त्र, क्रोश, मृत्यु — three kinds of strength.
-Alternatively: प्रभु, मन्त्र, उत्साह — the three powers:
-- प्रभुशक्ति — the power of sovereignty, material resources, and military might.
-- मन्त्रशक्ति — the power of counsel, deliberation, and strategic intelligence.
-- उत्साहशक्ति — the power of energy, initiative, and personal enterprise.
-The second interpretation is particularly important for our Kural.
-                • ten vices according to nilakantha: स्त्री द्यूतं मृगया मद्यं नृत्यं गीतं वृथाटनम् । वाद्यं निन्दाऽदिवास्वापो व्यसनानि नृणां दश ॥ The enemy is distracted or impaired by indulgence in these vices. The king hears of this vulnerability and considers whether to advance against him.
-            ▪ The context places the verse within a practical account of the conditions for undertaking a campaign. The king is asked whether, upon learning that an enemy is व्यसनिन्—afflicted by the vices enumerated by Nīlakaṇṭha—he advances only after examining the relevant dimensions of strength (समीक्ष्य त्रिविधं बलम्). The following verses elaborate the preparations that make such an advance sound: assessing the enemy's position and the possibility of defeat, securing and paying one's own forces, cultivating support within the enemy's camp, mastering oneself, applying the appropriate diplomatic measures, and ensuring a secure base and capable army. The implicit warning is that an ill-considered advance can reverse the apparent advantage: instead of exploiting the enemy's vulnerability, one may expose one's own weaknesses, squander one's resources, and give the enemy time or opportunity to recover and strengthen his position. In this sense, the passage supports வகையறச் சூழா தெழுதல் strongly; it also helps us understand how rash action may become an indirect means of பகைவரைப் பாத்திப் படுப்பது. 
-    • Arthashastra 9.1.1 corroborates not rising against the enemy without examining their kinds of strengths.
-        ◦ विजिगीषुरात्मनः परस्य च बलाबलं शक्तिदेशकालयात्राकालबलसमुद्दानकालपश्चात्कोपक्षयव्ययलाभापदां ज्ञात्वा विशिष्टबलो यायात्, अन्यथाऽऽसीत 09.1.01
-        ◦ prescribes that a king contemplating an expedition must first ascertain his own and the enemy's relative strengths and weaknesses, the suitability of power, place and time, and the prospective losses, expenses, gains and dangers; only then should he march, otherwise he should remain still 
-    • Panchatantra Mitrabheda 1.337
-        ◦ शत्रोर्विक्रममज्ञात्वा वैरमारभते हि यः । स पराभवमाप्नोति समुद्र इव टिट्टिभात् ॥ “Whoever begins hostilities without knowing the strength of the enemy meets with defeat—as the ṭiṭṭibha bird did at the hands of the ocean.”
-    • Valmiki Ramayana Yuddha Kāṇḍa 6.104 -105:
-        ◦ देशकालौ च विज्ञेयौ लक्षणान्यिङ्गितानि च । दैन्यं हर्षश्च खेदश्च रथिनश्च बलाबलम् स्थलनिम्नानि भूमेश्च समानि विषमाणि च । युद्धकालश्च विज्ञेयः परस्यान्तरदर्शनम् 
-        ◦ Here the assessment includes:
-            ▪ Place and time — देशकालौ
-            ▪  Signs and indications — लक्षणानि, इङ्गितानि
-            ▪ The warrior's morale and fatigue
-            ▪ Strength and weakness — बलाबलम्
-            ▪ Terrain
-            ▪ The enemy's vulnerabilities — परस्यान्तरदर्शनम्
-        ◦ This is much closer to the breadth of வகையறச் சூழாது எழுதல்
-    • Mahabharata 2.50.23
-        ◦ शत्रुपक्षं समृध्यन्तं यो मोहात्समुपेक्षते ।व्याधिराप्यायित इव तस्य मूलं छिनत्ति सः ॥ अल्पोऽपि ह्यरिरत्यन्तं वर्धमानपराक्रमः । वल्मीको मूलज इव ग्रसते वृक्षमन्तिकात् ॥
-        ◦ The first verse says that the person who, through delusion, neglects an enemy faction that is prospering, will have his foundations cut away by it, just as by a disease that has been allowed to grow. The key expression is व्याधिराप्यायितः: a disease that has been nourished, augmented or allowed to thrive.
-        ◦ these are the words of duryodhana who is jealous of his cousins 
-
-
-
-
-
-
-
-
-
-
--->
 
 
