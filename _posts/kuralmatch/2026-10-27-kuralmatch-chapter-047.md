@@ -15,7 +15,7 @@ tags: [kuralmatch]
 | [5](#verse-5) | வகையறச் சூழா தெழுதல் பகைவரைப் <br> பாத்திப் படுப்பதோ ராறு |  |
 | [6](#verse-6) | செய்தக்க வல்ல செயக்கெடுஞ் செய்தக்க  <br> செய்யாமை யானுங் கெடும் | **अकार्याणां च करणैः कार्याणां च प्रणाशनैः** \| <br> अप्रदानैश्च देयानामदेयानां च साधनैः \|\| <br> राज्ञः प्रमादालस्याभ्यां **योगक्षेमवधेन** वा \| <br> प्रकृतीनां **क्षयो लोभो विराग्यं चोपजायते** \|\| <br> Arthashastra 7.5.21,26 |
 | [7](#verse-7) | எண்ணித் துணிக கருமந் துணிந்தபி <br> னெண்ணுவ மென்ப திழுக்கு | **निश्चित्य यः प्रक्रमते नान्तर्वसति कर्मणः** \| <br> अवन्ध्यकालो वश्यात्मा **स वै पण्डित उच्यते** \|\| <br> Mahabharata Udyoga Parva 5.33.24 (BORI) |
-| [8](#verse-8) | ஆற்றின் வருந்தா வருத்தம் பலர்நின்று <br> போற்றினும் பொத்துப் படும் |  |
+| [8](#verse-8) | ஆற்றின் வருந்தா வருத்தம் பலர்நின்று <br> போற்றினும் பொத்துப் படும் | <br> **अधर्मे वर्तमानानामर्थसिद्धिः प्रदृश्यते** \| <br> **तदेव मङ्गलं सर्वं लोकः समनुवर्तते** \|\| <br> **उच्छिद्यते धर्मवृत्तमधर्मो वर्तते महान्** \| <br> भयमाहुर्दिवारात्रं यदा पापो न वार्यते \|\| <br> Mahabharata Shanti Parva 12.91.7-8 (BORI) |
 | [9](#verse-9) | நன்றாற்ற லுள்ளுந் தவறுண் டவரவர் <br> பண்பறிந் தாற்றாக் கடை | **यथार्हगुणसंयुक्ता पूजा यत्रोपलक्ष्यते** \| <br> **अप्याधौ परिदाने वा भवतस्तावुपग्रहौ** \|\| <br> Arthashastra 2.10.41 |
 | [10](#verse-10) | எள்ளாத வெண்ணிச் செயல்வேண்டுந் தம்மொடு <br> கொள்ளாத கொள்ளா வுலகு | **कर्मणा मनसा वाचा यत्नाद् धर्मं समाचरेत्** \| <br> अस्वर्ग्यं **लोकविद्विष्टं धर्म्यमप्याचरेन् न तु**  \|\| <br> Yajnavalkya Smriti 1.155 |
 
@@ -77,6 +77,33 @@ Bharavi's Kiratarjuniyam 2.30 offers a poetic formulation that brings out both t
 
 
 ### Verse 8
+
+I propose Mahabharata Shanti Parva 12.91.7–8 (BORI) as the primary parallel for this Kural. The expression ஆற்றின் வருந்தா corresponds to अधर्मे वर्तमानानाम्, pursuing a course contrary to dharma, while வருத்தம் finds its correspondence in अर्थसिद्धिः प्रदृश्यते, the apparent attainment of material success. The next verse describes how பலர் நின்று போற்றுதல் can follow from this apparent success: तदेव मङ्गलं सर्वं लोकः समनुवर्तते, the world follows that very thing, regarding it as auspicious. The consequence, பொத்துப் படும், finds a particularly suggestive correspondence in उच्छिद्यते धर्मवृत्तम्, the destruction of the established order of dharma, followed by अधर्मो वर्तते महान्, the ascendancy of adharma. 
+
+The correspondence also preserves an important distinction. The Mahabharata describes the social consequences of allowing an unrighteous course to prevail: apparent material success is mistaken for auspiciousness, society follows it, and established dharma is displaced. Valluvar compresses this sequence into the paradox of an undertaking that remains faulty despite the support and approbation of many.
+
+#### Corroborating parallels
+
+Kautilya's Arthashastra 8.2.11–12 sharpens the distinction between the support available to a ruler and the consequences of his chosen course. Kautilya observes: अन्धो राजा शक्यते सहायसम्पदा यत्र तत्र वा पर्यवस्थापयितुम् \| चलितशास्त्रस्तु शास्त्रादन्यथाभिनिविष्टबुद्धिरन्यायेन राज्यं आत्मानं चोपहन्ति \|\|. An ignorant or blind king can be kept on course through the resources and support of his associates (सहायसम्पदा); but a ruler who has deviated from the science of statecraft and whose mind is fixed on a contrary course destroys both his kingdom and himself through unjust conduct (अन्यायेन ... उपहन्ति). This is a particularly useful qualification of பலர்நின்று போற்றினும்: the support of others may sustain a ruler who lacks knowledge, but it cannot redeem one who deliberately persists in an improper course. The correspondence with பொத்துப் படும் is also direct in उपहन्ति, which conveys injury and destruction.
+
+Mahabharata Udyoga Parva 5.34.6–7 (BORI) provides an important distinction between the apparent success of improperly conceived undertakings and the possible failure of properly conducted ones: मिथ्योपेतानि कर्माणि सिध्येयुर्यानि भारत \| अनुपायप्रयुक्तानि मा स्म तेषु मनः कृथाः \|\| तथैव योगविहितं न सिध्येत्कर्म यन्नृप \| उपाययुक्तो मेधावी न तत्र ग्लपयेन्मनः \|\|. Vidura cautions that undertakings founded on improper or deceptive means may nevertheless succeed, and advises against setting one's mind on such undertakings. Conversely, an undertaking properly conceived and equipped with appropriate means may still fail; the wise person should not become disheartened on that account. The first verse is particularly relevant to வருத்தம் and பொத்துப் படும்: apparent success does not validate an undertaking founded on मिथ्योपेतानि or अनुपायप्रयुक्तानि. The second adds an important qualification: failure of an appropriately conducted undertaking does not itself establish that the undertaking was faulty. The expression उपाययुक्तो मेधावी reinforces the importance of sound means and judgment, independently of the eventual outcome.
+
+Mahabharata, Shanti Parva 12.97.2 offers a concise statement of the consequence of adharmic success: अधर्मयुक्तो विजयो ह्यध्रुवोऽस्वर्ग्य एव च \| सादयत्येष राजानं महीं च भरतर्षभ \|\|. Victory obtained through adharma is unstable (अध्रुवः), brings no auspicious or higher merit (अस्वर्ग्यः), and brings down both the king and his kingdom (सादयत्येष राजानं महीं च). This is a particularly close corroboration of பொத்துப் படும், extending the consequence beyond the failure of an individual undertaking to the downfall of the ruler and the realm. It also reinforces the distinction in the primary parallel between apparent material success and the eventual destruction that follows an unrighteous course.
+
+#### The layered interpretations of the kural
+
+The correspondence also benefits from retaining the semantic range of three expressions rather than restricting them to a single interpretation. ஆற்றின் வருந்தா can describe an undertaking contrary to dharma, contrary to sound principles of statecraft, or both. வருத்தம் can denote the undertaking or effort itself, its apparent material success, or the distress arising from its failure. பலர்நின்று போற்றினும் can encompass public praise and endorsement following apparent success, the wider acceptance and imitation of an established practice, or the support of associates and advisers even before the undertaking begins. Finally, பொத்துப் படும் can indicate the failure of the undertaking, the destruction of dharma despite apparent worldly success, or the intrinsic moral failure of the course itself.
+
+The primary Mahabharata parallel captures the social and moral dimensions; Kautilya illustrates the limits of support when a ruler persists in unjust conduct; and Vidura distinguishes success achieved through improper means from failure despite proper means. The additional passage on adharmic victory extends the consequences to the downfall of ruler and kingdom.
+
+| Kural fragment | Mahabharata 12.91.7–8 | Arthashastra 8.2.11–12 | Mahabharata 5.34.6–7 | Mahabharata 12.97.2 |
+|--|--|--|--|--|
+| ஆற்றின் வருந்தா | अधर्मे वर्तमानानाम् — pursuing a course contrary to dharma | चलितशास्त्रस्तु शास्त्रादन्यथाभिनिविष्टबुद्धिः ... अन्यायेन — a ruler committed to improper statecraft and unjust action | मिथ्योपेतानि ... अनुपायप्रयुक्तानि — undertakings pursued through improper means | अधर्मयुक्तः — joined with adharma |
+| வருத்தம் — the undertaking and its immediate outcome | अर्थसिद्धिः प्रदृश्यते — apparent material success | Immediate outcome left unspecified; eventual destruction | कर्माणि सिध्येयुः ... न सिध्येत्कर्म — undertakings may succeed or fail | विजयः — victory, even when obtained through adharma |
+| பலர்நின்று போற்றினும் | सर्वं लोकः समनुवर्तते — society follows and accepts the apparent success as auspicious | सहायसम्पदा — the resources and support of associates, which cannot redeem a ruler fixed on an improper course | अनुपायप्रयुक्तानि — success through inappropriate means is not a legitimate basis for action | No explicit reference to collective support or approval |
+| பொத்துப் படும் | उच्छिद्यते धर्मवृत्तम् ... अधर्मो वर्तते महान् — established dharma is destroyed and adharma prevails | राज्यं आत्मानं चोपहन्ति — the ruler and kingdom are brought to ruin | न सिध्येत्कर्म — an undertaking may fail when its means are inappropriate | सादयत्येष राजानं महीं च — an adharmic victory brings down both ruler and kingdom |
+
+In the compact expressions ஆற்றின் வருந்தா, பலர்நின்று போற்றினும், and பொத்துப் படும், Valluvar captures a fundamental principle of statecraft: neither apparent success nor collective approval can redeem an undertaking founded on improper means; whether it fails materially or succeeds temporarily, its underlying fault ultimately brings its own consequences.
 
 
 ### Verse 9
@@ -269,45 +296,6 @@ The second interpretation is particularly important for our Kural.
 
 
 
-| [8](#verse-8) | ஆற்றின் வருந்தா வருத்தம் பலர்நின்று <br> போற்றினும் பொத்துப் படும் | |
-
-    • Mahabharata (BORI) 12.91.7-8 - Shanti Parva,
-        ◦ अधर्मे वर्तमानानामर्थसिद्धिः प्रदृश्यते । तदेव मङ्गलं सर्वं लोकः समनुवर्ततेFor those who persist in adharma, material success is sometimes seen; and the world then follows that alone, treating it as the whole of what is auspicious. 
-        ◦ उच्छिद्यते धर्मवृत्तमधर्मो वर्तते महान् । भयमाहुर्दिवारात्रं यदा पापो न वार्यतेThe established practice of dharma is cut down, and adharma grows powerful. People speak of fear by day and by night when wrongdoing is not restrained.
-        ◦ Subsequent verses describe the deterioration in great detail
-        ◦ Primary parallel: ஆற்றின் வருந்தா = अधर्मे वर्तमानानाम्; வருத்தம் = अर्थसिद्धिः; 
-        ◦ பலர் = सर्वं लोकः; நின்று = समनुवर्तते (nindru can mean follow a practice, not just stand); போற்றினும் = तदेव मङ्गलं (that is auspicious implies praise); பொத்துப் படும் = उच्छिद्यते धर्मवृत्तम् (has the exact connotation of பொத்து and also says what is damaged)
-    • The layered ambiguity of ஆற்றின் வருந்தா, பலர்நின்று போற்றினும், and பொத்துப் படும் is therefore a strength of the synthesis: the undertaking may be unrighteous, improperly conceived, or wrongly executed; others may endorse its apparent success or support it in advance; and the consequence may be practical failure, the destruction of dharma despite worldly success, or the moral failure inherent in the course itself. The parallels illuminate these dimensions collectively without requiring any single Sanskrit passage to encode them all.
-        ◦ ஆற்றின் வருந்தா can mean against dharma or wrong statecraft principles or both
-        ◦ வருத்தம் can mean (successful) effort or sadness due to failure 
-        ◦ பலர்நின்று போற்றினும் can mean the support/praise of others on apparent success, or wider social acceptance and following of others on apparent success, support of others prior to action (which still proves inaequate for success), or support by counsel for the improper means
-        ◦ பொத்துப் படும் - could mean leads to failure of the tasks itself, leads to apaprent success ot failure of dherma and conseuqent deterioration, or just that is evil/morally reprehhensible.
-
-    • We unpack some of these nuiances through additional corroborations
-
-    • Kauṭilya 8.2.11–12 — support cannot rescue a ruler pursuing an improper course, leading to ruin
-        ◦ अन्धो राजा शक्यते सहायसम्पदा यत्र तत्र वा पर्यवस्थापयितुम् ।
-चलितशास्त्रस्तु शास्त्रादन्यथाभिनिविष्टबुद्धिरन्यायेन राज्यं आत्मानं चोपहन्ति ॥
-        ◦ Key terms: सहायसम्पदा, “through the resources of supporters”; अन्यायेन, “unjustly / by an improper course”; उपहन्ति, “injures, destroys.”
-        ◦ Kauṭilya’s contrast is sharp: supporters can keep an ignorant ruler on a proper course, but a ruler whose mind is fixed on acting contrary to the science destroys both himself and his kingdom through misrule.
-        ◦ connect to kural fragments as appropriate
-    • Mahabharata 5.34.6-7: focus on improper statecraft methods leading to failure
-        ◦ मिथ्योपेतानि कर्माणि सिध्येयुर्यानि भारत ।अनुपायप्रयुक्तानि मा स्म तेषु मनः कृथाः ॥तथैव योगविहितं न सिध्येत्कर्म यन्नृप । उपाययुक्तो मेधावी न तत्र ग्लपयेन्मनः ॥५.३४.६–७
-        ◦ secondary corroboration, gives both मिथ्योपेतानि and अनुपायप्रयुक्तानि but says तथैव योगविहितं न सिध्येत्कर्म 
-        ◦ उपाययुक्तो मेधावी न तत्र ग्लपयेन्मनः -- see if this helps our case too
-        ◦ connect to kural fragments as appropriate
-    • Mahabharata Shanti Parva 12.97.2 
-        ◦ अधर्मयुक्तो विजयो ह्यप्रवृत्तोऽस्वर्ग्य एव च । सादयत्येष राजानं महीं च भरतर्षभ ॥
-        ◦ The crucial assertion is that victory obtained through adharma is unstable and brings down both the king and his kingdom. 
-        ◦ connect to kural fragments as appropriate
-    • Summarize concisely and include table below. The primary parallel is Mahābhārata (BORI) Śānti Parva 12.91.7–8: captures the apparent success of an unrighteous course, while सर्वं लोकः समनुवर्तते conveys collective endorsement, and उच्छिद्यते धर्मवृत्तम् expresses the ensuing destruction of established dharma. Kauṭilya 8.2.11–12 and Mahābhārata 5.34.6–7 corroborate the broader point that support cannot compensate for improper statecraft or means; Śānti Parva 12.97.2 adds that victory through adharma brings down both ruler and kingdom. 
-
-| Kural fragment | Mahābhārata (BORI) 12.91.7–8 | Kauṭilya, Arthaśāstra 8.2.11–12 | Mahābhārata 5.34.6–7 | Mahābhārata Śānti Parva 12.97.2 |
-|--|--|--|--|--| 
-| ஆற்றின் வருந்தா | अधर्मे वर्तमानानाम् — pursuing a course contrary to dharma | अन्यथाभिनिविष्टबुद्धिः … अन्यायेन — a ruler committed to improper statecraft and unjust action | मिथ्योपेतानि … अनुपायप्रयुक्तानि — undertakings pursued through false or inappropriate means | अधर्मेण … अधर्मयुक्तः — seeking victory through adharma |
-| வருத்தம் | अर्थसिद्धिः प्रदृश्यते — apparent or visible material success | राज्यं आत्मानं चोपहन्ति — an undertaking that harms the ruler and kingdom | कर्माणि सिध्येयुः … न सिध्येत्कर्म — an undertaking that succeeds or fails according to its means | विजयः — victory, even when obtained through adharma |
-| பலர்நின்று போற்றினும் | सर्वं लोकः समनुवर्तते — society follows and accepts the apparent success as auspicious | सहायसम्पदा — the resources and support of others, which cannot rescue a ruler fixed on an improper course | अनुपायप्रयुक्तानि — even a planned undertaking requires appropriate means; support alone is not the criterion of success | — No explicit reference to collective support or approval |
-| பொத்துப் படும் | उच्छिद्यते धर्मवृत्तम् … अधर्मो वर्तते महान् — established dharma is destroyed and adharma prevails, even amid apparent success | राज्यं आत्मानं चोपहन्ति — the ruler and kingdom are brought to harm or ruin | न सिध्येत्कर्म — an undertaking may fail when its means are inappropriate | सादयत्येष राजानं महीं च — an adharmic victory brings down both ruler and kingdom |
 
 
 
