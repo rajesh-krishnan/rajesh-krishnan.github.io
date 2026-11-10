@@ -16,7 +16,7 @@ tags: [kuralmatch]
 | [6](#verse-6) | எவ்வ துறைவ துலக முலகத்தோ <br> டவ்வ துறைவ தறிவு |  |
 | [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் |  |
 | [8](#verse-8) | அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ <br> தஞ்ச லறிவார் தொழில் |  |
-| [9](#verse-9) | எதிரதாக் காக்கு மறிவினார்க் கில்லை <br> யதிர வருவதோர் நோய் |  |
+| [9](#verse-9) | எதிரதாக் காக்கு மறிவினார்க் கில்லை <br> யதிர வருவதோர் நோய் | हुताशनो जलं व्याधिर् दुभिक्षो मरकस् तथा \| <br> इति पञ्चविधं दैवं व्यसनं मानुषं परम् \|\| <br> व्यसनस्य प्रतीकारो राजराज्याभिरक्षणम् \| <br> इत्य् अमात्यस्य कर्मेदं हन्ति तद्व्यसनान्वितः \|\| <br> Kamandakiya Nitisara XII.20,24 |
 | [10](#verse-10) | அறிவுடையா ரெல்லா முடையா ரறிவிலா <br> ரென்னுடைய ரேனு மிலர் |  |
 
 <!-- Mankkudavar verse order: 10, 6, 5, 3, 4, 2, 8, 7, 1, 9 -->
@@ -56,6 +56,16 @@ The kural generally and abstractly urges the wisdom of investigating the real tr
 
 
 ### Verse 9
+
+I propose Kamandakiya Nitisara XII.20 and XII.24 as the primary parallel for this kural. Kamandaka identifies व्याधि (disease), alongside fire, water, famine, and pestilence, among the five natural calamities. He then assigns their prevention or remediation, together with the protection of the king and kingdom, to the minister. The lexical correspondence is particularly rich between எதிரதாக் காக்கும் and व्यसनस्य प्रतीकारो राजराज्याभिरक्षणम्, which means counteracting calamities and protecting the king and kingdom. Manakkudavar glosses எதிரதாக் காக்கும் as துன்பம் வருவதற்கு முன்பே வருமென்று நினைத்துக் காக்கும், while the dictionary defines எதிரதாக் காத்தல் as வரக்கடவதாகிய ஒன்றை முன்னே அறிந்து அதன் காரணத்தை விலக்குதல். The primary sense of எதிரதாக் is thus anticipation of what is yet to come, but எதிர் also carries the connotations of adversity and action directed against something. Correspondingly, व्यसन denotes calamity or adversity, while प्रतीकारः denotes counteraction, obviation, prevention, or remedy; the prefix प्रति further reinforces the sense of action directed against. The semantic range of காக்கும் is equally well accommodated: it encompasses protection (பாதுகாத்தல்), governance (அரசாளுதல்), anticipation (எதிர்பார்த்தல்), and removal or avoidance (விலக்குதல்). These converge in राजराज्याभिरक्षणम्, which signifies the comprehensive protection of king and kingdom. Thus the Sanskrit expression does not merely reproduce the idea of guarding against impending calamity; its constituent terms collectively accommodate the several interrelated senses embedded in Valluvar's compact expression.
+
+Manakkudavar glosses அதிர வருவதோர் நோய் as நடுங்க வருவதொரு துன்பம். This corresponds to व्यसनम्, denoting calamity or adversity; the enumeration of the five प्रकृतिव्यसनानि in XII.20, with व्याधि providing the direct equivalent of நோய், makes the correspondence particularly precise. இல்லை finds its counterpart in हन्ति तद्व्यसनान्वितः, which states that the minister who undertakes this responsibility destroys the calamity, leaving no adversity to afflict the king or kingdom.
+
+அறிவினார் is implicit in the ministerial responsibility expressed by अमात्यस्य कर्मेदम्. The qualification of the minister who can discharge this responsibility is illuminated by Kamandakiya IV.32: साधु तेषाम् अमात्यानां तद्विद्येभ्यश् च बुद्धिमान् \| चक्षुष्मत्तां च शिल्पं च परीक्षेत गुणद्वयम् \|\|. The prescription to examine an amatya for चक्षुष्मत्ता, understood in the technical Arthashastra sense as foresight (Apte, s.v. चक्षुष्मत्, sense 3, citing Kautilya, Arthashastra 1.9), helps explain the force of எதிரதாக் காக்கும் அறிவினார்: intelligence here is the capacity to perceive impending adversity and take measures against it in advance. The correspondence therefore brings out Valluvar's conception of intelligence not merely as the ability to respond to adversity, but as the foresight to prevent it.
+
+Agni Purana 214.14–17, in its chapter on political science, reproduces verses almost identical to Kamandakiya Nitisara XII.20 and XII.24, with only minor textual and metrical variations. It thus provides an equivalent Puranic parallel to the same political principle.
+
+At a more general philosophical level, Patanjali's Yogasutra 2.16 states हेयं दुःखमनागतम् — suffering that has not yet arisen is to be avoided. This expresses the underlying principle of preventing future suffering, but Valluvar gives it a specifically political and administrative application: the wise person anticipates adversity and guards against it through timely action. Kamandakiya Nitisara goes considerably further, elaborating in the surrounding chapters the various calamities that must be anticipated and the measures prescribed for their prevention or remediation. This detailed treatment illuminates the scope of Valluvar's otherwise cryptic reference to impending adversity.
 
 
 ### Verse 10
@@ -384,19 +394,7 @@ O king, there is no danger for one who is apprehensive of a danger before it arr
             ▪ 9.7.23–45: Analyses combinations of gains, losses, and uncertainties arising from different directions, and prescribes appropriate responses—including seeking allies and, where necessary, withdrawing from an untenable position.
 
 
-| [9](#verse-9) | எதிரதாக் காக்கு மறிவினார்க் கில்லை <br> யதிர வருவதோர் நோய் |  |
 
-    • The Kamandakiya Nitisara XII.20,24 
-        ◦ हुताशनो जलं व्याधिर् दुभिक्षो मरकस् तथा । इति पञ्चविधं दैवं व्यसनं मानुषं परम् ॥२०
-        ◦ व्यसनस्य प्रतीकारो राजराज्याभिरक्षणम् । इत्य् अमात्यस्य कर्मेदं हन्ति तद्व्यसनान्वितः ॥२४॥
-        ◦ The text identifies व्याधि alongside fire, water, famine and pestilence as a calamity. It then prescribes व्यसनस्य प्रतीकारः—remedial action against calamity—as a ministerial responsibility.
-        ◦ Correspondence is very strong
-            ▪ व्यसनस्य प्रतीकारो राजराज्याभिरक्षणम् corresponds with எதிரதாக் காக்கும், which is a preventive remedy as per Manakkudavar gloss:துன்பம் வருவதற்கு முன்பே வருமென்று நினைத்துக் காக்கும் ; रक्षणम् is directly  காக்கும், and எதிரதாக் suggests a preventive remedy, and  Apte dictionary gloss for  प्रतीकारः 3 Counter-action, obviating, prevention, remedy, application of a remedy; विकारं खलु परमार्थतोऽज्ञात्वाऽनारम्भः प्रतीकारस्य Ś.3; प्रतीकारो व्याधे; 
-            ▪ அதிர வருவதோர் நோய் is read broadly as calamities such as disease, and this ia matched with हुताशनो जलं व्याधिर् दुभिक्षो मरकस् इति पञ्चविधं व्यसनं, where व्याधि directly denotes நோய். 
-            ▪ அறிவினார் is implicit in the context that this is a ministerial responsibility (अमात्यस्य कर्मेदं) , and elsewhere the text specifies intelleigence as one of the key attributes for ministerial appointments. Kamandakiya Nitsara IV.32:साधु तेषाम् अमात्यानां तद्विद्येभ्यश् च बुद्धिमान् । चक्षुष्मत्तां च शिल्पं च परीक्षेत गुणद्वयम् ॥ Kamandakiya's prescription to examine an amātya for चक्षुष्मत्ता (IV.32), understood in the technical Arthaśāstra sense as foresight (Apte, s.v. चक्षुष्मत्, sense 3, citing Kauṭilya, A.1.9), illuminates Valluvar's எதிரதாக் காக்கும் அறிவினார்: the intelligence that anticipates impending adversity and takes measures to prevent it.
-            ▪ இல்லை,  follows from हन्ति तद्व्यसनान्वितः 
-    • Agni Purana 214.14-17, in its chapter on political science has verses that are almost identical  to the Kandakiya primary parallel, with only minor textual and metrical differences, and those can be considered an equivalent parallel from the Puranas. 
-    • Patanjali Yogasutra 2.16: हेयं दुःखमनागतम् (heyaṃ duḥkham anāgatam) expresses the general philosophical principle that suffering yet to come is to be avoided. Valluvar, however, places this principle in the context of அரசியல்: the wise ruler, through foresight and appropriate measures, prevents future adversity from becoming a cause of suffering. 
 
 
 | [10](#verse-10) | அறிவுடையா ரெல்லா முடையா ரறிவிலா <br> ரென்னுடைய ரேனு மிலர் |  |
