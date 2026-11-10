@@ -13,10 +13,10 @@ tags: [kuralmatch]
 | [3](#verse-3) | எப்பொருள் யார்யார்வாய்க் கேட்பினு மப்பொருண் <br> மெய்ப்பொருள் காண் பதறிவு |  |
 | [4](#verse-4) | எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய் <br> நுண்பொருள் காண்ப தறிவு |  |
 | [5](#verse-5) | உலகந் தழீஇய தொட்ப மலர்தலுங்  <br> கூம்பலு மில்ல தறிவு |  |
-| [6](#verse-6) | எவ்வ துறைவ துலக முலகத்தோ <br> டவ்வ துறைவ தறிவு |  |
+| [6](#verse-6) | எவ்வ துறைவ துலக முலகத்தோ <br> டவ்வ துறைவ தறிவு | **पार्श्वस्थबोधिताः सन्तः सर्वाचारक्रमागतम्** \| **आचारमाचरन्त्येव सुप्रबुद्धवदक्षतम्** \|\| <br> Yoga Vasishtha 3.118.19 |
 | [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் |  |
 | [8](#verse-8) | அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ <br> தஞ்ச லறிவார் தொழில் |  |
-| [9](#verse-9) | எதிரதாக் காக்கு மறிவினார்க் கில்லை <br> யதிர வருவதோர் நோய் | हुताशनो जलं व्याधिर् दुभिक्षो मरकस् तथा \| <br> इति पञ्चविधं दैवं व्यसनं मानुषं परम् \|\| <br> व्यसनस्य प्रतीकारो राजराज्याभिरक्षणम् \| <br> इत्य् अमात्यस्य कर्मेदं हन्ति तद्व्यसनान्वितः \|\| <br> Kamandakiya Nitisara XII.20,24 |
+| [9](#verse-9) | எதிரதாக் காக்கு மறிவினார்க் கில்லை <br> யதிர வருவதோர் நோய் | हुताशनो जलं **व्याधिर्** दुभिक्षो मरकस् तथा \| <br> इति पञ्चविधं दैवं **व्यसनं** मानुषं परम् \|\| <br> **व्यसनस्य प्रतीकारो राजराज्याभिरक्षणम्** \| <br> **इत्य् अमात्यस्य कर्मेदं हन्ति तद्व्यसनान्वितः** \|\| <br> Kamandakiya Nitisara XII.20,24 |
 | [10](#verse-10) | அறிவுடையா ரெல்லா முடையா ரறிவிலா <br> ரென்னுடைய ரேனு மிலர் |  |
 
 <!-- Mankkudavar verse order: 10, 6, 5, 3, 4, 2, 8, 7, 1, 9 -->
@@ -47,6 +47,14 @@ The kural generally and abstractly urges the wisdom of investigating the real tr
 
 
 ### Verse 6
+
+I propose Yoga Vasishtha 3.118.19 as the primary parallel for this kural. The expression सर्वाचारक्रमागतम् (conduct transmitted through the succession of established customs) corresponds to எவ்வ துறைவ துலகம், while आचारमाचरन्त्येव सुप्रबुद्धवदक्षतम् (they conduct themselves accordingly, just as one fully awakened would) corresponds to உலகத்தோடு அவ்வ துறைவ தறிவு. The reference to पार्श्वस्थबोधिताः (prompted by those around them) further reinforces the social dimension of the correspondence. सुप्रबुद्ध conveys the sense of being fully awake or awakened, illuminating the discernment implied by அறிவு. The correspondence is particularly close because the verse brings together both the established conduct of the world and the wisdom of conducting oneself in accordance with it.
+
+The Taittiriya Upanishad 1.11.3–4 provides a corresponding injunction in Shruti, addressed to students completing their Vedic education: अथ यदि ते कर्मविचिकित्सा वा वृत्तविचिकित्सा वा स्यात् \| ये तत्र ब्राह्मणाः संमर्शिनः \| युक्ता आयुक्ताः \| अलूक्षा धर्मकामाः स्युः \| यथा ते तत्र वर्तेरन् \| तथा तत्र वर्तेथाः \|\|. The passage instructs the student that, should any doubt arise concerning an action or a matter of conduct, he should conduct himself as do the reflective, well-grounded, gentle, and dharma-oriented Brahmanas in that place. எவ்வ துறைவ துலகம் corresponds to यथा ते तत्र वर्तेरन्, the conduct of those in one's surroundings, while உலகத்தோடு அவ்வ துறைவ தறிவு corresponds to तथा तत्र वर्तेथाः, the discernment to shape one's own conduct accordingly. The Upanishad thus qualifies this emulation by directing the student to follow exemplary, dharma-oriented persons rather than conform indiscriminately to prevailing practice.
+
+Manu Smriti 2.18 further corroborates the customary dimension of the principle: तस्मिन् देशे य आचारः पारम्पर्यक्रमागतः \| वर्णानां सान्तरालानां स सदाचार उच्यते \|\|. Manu identifies as सदाचार the conduct traditionally handed down in a particular country among its constituent social groups. The expression तस्मिन् देशे य आचारः corresponds to எவ்வ துறைவ துலகம், identifying the customary conduct prevailing in a particular country, while स सदाचार उच्यते establishes the discernment to conduct oneself in accordance with that accepted practice, as expressed in உலகத்தோடு அவ்வ துறைவ தறிவு.
+
+A different, specifically relational and potentially political reading emerges from Vidura Niti, Mahabharata, Udyoga Parva 5.37.6 (BORI): यस्मिन्यथा वर्तते यो मनुष्यस्तस्मिंस्तथा वर्तितव्यं स धर्मः \| मायाचारो मायया वर्तितव्यः साध्वाचारः साधुना प्रत्युपेयः \|\|. One should behave towards a person in the manner in which that person behaves towards oneself: that is dharma. Deceit should be met with deceit, and good conduct should be reciprocated with good conduct. Here the correspondence is directly reciprocal: यस्मिन् यथा वर्तते यो मनुष्यः corresponds to எவ்வ துறைவ துலகம், while तस्मिंस्तथा वर्तितव्यम् corresponds to உலகத்தோடு அவ்வ துறைவ தறிவு. Unlike the preceding parallels, which concern conformity to established social or exemplary conduct, Vidura articulates a principle of reciprocity, extending even to the strategic response to deceit. This anticipates the modern tit-for-tat strategy in game theory, developed by Anatol Rapoport and popularized by Robert Axelrod's iterated Prisoner's Dilemma tournaments: one begins cooperatively and thereafter reciprocates the other party's previous action. Given the kural's placement in the அரசியல் portion of பொருட்பால், this reading is worth considering as a statecraft application—the discernment to deal with others in accordance with their own conduct. Vidura's formulation thus offers a more specifically relational and political interpretation of the broader principle expressed in the kural.
 
 
 ### Verse 7
@@ -299,28 +307,6 @@ Verification of reports and allegations	Arthaśāstra 3.1.46	Examination and est
     • The  Yoga Vāsiṣṭha and Bhagavad Gītā converge on the inward principle: a person established in wisdom remains undisturbed by changing circumstances, neither flourishing nor withering in response to them. The Gītā's नाभिनन्दति न द्वेष्टि and तस्य प्रज्ञा प्रतिष्ठिता make the connection to மலர்தலும் கூம்பலும் இல்லது and அறிவு particularly clear. Kauṭilya's Arthashastra 6.1.6 then gives this principle its external manifestation in statecraft. 
 
 
-| [6](#verse-6) | எவ்வ துறைவ துலக முலகத்தோ <br> டவ்வ துறைவ தறிவு |  |
-
-    • Yoga Vasishtha 3.118.19
-        ◦ पार्श्वस्थबोधिताः सन्तः सर्वाचारक्रमागतम् । आचारमाचरन्त्येव सुप्रबुद्धवदक्षतम् ॥ १९ ॥
-        ◦ When prompted by those near them, being good people, they carry out, without fail, the conduct that has come down in the traditional order, just as a fully awake person would.
-        ◦ सर्वाचारक्रमागतम्  corresponds to எவ்வ துறைவ துலகம் and आचारमाचरन्त्येव सुप्रबुद्धवदक्षतम् corresponds to உலகத்தோ டவ்வ துறைவ தறிவு; prabuddha means awake in the sense of awakened wisdom
-    • Manu Smriti 2.18: 
-        ◦ तस्मिन् देशे य आचारः पारम्पर्यक्रमागतः । वर्णानां सान्तरालानां स सदाचार उच्यते ॥ 
-        ◦ तस्मिन् देशे य आचारः = எவ்வ துறைவ துலகம்
-        ◦ स सदाचार उच्यते = உலகத்தோ டவ்வ துறைவ தறிவு
-    • Taittirīya Upaniṣad 1.11.3–4 
-        ◦ अथ यदि ते कर्मविचिकित्सा वा वृत्तविचिकित्सा वा स्यात् । ये तत्र ब्राह्मणाः संमर्शिनः । युक्ता आयुक्ताः । अलूक्षा धर्मकामाः स्युः । यथा ते तत्र वर्तेरन् । तथा तत्र वर्तेथाः ॥ 
-        ◦ If you should have any doubt concerning an action or a matter of conduct, then those Brahmanas there who are reflective, well-grounded in conduct, gentle and devoted to dharma—as they conduct themselves there, so should you conduct yourself there. 
-        ◦ This ethical and spiritual injunction provides the Shruti pramana
-    • Mahabharata, Udyoga Parva, Vidura Nīti 5.37.6:
-        ◦ यस्मिन्यथा वर्तते यो मनुष्यस्तस्मिंस्तथा वर्तितव्यं स धर्मः । मायाचारो मायया वर्तितव्यः साध्वाचारः साधुना प्रत्युपेयः ॥
-        ◦ One should behave towards a person in the manner in which that person behaves towards oneself: that is dharma. Deceit should be met with deceit, and good conduct should be reciprocated with good conduct. 
-        ◦ This gives a diffeernt statecraft application (sort of reminiscent of how tit for tat can set up cooperation in game theory)
-            ▪ यस्मिन् यथा वर्तते यो मनुष्यः — according to how a person conducts himself
-            ▪ तस्मिंस्तथा वर्तितव्यम् — one should conduct oneself accordingly
-            ▪ स धर्मः — that is dharma
-        ◦ While not a direct parallel, given the placement of the kural in the arasiyal portion of portupal, this reading of behave with the people of the world as they behave with you remains an interesting possibility.
 
 
 | [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் |  |
