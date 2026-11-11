@@ -10,7 +10,7 @@ tags: [kuralmatch]
 |--|--|--|
 | [1](#verse-1) | அறிவற்றங் காக்குங் கருவி செறுவார்க்கு <br> முள்ளழிக்க லாகா வரண் | इत्यादि सर्वं प्रकृतेर् यथावद् बुध्येत राजा व्यसनं प्रयत्नात् \| <br> **बुद्ध्या** च शक्त्या **व्यसनस्य कुर्याद्** अकालहीनं **व्यवरोपणं** सः \|\| <br> विशीर्णयन्त्रप्राकारपरिखात्वम् अशस्त्रता \| <br> क्षीणघासेन्धनान्नत्वाद् **दुर्गव्यसनम्** उच्यते \|\| <br> Kamandakiya Nitisara  XIV.94,XIV.65 |
 | [2](#verse-2) | சென்ற விடத்தாற் செலவிடா தீதொரீஇ  <br> நன்றின்பா லுய்ப்ப தறிவு | **प्राक्तनस्तदसौ यत्नाज्जेतव्यो** भवता कपे \| <br> शुभाशुभाभ्यां मार्गाभ्यां वहन्ती वासनासरित् \|\| <br> पौरुषेण प्रयत्नेन योजनीया शुभे पथि \| <br> **अशुभेषु समाविष्टं शुभेष्वेवावतारयेत्** \|\| <br> Muktika Upanishad 5-6 |
-| [3](#verse-3) | எப்பொருள் யார்யார்வாய்க் கேட்பினு மப்பொருண் <br> மெய்ப்பொருள் காண் பதறிவு |  |
+| [3](#verse-3) | எப்பொருள் யார்யார்வாய்க் கேட்பினு மப்பொருண் <br> மெய்ப்பொருள் காண் பதறிவு | **युक्तियुक्तमुपादेयं वचनं बालकादपि** \| <br> **अन्यत्तृणमिव त्याज्यमप्युक्तं पद्मजन्मना** \|\| <br> Yoga Vasishta 2.18.3 |
 | [4](#verse-4) | எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய் <br> நுண்பொருள் காண்ப தறிவு |  |
 | [5](#verse-5) | உலகந் தழீஇய தொட்ப மலர்தலுங்  <br> கூம்பலு மில்ல தறிவு |  |
 | [6](#verse-6) | எவ்வ துறைவ துலக முலகத்தோ <br> டவ்வ துறைவ தறிவு | **पार्श्वस्थबोधिताः सन्तः सर्वाचारक्रमागतम्** \| <br> **आचारमाचरन्त्येव सुप्रबुद्धवदक्षतम्** \|\| <br> Yoga Vasishtha 3.118.19 |
@@ -65,65 +65,13 @@ I offer these additional interpretations as applications admitted by the kural, 
 
 ### Verse 3
 
-<!--
-युक्तियुक्तमुपादेयं वचनं बालकादपि \| <br> अन्यत्तृणमिव त्याज्यमप्युक्तं पद्मजन्मना \|\| <br> Yogavasishta 2.18.3 |
+I propose Yoga Vasishtha 2.18.3 as the primary parallel for this kural. The expression வாய்க் கேட்பினும் corresponds to वचनम्, the speech or statement that is heard, while யார்யார் is metaphorically illustrated through the contrasting extremes of बालकादपि (even from a child) and पद्मजन्मना (even when spoken by Brahmā), spanning the range from the least to the highest authority. The expression மெய்ப்பொருள் காண்பது அறிவு corresponds to युक्तियुक्तमुपादेयम्: wisdom consists in discerning what is supported by reason and therefore worthy of acceptance, irrespective of the speaker. The converse, अन्यत्तृणमिव त्याज्यमप्युक्तं पद्मजन्मना, makes the principle equally emphatic: what is unsound is to be rejected like straw even when spoken by Brahmā himself. The correspondence is close in its insistence that the worth of speech must be judged by its substance rather than the identity or standing of its source. One distinction remains: the Yoga Vasishtha explicitly prescribes acceptance or rejection after examination, whereas the kural expresses the discernment of மெய்ப்பொருள் without specifying the disposition to be made of what is heard.
 
+The preceding verse, Yoga Vasishtha 2.18.2, further corroborates this principle at the level of authoritative texts: अपि पौरुषमादेयं शास्त्रं चेद्युक्तिबोधकम् \| अन्यत्त्वार्षमपि त्याज्यं भाव्यं न्याय्यैकसेविना \|\| — even a work composed by an ordinary human is to be accepted if it imparts understanding through reason, whereas one originating from a Rishi is to be rejected if it does not, by one devoted exclusively to what is reasonable. While 2.18.3 applies this principle to spoken words, 2.18.2 extends it to शास्त्र itself, denying automatic authority even to works of Rishis. he expression न्याय्यैकसेविना, denoting one devoted to what is reasonable, reinforces the kural’s மெய்ப்பொருள் காண்பது அறிவு: wisdom lies in discerning the truth through reasoned examination, rather than deferring to the authority of the speaker or source.
 
-The kural generally and abstractly urges the wisdom of investigating the real truth of whatever is heard from whomsoever's mouth. In contrast, the whereas the Yogavasishta verse employs many concrete examples to state that words that are supported by reason are to be accepted even if from children and rejected as if it were a blade of grass, even if it is heard from Brahma (the one born on a lotus). They are a reasonably good match on the key message, but there is some semantic gap. Also மெய்ப்பொருள் காண்ப தறிவு could be interpreted as jnana through vicara, which is addressed elsewhere in the Yogavasishta. Vivekacudamani verse 13 says अर्थस्य निश्चयो दृष्टो विचारेण हितोक्तितः. While not a parallel to the kural, it says that certainty about the real meaning/truth is seen to arise through inquiry (vicāra) upon beneficial teaching. So wisdom is in reasoning and contemplation of what you hear.
-
---> 
-
-
-### Verse 4
-
-
-### Verse 5
-
-
-### Verse 6
-
-I propose Yoga Vasishtha 3.118.19 as the primary parallel for this kural. The expression सर्वाचारक्रमागतम् (conduct transmitted through the succession of established customs) corresponds to எவ்வ துறைவ துலகம், while आचारमाचरन्त्येव सुप्रबुद्धवदक्षतम् (they conduct themselves accordingly, just as one fully awakened would) corresponds to உலகத்தோடு அவ்வ துறைவ தறிவு. The reference to पार्श्वस्थबोधिताः (prompted by those around them) further reinforces the social dimension of the correspondence. सुप्रबुद्ध conveys the sense of being fully awake or awakened, illuminating the discernment implied by அறிவு. The correspondence is particularly close because the verse brings together both the established conduct of the world and the wisdom of conducting oneself in accordance with it.
-
-The Taittiriya Upanishad 1.11.3–4 provides a corresponding injunction in Shruti, addressed to students completing their Vedic education: अथ यदि ते कर्मविचिकित्सा वा वृत्तविचिकित्सा वा स्यात् \| ये तत्र ब्राह्मणाः संमर्शिनः \| युक्ता आयुक्ताः \| अलूक्षा धर्मकामाः स्युः \| यथा ते तत्र वर्तेरन् \| तथा तत्र वर्तेथाः \|\|. The passage instructs the student that, should any doubt arise concerning an action or a matter of conduct, he should conduct himself as do the reflective, well-grounded, gentle, and dharma-oriented Brahmanas in that place. எவ்வ துறைவ துலகம் corresponds to यथा ते तत्र वर्तेरन्, the conduct of those in one's surroundings, while உலகத்தோடு அவ்வ துறைவ தறிவு corresponds to तथा तत्र वर्तेथाः, the discernment to shape one's own conduct accordingly. The Upanishad thus qualifies this emulation by directing the student to follow exemplary, dharma-oriented persons rather than conform indiscriminately to prevailing practice.
-
-Manu Smriti 2.18 further corroborates the customary dimension of the principle: तस्मिन् देशे य आचारः पारम्पर्यक्रमागतः \| वर्णानां सान्तरालानां स सदाचार उच्यते \|\|. Manu identifies as सदाचार the conduct traditionally handed down in a particular country among its constituent social groups. The expression तस्मिन् देशे य आचारः corresponds to எவ்வ துறைவ துலகம், identifying the customary conduct prevailing in a particular country, while स सदाचार उच्यते establishes the discernment to conduct oneself in accordance with that accepted practice, as expressed in உலகத்தோடு அவ்வ துறைவ தறிவு.
-
-A different, specifically relational and potentially political reading emerges from Vidura Niti, Mahabharata, Udyoga Parva 5.37.6 (BORI): यस्मिन्यथा वर्तते यो मनुष्यस्तस्मिंस्तथा वर्तितव्यं स धर्मः \| मायाचारो मायया वर्तितव्यः साध्वाचारः साधुना प्रत्युपेयः \|\|. One should behave towards a person in the manner in which that person behaves towards oneself: that is dharma. Deceit should be met with deceit, and good conduct should be reciprocated with good conduct. Here the correspondence is directly reciprocal: यस्मिन् यथा वर्तते यो मनुष्यः corresponds to எவ்வ துறைவ துலகம், while तस्मिंस्तथा वर्तितव्यम् corresponds to உலகத்தோடு அவ்வ துறைவ தறிவு. Unlike the preceding parallels, which concern conformity to established social or exemplary conduct, Vidura articulates a principle of reciprocity, extending even to the strategic response to deceit. This anticipates the modern tit-for-tat strategy in game theory, developed by Anatol Rapoport and popularized by Robert Axelrod's iterated Prisoner's Dilemma tournaments: one begins cooperatively and thereafter reciprocates the other party's previous action. Given the kural's placement in the அரசியல் portion of பொருட்பால், this reading is worth considering as a statecraft application—the discernment to deal with others in accordance with their own conduct. Vidura's formulation thus offers a more specifically relational and political interpretation of the broader principle expressed in the kural.
-
-
-### Verse 7
-
-
-### Verse 8
-
-
-### Verse 9
-
-I propose Kamandakiya Nitisara XII.20 and XII.24 as the primary parallel for this kural. Kamandaka identifies व्याधि (disease), alongside fire, water, famine, and pestilence, among the five natural calamities. He then assigns their prevention or remediation, together with the protection of the king and kingdom, to the minister. The lexical correspondence is particularly rich between எதிரதாக் காக்கும் and व्यसनस्य प्रतीकारो राजराज्याभिरक्षणम्, which means counteracting calamities and protecting the king and kingdom. Manakkudavar glosses எதிரதாக் காக்கும் as துன்பம் வருவதற்கு முன்பே வருமென்று நினைத்துக் காக்கும், while the dictionary defines எதிரதாக் காத்தல் as வரக்கடவதாகிய ஒன்றை முன்னே அறிந்து அதன் காரணத்தை விலக்குதல். The primary sense of எதிரதாக் is thus anticipation of what is yet to come, but எதிர் also carries the connotations of adversity and action directed against something. Correspondingly, व्यसन denotes calamity or adversity, while प्रतीकारः denotes counteraction, obviation, prevention, or remedy; the prefix प्रति further reinforces the sense of action directed against. The semantic range of காக்கும் is equally well accommodated: it encompasses protection (பாதுகாத்தல்), governance (அரசாளுதல்), anticipation (எதிர்பார்த்தல்), and removal or avoidance (விலக்குதல்). These converge in राजराज्याभिरक्षणम्, which signifies the comprehensive protection of king and kingdom. Thus the Sanskrit expression does not merely reproduce the idea of guarding against impending calamity; its constituent terms collectively accommodate the several interrelated senses embedded in Valluvar's compact expression.
-
-Manakkudavar glosses அதிர வருவதோர் நோய் as நடுங்க வருவதொரு துன்பம். This corresponds to व्यसनम्, denoting calamity or adversity; the enumeration of the five प्रकृतिव्यसनानि in XII.20, with व्याधि providing the direct equivalent of நோய், makes the correspondence particularly precise. இல்லை finds its counterpart in हन्ति तद्व्यसनान्वितः, which states that the minister who undertakes this responsibility destroys the calamity, leaving no adversity to afflict the king or kingdom.
-
-அறிவினார் is implicit in the ministerial responsibility expressed by अमात्यस्य कर्मेदम्. The qualification of the minister who can discharge this responsibility is illuminated by Kamandakiya IV.32: साधु तेषाम् अमात्यानां तद्विद्येभ्यश् च बुद्धिमान् \| चक्षुष्मत्तां च शिल्पं च परीक्षेत गुणद्वयम् \|\|. The prescription to examine an amatya for चक्षुष्मत्ता, understood in the technical Arthashastra sense as foresight (Apte, s.v. चक्षुष्मत्, sense 3, citing Kautilya, Arthashastra 1.9), helps explain the force of எதிரதாக் காக்கும் அறிவினார்: intelligence here is the capacity to perceive impending adversity and take measures against it in advance. The correspondence therefore brings out Valluvar's conception of intelligence not merely as the ability to respond to adversity, but as the foresight to prevent it.
-
-Agni Purana 214.14–17, in its chapter on political science, reproduces verses almost identical to Kamandakiya Nitisara XII.20 and XII.24, with only minor textual and metrical variations. It thus provides an equivalent Puranic parallel to the same political principle.
-
-At a more general philosophical level, Patanjali's Yogasutra 2.16 states हेयं दुःखमनागतम् — suffering that has not yet arisen is to be avoided. This expresses the underlying principle of preventing future suffering, but Valluvar gives it a specifically political and administrative application: the wise person anticipates adversity and guards against it through timely action. Kamandakiya Nitisara goes considerably further, elaborating in the surrounding chapters the various calamities that must be anticipated and the measures prescribed for their prevention or remediation. This detailed treatment illuminates the scope of Valluvar's otherwise cryptic reference to impending adversity.
-
-
-### Verse 10
-
-
-### Chapter Summary
+The traditional commentaries reinforce this reading of the kural and its correspondence with Yoga Vasishtha 2.18.3. Manakkudavar explains: “யாதொரு பொருளை யாவர் சிலர் சொல்லக் கேட்பினும் அப்பொருளினது உண்மையை யாராய்வது அறிவாவது. இது யாவர் சிலர் நட்டோராயினும் பகைவராயினும் அவர் கூறக் கேட்டவற்றில் தெள்ளியராய் ஆராய்ந்து துணித லறிவென்றது.” He thus emphasizes careful inquiry into the truth of what is heard, even when it comes from friends or enemies. Parimelazhagar develops the point further: “யாதொரு பொருளை யாவர் யாவர் சொல்லக் கேட்பினும்; அப்பொருளின் மெய்யாய பயனைக் காணவல்லது அறிவு. குணங்கள் மூன்றும் மாறி மாறி வருதல் யாவர்க்கும் உண்மையின், உயர்ந்த பொருள் இழிந்தார் வாயினும், இழிந்த பொருள் உயர்ந்தார் வாயினும், உறுதிப்பொருள் பகைவர்வாயினும், கெடுபொருள் நட்டார்வாயினும், ஒரோவழிக் கேட்கப்படுதலான், 'எப்பொருள் யார் யார் வாய்க் கேட்பினும்' என்றார். அடுக்கு, பன்மைபற்றி வந்தது. 'வாய்' என்பது அவர் அப்பொருளின்கண் பயிலாமை உணர்த்திநின்றது. மெய்யாதல், நிலைபெறுதல். சொல்வாரது இயல்பு நோக்காது, அப்பொருளின் பயன் நோக்கிக் கொள்ளுதல் ஒழிதல் செய்வது அறிவு என்பதாம்.” His explanation makes explicit that the speaker's character or standing must not determine our judgment; the substance and value of what is said must. This is precisely the discernment expressed by மெய்ப்பொருள் காண்பது அறிவு, and closely accords with the Yogavāsiṣṭha's injunction to accept युक्तियुक्तम् even from a child and reject what is unsound even when spoken by Brahmā. The commentaries therefore corroborate not merely the independence of truth from the speaker's authority, but the active inquiry by which that truth is discerned.
 
 <!--
-Mankkudavar verse order: 10, 6, 5, 3, 4, 2, 8, 7, 1, 9. 
-
-10, 6, 5, 3, _, 2, 8, 7 are corroborated by Yoga Vaisishtha 
-4, 2, 8, 7, 1, 9 are corroborated by Kamandakiya Nitisara
-While all the kurals have layered interepretations, the earlier ones in Manakkudavar order have a stronger ethical and spiritual wisdom focus, whereas the latter ones have a strong statecraft focus. 
-
-
-
 | [3](#verse-3) | எப்பொருள் யார்யார்வாய்க் கேட்பினு மப்பொருண் <br> மெய்ப்பொருள் காண் பதறிவு |  |
 
     • Yoga Vasishta 2.18.3 
@@ -209,6 +157,66 @@ Deciphering indirect communication	Mahābhārata, Ādi Parva, Adhyāya 133 (BORI
 Psychological discernment	Pañcatantra 1.44–45	Inference of unspoken meaning and inner state
 Impartial extraction of beneficial truth	Rāmāyaṇa, Yuddha Kāṇḍa 6.36.1; Mahābhārata, Virāṭa Parva 4.51.15; Manu Smṛti 2.239	Recognition of benefit or merit irrespective of the speaker or manner
 Verification of reports and allegations	Arthaśāstra 3.1.46	Examination and establishment of the validity of assertions
+-->
+
+
+<!--
+युक्तियुक्तमुपादेयं वचनं बालकादपि \| <br> अन्यत्तृणमिव त्याज्यमप्युक्तं पद्मजन्मना \|\| <br> Yogavasishta 2.18.3 |
+
+
+The kural generally and abstractly urges the wisdom of investigating the real truth of whatever is heard from whomsoever's mouth. In contrast, the whereas the Yogavasishta verse employs many concrete examples to state that words that are supported by reason are to be accepted even if from children and rejected as if it were a blade of grass, even if it is heard from Brahma (the one born on a lotus). They are a reasonably good match on the key message, but there is some semantic gap. Also மெய்ப்பொருள் காண்ப தறிவு could be interpreted as jnana through vicara, which is addressed elsewhere in the Yogavasishta. Vivekacudamani verse 13 says अर्थस्य निश्चयो दृष्टो विचारेण हितोक्तितः. While not a parallel to the kural, it says that certainty about the real meaning/truth is seen to arise through inquiry (vicāra) upon beneficial teaching. So wisdom is in reasoning and contemplation of what you hear.
+
+--> 
+
+
+### Verse 4
+
+
+### Verse 5
+
+
+### Verse 6
+
+I propose Yoga Vasishtha 3.118.19 as the primary parallel for this kural. The expression सर्वाचारक्रमागतम् (conduct transmitted through the succession of established customs) corresponds to எவ்வ துறைவ துலகம், while आचारमाचरन्त्येव सुप्रबुद्धवदक्षतम् (they conduct themselves accordingly, just as one fully awakened would) corresponds to உலகத்தோடு அவ்வ துறைவ தறிவு. The reference to पार्श्वस्थबोधिताः (prompted by those around them) further reinforces the social dimension of the correspondence. सुप्रबुद्ध conveys the sense of being fully awake or awakened, illuminating the discernment implied by அறிவு. The correspondence is particularly close because the verse brings together both the established conduct of the world and the wisdom of conducting oneself in accordance with it.
+
+The Taittiriya Upanishad 1.11.3–4 provides a corresponding injunction in Shruti, addressed to students completing their Vedic education: अथ यदि ते कर्मविचिकित्सा वा वृत्तविचिकित्सा वा स्यात् \| ये तत्र ब्राह्मणाः संमर्शिनः \| युक्ता आयुक्ताः \| अलूक्षा धर्मकामाः स्युः \| यथा ते तत्र वर्तेरन् \| तथा तत्र वर्तेथाः \|\|. The passage instructs the student that, should any doubt arise concerning an action or a matter of conduct, he should conduct himself as do the reflective, well-grounded, gentle, and dharma-oriented Brahmanas in that place. எவ்வ துறைவ துலகம் corresponds to यथा ते तत्र वर्तेरन्, the conduct of those in one's surroundings, while உலகத்தோடு அவ்வ துறைவ தறிவு corresponds to तथा तत्र वर्तेथाः, the discernment to shape one's own conduct accordingly. The Upanishad thus qualifies this emulation by directing the student to follow exemplary, dharma-oriented persons rather than conform indiscriminately to prevailing practice.
+
+Manu Smriti 2.18 further corroborates the customary dimension of the principle: तस्मिन् देशे य आचारः पारम्पर्यक्रमागतः \| वर्णानां सान्तरालानां स सदाचार उच्यते \|\|. Manu identifies as सदाचार the conduct traditionally handed down in a particular country among its constituent social groups. The expression तस्मिन् देशे य आचारः corresponds to எவ்வ துறைவ துலகம், identifying the customary conduct prevailing in a particular country, while स सदाचार उच्यते establishes the discernment to conduct oneself in accordance with that accepted practice, as expressed in உலகத்தோடு அவ்வ துறைவ தறிவு.
+
+A different, specifically relational and potentially political reading emerges from Vidura Niti, Mahabharata, Udyoga Parva 5.37.6 (BORI): यस्मिन्यथा वर्तते यो मनुष्यस्तस्मिंस्तथा वर्तितव्यं स धर्मः \| मायाचारो मायया वर्तितव्यः साध्वाचारः साधुना प्रत्युपेयः \|\|. One should behave towards a person in the manner in which that person behaves towards oneself: that is dharma. Deceit should be met with deceit, and good conduct should be reciprocated with good conduct. Here the correspondence is directly reciprocal: यस्मिन् यथा वर्तते यो मनुष्यः corresponds to எவ்வ துறைவ துலகம், while तस्मिंस्तथा वर्तितव्यम् corresponds to உலகத்தோடு அவ்வ துறைவ தறிவு. Unlike the preceding parallels, which concern conformity to established social or exemplary conduct, Vidura articulates a principle of reciprocity, extending even to the strategic response to deceit. This anticipates the modern tit-for-tat strategy in game theory, developed by Anatol Rapoport and popularized by Robert Axelrod's iterated Prisoner's Dilemma tournaments: one begins cooperatively and thereafter reciprocates the other party's previous action. Given the kural's placement in the அரசியல் portion of பொருட்பால், this reading is worth considering as a statecraft application—the discernment to deal with others in accordance with their own conduct. Vidura's formulation thus offers a more specifically relational and political interpretation of the broader principle expressed in the kural.
+
+
+### Verse 7
+
+
+### Verse 8
+
+
+### Verse 9
+
+I propose Kamandakiya Nitisara XII.20 and XII.24 as the primary parallel for this kural. Kamandaka identifies व्याधि (disease), alongside fire, water, famine, and pestilence, among the five natural calamities. He then assigns their prevention or remediation, together with the protection of the king and kingdom, to the minister. The lexical correspondence is particularly rich between எதிரதாக் காக்கும் and व्यसनस्य प्रतीकारो राजराज्याभिरक्षणम्, which means counteracting calamities and protecting the king and kingdom. Manakkudavar glosses எதிரதாக் காக்கும் as துன்பம் வருவதற்கு முன்பே வருமென்று நினைத்துக் காக்கும், while the dictionary defines எதிரதாக் காத்தல் as வரக்கடவதாகிய ஒன்றை முன்னே அறிந்து அதன் காரணத்தை விலக்குதல். The primary sense of எதிரதாக் is thus anticipation of what is yet to come, but எதிர் also carries the connotations of adversity and action directed against something. Correspondingly, व्यसन denotes calamity or adversity, while प्रतीकारः denotes counteraction, obviation, prevention, or remedy; the prefix प्रति further reinforces the sense of action directed against. The semantic range of காக்கும் is equally well accommodated: it encompasses protection (பாதுகாத்தல்), governance (அரசாளுதல்), anticipation (எதிர்பார்த்தல்), and removal or avoidance (விலக்குதல்). These converge in राजराज्याभिरक्षणम्, which signifies the comprehensive protection of king and kingdom. Thus the Sanskrit expression does not merely reproduce the idea of guarding against impending calamity; its constituent terms collectively accommodate the several interrelated senses embedded in Valluvar's compact expression.
+
+Manakkudavar glosses அதிர வருவதோர் நோய் as நடுங்க வருவதொரு துன்பம். This corresponds to व्यसनम्, denoting calamity or adversity; the enumeration of the five प्रकृतिव्यसनानि in XII.20, with व्याधि providing the direct equivalent of நோய், makes the correspondence particularly precise. இல்லை finds its counterpart in हन्ति तद्व्यसनान्वितः, which states that the minister who undertakes this responsibility destroys the calamity, leaving no adversity to afflict the king or kingdom.
+
+அறிவினார் is implicit in the ministerial responsibility expressed by अमात्यस्य कर्मेदम्. The qualification of the minister who can discharge this responsibility is illuminated by Kamandakiya IV.32: साधु तेषाम् अमात्यानां तद्विद्येभ्यश् च बुद्धिमान् \| चक्षुष्मत्तां च शिल्पं च परीक्षेत गुणद्वयम् \|\|. The prescription to examine an amatya for चक्षुष्मत्ता, understood in the technical Arthashastra sense as foresight (Apte, s.v. चक्षुष्मत्, sense 3, citing Kautilya, Arthashastra 1.9), helps explain the force of எதிரதாக் காக்கும் அறிவினார்: intelligence here is the capacity to perceive impending adversity and take measures against it in advance. The correspondence therefore brings out Valluvar's conception of intelligence not merely as the ability to respond to adversity, but as the foresight to prevent it.
+
+Agni Purana 214.14–17, in its chapter on political science, reproduces verses almost identical to Kamandakiya Nitisara XII.20 and XII.24, with only minor textual and metrical variations. It thus provides an equivalent Puranic parallel to the same political principle.
+
+At a more general philosophical level, Patanjali's Yogasutra 2.16 states हेयं दुःखमनागतम् — suffering that has not yet arisen is to be avoided. This expresses the underlying principle of preventing future suffering, but Valluvar gives it a specifically political and administrative application: the wise person anticipates adversity and guards against it through timely action. Kamandakiya Nitisara goes considerably further, elaborating in the surrounding chapters the various calamities that must be anticipated and the measures prescribed for their prevention or remediation. This detailed treatment illuminates the scope of Valluvar's otherwise cryptic reference to impending adversity.
+
+
+### Verse 10
+
+
+### Chapter Summary
+
+<!--
+Mankkudavar verse order: 10, 6, 5, 3, 4, 2, 8, 7, 1, 9. 
+
+10, 6, 5, 3, _, 2, 8, 7 are corroborated by Yoga Vaisishtha 
+4, 2, 8, 7, 1, 9 are corroborated by Kamandakiya Nitisara
+While all the kurals have layered interepretations, the earlier ones in Manakkudavar order have a stronger ethical and spiritual wisdom focus, whereas the latter ones have a strong statecraft focus. 
+
 
 
 | [4](#verse-4) | எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய் <br> நுண்பொருள் காண்ப தறிவு |  |
