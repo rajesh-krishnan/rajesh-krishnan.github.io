@@ -14,12 +14,11 @@ tags: [kuralmatch]
 | [4](#verse-4) | எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய் <br> நுண்பொருள் காண்ப தறிவு | **सलेशम् उल्लिङ्गितशात्रवेङ्गितः कृती गिरां विस्तरतत्त्वसंग्रहे** \| <br> अयं प्रमाणीकृतकालसाधनः प्रशान्तसंरम्भ इवाददे वचः \|\| <br> भवन्ति ते सभ्यतमा विपश्चितां मनोगतं वाचि निवेशयन्ति ये \| <br> नयन्ति तेष्वप्युपपन्ननैपुणा **गम्भीरमर्थं कतिचित्प्रकाशताम्** \|\| <br> Bharavi,  Kiratarjuniyam  14.2,4 |
 | [5](#verse-5) | உலகந் தழீஇய தொட்ப மலர்தலுங் <br> கூம்பலு மில்ல தறிவு | **ये हि राजससात्त्विक्या जाता भुवि महागुणाः** \| <br> **ते नित्यमेव मुदिताः** प्रकाशाः ख इवेन्दवः \|\| <br> न खेदमभिगच्छन्ति व्योमभागो मलं यथा \| <br> **नापदा म्लानिमायान्ति निशि हेमाम्बुजं यथा** \|\| <br> Yoga Vasishtha 4.61.2,6 |
 | [6](#verse-6) | எவ்வ துறைவ துலக முலகத்தோ <br> டவ்வ துறைவ தறிவு | **पार्श्वस्थबोधिताः सन्तः सर्वाचारक्रमागतम्** \| <br> **आचारमाचरन्त्येव सुप्रबुद्धवदक्षतम्** \|\| <br> Yoga Vasishtha 3.118.19 |
-| [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் |  |
+| [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் | **कार्यजातं गुणवदगुणवद्वा कुर्वता परिणतिरवधार्या यत्नतः पण्डितेन** \| <br> **अतिरभसकृतानां कर्मणामाविपत्तेर् भवति हृदयदाही शल्यतुल्यो विपाकः** \|\| <br> Bhatrithari Nitishatakam 52 |
 | [8](#verse-8) | அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ <br> தஞ்ச லறிவார் தொழில் |  |
 | [9](#verse-9) | எதிரதாக் காக்கு மறிவினார்க் கில்லை <br> யதிர வருவதோர் நோய் | हुताशनो जलं **व्याधिर्** दुभिक्षो मरकस् तथा \| <br> इति पञ्चविधं दैवं **व्यसनं** मानुषं परम् \|\| <br> **व्यसनस्य प्रतीकारो राजराज्याभिरक्षणम्** \| <br> **इत्य् अमात्यस्य कर्मेदं हन्ति तद्व्यसनान्वितः** \|\| <br> Kamandakiya Nitisara XII.20,24 |
 | [10](#verse-10) | அறிவுடையா ரெல்லா முடையா ரறிவிலா <br> ரென்னுடைய ரேனு மிலர் |  |
 
-<!-- Mankkudavar verse order: 10, 6, 5, 3, 4, 2, 8, 7, 1, 9 -->
 
 ## Comments and Research Notes
 
@@ -181,6 +180,19 @@ A different, specifically relational and potentially political reading emerges f
 
 ### Verse 7
 
+I propose Bhartrihari's Nitishatakam 52 as the primary parallel for this kural, read in conjunction with Manakkudavar's gloss. Bhartrihari states that the wise person must carefully ascertain the eventual outcome of an undertaking, whether beneficial or harmful (कार्यजातं गुणवदगुणवद्वा कुर्वता परिणतिरवधार्या यत्नतः पण्डितेन). This corresponds closely to அறிவுடையார் ஆவது அறிவார், with परिणति capturing the eventual outcome and ramifications of an undertaking. The second half of Bhartrihari's verse illustrates the consequences of lacking such discernment: actions performed in excessive haste produce a painful outcome, like a thorn lodged in the heart (अतिरभसकृतानां कर्मणामाविपत्तेर् भवति हृदयदाही शल्यतुल्यो विपाकः). This is a metaphorical illustration rather than a direct formulation of the unwise person's inability to foresee. Manakkudavar's gloss reinforces this reading: பிற்பயக்குமது அறிவார் அறிவுடையாராவார்; அதனை யறியாதவர் அறிவில்லாதவராவர் — the wise are those who know what an undertaking will yield subsequently, while those who do not know this are unwise.
+
+An alternative interpretation is possible in light of Kamandakiya Nitisara 12.11: शक्याशक्यपरिच्छेदं कुर्याद् बुद्ध्या प्रसन्नया \| केवलं दन्तभङ्गाय दन्तिनः शैलताडनम् \|\|. One should employ clear intelligence to distinguish what is feasible from what is infeasible; an elephant that strikes a mountain merely breaks its tusks. Here, शक्याशक्यपरिच्छेदम् offers a distinct reading of ஆவது அறிவார்: the wise understand what can actually be accomplished, whereas the unwise undertake futile or impossible tasks and suffer the consequences. This is not simply another formulation of foreseeing an undertaking's eventual outcome, but a complementary application of practical intelligence in assessing feasibility before undertaking it.
+
+The connection between foresight and practical intelligence is particularly pertinent to the selection of ministers. Kamandakiya Nitisara IV.32 states: साधु तेषाम् अमात्यानां तद्विद्येभ्यश् च बुद्धिमान् \| चक्षुष्मत्तां च शिल्पं च परीक्षेत गुणद्वयम् \|\| The prescription to examine a prospective minister for चक्षुष्मत्ता, understood in the technical Arthashastra sense as foresight (Apte, s.v. चक्षुष्मत्, sense 3, citing Kautilya, Arthashastra 1.9), is especially relevant to ஆவது அறிவார். It establishes the ability to anticipate developments and their consequences as a specific qualification of those entrusted with state responsibilities, thus giving Valluvar's conception of foresight (ஆவது அறிவார்) a direct application in ministerial selection.
+
+Valmiki Ramayana 2.63.7 offers a close corroboration of the primary reading: गुरुलाघवमर्थानामारम्भे कर्मणां फलम् \| दोषं वा यो न जानाति स बाल इति होच्यते \|\|. One who, at the commencement of an undertaking, does not understand the relative weight of its consequences, whether beneficial or harmful, is called a child, that is, an immature person. The passage occurs as Dasharatha, grieving over Rama's exile, reflects on the consequences of his own earlier actions. The correspondence is particularly evident in ஆவது அறிவார் and कर्मणां फलम् दोषं वा यो न जानाति -- wisdom consists in discerning the fruits and possible harm of an action before embarking upon it. The expression गुरुलाघवम् further introduces the consideration of the relative weight or significance of those consequences, while स बाल इति होच्यते supplies the converse in the kural: one who lacks this discernment is அறிவிலார்.
+
+Mahabharata, Shanti Parva 12.138.35 (BORI Critical Edition) introduces a further dimension of foresight in the context of statecraft: अनागतं विजानीयाद्यच्छेद्भयमुपस्थितम् \| पुनर्वृद्धिक्षयात्किञ्चिदभिवृत्तं निशामयेत् \|\|. One should discern what is yet to come, avert the danger that has arisen, and observe developments through their increase and decline. This extends ஆவது அறிவார் to the discernment of impending developments and the assessment of circumstances as they evolve. Unlike Bhartrihari's broader concern with the eventual outcome of an undertaking, the Mahabharata is more specifically concerned with anticipating dangers, responding to present threats, and observing changing conditions.
+
+Yoga Vasistha 5.12.19 offers another perspective on this faculty of discernment: यस्योज्ज्वलति तीक्ष्णाग्रा पूर्वापरविचारिणी \| प्रज्ञादीपशिखा जातु जाड्यान्ध्यं तं न बाधते \|\| The flame of prajna, whose sharp point examines what precedes and what follows, prevents the darkness of intellectual dullness from overcoming the discerning person. The expression पूर्वापरविचारिणी is particularly relevant to ஆவது அறிவார்: intelligence examines both what has transpired and what is yet to come, discerning future outcomes in the light of preceding events. Conversely, one in whom this faculty is absent falls within அறிவிலார் — those who lack the discernment to anticipate what is to come. This complements the primary parallel by emphasizing the temporal and analytical dimension of foresight.
+
+
 
 ### Verse 8
 
@@ -225,35 +237,6 @@ Highlight the kurals that have a wide range of possible interpretations, startin
 Point out the timeless of these aphorisms and broader applciability to life such as seeking the truth of others words without source bias, clear communications, ability to understand complex and nuanced concepts and express them clearly, wisely removing vulnerabilities and fortifying one's position, course correction to avoid negative outcomes and seeking beenficial ones, etc.  Touch on the game theoretic and the robustness principles as further corroboration of how Valluvar's compact and abstract expressions have wide applicability, albeit the chapter being placed in the  statecraft section. 
 
 
-| [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் |  |
-
-    • I think it makes sense to present Bhartrihari below and weave in the Manakkudavar gloss as the primary parallel. Thwn we should introduce an alterante possible reading of the kural and present Kamandakiya as corroboration. FInally we can present the rest that follow as largely corroborating the primary parallel (but with slightly different nuances, e.g., impact/weight of the beneficial fruits or harm resulting from an action, discerning what is yet to come in the context of dangers, discerning future outcome based on what has already transpired, etc.).
-    • Bhatrithari Nitishatakam 52: 
-        ◦ कार्यजातं गुणवदगुणवद्वा कुर्वता परिणतिरवधार्या यत्नतः पण्डितेन । अतिरभसकृतानां कर्मणामाविपत्तेर् भवति हृदयदाही शल्यतुल्यो विपाकः ॥
-        ◦ The wise person, while undertaking works, should carefully determine their eventual outcome—whether beneficial or harmful. For actions performed with excessive haste can produce a painful consequence, like a thorn lodged in the heart.
-            ▪ அறிவுடையார் ஆவது அறிவார்	परिणतिरवधार्या यत्नतः पण्डितेन
-            ▪ அறிவிலார் அஃதறி கல்லாதவர்	अतिरभसकृतानां कर्मणां ... हृदयदाही ... विपाकः (metaphorical illustration)
-        ◦ The correspondence is particularly strong because परिणति captures the eventual outcome or ramifications of an undertaking. Bhartr̥hari explicitly says that the wise person must ascertain this outcome carefully, whether the undertaking is beneficial or otherwise. The second half of the verse illustrates what happens when this discernment is absent: hasty actions produce painful consequences. It is a metaphorical rather than a direct formulation of the unwise person's inability to foresee.
-    • Manakkudavar gloss: favors aavathu as what will happen / the eventual outcome and ramifications, corroborating the reading of the primary parallel
-        ◦ பிற்பயக்குமது அறிவார் அறிவுடையாராவார்; அதனை யறியாதவர் அறிவில்லாதவராவர்.
-    • Kamandakiya Nitisara 12.11: can also read aavathu as what can be accomplished  
-        ◦ शक्याशक्यपरिच्छेदं कुर्याद् बुद्ध्या प्रसन्नया | केवलं दन्तभङ्गाय दन्तिनः शैलताडनम् ||
-        ◦ One should use clear intelligence to distinguish what is feasible from what is infeasible. An elephant striking a mountain merely breaks its tusks. 
-        ◦ This opens a distinct interpretation of ஆவது அறிவார் : शक्याशक्यपरिच्छेदम् — discrimination between the feasible and infeasible. 
-        ◦ Here the wise person understands what can actually be accomplished, whereas the unwise undertake futile or impossible tasks, damaging themselves in the process. This is not simply a parallel to knowing the eventual consequences. It is a separate application of practical intelligence in assessing feasibility.
-    • Valmiki Ramayana 2.63.7: knowing the consequences of action
-        ◦ गुरुलाघवमर्थानामारम्भे कर्मणां फलम् । दोषं वा यो न जानाति स बाल इति होच्यते ॥
-        ◦ One who, at the commencement of an undertaking, does not know the relative weight of its consequences—their benefit or harm—is called a child, that is, an immature or foolish person.
-        ◦ This passage occurs when Dasharatha, grieving over Rama's exile, reflects on the consequences of his own earlier actions.
-            ▪ ஆவது … அறிவிலார் அஃதறி கல்லாதவர் - कर्मणां फलम् । दोषं वा यो न जानाति स बाल इति होच्यते 
-            ▪ Corroboratates the kural partially as read with the primary parallel
-    • MahabharataShanti Parva 12.138.35 (BORI)
-        ◦ अनागतं विजानीयाद्यच्छेद्भयमुपस्थितम् । पुनर्वृद्धिक्षयात्किञ्चिदभिवृत्तं निशामयेत् ॥
-        ◦ One should discern what is yet to come, avert the danger that has arisen, and observe developments through their increase and decline. 
-        ◦ This supplies another dimension of ஆவது அறிவார்: discerning what is yet to come and observing the development of circumstances through their increase and decline. It is particularly useful in the statecraft context, although it is more specifically concerned with impending danger than the broader idea of eventual outcomes. It explicitly supplies फलम् and दोषम्—the fruit and the harmful consequence.
-    • Yoga Vasishtha  5.12.19
-        ◦ यस्योज्ज्वलति तीक्ष्णाग्रा पूर्वापरविचारिणी । प्रज्ञादीपशिखा जातु जाड्यान्ध्यं तं न बाधते ॥ 
-        ◦  the flame of prajñā that examines what precedes and what follows; introduces knowing what is to come in the context of what has transpired. 
 
 
 | [8](#verse-8) | அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ <br> தஞ்ச லறிவார் தொழில் |  |
