@@ -15,9 +15,9 @@ tags: [kuralmatch]
 | [5](#verse-5) | உலகந் தழீஇய தொட்ப மலர்தலுங் <br> கூம்பலு மில்ல தறிவு | **ये हि राजससात्त्विक्या जाता भुवि महागुणाः** \| <br> **ते नित्यमेव मुदिताः** प्रकाशाः ख इवेन्दवः \|\| <br> न खेदमभिगच्छन्ति व्योमभागो मलं यथा \| <br> **नापदा म्लानिमायान्ति निशि हेमाम्बुजं यथा** \|\| <br> Yoga Vasishtha 4.61.2,6 |
 | [6](#verse-6) | எவ்வ துறைவ துலக முலகத்தோ <br> டவ்வ துறைவ தறிவு | **पार्श्वस्थबोधिताः सन्तः सर्वाचारक्रमागतम्** \| <br> **आचारमाचरन्त्येव सुप्रबुद्धवदक्षतम्** \|\| <br> Yoga Vasishtha 3.118.19 |
 | [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் | **कार्यजातं गुणवदगुणवद्वा कुर्वता परिणतिरवधार्या यत्नतः पण्डितेन** \| <br> **अतिरभसकृतानां कर्मणामाविपत्तेर् भवति हृदयदाही शल्यतुल्यो विपाकः** \|\| <br> Bhatrithari Nitishatakam 52 |
-| [8](#verse-8) | அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ <br> தஞ்ச லறிவார் தொழில் |  |
+| [8](#verse-8) | அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ <br> தஞ்ச லறிவார் தொழில் | भीतवत् संनिधिः कार्यः प्रतिसंधिस्तथैव च \| <br> **भयादुत्पद्यते बुद्धिरप्रमत्ताभियोगजा** \|\| <br> न भयं विद्यते राजन् भीतस्यानागते भये \| **अभीतस्य च विश्रम्भात् सुमहज्जायते भयम्** \|\| Mahabharata Shanti Parva 12.138.200-201 (BORI) |
 | [9](#verse-9) | எதிரதாக் காக்கு மறிவினார்க் கில்லை <br> யதிர வருவதோர் நோய் | हुताशनो जलं **व्याधिर्** दुभिक्षो मरकस् तथा \| <br> इति पञ्चविधं दैवं **व्यसनं** मानुषं परम् \|\| <br> **व्यसनस्य प्रतीकारो राजराज्याभिरक्षणम्** \| <br> **इत्य् अमात्यस्य कर्मेदं हन्ति तद्व्यसनान्वितः** \|\| <br> Kamandakiya Nitisara XII.20,24 |
-| [10](#verse-10) | அறிவுடையா ரெல்லா முடையா ரறிவிலா <br> ரென்னுடைய ரேனு மிலர் |  |
+| [10](#verse-10) | அறிவுடையா ரெல்லா முடையா ரறிவிலா <br> ரென்னுடைய ரேனு மிலர் | **धनहीनो न हीनश्च धनिकः स सुनिश्चयः** \| <br> **विद्यारत्नेन हीनो यः स हीनः सर्ववस्तुषु** \|\| <br> Brihat Chanakya Niti 10.1 |
 
 
 ## Comments and Research Notes
@@ -196,6 +196,24 @@ Yoga Vasistha 5.12.19 offers another perspective on this faculty of discernment:
 
 ### Verse 8
 
+I propose Mahabharata, Shanti Parva 12.138.200–201 as the primary parallel for this kural. The first verse prescribes maintaining oneself as though apprehensive (भीतवत् संनिधिः कार्यः), and identifies the resulting vigilance and sustained effort as the source of intelligence (भयादुत्पद्यते बुद्धिः). The second makes Valluvar's distinction particularly explicit: न भयं विद्यते राजन् भीतस्यानागते भये — one who anticipates danger before it arrives has no reason to fear it; conversely, from the overconfidence of one who remains unafraid arises great danger (अभीतस्य च विश्रम्भात् सुमहज्जायते भयम्). Thus அஞ்சுவ தஞ்சாமை பேதைமை is illustrated by the grave consequences of failing to fear what warrants fear, while அஞ்சுவ தஞ்ச லறிவார் தொழில் finds its counterpart in the deliberate vigilance that anticipates danger and generates बुद्धिः. The Mahabharata also relates to an aspect of the earlier kural in this chapter, அறிவுடையா ராவ தறிவார், through its emphasis on recognizing impending danger before it materializes.
+
+Kamandakiya Nitisara XII.9 provides a close corroboration of the positive prescription in the kural: पश्यद्भिर् दूरतोऽपायान् सूपायप्रतिपत्तिभिः \| भवन्तीह फलायैव विद्वद्भिर् मन्त्रिताः क्रियाः \|\|. Actions deliberated by the wise, who perceive dangers from afar and adopt appropriate means, become fruitful. The verse brings together three elements particularly relevant to அஞ்சுவ தஞ்ச லறிவார் தொழில்: अपायान्, the dangers and sources of harm to be anticipated; दूरतो पश्यद्भिः, the ability to perceive them from afar; and विद्वद्भिर् मन्त्रिताः क्रियाः, actions deliberated upon by the wise. The emphasis is not merely on recognizing danger but on anticipating it and taking appropriate measures. Kamandakiya XII.13 offers a metaphorical corroboration of the converse: नाग्निं पतङ्गवद् गच्छेत् स्पृश्यम् एव तु संस्पृशेत् \| किम् अन्यत् स्याद् ऋते दाहात् पतङ्गस्याग्निम् ऋच्छतः \|\|. One should not approach fire like a moth, but touch only what is safe to touch; what else can happen to the moth that approaches fire except to be burnt? The moth's inability to recognize and avoid an obvious danger illustrates அஞ்சுவ தஞ்சாமை பேதைமை. Together, these two Kamandakiya verses capture both the anticipatory intelligence and the folly of disregarding danger.
+
+Valmiki Ramayana, Aranyakanda 3.31.16 offers a further corroboration of the negative prescription: नानुतिष्ठति कार्याणि भयेषु न बिभेति च \| क्षिप्रं राज्याच्च्युतो दीनस्तृणैस्तुल्यो भविष्यति \|\|. He who fails to attend to his duties and does not fear when dangers arise will soon be deprived of his kingdom, become wretched, and be like a blade of grass. te. The expression भयेषु न बिभेति corresponds directly to அஞ்சுவ தஞ்சாமை, while the resulting loss of sovereignty illustrates why such conduct is பேதைமை. The positive prescription, அஞ்சுவ தஞ்ச லறிவார் தொழில், remains implicit: the ruler's responsibility includes the discernment to fear what must be feared.
+
+Hitopadesha 1.57 introduces an important qualification concerning the timing and proper exercise of fear: तावद्भयस्य भेतव्यं यावद्भयम् अनागतम् \| आगतं तु भयं वीक्ष्य नरः कुर्याद् यथोचितम् \|\|. One should fear danger so long as it has not yet arrived; but when danger actually materializes, one should act appropriately upon observing it. This distinguishes anticipatory caution from the action required once danger is present. The wisdom lies not in perpetual apprehension, but in recognizing the appropriate response at each stage: anticipating danger before its arrival and acting decisively when it materializes. This provides a useful qualification to அஞ்சுவ தஞ்ச லறிவார் தொழில்.
+
+#### A Spiritual Interpretation of What is to be Feared
+
+Yoga Vasistha 2.18.47 offers a secondary ethical reading of the kural: एतावत्यपि येऽभीताः पापा भोगरसे स्थिताःस्वमातृविष्ठाकृमयः कीर्तनीया न तेऽधमाः \|\|. The passage condemns those who, despite instruction, remain unafraid and continue to be immersed in the pleasures of worldly indulgence, comparing them to worms living in their own mother's excrement. Here येऽभीताः पापा and तेऽधमाः can be read in relation to அஞ்சுவ தஞ்சாமை பேதைமை, with the object of appropriate fear being sin and its consequences. The context is important: Yoga Vasistha 2.18.40 employs the metaphor of a painted snake to distinguish the unreal from the real: चित्रसर्पः परिज्ञातो न सर्पभयदो यथा सर्पभयदो दृश्यसर्पः परिज्ञातस्तथा न सुखदुःखदः \|\|. Just as a painted snake, once recognized as a painting, does not cause the fear that a real snake does, so the visible world, when understood in its true nature, no longer produces pleasure or pain. The distinction between what is genuinely to be feared and what is not thus introduces a further dimension of discriminative wisdom. This is a secondary, inward and ethical application rather than a direct statecraft parallel.
+
+#### Arthashastra's perspective on அஞ்சுவ தஞ்ச லறிவார் தொழில் 
+
+Kautilya's Arthashastra 9.7 provides a particularly substantial account of the practical intelligence underlying அஞ்சுவ தஞ்ச லறிவார் தொழில். It begins by identifying the arising of fear from oneself or from another as an adverse condition: स्वतः परतो वा भय-उत्पत्तिरित्यनर्थः ॥ (9.7.7). The following verse requires the assessment of whether a proposed course of action is advantageous or disadvantageous: तयोः अर्थो न वा इति \| अनर्थो न वा इति \| अर्थोऽनर्थ इति \| अनर्थोऽर्थ इति संशयः \|\| (9.7.8). Kautilya's concern is therefore not simply the recognition of danger, but the reasoned assessment of the actual consequences of a proposed action, including the possibility that an apparent advantage may conceal a disadvantage, or vice versa.
+
+The subsequent discussion develops this method systematically. Arthashastra 9.7.5–6 identifies gains that are actually perilous because they strengthen an enemy, create future liabilities, or entail depletion and expenditure; 9.7.9–13 examines concrete situations in which the strategic value of an action is uncertain. Verse 9.7.14 introduces a sixfold classification of consequences, distinguishing immediate gains and losses from their further consequences. The discussion in 9.7.23–45 then examines combinations of gains, losses, and uncertainties arising from different directions, prescribing appropriate responses, including seeking allies and withdrawing from untenable positions. This analytical framework gives considerable practical content to Valluvar's prescription: அஞ்சுவது அஞ்சல் is not mere apprehension, but the exercise of discriminative intelligence in identifying, assessing, and managing risks. The treatment also connects with அறிவுடையா ராவ தறிவார், since the assessment of an apparent gain or loss must account for its eventual consequences.
+
 
 ### Verse 9
 
@@ -211,6 +229,18 @@ At a more general philosophical level, Patanjali's Yogasutra 2.16 states हे�
 
 
 ### Verse 10
+
+I propose Brihat Chanakya Niti 10.1 as the primary parallel for this kural. The second line, विद्यारत्नेन हीनो यः स हीनः सर्ववस्तुषु, states that one who lacks the jewel of vidya is deficient in every respect, closely corresponding to அறிவிலா ரென்னுடைய ரேனு மிலர். The positive half, அறிவுடையா ரெல்லா முடையார், is implicit in the contrast: the possession of vidya constitutes true wealth, irrespective of material possessions. Vidya here need not be restricted to formal education or technical learning; it can be understood more broadly as discriminative knowledge and wisdom. Kalingar's gloss provides a useful bridge between vidya and அறிவு: கற்றும் கேட்டும் கசடு அற்ற அறிவுடையோரை மற்று எல்லாம் உடையரென்று உணரப்படும்; ஆதலால் மற்று அங்ஙனம் தெளிந்த அறிவிலாதார் வேறு யாதானும் உடையரேனும் யாதும் இலர் என்றவாறு. Learning and listening, when they produce கசடற்ற அறிவு, constitute true possession; those lacking such clear discernment possess nothing of real worth, even if they own other things.
+
+Hitopadesha 0.6 further illuminates the breadth of the possessions associated with vidya: विद्या ददाति विनयं विनयाद् याति पात्रताम् \| पात्रत्वाद् धनमाप्नोति धनाद्धर्मं ततः सुखम् \|\|. Vidya gives humility; from humility comes worthiness; worthiness brings wealth; wealth enables dharma, and from dharma comes happiness. This progression helps explain the breadth of எல்லா முடையார்: the fruits of wisdom extend beyond material prosperity to humility, character and worthiness, dharma, and ultimately sukha. Vidya is therefore not merely an acquisition in itself but the foundation for a succession of personal, material, and ethical benefits.
+
+Yoga Vasistha 5.12.26 and 5.12.28 develop the positive proposition in the kural by presenting wisdom as the source of all other acquisitions. The former states: य एव यत्नः क्रियते बाह्यार्थोपार्जने जनैः \| स एव यत्नः कर्तव्यः पूर्वं प्रज्ञाविवर्धने \|\|. The very effort that people expend in acquiring external wealth should first be directed toward cultivating wisdom. The latter extends this proposition further: स्वर्गाद्यद्यच्च पातालाद्राज्याद्यत्समवाप्यते \| तत्समासाद्यते सर्वं प्रज्ञाकोशान्महात्मना \|\|. Whatever can be obtained from heaven, the netherworld, or a kingdom is attained by the great person from the treasury of wisdom. The expression तत्समासाद्यते सर्वं प्रज्ञाकोशान्महात्मना corresponds particularly well to அறிவுடையா ரெல்லா முடையார்: all possessions are attainable through the treasury of wisdom. The injunction to direct one's efforts first toward प्रज्ञाविवर्धने, the cultivation of wisdom, also reinforces the converse: external acquisitions alone cannot compensate for the absence of அறிவு.
+
+#### Contentment as another dimension of wisdom
+
+An alternative interpretation of அறிவிலா ரென்னுடைய ரேனு மிலர் is that those who lack wisdom also lack contentment (सन्तोष). Whatever they may possess, they are never satisfied and continue to perceive themselves as wanting. In contrast, the wise, being content, have everything, for they want for nothing: அறிவுடையா ரெல்லா முடையார். This may be seen as resonating with Cicero's Omnia mea mecum porto (“All that is mine I carry with me”), understood here to suggest that one's true possessions are the enduring riches of wisdom and character rather than material things.
+
+The Skanda Purana verse (6.1.32.48), also found in Hitopadesha (1.156), offers a related perspective: सर्वाः सम्पत्तयस्तस्य सन्तुष्टं यस्य मानसम् \| उपानद्गूढपादस्य ननु चर्मावृतेव भूः \|\|. All forms of prosperity belong to the person whose mind is content, just as one whose feet are protected by shoes has, as it were, the entire earth covered in leather. The Siddha-Siddhanta-Paddhati, attributed to Gorakshanatha, provides a conceptual bridge by enumerating contentment among the qualities of cultivated intelligence: विवेको वैराग्यं शान्तिः सन्तोषः क्षमा इति पञ्चगुणा बुद्धिः \|\|. Discrimination, dispassion, tranquillity, contentment, and forbearance are the five qualities of buddhi. Thus, the two verses illuminate the relationship between அறிவு and contentment: the latter is both a quality of cultivated intelligence and the basis of a sense of fullness, without which possessions never satisfy.
 
 
 ### Chapter Summary
@@ -239,71 +269,5 @@ Point out the timeless of these aphorisms and broader applciability to life such
 
 
 
-| [8](#verse-8) | அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ <br> தஞ்ச லறிவார் தொழில் |  |
-
-    • Mahabharata Shanti Parva 12.138.200-201 (BORI)
-        ◦ भीतवत् संनिधिः कार्यः प्रतिसंधिस्तथैव च । भयादुत्पद्यते बुद्धिरप्रमत्ताभियोगजा ॥ One should maintain oneself as though apprehensive and arrange one's alliances accordingly. Through fear, intelligence arises when accompanied by alert and sustained effort.
-        ◦ न भयं विद्यते राजन् भीतस्यानागते भये । अभीतस्य च विश्रम्भात् सुमहज्जायते भयम् ॥
-O king, there is no danger for one who is apprehensive of a danger before it arrives; but from the overconfidence of one who is unafraid, great danger arises.
-        ◦ (भये) अभीतस्य च विश्रम्भात् सुमहज्जायते भयम् -- அஞ்சுவ தஞ்சாமை பேதைமை follows as great danger results from not fearing what must be feared.
-        ◦ (भीतवत् संनिधिः) कार्यः -- (அஞ்சுவ தஞ்ச லறிவார்) தொழில்
-        ◦ भयादुत्पद्यते बुद्धिः  -- அஞ்சுவ தஞ்ச லறிவு 
-        ◦ Worth noting here that भीतस्यानागते भये anticipates one aspect of the other kural in this chapter which discusses knowing what is to come அறிவுடையா ராவ தறிவார்
-    • Kamandakiya Nitisara XII.9,13
-        ◦ पश्यद्भिर् दूरतोऽपायान् सूपायप्रतिपत्तिभिः । भवन्तीह फलायैव विद्वद्भिर् मन्त्रिताः क्रियाः ॥९॥ Actions deliberated by the wise, who perceive dangers from afar and adopt appropriate means, become fruitful.
-            ▪ It brings together three elements: अपायान् — dangers, sources of harm or impending peril; दूरतो पश्यद्भिः — perceiving them from afar, hence anticipating them; विद्वद्भिः मन्त्रिताः क्रियाः — actions deliberated by the wise, thereby providing a corroboration of அஞ்சுவ தஞ்ச லறிவார் தொழில்
-        ◦ नाग्निं पतङ्गवद् गच्छेत् स्पृश्यम् एव तु संस्पृशेत् । किम् अन्यत् स्याद् ऋते दाहात् पतङ्गस्याग्निम् ऋच्छतः ॥१३॥ One should not approach fire like a moth; one should touch only what is safe to touch. What else can happen to the moth that approaches fire except to be burnt?
-            ▪ Metaphorical corroboration of அஞ்சுவ தஞ்சாமை பேதைமை 
-    • Yoga Vasishtha 2.18.47:
-        ◦ एतावत्यपि येऽभीताः पापा भोगरसे स्थिताःस्वमातृविष्ठाकृमयः कीर्तनीया न तेऽधमाः ॥ Even after all this has been taught, there are sinners who remain unafraid, still stuck in the taste for pleasure, like worms living in their own mother's dung. Such base men are not even worth naming. 
-        ◦ येऽभीताः पापा … तेऽधमाः can be read as அஞ்சுவ தஞ்சாமை பேதைமை, there the thing to be feared is sin; this is a secondary ethical reading on discriminative wisdom and the folly of sin from worldy pleasures
-        ◦ The context of the discussion of knowing what must be feared comes from 2.18.40: चित्रसर्पः परिज्ञातो न सर्पभयदो यथा दृश्यसर्पः परिज्ञातस्तथा न सुखदुःखदः ॥ ४० ॥ Just as a painted snake, once you know it is only a painting, does not frighten you the way a real snake would, in the same way this visible world, once we know it truly for what it is, no longer gives us pleasure or pain.
-            ▪ here the metaphor of the painted snake indicates knowledge of the real from the unreal teaches what need not be feared 
-    • Valmiki Ramayana Aranyakanda 3.31.16 in the GRETIL:
-        ◦ नानुतिष्ठति कार्याणि भयेषु न बिभेति च । क्षिप्रं राज्याच्च्युतो दीनस्तृणैस्तुल्यो भविष्यति ॥
-        ◦ He who fails to attend to his duties and does not fear when dangers arise will soon be deprived of his kingdom, become wretched, and be like a blade of grass.
-        ◦  Secondary corroboration of அஞ்சுவ தஞ்சாமை பேதைமை 
-    • Hitopadesha 1.57
-        ◦ तावद्भयस्य भेतव्यं यावद्भयम् अनागतम् । आगतं तु भयं वीक्ष्य नरः कुर्याद् यथोचितम् ॥ 
-        ◦ It distinguishes anticipatory fear from appropriate action once danger arrives. 
-        ◦ Secondary corroboration of அஞ்சுவ தஞ்ச லறிவு 
-        ◦ It distinguishes anticipatory caution from the action required once the danger actually materialises. The wisdom lies not in perpetual fear, but in the proper response at each stage. 
-    • Arthashastra 9.7.7–8
-        ◦ स्वतः परतो वा भय-उत्पत्तिरित्यनर्थः ॥ 
-        ◦ तयोः अर्थो न वा इति । अनर्थो न वा इति । अर्थोऽनर्थ इति । अनर्थोऽर्थ इति संशयः ॥
-        ◦ The arising of fear from oneself or from another constitutes an adverse condition. But in assessing a proposed course of action, one must determine whether it is really advantageous or disadvantageous.
-        ◦ Arthashastra chapter 9.7  expounds the practical content of the prudent intelligence that Valluvar calls அஞ்சுவதஞ்ச லறிவார் தொழில். The discussion is especially valuable because Kautilya does not stop at identifying danger. He develops a method for managing it:
-            ▪ 9.7.5–6: Identifies gains that are actually perilous because they strengthen an enemy, create future liabilities, or entail depletion and expenditure.
-            ▪ 9.7.9–13: Examines concrete situations in which the strategic value of an action is uncertain.
-            ▪ 9.7.14: Defines the sixfold classification of consequences, distinguishing immediate gain or loss from their further consequences. Also relatrs to the kural: அறிவுடையா ராவ தறிவார் 
-            ▪ 9.7.23–45: Analyses combinations of gains, losses, and uncertainties arising from different directions, and prescribes appropriate responses—including seeking allies and, where necessary, withdrawing from an untenable position.
-
-
-
-
-
-| [10](#verse-10) | அறிவுடையா ரெல்லா முடையா ரறிவிலா <br> ரென்னுடைய ரேனு மிலர் |  |
-
-    • Brihat Canakya Nīti 10.1 
-        ◦ धनहीनो न हीनश्च धनिकः स सुनिश्चयः । विद्यारत्नेन हीनो यः स हीनः सर्ववस्तुषु ॥
-        ◦ The person without wealth is not truly deficient; he should be regarded as wealthy. But the person who lacks the jewel of learning is deficient in every respect.
-        ◦ The decisive correspondence is the second line: विद्यारत्नेन हीनो यः स हीनः सर्ववस्तुषु — one who lacks the jewel of vidyā is deficient in every respect. This closely expresses the negative half of the Kural: அறிவிலா ரென்னுடைய ரேனு மிலர். The positive half, அறிவுடையா ரெல்லா முடையார், is implicit in the contrast. 
-        ◦ We should also state that vidyā here need not be restricted to education or technical skill; it can be read as discriminative knowledge and wisdom. That is a contextual interpretation, not a claim that the Sanskrit word always has that restricted meaning.
-        ◦ Kalingar’s gloss bridges the apparent gap between vidyā read as education and அறிவு:
-            ▪ காலிங்கர்: கற்றும் கேட்டும் கசடு அற்ற அறிவுடையோரை மற்று எல்லாம் உடையரென்று உணரப்படும்;ஆதலால் மற்று அங்ஙனம் தெளிந்த அறிவிலாதார் வேறு யாதானும் உடையரேனும் யாதும் இலர் என்றவாறு. 
-            ▪ Learning and listening, when they produce கசடற்ற அறிவு, yield the wisdom that constitutes true possession
-    • Yoga Vasistha 5.12.26,28
-        ◦ य एव यत्नः क्रियते बाह्यार्थोपार्जने जनैः । स एव यत्नः कर्तव्यः पूर्वं प्रज्ञाविवर्धने ॥ The very effort that people put into gathering outer wealth, that same effort should be put, first of all, into growing one's wisdom.
-        ◦ स्वर्गाद्यद्यच्च पातालाद्राज्याद्यत्समवाप्यते । तत्समासाद्यते सर्वं प्रज्ञाकोशान्महात्मना ॥Whatever can be obtained from heaven, from the netherworld, or from a kingdom—all of it is attained by the great person from the treasury of wisdom.
-        ◦ Together they cooroborate the kural: तत्समासाद्यते सर्वं प्रज्ञाकोशान्महात्मना corresponds to அறிவுடையா ரெல்லா முடையார், and कर्तव्यः बाह्यार्थोपार्जने यत्नः  पूर्वं प्रज्ञाविवर्धने implies அறிவிலா ரென்னுடைய ரேனு மிலர், and therefore they must put effort into cultivating intelligence first.
-    • Skanda Purāṇa 6.1.32.48; also Hitopadeśa 1.156: First nuance: contentment as the ground of fullness 
-        ◦ सर्वाः सम्पत्तयस्तस्य सन्तुष्टं यस्य मानसम् । उपानद्गूढपादस्य ननु चर्मावृतेव भूः ॥
-        ◦ All forms of prosperity belong to the person whose mind is content. Just as the person whose feet are protected by shoes has, as it were, the whole earth covered in leather.  
-        ◦ The contented person possesses all prosperity; contentment is not explicitly identified as wisdom.
-        ◦ The Siddha-Siddhanta-Paddhati, attributed to Gorakshanatha, gives us this enumeration:
-विवेको वैराग्यं शान्तिः सन्तोषः क्षमा इति पञ्चगुणा बुद्धिः ॥ Discrimination, dispassion, tranquillity, contentment and forbearance are the five qualities of buddhi.
-    • Hitopadesha verse 0.6 : Second nuance: the fruits of vidyā extend across the whole of life
-        ◦ विद्या ददाति विनयं विनयाद् याति पात्रताम् । पात्रत्वाद् धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥
-        ◦ Vidyā gives humility; humility leads to worthiness; worthiness brings wealth; wealth enables dharma; and from dharma comes happiness. This helps explain the breadth of எல்லா முடையார்: the possession conferred by wisdom encompasses not merely material prosperity, but also virtues such as humility, character/worthiness, dharma and sukha.
 
 -->
