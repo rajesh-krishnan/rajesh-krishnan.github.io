@@ -11,7 +11,7 @@ tags: [kuralmatch]
 | [1](#verse-1) | அறிவற்றங் காக்குங் கருவி செறுவார்க்கு <br> முள்ளழிக்க லாகா வரண் | इत्यादि सर्वं प्रकृतेर् यथावद् बुध्येत राजा व्यसनं प्रयत्नात् \| <br> **बुद्ध्या** च शक्त्या **व्यसनस्य कुर्याद्** अकालहीनं **व्यवरोपणं** सः \|\| <br> विशीर्णयन्त्रप्राकारपरिखात्वम् अशस्त्रता \| <br> क्षीणघासेन्धनान्नत्वाद् **दुर्गव्यसनम्** उच्यते \|\| <br> Kamandakiya Nitisara  XIV.94,XIV.65 |
 | [2](#verse-2) | சென்ற விடத்தாற் செலவிடா தீதொரீஇ  <br> நன்றின்பா லுய்ப்ப தறிவு | **प्राक्तनस्तदसौ यत्नाज्जेतव्यो** भवता कपे \| <br> शुभाशुभाभ्यां मार्गाभ्यां वहन्ती वासनासरित् \|\| <br> पौरुषेण प्रयत्नेन योजनीया शुभे पथि \| <br> **अशुभेषु समाविष्टं शुभेष्वेवावतारयेत्** \|\| <br> Muktika Upanishad 5-6 |
 | [3](#verse-3) | எப்பொருள் யார்யார்வாய்க் கேட்பினு மப்பொருண் <br> மெய்ப்பொருள் காண் பதறிவு | **युक्तियुक्तमुपादेयं वचनं बालकादपि** \| <br> **अन्यत्तृणमिव त्याज्यमप्युक्तं पद्मजन्मना** \|\| <br> Yoga Vasishta 2.18.3 |
-| [4](#verse-4) | எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய் <br> நுண்பொருள் காண்ப தறிவு |  |
+| [4](#verse-4) | எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய் <br> நுண்பொருள் காண்ப தறிவு | **सलेशम् उल्लिङ्गितशात्रवेङ्गितः कृती गिरां विस्तरतत्त्वसंग्रहे** \| <br> अयं प्रमाणीकृतकालसाधनः प्रशान्तसंरम्भ इवाददे वचः \|\| <br> भवन्ति ते सभ्यतमा विपश्चितां मनोगतं वाचि निवेशयन्ति ये \| <br> नयन्ति तेष्वप्युपपन्ननैपुणा **गम्भीरमर्थं कतिचित्प्रकाशताम्** \|\| <br> Bharavi,  Kiratarjuniyam  14.2,4 |
 | [5](#verse-5) | உலகந் தழீஇய தொட்ப மலர்தலுங் <br> கூம்பலு மில்ல தறிவு | **ये हि राजससात्त्विक्या जाता भुवि महागुणाः** \| <br> **ते नित्यमेव मुदिताः** प्रकाशाः ख इवेन्दवः \|\| <br> न खेदमभिगच्छन्ति व्योमभागो मलं यथा \| <br> **नापदा म्लानिमायान्ति निशि हेमाम्बुजं यथा** \|\| <br> Yoga Vasishtha 4.61.2,6 |
 | [6](#verse-6) | எவ்வ துறைவ துலக முலகத்தோ <br> டவ்வ துறைவ தறிவு | **पार्श्वस्थबोधिताः सन्तः सर्वाचारक्रमागतम्** \| <br> **आचारमाचरन्त्येव सुप्रबुद्धवदक्षतम्** \|\| <br> Yoga Vasishtha 3.118.19 |
 | [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் |  |
@@ -132,6 +132,28 @@ Kautilya's Arthashastra 1.2.11 provides the broader intellectual framework withi
 
 ### Verse 4
 
+I propose Bharavi's Kiratarjuniyam 14.2,4 as the primary parallel for this kural. The expression எண்பொருளவாகச் செலச்சொல்லி, the ability to convey subtle or complex meaning intelligibly, finds a parallel in गम्भीरमर्थं कतिचित् प्रकाशताम् (14.4), the rare ability to bring profound meaning into clarity. The complementary faculty, தான்பிறர்வாய் நுண்பொருள் காண்பது, is illustrated in 14.2 through सलेशम् उल्लिङ्गितशात्रवेङ्गितः, penetrating the adversary's strategic indications, and कृती गिरां विस्तरतत्त्वसंग्रहे, skill in gathering essential truths from extensive discourse. Bharavi thus portrays both the penetration of another's subtle meaning and the ability to make profound meaning intelligible. The correspondence is illustrative rather than exact: Bharavi describes Arjuna's particular intellectual and diplomatic abilities, whereas Valluvar formulates a general principle of communication and understanding.
+
+### Deliberation over one's own speech and that of others
+
+In the context of selecting and instructing envoys, Kamandakiya Nitisara 13.4 states: स भर्तुः शासनाद् गच्छेद् गन्तव्यं ह्य् उत्तरोत्तरम् \| स्ववाक्यपरवाक्यानाम् इति चेति च चिन्तयन् \|\|; he should proceed to the designated destination in accordance with his master's instructions, carefully considering his own words and the words of others, weighing the possibilities of what is said and what is meant. While this is not a direct parallel to the kural, its emphasis on deliberation over both one's own speech and another's speech is noteworthy: the intelligent envoy must consider the implications and intended meanings of what others say, while ensuring that his own words convey his intended meaning clearly, corresponding to both தான்பிறர்வாய் நுண்பொருள் காண்பது and எண்பொருளவாகச் செலச்சொல்லி.
+
+Mahabharata Udyoga Parva 5.33.28 (BORI) makes the communicative dimension of intelligence more explicit: प्रवृत्तवाक् चित्रकथ ऊहवान् प्रतिभानवान् \| आशु ग्रन्थस्य वक्ता च स वै पण्डित उच्यते \|\|. The wise person is characterized by fluency of speech, the ability to present ideas engagingly, capacity for reasoning, intellectual presence of mind, and the ability to explain authoritative texts readily. The verse thus treats communicative competence not as an incidental accomplishment but as an integral attribute of the learned person. In particular, ऊहवान् and आशु ग्रन्थस्य वक्ता resonate with the combination of intellectual discernment and lucid expression in Valluvar's formulation.
+
+Another conceptual correspondence occurs in Mahbharata Shanti Parva 12.308.96, in the dialogue between Sulabha and Janaka: यस्तु वक्ता द्वयोरर्थमविरुद्धं प्रभाषते \| श्रोतुश्चैवात्मनश्चैव स वक्ता नेतरो नृप \|\|. The true speaker, O King, is one who speaks in a manner consistent with the meaning intended by himself and intelligible to the listener; no other deserves that designation. The surrounding discussion concerns the conditions of meaningful and proper communication, including the relationship between words, intended meaning, and the understanding of the listener. In the larger exchange, Sulabha challenges Janaka's assumptions through carefully reasoned speech, exposing the limitations of relying on verbal expressions without understanding their actual import. The verse is particularly relevant to எண்பொருளவாகச் செலச்சொல்லி: successful communication requires that the intended meaning reach the listener without distortion. It also complements தான்பிறர்வாய் நுண்பொருள் காண்பது by emphasizing that the speaker must understand the relationship between what is expressed and what is understood.
+
+#### प्रसाद: clarity of expression in poetics and the performing arts
+
+The Sanskrit literary tradition develops the ideal of lucid expression through the concept of प्रसाद, one of the recognized qualities of poetic composition. Although these discussions concern literary and aesthetic expression rather than the entirety of Valluvar's teaching, they provide a particularly illuminating explanation of எண்பொருளவாகச் செலச்சொல்லி.
+
+Bharata's Natyashastra 16.100 defines प्रसाद as follows: अप्यनुक्तो बुधैर्यत्र शब्दोऽर्थो वा प्रतीयते \| सुखशब्दार्थसंयोगात् प्रसादः परिकीर्तितः \|\|. Even something not explicitly stated, whether a word or a meaning, is understood by the discerning because of the natural and effortless connection between expression and meaning; this is called प्रसाद. The expression सुखशब्दार्थसंयोगात् प्रसादः is especially relevant. It identifies lucidity not merely with the simplicity of individual words but with the felicitous relationship between words and meaning, through which understanding arises without difficulty. This offers an aesthetic articulation of Valluvar's expectation that even subtle or complex meaning should be conveyed intelligibly.
+
+Bhamaha develops the same principle in Kavyalankara 2.1 and 2.3. He states in 2.1: माधुर्यमभिवाञ्छन्तः प्रसादं च सुमेधसः \| समासवन्ति भूयांसि न पदानि प्रयुञ्जते \|\|. Those of refined understanding who seek sweetness and lucidity do not employ an excessive number of compound expressions. He then makes the criterion of accessibility particularly vivid in 2.3: श्रव्यं नातिसमस्तार्थं काव्यं मधुरमिष्यते \| आविद्वदङ्गनाबालप्रतीतार्थं प्रसादवत् \|\|. Poetry that is pleasing to hear and not excessively burdened with compounds is considered sweet; it possesses प्रसाद when its meaning is readily understood by everyone, from the learned to women and children. The progression from माधुर्यम् and प्रसादम् in 2.1 to आविद्वदङ्गनाबालप्रतीतार्थम् in 2.3 makes the point especially clear: lucidity is measured by the accessibility of meaning, not by the complexity of expression. These are not direct parallels to the entire kural, but they illuminate the literary and aesthetic dimension of எண்பொருளவாகச் செலச்சொல்லி.
+
+#### A contemporary resonance: Postel's Robustness Principle
+
+Although far removed from Valluvar's immediate context, the kural also has an interesting resonance in modern communications technology. Jon Postel's Robustness Principle, commonly expressed as "Be conservative in what you send, be liberal in what you accept," is an important maxim in the design of communication protocols. Among other things, it encourages systems to generate outputs that are easy for the receiving system to interpret while being capable of accepting inputs that may be complex or imperfectly formed. It illustrates the continuing relevance of the kural's two-sided conception of communication: clarity and intelligibility in what one conveys, coupled with the capacity to interpret complexity in what one receives. 
+
 
 ### Verse 5
 
@@ -182,49 +204,25 @@ At a more general philosophical level, Patanjali's Yogasutra 2.16 states हे�
 ### Chapter Summary
 
 <!--
-Mankkudavar verse order: 10, 6, 5, 3, 4, 2, 8, 7, 1, 9. 
+Read the per-kural corrspondences.
 
-10, 6, 5, 3, _, 2, 8, 7 are corroborated by Yoga Vaisishtha 
-4, 2, 8, 7, 1, 9 are corroborated by Kamandakiya Nitisara
-While all the kurals have layered interepretations, the earlier ones in Manakkudavar order have a stronger ethical and spiritual wisdom focus, whereas the latter ones have a strong statecraft focus. 
+Provide suggestions for surgical edits on the correspondence notes as bullets.
 
+Extract a table of correspondences and draft a chapter summary as described below:
 
+Opening paragraph: Valluvar's Arivudamai chapter can be read entirely as wisdom in statecraft through the lens of the Kamandakiya Nitisara (note that it is in arasiyal section of porutpal), and as spiritual and discriminative wisdom through the lens of the Yoga Vaisshtha (noting Valluvar's emphasis on ethical administration of the state across chapters). 10, 6, 5, 3, _, 2, 8, 7 are corroborated by Yoga Vaisishtha ; 4, 2, 8, 7, 1, 9 are corroborated by Kamandakiya Nitisara.  While all the kurals admit multiple layered interepretations, the earlier ones in Manakkudavar order have a stronger ethical and spiritual wisdom focus, whereas the latter ones have a strong statecraft focus; a similar bias can be seen in the traditional Tamil commentaries too. 
 
-| [4](#verse-4) | எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய் <br> நுண்பொருள் காண்ப தறிவு |  |
+Table: The Mankkudavar verse order of this chapter is: 10, 6, 5, 3, 4, 2, 8, 7, 1, 9. Make a table of the kurals placed in Manakkudavar order, kural start, primary parallel, yoga vaisshtha match, kamandakiya nitisara match, other corroborations, brief remarks
 
-    • Bharavi,  Kiratarjuniyam  14.2,4
-        ◦ सलेशम् उल्लिङ्गितशात्रवेङ्गितः कृती गिरां विस्तरतत्त्वसंग्रहे । अयं प्रमाणीकृतकालसाधनः प्रशान्तसंरम्भ इवाददे वचः ॥
-        ◦ भवन्ति ते सभ्यतमा विपश्चितां मनोगतं वाचि निवेशयन्ति ये । नयन्ति तेष्वप्युपपन्ननैपुणा गम्भीरमर्थं कतिचित्प्रकाशताम् ॥
-        ◦ The first verse portrays Arjuna as one who penetrates the adversary’s strategic indications (सलेशम् उल्लिङ्गितशात्रवेङ्गितः) and is adept at gathering the essential truths from extensive discourse (कृती गिरां विस्तरतत्त्वसंग्रहे). 
-            ▪ தான்பிறர்வாய் நுண்பொருள் காண்பது: 14.2, through both सलेशम् उल्लिङ्गितशात्रवेङ्गितः (penetrating the adversary’s strategic indications) and कृती गिरां विस्तरतत्त्वसंग्रहे (gathering essential truths from extensive discourse).
-            ▪ எண்பொருளவாகச் செலச்சொல்லி: 14.4, गम्भीरमर्थं कतिचित् प्रकाशताम्—the rare ability to bring profound meaning into clarity.
+Summarize the chapter through the lens of Kamandakiya Nitisara. Mention additional parallels that bolster this angle.
 
-### Injunctions on communication : both clarity of expression, and ability to understand complex information (ans subseequently explained in a simple manner)
-    • Kamandakiya Nitisara 13.4:
-        ◦ स भर्तुः शासनाद् गच्छेद् गन्तव्यं ह्य् उत्तरोत्तरम् । स्ववाक्यपरवाक्यानाम् इति चेति च चिन्तयन् ॥ ४ ॥ He should proceed to the designated destination in accordance with his master's instructions, carefully considering his own words and the words of others, weighing the possibilities of what is said and what is meant.
-            ▪ This is in the context of envoy selection: The final expression, स्ववाक्यपरवाक्यानाम् इति चेति च चिन्तयन्, is particularly interesting. It places deliberation over one's own speech and another person's speech within the duties of an intelligent envoy. While it does not parallel the kural, it shares the kural’s focus on reasoning and deliberating about one’s own words and that of others.  
-    • Mahabharata Udyoga Parva 5.33.28
-        ◦ प्रवृत्तवाक् चित्रकथ ऊहवान् प्रतिभानवान् । आशु ग्रन्थस्य वक्ता च स वै पण्डित उच्यते ॥ 
-        ◦ Wisdom includes communicative competence: clear speech, reasoning, and the ability to explain authoritative texts.
-    • Mahabharata Shanti Parva 12.308.96
-        ◦ यस्तु वक्ता द्वयोरर्थमविरुद्धं प्रभाषते । श्रोतुश्चैवात्मनश्चैव स वक्ता नेतरो नृप ॥
-        ◦ The true speaker, O King, is he who speaks in a way that is consistent with the meaning intended by himself and intelligible to the listener; no other deserves that name.
-        ◦ Summarize the surrounding context of the elements of clear speech in the conversation between Sulabha and janaka
+Summarize the chapter crisply through the Yoga Vaisshtha lens, and mention additional parallels that corroborate thie angle. 
 
-### Prasada in literature and performing arts on clarity of expression
-    • Bharata Naṭyashastra 16.100:
-        ◦ अप्यनुक्तो बुधैर्यत्र शब्दोऽर्थो वा प्रतीयते । सुखशब्दार्थसंयोगात् प्रसादः परिकीर्तितः ॥ Where even something not explicitly stated—a word or a meaning—is understood by the discerning, owing to the easy and natural connection between expression and meaning, that is called prasada.
-            ▪ Bharata identifies प्रसाद as one of the ten qualities of poetry, defining it through the ease with which meaning—even something not explicitly stated—is apprehended through felicitous words. 
-        ◦ सुखशब्दार्थसंयोगात् प्रसादः is especially relevant 
-    • Bhamaha, Kavyalankarra 2.1,3 
-        ◦ माधुर्यमभिवाञ्छन्तः प्रसादं च सुमेधसः । समासवन्ति भूयांसि न पदानि प्रयुञ्जते ॥ २.१ ॥ Those of refined understanding who seek sweetness and lucidity do not use an excessive number of compound words.
-        ◦ श्रव्यं नातिसमस्तार्थं काव्यं मधुरमिष्यते । आविद्वदङ्गनाबालप्रतीतार्थं प्रसादवत् ॥ २.३ ॥  Poetry that is pleasing to hear, not excessively burdened with compounds, is considered sweet; it possesses prasāda when its meaning is readily understood by everyone, from the learned to women and children. 
-            ▪ Bhāmaha makes the accessibility criterion particularly vivid: poetry endowed with प्रसाद is readily understood even by women and children, not merely by learned audiences. 
-        ◦ प्रसादं + सुमेधसः + समासवन्ति भूयांसि न पदानि प्रयुञ्जते => आविद्वदङ्गनाबालप्रतीतार्थं प्रसादवत्  further drives home the point of prasada
-    • These are not direct parallels to the entire kural; they explain the literary and aesthetic dimension of எண்பொருளவாகச் செலச்சொல்லி. 
-### Robustness principle in modern communications technology
-    • While not directly the intended reading of the kural, a computer networking maxim is worth mentioning. Postel’s Law, also known as the Robustness Principle, formulated by Jon Postel: Be conservative in what you send, be liberal in what you accept. Among other things, this principle involves generating outputs that are easy to parse, while accepting complex inputs that may be hard to parse.
-    • Note that Valluvar’s aphorism is still relevant to robust communication networking protocols and systems as well as interpersonal communications.
+Highlight important Sanskrit concepts such as vyasana, Arivu as applicable to royal and ministerial responsibility, and other ideas that span multiple kurals. 
+
+Highlight the kurals that have a wide range of possible interpretations, starting with epporul yaryarvai. 
+
+Point out the timeless of these aphorisms and broader applciability to life such as seeking the truth of others words without source bias, clear communications, ability to understand complex and nuanced concepts and express them clearly, wisely removing vulnerabilities and fortifying one's position, course correction to avoid negative outcomes and seeking beenficial ones, etc.  Touch on the game theoretic and the robustness principles as further corroboration of how Valluvar's compact and abstract expressions have wide applicability, albeit the chapter being placed in the  statecraft section. 
 
 
 | [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் |  |
