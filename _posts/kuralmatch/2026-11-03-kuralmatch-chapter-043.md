@@ -14,8 +14,8 @@ tags: [kuralmatch]
 | [4](#verse-4) | எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய் <br> நுண்பொருள் காண்ப தறிவு | **सलेशम् उल्लिङ्गितशात्रवेङ्गितः कृती गिरां विस्तरतत्त्वसंग्रहे** \| <br> अयं प्रमाणीकृतकालसाधनः प्रशान्तसंरम्भ इवाददे वचः \|\| <br> भवन्ति ते सभ्यतमा विपश्चितां मनोगतं वाचि निवेशयन्ति ये \| <br> नयन्ति तेष्वप्युपपन्ननैपुणा **गम्भीरमर्थं कतिचित्प्रकाशताम्** \|\| <br> Bharavi,  Kiratarjuniyam  14.2,4 |
 | [5](#verse-5) | உலகந் தழீஇய தொட்ப மலர்தலுங் <br> கூம்பலு மில்ல தறிவு | **ये हि राजससात्त्विक्या जाता भुवि महागुणाः** \| <br> **ते नित्यमेव मुदिताः** प्रकाशाः ख इवेन्दवः \|\| <br> न खेदमभिगच्छन्ति व्योमभागो मलं यथा \| <br> **नापदा म्लानिमायान्ति निशि हेमाम्बुजं यथा** \|\| <br> Yoga Vasishtha 4.61.2,6 |
 | [6](#verse-6) | எவ்வ துறைவ துலக முலகத்தோ <br> டவ்வ துறைவ தறிவு | **पार्श्वस्थबोधिताः सन्तः सर्वाचारक्रमागतम्** \| <br> **आचारमाचरन्त्येव सुप्रबुद्धवदक्षतम्** \|\| <br> Yoga Vasishtha 3.118.19 |
-| [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் | **कार्यजातं गुणवदगुणवद्वा कुर्वता परिणतिरवधार्या यत्नतः पण्डितेन** \| <br> **अतिरभसकृतानां कर्मणामाविपत्तेर् भवति हृदयदाही शल्यतुल्यो विपाकः** \|\| <br> Bhatrithari Nitishatakam 52 |
-| [8](#verse-8) | அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ <br> தஞ்ச லறிவார் தொழில் | भीतवत् संनिधिः कार्यः प्रतिसंधिस्तथैव च \| <br> **भयादुत्पद्यते बुद्धिरप्रमत्ताभियोगजा** \|\| <br> न भयं विद्यते राजन् भीतस्यानागते भये \| **अभीतस्य च विश्रम्भात् सुमहज्जायते भयम्** \|\| Mahabharata Shanti Parva 12.138.200-201 (BORI) |
+| [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் | **कार्यजातं गुणवदगुणवद्वा कुर्वता** <br> **परिणतिरवधार्या यत्नतः पण्डितेन** \| <br> **अतिरभसकृतानां कर्मणामाविपत्तेर्** <br> **भवति हृदयदाही शल्यतुल्यो विपाकः** \|\| <br> Bhatrithari Nitishatakam 52 |
+| [8](#verse-8) | அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ <br> தஞ்ச லறிவார் தொழில் | भीतवत् संनिधिः कार्यः प्रतिसंधिस्तथैव च \| <br> **भयादुत्पद्यते बुद्धिरप्रमत्ताभियोगजा** \|\| <br> न भयं विद्यते राजन् भीतस्यानागते भये \| <br> **अभीतस्य च विश्रम्भात् सुमहज्जायते भयम्** \|\| <br> Mahabharata Shanti Parva 12.138.200-201 (BORI) |
 | [9](#verse-9) | எதிரதாக் காக்கு மறிவினார்க் கில்லை <br> யதிர வருவதோர் நோய் | हुताशनो जलं **व्याधिर्** दुभिक्षो मरकस् तथा \| <br> इति पञ्चविधं दैवं **व्यसनं** मानुषं परम् \|\| <br> **व्यसनस्य प्रतीकारो राजराज्याभिरक्षणम्** \| <br> **इत्य् अमात्यस्य कर्मेदं हन्ति तद्व्यसनान्वितः** \|\| <br> Kamandakiya Nitisara XII.20,24 |
 | [10](#verse-10) | அறிவுடையா ரெல்லா முடையா ரறிவிலா <br> ரென்னுடைய ரேனு மிலர் | **धनहीनो न हीनश्च धनिकः स सुनिश्चयः** \| <br> **विद्यारत्नेन हीनो यः स हीनः सर्ववस्तुषु** \|\| <br> Brihat Chanakya Niti 10.1 |
 
@@ -193,7 +193,6 @@ Mahabharata, Shanti Parva 12.138.35 (BORI Critical Edition) introduces a further
 Yoga Vasistha 5.12.19 offers another perspective on this faculty of discernment: यस्योज्ज्वलति तीक्ष्णाग्रा पूर्वापरविचारिणी \| प्रज्ञादीपशिखा जातु जाड्यान्ध्यं तं न बाधते \|\| The flame of prajna, whose sharp point examines what precedes and what follows, prevents the darkness of intellectual dullness from overcoming the discerning person. The expression पूर्वापरविचारिणी is particularly relevant to ஆவது அறிவார்: intelligence examines both what has transpired and what is yet to come, discerning future outcomes in the light of preceding events. Conversely, one in whom this faculty is absent falls within அறிவிலார் — those who lack the discernment to anticipate what is to come. This complements the primary parallel by emphasizing the temporal and analytical dimension of foresight.
 
 
-
 ### Verse 8
 
 I propose Mahabharata, Shanti Parva 12.138.200–201 as the primary parallel for this kural. The first verse prescribes maintaining oneself as though apprehensive (भीतवत् संनिधिः कार्यः), and identifies the resulting vigilance and sustained effort as the source of intelligence (भयादुत्पद्यते बुद्धिः). The second makes Valluvar's distinction particularly explicit: न भयं विद्यते राजन् भीतस्यानागते भये — one who anticipates danger before it arrives has no reason to fear it; conversely, from the overconfidence of one who remains unafraid arises great danger (अभीतस्य च विश्रम्भात् सुमहज्जायते भयम्). Thus அஞ்சுவ தஞ்சாமை பேதைமை is illustrated by the grave consequences of failing to fear what warrants fear, while அஞ்சுவ தஞ்ச லறிவார் தொழில் finds its counterpart in the deliberate vigilance that anticipates danger and generates बुद्धिः. The Mahabharata also relates to an aspect of the earlier kural in this chapter, அறிவுடையா ராவ தறிவார், through its emphasis on recognizing impending danger before it materializes.
@@ -265,9 +264,5 @@ Highlight important Sanskrit concepts such as vyasana, Arivu as applicable to ro
 Highlight the kurals that have a wide range of possible interpretations, starting with epporul yaryarvai. 
 
 Point out the timeless of these aphorisms and broader applciability to life such as seeking the truth of others words without source bias, clear communications, ability to understand complex and nuanced concepts and express them clearly, wisely removing vulnerabilities and fortifying one's position, course correction to avoid negative outcomes and seeking beenficial ones, etc.  Touch on the game theoretic and the robustness principles as further corroboration of how Valluvar's compact and abstract expressions have wide applicability, albeit the chapter being placed in the  statecraft section. 
-
-
-
-
 
 -->
