@@ -12,7 +12,7 @@ tags: [kuralmatch]
 | [2](#verse-2) | சென்ற விடத்தாற் செலவிடா தீதொரீஇ  <br> நன்றின்பா லுய்ப்ப தறிவு | **प्राक्तनस्तदसौ यत्नाज्जेतव्यो** भवता कपे \| <br> शुभाशुभाभ्यां मार्गाभ्यां वहन्ती वासनासरित् \|\| <br> पौरुषेण प्रयत्नेन योजनीया शुभे पथि \| <br> **अशुभेषु समाविष्टं शुभेष्वेवावतारयेत्** \|\| <br> Muktika Upanishad 5-6 |
 | [3](#verse-3) | எப்பொருள் யார்யார்வாய்க் கேட்பினு மப்பொருண் <br> மெய்ப்பொருள் காண் பதறிவு | **युक्तियुक्तमुपादेयं वचनं बालकादपि** \| <br> **अन्यत्तृणमिव त्याज्यमप्युक्तं पद्मजन्मना** \|\| <br> Yoga Vasishta 2.18.3 |
 | [4](#verse-4) | எண்பொருள வாகச் செலச்சொல்லித் தான்பிறர்வாய் <br> நுண்பொருள் காண்ப தறிவு |  |
-| [5](#verse-5) | உலகந் தழீஇய தொட்ப மலர்தலுங்  <br> கூம்பலு மில்ல தறிவு |  |
+| [5](#verse-5) | உலகந் தழீஇய தொட்ப மலர்தலுங் <br> கூம்பலு மில்ல தறிவு | **ये हि राजससात्त्विक्या जाता भुवि महागुणाः** \| <br> **ते नित्यमेव मुदिताः** प्रकाशाः ख इवेन्दवः \|\| <br> न खेदमभिगच्छन्ति व्योमभागो मलं यथा \| <br> **नापदा म्लानिमायान्ति निशि हेमाम्बुजं यथा** \|\| <br> Yoga Vasishtha 4.61.2,6 |
 | [6](#verse-6) | எவ்வ துறைவ துலக முலகத்தோ <br> டவ்வ துறைவ தறிவு | **पार्श्वस्थबोधिताः सन्तः सर्वाचारक्रमागतम्** \| <br> **आचारमाचरन्त्येव सुप्रबुद्धवदक्षतम्** \|\| <br> Yoga Vasishtha 3.118.19 |
 | [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் |  |
 | [8](#verse-8) | அஞ்சுவ தஞ்சாமை பேதைமை யஞ்சுவ <br> தஞ்ச லறிவார் தொழில் |  |
@@ -109,7 +109,6 @@ A second dimension of மெய்ப்பொருள் காண்பது
 
 A third dimension of மெய்ப்பொருள் காண்பது அறிவு is psychological discernment: the ability to infer unexpressed intentions and emotional states from speech and outward behavior. Panchatantra 1.44–45 describes this distinction: उदीरितोऽर्थः पशुनापि गृह्यते हयाश्च नागाश्च वहन्ति चोदिताः \| अनुक्तमूहति पण्डितो जनः परेङ्गितज्ञानफला हि बुद्धयः \|\| आकारैरिङ्गितैर्गत्या चेष्टया भाषणेन च \| नेत्र-वक्त्र-विकारैश्च लक्ष्यतेऽन्तर्गतं मनः \|\| — The explicitly expressed meaning can be understood even by an animal, just as horses and elephants carry out commands when directed. The discerning person, however, infers what has not been said, for intelligence bears fruit in understanding another's indications. The mind within is discerned through appearance, gestures, gait, behavior, speech, and changes in the eyes and face. In this instance, யார்யார் is the person whose inner state may not be fully disclosed; எப்பொருள் includes both the words spoken and the accompanying indications conveyed through outward behavior; and மெய்ப்பொருள் காண்பது அறிவு is the ability to infer the unspoken thoughts and intentions underlying these expressions. Mahabharata Shanti Parva 12.308.90 (BORI): कामात्क्रोधाद्भयाल्लोभाद्दैन्यादानार्यकात्तथा \| ह्रीतोऽनुक्रोशतो मानान्न वक्ष्यामि कथंचन \|\| complements the Panchatantra by identifying the inner emotional and psychological conditions—desire, anger, fear, greed, shame, compassion, and pride—that leave their imprint on what a person says or chooses to withhold.
 
-
 ##### 4. Impartial extraction of beneficial truth
 
 A fourth application of மெய்ப்பொருள் காண்பது அறிவு is the ability to separate useful or true substance from insults, criticism, hostile speech, unpleasant advice, or statements containing a mixture of truth and falsehood. Neither the speaker's relationship to the hearer nor the manner in which something is expressed should obscure its substance. This application is especially close to Parimelazhagar's observation that உறுதிப்பொருள் may be heard even from an enemy.
@@ -131,110 +130,20 @@ A fifth application of மெய்ப்பொருள் காண்பத�
 Kautilya's Arthashastra 1.2.11 provides the broader intellectual framework within which these different applications can be understood: धर्माधर्मौ त्रय्यामर्थानर्थौ वार्त्तायां नयानयौ दण्डनीत्यां बलाबले चैव \| एतासां हेतुभिरन्वीक्षमाणा लोकस्योपकरोति व्यसनेऽभ्युदये च बुद्धिमवस्थापयति प्रज्ञावाक्यक्रियावैशारद्यं च करोति \|\|. Anviksiki, through reasoned examination, investigates right and wrong in the Vedas, gain and loss in economics, proper and improper policy in statecraft, and strength and weakness in the science of government. It benefits the world, steadies the intellect in adversity and prosperity, and produces excellence in wisdom, speech, and action. In the context of அரசியல் where this kural is situated, this provides a particularly apt framework for understanding மெய்ப்பொருள் காண்பது அறிவு as an essential faculty of governance: the ruler must subject information, counsel, allegations, and competing claims to reasoned examination, discerning what is true, sound, and beneficial before arriving at a judgment or taking action.
 
 
-
-
-<!--
-| [3](#verse-3) | எப்பொருள் யார்யார்வாய்க் கேட்பினு மப்பொருண் <br> மெய்ப்பொருள் காண் பதறிவு |  |
-
-    • Yoga Vasishta 2.18.3 
-        ◦ युक्तियुक्तमुपादेयं वचनं बालकादपि । अन्यत्तृणमिव त्याज्यमप्युक्तं पद्मजन्मना ॥ A statement supported by reason should be accepted even if spoken by a child; another, unsupported by reason, should be rejected like straw even if spoken by Brahmā.
-        ◦ Connect to kural fragments directly; Connect युक्तियुक्तमुपादेयं to  மெய்ப்பொருள் காண் பதறிவு. वचनं बालकादपि is used metaphorically to illustrate எப்பொருள் யார்யார்வாய்க் கேட்பினு ம; the other extreme is illustrated by पद्मजन्मना (Brahma himself)
-            ▪ The shloka explicitly mentions acceptance and rejection of the message after the deliberation; the kural is silent on the disposition of the message once its true meaning is deliberated upon 
-        ◦ The context of 2.18 is worth discussing  
-            ▪ Earlier in 2.18.2, Vasishtha says: अपि पौरुषमादेयं शास्त्रं चेद्युक्तिबोधकम् । अन्यत्त्वार्षमपि त्याज्यं भाव्यं न्याय्यैकसेविना ॥ Even a work composed by an ordinary human should be accepted if it conveys understanding through reasoning. Conversely, even a work composed by a ṛṣi should be rejected if it does not, by one devoted exclusively to what is reasonable.
-                • These offer metaphorical corroboration of the idea of the kural and न्याय्यैकसेविना connects to reasoning/arivu
-            ▪ Futher in 2.18.69, Vasishtha says: विचारणादनुभवकारिवैरिणोऽपि वाङ्मयं त्वनुगतमस्मदादिषु। स्त्रियोक्तमप्यपपरमार्थवैदिकं वचो वचःप्रलपनमेव नागमः ॥ ६९ ॥ Through careful inquiry, we accept even the words of an enemy, if they bring about true understanding. In the same way, even words spoken by a woman, dealing with the highest truth though they are not themselves from the Veda, are to be accepted. But speech that is nothing but babble is not real teaching at all, whatever its source. Through careful inquiry, we accept even the words of an enemy, if they bring about true understanding. In the same way, even words spoken by a woman, dealing with the highest truth though they are not themselves from the Veda, are to be accepted. But speech that is nothing but babble is not real teaching at all, whatever its source.
-                • this analysis of even the enemy’s words to seek understanding further corroborates the crux of the kural (connect to kural fragments), which Parimelazhakar also points out in his commentary
-    • Parimelazhakar gloss is the most comprehensive for this kural among traditional commentaries:
-        ◦ யாதொரு பொருளை யாவர் யாவர் சொல்லக் கேட்பினும்; அப்பொருளின் மெய்யாய பயனைக் காணவல்லது அறிவு. குணங்கள் மூன்றும் மாறி மாறி வருதல் யாவர்க்கும் உண்மையின், உயர்ந்த பொருள் இழிந்தார் வாயினும், இழிந்த பொருள் உயர்ந்தார் வாயினும், உறுதிப்பொருள் பகைவர்வாயினும், கெடுபொருள் நட்டார்வாயினும், ஒரோவழிக் கேட்கப்படுதலான், 'எப்பொருள் யார் யார் வாய்க் கேட்பினும்' என்றார். அடுக்கு, பன்மைபற்றி வந்தது. 'வாய்' என்பது அவர் அப்பொருளின்கண் பயிலாமை உணர்த்திநின்றது. மெய்யாதல், நிலைபெறுதல். சொல்வாரது இயல்பு நோக்காது, அப்பொருளின் பயன் நோக்கிக் கொள்ளுதல் ஒழிதல் செய்வது அறிவு என்பதாம்.
-    • Layered interpretations going further beyong Parimelazhakar and the primary parallel
-        ◦ எப்பொருள் யார்யார்வாய்க் கேட்பினும் Whatever is heard, from whoever speaks. The source of the words must not determine  their credibility or value:
-            ▪ Negative or potentially hostile sources (enemy, adversary, rival, critic, detractor): Do not dismiss what they say merely because of hostility; equally, do not trust it merely because it sounds agreeable.
-            ▪ Positive or trusted sources (suru, friend, relative, minister, adviser, subordinate or staff): Respect the source, but do not surrender independent discernment. Even trusted persons may be mistaken, partial, or self-interested.
-            ▪ Unknown or unverified sources (stranger, acquaintance, unfamiliar speaker, hearsay, anonymous or indirect report): Neither accept nor reject on reputation; establish the reliability and substance of what is communicated.
-        ◦ அப்பொருள் மெய்ப்பொருள் காண்பது அறிவு To discern the essential truth in what is heard—that is wisdom. Having heard the words, what does wisdom actually do?
-            ▪ Spiritual and philosophical discernment (guru's instruction, śruti, philosophical teaching, apparent versus deeper truth)	: Penetrate beyond the literal or superficial meaning to apprehend the underlying truth.
-            ▪ Deciphering indirect communication (Cryptic warnings, symbolic speech, veiled advice, coded messages from well-wishers): Recognize the intended message beneath the expressed words; understand what circumstances may prevent the speaker from saying openly. 
-            ▪ Psychological discernment (Hidden motives, anger, malice, fear, hurt, frustration, unmet needs): Understand the intention or emotional condition underlying someone's words or behaviour, without confusing inferred motive with established fact.
-            ▪ Impartial extraction of beneficial truth (Insults, criticism, hostile speech, unpleasant advice, mixed statements containing truth and falsehood):	Set aside emotional reaction; separate the valid and beneficial substance from insult, distortion, or malice, retaining what is useful.
-            ▪ Verification of reports and allegations (Gossip, accusations, reports concerning friends, relatives, associates, or rivals	): Investigate rather than react; distinguish fact from rumour, and truth from partiality or deliberate misrepresentation.
-    • Vivekacudamani verse 13 : meipporul as deeper spiritual truth
-        ◦  अर्थस्य निश्चयो दृष्टो विचारेण हितोक्तितः (quote full verse )
-        ◦ Also மெய்ப்பொருள் காண்ப தறிவு could be interpreted as jnana through vicara, which is addressed elsewhere in the Yogavasishta. While not a parallel to the kural, it says that certainty about the real meaning/truth is seen to arise through inquiry (vicara) upon beneficial teaching. So wisdom is in reasoning and contemplation of what you hear.
-        ◦ Yogavāsiṣṭha 2.18.6 cross-corroborates this
-            ▪ श्रुतायां प्राज्ञवदनाद्बुद्ध्वान्तं स्वयमेव च । शनैःशनैर्विचारेण बुद्धौ संस्कार आगते ॥६॥Having heard from the mouth of the wise, and having understood its conclusion oneself, through gradual inquiry, the mind becomes progressively cultivated.
-    • Mahabharata, Ādi Parva, BORI CE, Adhyāya 133 — Vidura's coded counsel 
-        ◦ हितोपदेशश्च पथि धर्मराजस्य धीमतः । विदुरेण कृतो यत्र हितार्थं म्लेच्छभाषया ॥
-        ◦ Excellent narrative illustration of மெய்ப்பொருள் காணுதல். The hearer's ability to recover the intended meaning of a message whose surface expression conceals its purpose.
-    • Valmiki Ramayana Yuddha Kāṇḍa 6.36.1 : negative illustration of not finding the truth in harsh but beneficial speech:
-        ◦ तत्तु माल्यवतो वाक्यं हितमुक्तं दशाननः । न मर्षयति दुष्टात्मा कालस्य वशमागतः ॥ The ten-headed Rāvaṇa, under the sway of Time, could not tolerate the beneficial words spoken by Mālyavān. 
-            ▪ हितम् explicitly identifies the beneficial substance of Mālyavān's speech. न मर्षयति expresses Rāvaṇa's inability to tolerate or bear it.
-            ▪ Vidura Nīti, Mahābhārata 5.37.14: सुलभाः पुरुषा राजन्सततं प्रियवादिनः ।
-अप्रियस्य तु पथ्यस्य वक्ता श्रोता च दुर्लभः ॥ corroborates the idea of harsh truth. People who speak pleasant words are easily found; those who speak, and those who listen to, unpleasant but beneficial words are rare.
-        ◦ The harsh truth might also come from an enemy’s taunt or insult; taking the good from an enemy (though not specifically their words) is corroborated by
-            ▪ Mahābhārata, Virāṭa Parva 4.51.15  शत्रोरपि गुणा ग्राह्या दोषा वाच्या गुरोरपि । सर्वथा सर्वयत्नेन पुत्रे शिष्ये हितं वदेत् ॥ Virtues are to be acknowledged even in an enemy; faults are to be pointed out even in one's own teacher.” 
-            ▪ Manu Smṛti 2.239 विषादप्यमृतं ग्राह्यं बालादपि सुभाषितम् । अमित्रादपि सद्वृत्तममेध्यादपि काञ्चनम् ॥ Even nectar should be taken from poison; even a good saying from a child; good conduct even from an enemy; and gold even from an impure place. The key expression is अमित्रादपि सद्वृत्तम्. The point is that the value of what is obtained is independent of the worthiness of its source.  
-    • Panchatantra 1.44-45: talks about discerning the underlying intention / psychological reading
-        ◦ उदीरितोऽर्थः पशुनापि गृह्यते हयाश्च नागाश्च वहन्ति चोदिताः । अनुक्तमूहति पण्डितो जनः परेङ्गितज्ञानफला हि बुद्धयः ॥ आकारैरिङ्गितैर्गत्या चेष्टया भाषणेन च ।
-नेत्र-वक्त्र-विकारैश्च लक्ष्यतेऽन्तर्गतं मनः ॥ 
-        ◦ The meaning explicitly expressed can be understood even by an animal; horses and elephants carry out commands when directed. But the discerning person infers what has not been said, for intelligence bears fruit in understanding another's indications. The mind within is discerned through appearance, gestures, gait, behaviour, speech, and changes in the eyes and face. 
-        ◦ Mahābhārata, Śānti Parva 12.308.90 enumerates motives such as desire, anger, fear, greed, distress, pity, and pride as possible influences upon speech, further corroborating the psychological discernment from the speech, as emotions imprint on the speech.
-            ▪ कामात्क्रोधाद्भयाल्लोभाद्दैन्यादानार्यकात्तथा । ह्रीतोऽनुक्रोशतो मानान्न वक्ष्यामि कथंचन॥
-    • Arthaśāstra 3.1.46: talks about verification of testimony 
-        ◦ दृष्टदोषः स्वयंवादः स्वपक्षपरपक्षयोः । अनुयोगार्जवं हेतुः शपथश्चार्थसाधकः ॥
-        ◦ Kauṭilya observes that a party's own assertion may be faulty. Examination, straightforwardness, evidence, and oath are the means by which a claim is established. The chapter provides detailed prescriptions for how such verification is to be conducted, illustrating the practical application of மெய்ப்பொருள் காண்பது. Although presented in the context of jurisprudence, the underlying principle—that what is heard or asserted must be examined rather than accepted at face value—applies more broadly. 
-    • Arthashastra 1.2.11: statecraft parallel, general method of inquiry
-        ◦ धर्माधर्मौ त्रय्यामर्थानर्थौ वार्त्तायां नयानयौ दण्डनीत्यां बलाबले चैव । एतासां हेतुभिरन्वीक्षमाणा लोकस्योपकरोति व्यसनेऽभ्युदये च बुद्धिमवस्थापयति प्रज्ञावाक्यक्रियावैशारद्यं च करोति ॥
-        ◦ Examining, through reasoning, the principles of right and wrong in the Vedas, gain and loss in economics, and proper and improper policy, as well as strength and weakness in the science of government, Ānvīkṣikī benefits the world, steadies the intellect in adversity and prosperity, and produces excellence in wisdom, speech and action.
-
-Note structure:  Primary textual correspondence → traditional commentary → expanded interpretive framework → five contextual applications of discernment → summary of Sanskrit corroborations.
-Place the kural and the primary prallel Yogavasishtha  2.18.2–3 in a small table. 
-
-Establish the correspondence of the primary parallel with kural fragemnts. The worth of a statement is independent of the standing or identity of its speaker; reasoned substance is to be accepted even from a child, while unsound substance is to be rejected even when spoken by Brahma. 
-Reproduce Parimelazhakar's commentary: யாதொரு பொருளை யாவர் யாவர் சொல்லக் கேட்பினும்; அப்பொருளின் மெய்யாய பயனைக் காணவல்லது அறிவு. குணங்கள் மூன்றும் மாறி மாறி வருதல் யாவர்க்கும் உண்மையின், உயர்ந்த பொருள் இழிந்தார் வாயினும், இழிந்த பொருள் உயர்ந்தார் வாயினும், உறுதிப்பொருள் பகைவர்வாயினும், கெடுபொருள் நட்டார்வாயினும், ஒரோவழிக் கேட்கப்படுதலான், 'எப்பொருள் யார் யார் வாய்க் கேட்பினும்' என்றார். அடுக்கு, பன்மைபற்றி வந்தது. 'வாய்' என்பது அவர் அப்பொருளின்கண் பயிலாமை உணர்த்திநின்றது. மெய்யாதல், நிலைபெறுதல். சொல்வாரது இயல்பு நோக்காது, அப்பொருளின் பயன் நோக்கிக் கொள்ளுதல் ஒழிதல் செய்வது அறிவு என்பதாம். Then observe that, comprehensive as this explanation is, it does not exhaust the possible range of the kural.
-The kural's expressions allow a wider examination of the circumstances, manner, subject matter, and intended meaning of speech, as well as the different intellectual operations by which its truth is discerned. Use a bulleted list.
-    • யார்யார்வாய் — the speaker
-        ◦ Status: high, intermediate, or low, whether social, economic, political, administrative, educational, or religious. 
-        ◦ Relationship: positive (guru, friend, relative, adviser, trusted associate, loyal employee); negative (hostile enemy, deceitful actor); or neutral/undetermined (acquaintance, stranger, public).
-    • எப்பொருள் — what is communicated
-        ◦ Nature: pleasant, unpleasant, or neutral. 
-        ◦ Form: formal or informal, well-articulated or coarse. 
-        ◦ Substance: spiritual, philosophical, economic, relational, scientific, geopolitical, intelligence-related, or any other subject.
-    • மெய்ப்பொருள் காண்பது அறிவு — the discernment exercised in five interpretations
-        ◦ spiritual and philosophical discernment; 
-        ◦ deciphering indirect communication; 
-        ◦ psychological discernment; 
-        ◦ impartial extraction of beneficial truth; and 
-        ◦ verification of reports and allegations.
-We shall organize the corroborating texts around the five dimensions of மெய்ப்பொருள் காணுதல், since each dimension necessarily involves consideration of both யார்யார்வாய் and எப்பொருள். The speaker's identity and relationship, the nature and form of the speech, and its subject matter all affect the circumstances in which discernment is exercised. 
-1. Spiritual and philosophical discernment. Examine how one penetrates beyond the apparent or literal meaning of a teaching to establish its deeper truth. The speaker may be a guru or teacher, the śruti, or another philosophical authority; nevertheless, the teaching must be examined through inquiry. Use Yogavāsiṣṭha 2.18.6 and Vivekacūḍāmaṇi 13 as corroborations of the primary parallel.
-2. Deciphering indirect communication. Examine cryptic warnings, symbolic speech, veiled advice, and coded messages from well-wishers. Here the speaker's relationship and intention are especially important, as are the form and apparent meaning of the utterance. Use Vidura's coded counsel to Yudhiṣṭhira in Mahābhārata, Ādi Parva, BORI Critical Edition, Adhyāya 133, as the narrative illustration.
-3. Psychological discernment. Examine the ability to infer hidden motives and emotional states—anger, malice, fear, hurt, frustration, or unmet needs—from speech and outward behaviour. This applies across positive, negative, and neutral relationships, and requires distinguishing what is actually expressed from what may be inferred. Use Pañcatantra 1.44–45.
-4. Impartial extraction of beneficial truth. Examine the ability to separate useful or true substance from insults, criticism, hostile speech, unpleasant advice, or statements mixing truth and falsehood. The speaker may be an adversary, a friend, or a trusted adviser; the manner of delivery must not obscure the substance. Use Rāmāyaṇa, Yuddha Kāṇḍa 6.36.1 as a negative illustration of Rāvaṇa's failure to recognize Mālyavān's beneficial counsel. Mahābhārata, Virāṭa Parva 4.51.15 and Manu Smṛti 2.239 can corroborate the broader principle of recognizing merit even in an enemy.
-5. Verification of reports and allegations. Examine gossip, accusations, and reports concerning friends, relatives, associates, or rivals. The source may be trusted, hostile, or unknown; the report may be pleasant, unpleasant, or apparently neutral. Wisdom requires investigation rather than acceptance based on the reporter's identity or the emotional effect of the allegation. Use Arthaśāstra 3.1.46 as the procedural corroboration.  Present Arthaśāstra 1.2.11 as the broader intellectual framework of आन्वीक्षिकी—reasoned examination of right and wrong, gain and loss, policy and its contrary, strength and weakness.
-Conclude the discussion with a compact table that records the five dimensions and their principal supporting texts.
-Dimension of மெய்ப்பொருள் காணுதல்	Principal corroboration	Nature of the correspondence
-Spiritual and philosophical discernment	Yogavāsiṣṭha 2.18.6; Vivekacūḍāmaṇi 13	Inquiry into the deeper truth of teaching
-Deciphering indirect communication	Mahābhārata, Ādi Parva, Adhyāya 133 (BORI CE)	Recognition of concealed meaning in coded counsel
-Psychological discernment	Pañcatantra 1.44–45	Inference of unspoken meaning and inner state
-Impartial extraction of beneficial truth	Rāmāyaṇa, Yuddha Kāṇḍa 6.36.1; Mahābhārata, Virāṭa Parva 4.51.15; Manu Smṛti 2.239	Recognition of benefit or merit irrespective of the speaker or manner
-Verification of reports and allegations	Arthaśāstra 3.1.46	Examination and establishment of the validity of assertions
--->
-
-
-<!--
-युक्तियुक्तमुपादेयं वचनं बालकादपि \| <br> अन्यत्तृणमिव त्याज्यमप्युक्तं पद्मजन्मना \|\| <br> Yogavasishta 2.18.3 |
-
-
-The kural generally and abstractly urges the wisdom of investigating the real truth of whatever is heard from whomsoever's mouth. In contrast, the whereas the Yogavasishta verse employs many concrete examples to state that words that are supported by reason are to be accepted even if from children and rejected as if it were a blade of grass, even if it is heard from Brahma (the one born on a lotus). They are a reasonably good match on the key message, but there is some semantic gap. Also மெய்ப்பொருள் காண்ப தறிவு could be interpreted as jnana through vicara, which is addressed elsewhere in the Yogavasishta. Vivekacudamani verse 13 says अर्थस्य निश्चयो दृष्टो विचारेण हितोक्तितः. While not a parallel to the kural, it says that certainty about the real meaning/truth is seen to arise through inquiry (vicāra) upon beneficial teaching. So wisdom is in reasoning and contemplation of what you hear.
-
---> 
-
-
 ### Verse 4
 
 
 ### Verse 5
+
+I propose Yoga Vasishtha 4.61.2,6 as the primary parallel for this Kural. The expression नापदा म्लानिमायान्ति, illustrated by the golden lotus that does not wither at night (निशि हेमाम्बुजं यथा), closely recalls Valluvar's image of wisdom that neither blossoms nor closes (மலர்தலுங் கூம்பலுமில்லது). The constancy of this disposition is further conveyed by ते नित्यमेव मुदिताः प्रकाशाः, describing those endowed with great qualities as invariably joyful and radiant. The expression राजससात्त्विक्या जाता भुवि महागुणाः also offers a suggestive correspondence to உலகந் தழீஇய தொட்பு, describing those born into the world with a nature combining energy and clarity. Wisdom (அறிவு) is implicit in the Yoga Vasishtha's broader concern with discriminative understanding, although the correspondence here is primarily through the imagery of unchanging disposition rather than an explicit definition of wisdom.
+
+This reading is strengthened by Parimelazhagar's interpretation of உலகந் தழீஇய தொட்பு as making the worthy one's friends (உலகத்தை நட்பாக்குவது ஒருவனுக்கு ஒட்பமாம்). He understands அறிவு as remaining of one disposition in that friendship, without first blossoming and subsequently closing (அந்நட்பின்கண் முன் மலர்தலும் பின் கூம்புதலும் இன்றி ஒரு நிலையனாவது அறிவாம்). His gloss brings out an important relational dimension: the constancy described by Valluvar is not merely an inward equanimity but also an evenness of disposition in one's dealings with others.
+
+Bhagavad Gita 2.57 provides a particularly close corroboration through its definition of the person of established wisdom: यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् \| नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता \|\|. The expression नाभिनन्दति न द्वेष्टि (neither rejoices nor recoils) offers a conceptual parallel to மலர்தலும் கூம்பலும் இல்லது: the wise person does not alternately blossom and wither in response to changing circumstances. The paired expression शुभाशुभम् encompasses both favorable and unfavorable experiences, in the face of which this equanimity is maintained. Finally, तस्य प्रज्ञा प्रतिष्ठिता (his wisdom is firmly established) directly corroborates Valluvar's identification of such constancy with அறிவு. The Gita thus makes explicit the connection between freedom from reactive attachment and established wisdom that is implicit in the Kural.
+
+Kautilya's Arthashastra 6.1.6 extends this principle into the domain of statecraft by including steadiness of disposition among the personal excellences of a ruler: संवृतोऽदीनाभिहास्यजिह्मभ्रुकुटीक्षणः \| कामक्रोधलोभस्तम्भचापलोपतापपैशुन्यहीनः \| श्लक्ष्णः स्मितोदग्राभिभाषी वृद्धोपदेशाचारः इत्यात्मसम्पत् \|\| The relevant qualities include संवृतः (restrained and composed), अदीनः (not downcast), freedom from चापल (fickleness), and स्मितोदग्राभिभाषी (speaking graciously with a smile). These are not prescriptions for maintaining a composed public face while inwardly remaining agitated. By enumerating them as constituents of आत्मसम्पत्, Kautilya presents them as qualities arising from the ruler's own cultivated disposition. His outward constancy is therefore the expression of inward restraint and dispassion, rather than a performance adopted for the benefit of others.
+
+The Yoga Vasishtha and Bhagavad Gita thus converge on the inward principle: one established in wisdom remains undisturbed by changing circumstances, neither flourishing nor withering in response to them. Kautilya's Arthashastra then gives this principle its practical manifestation in statecraft, showing how steadiness of disposition becomes an essential component of a ruler's personal excellence.
 
 
 ### Verse 6
@@ -316,29 +225,6 @@ While all the kurals have layered interepretations, the earlier ones in Manakkud
 ### Robustness principle in modern communications technology
     • While not directly the intended reading of the kural, a computer networking maxim is worth mentioning. Postel’s Law, also known as the Robustness Principle, formulated by Jon Postel: Be conservative in what you send, be liberal in what you accept. Among other things, this principle involves generating outputs that are easy to parse, while accepting complex inputs that may be hard to parse.
     • Note that Valluvar’s aphorism is still relevant to robust communication networking protocols and systems as well as interpersonal communications.
-
-
-| [5](#verse-5) | உலகந் தழீஇய தொட்ப மலர்தலுங்  <br> கூம்பலு மில்ல தறிவு |  |
-
-    • Yoga Vasishtha 4.61.2,6
-        ◦ श्रीवसिष्ठ उवाच । ये हि राजससात्त्विक्या जाता भुवि महागुणाः । ते नित्यमेव मुदिताः प्रकाशाः ख इवेन्दवः ॥ ॥ १ ॥ Vasishtha said: people born on this earth with great qualities, out of a nature that blends energy and clarity, are always joyful and shining, like moons in the sky.
-        ◦ न खेदमभिगच्छन्ति व्योमभागो मलं यथा । नापदा म्लानिमायान्ति निशि हेमाम्बुजं यथा ॥ ॥ २ ॥ They do not become sad, just as the sky never gathers any dirt. Troubles do not make them fade, just as night does not make a golden lotus wither.
-        ◦ The expression नापदा ग्लानिमायान्ति, illustrated by the golden lotus that does not wither at night (निशि हेमान्बुजं यथा), closely recalls Valluvar's image of wisdom that neither blossoms nor closes (மலர்தலுங் கூம்பலுமில்லது).  The metaphor of constancy in pleasant radiant demeanor is clarified with ते नित्यमेव मुदिताः प्रकाशाः 
-        ◦ The expression  राजससात्त्विक्या जाता भुवि महागुणाः illuminates Valluvar’s sense of உலகந் தழீஇய தொட்ப as they are born in this world with the three great gunas.
-        ◦ The wisdom (arivu) is implicit in the context of the Yoga Vasishtha as the text is primarily a treatise on discriminative wisdom. 
-
-    • Parimelazhakar gloss
-        ◦ உலகத்தை நட்பாக்குவது ஒருவனுக்கு ஒட்பமாம்;  அந்நட்பின்கண் முன் மலர்தலும் பின் கூம்புதலும் இன்றி ஒரு நிலையனாவது அறிவாம்.  
-        ◦ The parallel is strengthened by Parimelazhagar's interpretation of உலகந் தழீஇய தொட்பு as making the worthy one's friends, and அறிவு as remaining of one disposition in that friendship, without first blossoming and subsequently closing.
-    • Bhagavad Gītā 2.57: definition of sthtiha prajna corroborates the constancy and ulakam tazhuvi
-        ◦ यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् । नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता ॥
-        ◦ The expression नाभिनन्दति न द्वेष्टि (neither rejoices nor recoils) offers a suggestive parallel to Valluvar's மலர்தலும் கூம்பலும் இல்லது: the wise person does not alternately blossom and wither in response to changing circumstances. The paired expression शुभाशुभम् succinctly encompasses the favourable and unfavourable—the world's changing positives and negatives—in the face of which the wise person remains undisturbed. Finally, तस्य प्रज्ञा प्रतिष्ठिता (his wisdom is firmly established) directly corroborates the Kural's identification of such constancy with அறிவு.
-    • Arthashastra 6.1.6:  statecraft dimension of steadiness of demeanor
-        ◦ संवृतोऽदीनाभिहास्यजिह्मभ्रुकुटीक्षणः । कामक्रोधलोभस्तम्भचापलोपतापपैशुन्यहीनः । श्लक्ष्णः स्मितोदग्राभिभाषी वृद्धोपदेशाचारः इत्यात्मसम्पत् ॥ ६.१.६ ॥
-        ◦ The verse lists personal excellences of a king. The relevant features are संवृतः (restrained, composed), अदीनः (not downcast), जिह्मभ्रुकुटीक्षणः (not casting a crooked or frowning look), चापल...हीनः (free from fickleness), and स्मितोदग्राभिभाषी (speaking with a gracious smile). The ruler's संवृतः, freedom from कामक्रोधलोभस्तम्भचापल..., and स्मितोदग्राभिभाषी are not prescriptions for putting on a composed public face while inwardly remaining agitated. The verse describes these qualities as components of आत्मसम्पत्: they arise from the ruler's own cultivated disposition. His outward constancy is therefore the expression of inward restraint and dispassion, not a performance.
-    • The  Yoga Vāsiṣṭha and Bhagavad Gītā converge on the inward principle: a person established in wisdom remains undisturbed by changing circumstances, neither flourishing nor withering in response to them. The Gītā's नाभिनन्दति न द्वेष्टि and तस्य प्रज्ञा प्रतिष्ठिता make the connection to மலர்தலும் கூம்பலும் இல்லது and அறிவு particularly clear. Kauṭilya's Arthashastra 6.1.6 then gives this principle its external manifestation in statecraft. 
-
-
 
 
 | [7](#verse-7) | அறிவுடையா ராவ தறிவா ரறிவிலா <br> ரஃதறி கல்லா தவர் |  |
