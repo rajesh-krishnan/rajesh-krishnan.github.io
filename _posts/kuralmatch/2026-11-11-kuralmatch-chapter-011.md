@@ -10,7 +10,7 @@ tags: [kuralmatch]
 |--|--|--|
 | [1](#verse-1) | செய்யாமற் செய்த உதவிக்கு வையகமும் <br> வானகமு மாற்ற லரிது | **प्रत्युपकुर्वन्बह्वपि न भाति पूर्वोपकारिणा तुल्यः** \| <br> एकः करोति हि कृते निष्कारणमेव कुरुतेऽन्यः \|\| <br> Mahabharata, Shanti Parva 12.138.82 (Gita Press) |
 | [2](#verse-2) | காலத்தி னாற்செய்த நன்றி சிறிதெனினு <br> ஞாலத்தின் மாணப் பெரிது | **कार्यं अण्वपि काले तु कृतमेत्युपकारताम्** \| <br> महदप्युपकारोऽपि रिक्ततामेत्यकालतः \|\| <br> Yoga Vasishtha 1.7.26 |
-| [3](#verse-3) | பயன்றூக்கார் செய்த வுதவி நயன்றூக்கி <br> னன்மை கடலிற் பெரிது |  |
+| [3](#verse-3) | பயன்றூக்கார் செய்த வுதவி நயன்றூக்கி <br> னன்மை கடலிற் பெரிது | प्रत्युपकुर्व**न्बह्वपि न भाति** पूर्वोपकारिणा तुल्यः** \| <br> एकः करोति हि कृते **निष्कारणमेव कुरुते**ऽन्यः \|\| <br> Mahabharata, Shanti Parva 12.138.82 (Gita Press) |
 | [4](#verse-4) | தினைத்துணை நன்றி செயினும் பனைத்துணையாக் <br> கொள்வர் பயன்றெரி வார் | **तिलमात्रमप्युपकारं शैलमात्रं मन्यते साधुः** \|\| <br> Chanakya Niti Sutra 6.29 |
 | [5](#verse-5) | உதவி வரைத்தன் றுதவி யுதவி <br> செயப்பட்டார் சால்பின் வரைத்து |  |
 | [6](#verse-6) | மறவற்க மாசற்றார் கேண்மை துறவற்க <br> துன்பத்துட் டுப்பாயார் நட்பு |  |
@@ -42,34 +42,14 @@ A complementary ethical perspective appears in Bhartrihari's Niti Shatakam 73, w
 
 ### Verse 3
 
+I propose Mahabharata, Shanti Parva 12.138.82 as the primary parallel for this kural too (along with kural 1). பயன்றூக்கார் செய்த உதவி finds its counterpart in निष्कारणमेव कुरुते: the original benefactor renders assistance without calculating or weighing any benefit to be gained in return. Valluvar then asks us to weigh the benefaction (நயன்றூக்கி) and declares its benefit greater than the ocean (நன்மை கடலிற் பெரிது). The Mahabharata expresses this act of comparison through प्रत्युपकुर्वन्बह्वपि न भाति पूर्वोपकारिणा तुल्यः: even abundant reciprocation does not measure up to the original benefactor. The expressions न भाति and तुल्यः resonate with Valluvar's தூக்கின் and நயன்றூக்கி, while the comparison itself differs: Valluvar measures the magnitude of the benefaction using the vastness of the ocean as a metaphor, whereas the Mahabharata measures it against even the most generous reciprocation. The verse occurs in the Marjara–Mushika dialogue, in which the mouse rescues the cat and the latter promises to repay him; Bhishma draws from their exchange this general principle about the incomparable worth of an unmotivated benefaction.
 
-<!--
-
-| [3](#verse-3) | பயன்றூக்கார் செய்த வுதவி நயன்றூக்கி <br> னன்மை கடலிற் பெரிது | |
-
-    • Mahabharata, Shanti Parva 12.138.82
-        ◦ प्रत्युपकुर्वन्बह्वपि न भाति पूर्वोपकारिणा तुल्यः । एकः करोति हि कृते निष्कारणमेव कुरुतेऽन्यः ॥
-        ◦ Even one who renders abundant repayment does not equal the original benefactor. For one acts in return for a favour received, while the other performed the benefaction without any such motive.
-        ◦ This occurs in the Mārjāra–Mūṣika dialogue, the story of the cat and the mouse. The cat, having been rescued by the mouse, promises to repay him. Bhishma then states this principle: the repayment, however generous, cannot equal the original benefaction, because the first act was निष्कारणम्—without an expectation or prior cause. 
-    • Vallabhadeva's Subhāṣitāvali, as verse 224:
-        ◦ अपेक्षन्ते न च स्नेहं न पात्रं न दशान्तरं । सदा लोकहिते युक्ता रत्नदीपा इवोत्तमाः ॥
-        ◦ Excellent people, like luminous jewel-lamps, remain devoted to the welfare of the world; they do not look for affection, nor [weigh] the recipient's worthiness, nor the circumstances.
-        ◦ Further corroboration in verse 226:
-            ▪ नालोकः क्रियते सूर्ये भूः प्रतीपं न धार्यते । नहि प्रत्युपकाराणामपेक्षा सत्सु विद्यते ॥
-            ▪ The sun does not withhold its light, nor does the earth turn away; the good have no expectation of reciprocation.
-            ▪ नहि प्रत्युपकाराणामपेक्षा further corroborates the பயன்றூக்கார் செய்த வுதவி
-    • Sarasvatīkaṇṭhābharaṇa 
-        ◦ विरला उपकृत्यैव निरपेक्षा जलधरा इव वर्तन्ते। क्षीयन्ते तेषां विरहे विरला एव सरित्प्रवाहा इव॥
-        ◦ It goes on to show the consequence of their absence: the streams themselves dwindle. The benefactors' importance is thus conveyed through the dependence of others upon their benefaction
-    • Subhāṣitaratnabhāṇḍāgāra, Sāmānya-prakaraṇa, Sajjana-praśaṃsā 184 
-        ◦ न चन्द्रमाः प्रत्युपकारलिप्सया करोति भाभिः कुमुदावबोधनम् । स्वभाव एवोन्नतचेतसामयं परोपकारव्यसनं हि जीवितम् ॥
-        ◦ The moon does not awaken the water-lilies with its rays out of a desire for reciprocal benefit. Beneficence towards others is simply the nature of the noble-minded; indeed, it is their very way of life.
-    • Subhāṣitaratnabhāṇḍāgāra — Ratnākara and the wealth of the noble
-        ◦ रत्नाकरः किं कुरुते स्वरत्नैः विन्ध्याचलः किं करिभिः करोति। श्रीखण्डखण्डैर्मलयाचलः किं परोपकाराय सतां विभूतयः॥
-        ◦ Meaning: What does the ocean do with its own jewels? What does the Vindhya mountain do with its elephants? What does the Malaya mountain do with its sandalwood? The riches of the noble exist for the benefit of others.
-        ◦ General corroboration of paropakara without expecting benefit, mentions oceans, but not a parallel to the kural as it does not explicitly say that help without expectation as great.
-
--->
+The following verses further illuminate பயன்றூக்கார் செய்த உதவி through the ideal of परोपकार rendered निरपेक्ष—assistance to others without expectation of return. They characterize such benefactors as उत्तमाः, सत्सु, विरलाः and उन्नतचेतसाम् (excellent, virtuous, rare, and noble-minded):
+  - Vallabhadeva’s Subhashitavali, verse 224: अपेक्षन्ते न च स्नेहं न पात्रं न दशान्तरम् \| सदा लोकहिते युक्ता रत्नदीपा इवोत्तमाः \|\|. Excellent people, like luminous jewel-lamps, remain devoted to the welfare of the world; they do not look for affection, the recipient’s worthiness, or favorable circumstances. The expressions न च स्नेहं न पात्रं न दशान्तरम् illuminate பயன்றூக்கார்: the excellent do not weigh affection, the recipient’s worthiness, or the circumstances in rendering assistance. सदा लोकहिते युक्ताः resonates with செய்த உதவி, expressing their abiding commitment to the welfare of the world. Finally, रत्नदीपा इवोत्तमाः, great as a jewel-lamp, offers an image of their exceptional worth, complementing Valluvar’s comparison of the benefaction as larger than the ocean: நயன்றூக்கி நன்மை கடலிற் பெரிது. 
+  - Vallabhadeva’s Subhashitavali, verse 226: नालोकः क्रियते सूर्ये भूः प्रतीपं न धार्यते \| नहि प्रत्युपकाराणामपेक्षा सत्सु विद्यते \|\|. The sun does not withhold its light, nor does the earth turn away; indeed, the good have no expectation of reciprocation. The closing statement, नहि प्रत्युपकाराणामपेक्षा सत्सु विद्यते, resonates with the ideal of பயன்றூக்கார் செய்த உதவி, rendered without weighing its return.
+  - Sarasvatikantahbharana verse XX: विरला उपकृत्यैव निरपेक्षा जलधरा इव वर्तन्ते \| क्षीयन्ते तेषां विरहे विरला एव सरित्प्रवाहा इव \|\|. Rare indeed are those who, having rendered help, remain free of expectation, like the clouds. In their absence, the streams dwindle and become scarce. The rare benefactors who render assitance without expectation (विरला उपकृत्यैव निरपेक्षा) illuminates பயன்றூக்கார், depicting those who render உதவி without weighing what they might receive in return. The subsequent image of dwindling streams in their absence conveys how greatly others depend upon such benefactors.
+  - Subhashitaratnabhandagara, Samanya-prakarana, Sajjana-prashansa 184: न चन्द्रमाः प्रत्युपकारलिप्सया करोति भाभिः कुमुदावबोधनम् \| स्वभाव एवोन्नतचेतसामयं परोपकारव्यसनं हि जीवितम् \|\|. The moon does not awaken the water-lilies with its rays out of a desire for reciprocation. Beneficence towards others is simply the nature of the noble-minded; indeed, it is their very way of life. The benefaction without desire for reciprocation (प्रत्युपकारलिप्सया करोति) resonates with பயன்றூக்கார் ெய்த உதவி, and such peope are further characterized by their nature to help others स्वभावः परोपकारव्यसनम्.
+ 
 
 ### Verse 4
 
