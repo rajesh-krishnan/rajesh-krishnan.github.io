@@ -8,8 +8,8 @@ tags: [kuralmatch]
 
 |  | [11](#chapter-summary) : அறத்துப்பால் : இல்லறவியல் : செய்ந்நன்றியறிதல் |  |
 |--|--|--|
-| [1](#verse-1) | செய்யாமற் செய்த உதவிக்கு வையகமும் <br> வானகமு மாற்ற லரிது |  |
-| [2](#verse-2) | காலத்தி னாற்செய்த நன்றி சிறிதெனினு <br> ஞாலத்தின் மாணப் பெரிது |  |
+| [1](#verse-1) | செய்யாமற் செய்த உதவிக்கு வையகமும் <br> வானகமு மாற்ற லரிது | **प्रत्युपकुर्वन्बह्वपि न भाति पूर्वोपकारिणा तुल्यः** \| <br> एकः करोति हि कृते निष्कारणमेव कुरुतेऽन्यः \|\| <br> Mahabharata, Shanti Parva 12.138.82 (Gita Press) |
+| [2](#verse-2) | காலத்தி னாற்செய்த நன்றி சிறிதெனினு <br> ஞாலத்தின் மாணப் பெரிது | **कार्यं अण्वपि काले तु कृतमेत्युपकारताम्** \| <br> महदप्युपकारोऽपि रिक्ततामेत्यकालतः \|\| <br> Yoga Vasishtha 1.7.26 |
 | [3](#verse-3) | பயன்றூக்கார் செய்த வுதவி நயன்றூக்கி <br> னன்மை கடலிற் பெரிது |  |
 | [4](#verse-4) | தினைத்துணை நன்றி செயினும் பனைத்துணையாக் <br> கொள்வர் பயன்றெரி வார் |  |
 | [5](#verse-5) | உதவி வரைத்தன் றுதவி யுதவி <br> செயப்பட்டார் சால்பின் வரைத்து |  |
@@ -25,8 +25,19 @@ tags: [kuralmatch]
 
 ### Verse 1
 
+I propose Mahabharata, Shanti Parva 12.138.82 (Gita Press) as the primary parallel for this kural. The expression पूर्वोपकारिणा corresponds directly to செய்யாமற் செய்த உதவிக்கு, identifying the original benefactor whose act of kindness was not itself a repayment for any prior favor. The juxtaposition with प्रत्युपकुर्वन्, one who renders a favor in return, accentuates this distinction between original benefaction and reciprocation. Further, बह्वपि न भाति explicitly states that even abundant reciprocation cannot equal the original benefaction; Valluvar conveys the same immeasurability metaphorically through வையகமும் வானகமு மாற்ற லரிது, invoking the earth and heavens as measures that cannot match it. The concluding निष्कारणमेव कुरुते further anticipates பயன்றூக்கார் செய்த உதவி in a subsequent kural, emphasizing that the original benefaction is rendered without calculating or expecting a return.
+
+A thematic corroboration occurs in the Mahasubhāṣitasaṅgraha (verse 7015), which distinguishes three dispositions toward beneficence: उपकारपरः प्रवरः प्रत्युपकारं करोति मध्यमः \|
+नीचस्तदपि न कुरुते उपकारवशाद्भवति शत्रुः सः \|\|. One who is naturally devoted to helping others is superior; one who renders help in reciprocation is middling; the lowly person does not even return a favor and instead becomes an enemy on account of the obligation incurred. The distinction places the unsolicited benefaction of செய்யாமற் செய்த உதவி at the highest level, while treating प्रत्युपकार as a lesser, though proper, response. This verse thus corroborates the hierarchy implicit in the Mahabharata parallel, although its emphasis is on the relative dispositions of benefactors and recipients rather than on the immeasurability of the original favor.
+
+Bhagavata Purana 8.23.2 offers an interesting, though oblique, connection through Bali's acknowledgment of the extraordinary grace bestowed upon him by Vamana: अहो प्रणामाय कृतः समुद्यमः प्रपन्नभक्तार्थविधौ समाहितः \| यल्लोकपालैस्त्वदनुग्रहोऽमरैरलब्धपूर्वोऽपसदेऽसुरेऽर्पितः \|\|. Bali acknowledges that he had merely attempted to offer obeisance (प्रणामाय कृतः समुद्यमः), yet received a favor (त्वदनुग्रहः) previously unattained even by the guardians of the worlds and the gods (लोकपालैः ... अमरैरलब्धपूर्वः), bestowed upon an insignificant asura such as himself (अपसदेऽसुरेऽर्पितः). This extraordinary grace, received without any commensurate prior benefaction on Bali's part, resonates with செய்யாமற் செய்த உதவி. Bhagavata Purana 8.20.33–34 describes the Lord's cosmic strides: मधुव्रतस्रग्वनमालयावृतो रराज राजन्भगवानुरुक्रमः \| क्षितिं पदैकेन बलेर्विचक्रमे नभः शरीरेण दिशश्च बाहुभिः \|\| पदं द्वितीयं क्रमतस्त्रिविष्टपं न वै तृतीयाय तदीयमण्वपि \| उरुक्रमस्याङ्घ्रिरुपर्युपर्यथो महर्जनाभ्यां तपसः परं गतः \|\|. The Lord strides across the earth with one step (क्षितिम्), encompasses the sky with His body (नभः), and the directions with His arms; with the second step He encompasses heaven (त्रिविष्टपम्), leaving no space for the third. Having received from Vishnu the extraordinary grace described as अनुग्रहोऽमरैरलब्धपूर्वः, Bali offers Vamana three paces of land, which the Lord then covers in His cosmic strides. Yet the earth (क्षितिम्) and heaven (त्रिविष्टपम्), corresponding to வையகமும் வானகமும், prove inadequate to accommodate the third stride (न वै तृतीयाय तदीयमण्वपि), whereupon Bali offers his own head. This is not the direct import of the kural, but the imagery strikingly echoes வையகமும் வானகமும் ஆற்றலரிது: even these vast domains prove insufficient.
+
 
 ### Verse 2
+
+I propose Yoga Vasishtha 1.7.26 as the primary parallel for this kural. The correspondence is remarkably close: காலத்தினால் செய்த நன்றி finds its direct counterpart in काले कृतम् and उपकार; சிறிதெனினும் corresponds to अण्वपि, while the resulting greatness of the benefit is expressed through उपकारताम्. The Sanskrit verse makes the converse explicit as well: महदप्युपकारोऽपि रिक्ततामेत्यकालतः — even substantial assistance becomes ineffective when rendered at the wrong time. Valluvar emphasizes the immense worth of even a small benefit conferred at the appropriate time, leaving this converse implicit. The Yoga Vasishtha thus articulates both sides of the principle, although it does not employ Valluvar's striking comparison with the magnitude of the world, ஞாலத்தின் மாணப் பெரிது.
+
+A complementary ethical perspective appears in Bhartrihari's Niti Shatakam 73, which enumerates the characteristics of a true friend: पापान्निवारयति योजयते हिताय गुह्यं निगूहति गुणान् प्रकटिकरोति \| आपद्गतं च न जहाति ददाति काले सन्मित्रलक्षणमिदं प्रवदन्ति सन्तः \|\|. Among the qualities enumerated for a good friend, ददाति काले (gives at the appropriate time) directly resonates with காலத்தினாற்செய்த நன்றி of this kural. Bhartrihari's verse is particularly valuable when read alongside the other kurals in this chapter, for its enumeration of the qualities of a true friend, सन्मित्रलक्षणमिदं, resonates with several of Valluvar's formulations. आपद्गतं च न जहाति (does not abandon one in adversity) recalls kural 6, துறவற்க துன்பத்துட் டுப்பாயார் நட்பு, while पापान्निवारयति (prevents one from doing wrong) echoes kural 7, விழுமந் துடைத்தவர் நட்பு.  Bhartrihari thus brings together, within his description of a true friend, three dimensions of friendship that Valluvar develops across these successive kurals: timely assistance, steadfastness in adversity, and the removal of distress.
 
 
 ### Verse 3
@@ -74,45 +85,11 @@ The Sanskrit keywords of relevance capture the themes:
     • செய்யாமற் செய்த உதவி : पूर्वोपकारिणा / उपकारपरः    
     • பயன்றூக்கார் செய்த வுதவி :   कृते निष्कारणमेव / नहि प्रत्युपकाराणामपेक्षा / परोपकार 
 
+Mahabharata Shantui Parva matches 1 and 3; Bhartrihar Nitshatakam matches 2,6,7;  Mahabharata Shanti Parva captures 2.
+
 Manakkudavar order: 6,8,1,3,2,4,7,5,9,10
 
-| [1](#verse-1) | செய்யாமற் செய்த உதவிக்கு வையகமும் <br> வானகமு மாற்ற லரிது | |
-    • Mahabharata, Shanti Parva 12.138.82
-        ◦ प्रत्युपकुर्वन्बह्वपि न भाति पूर्वोपकारिणा तुल्यः । एकः करोति हि कृते निष्कारणमेव कुरुतेऽन्यः ॥
-        ◦ Even one who renders abundant repayment does not equal the original benefactor. For one acts in return for a favour received, while the other performed the benefaction without any such motive.
-        ◦ पूर्वोपकारिणा corresponds to  செய்யாமற் செய்த உதவிக்கு;   प्रत्युपकुर्व being the  opposite of पूर्वोपकारिणा further accentuates the correpsondence;  प्रत्युपकुर्वन्बह्वपि न भाति is direct vs. Valluvar’s metaphorical வையகமும் வானகமு மாற்ற லரிது   प्रत्युपकुर्वन्बह्वपि न भाति is direct while Valluvar’s expression of unmatched (even by a large return favor) is metaphorical வையகமும் வானகமு மாற்ற லரிது 
-
-    • Bhagavata Purana 8.23.2 
-        ◦ अहो प्रणामाय कृतः समुद्यमः प्रपन्नभक्तार्थविधौ समाहितः । यल्लोकपालैस्त्वदनुग्रहोऽमरैर् अलब्धपूर्वोऽपसदेऽसुरेऽर्पितः ॥  Bali says that he had merely attempted to offer obeisance, yet the Lord bestowed upon him a favour which even the guardians of the worlds and the gods had never obtained.
-        ◦ अनुग्रहोऽमरैर् अलब्धपूर्वो — a previously unattained favour bestowed upon an insignificant  with செய்யாமற் செய்த உதவி
-        ◦ Bhagavata Purana 8.20.33–34
-            ▪ मधुव्रतस्रग्वनमालयावृतो रराज राजन्भगवानुरुक्रमः । क्षितिं पदैकेन बलेर्विचक्रमे
-नभः शरीरेण दिशश्च बाहुभिः ॥ पदं द्वितीयं क्रमतस्त्रिविष्टपं न वै तृतीयाय तदीयमण्वपि । उरुक्रमस्याङ्घ्रिरुपर्युपर्यथो महर्जनाभ्यां तपसः परं गतः ॥  The Lord strides across the earth with one step; His body encompasses the sky and His arms the directions. With the second step He encompasses heaven, leaving no space for the third.
-            ▪ Though not in the sense of the kural, Bali is unable to match that with வையகமும் வானகமும் that is क्षितिम् and त्रिविष्टपम्; he has to offer his own head for the additional third step.  The benefactor here is Vamana, who in the guise of a Brahmana, had not rendered any direct favors to Bali either. 
-        ◦ While not a direct connection to the import of the kural, the fact that Bali who receives अनुग्रहोऽमरैर् अलब्धपूर्वो (செய்யாமற் செய்த உதவி) is unable to later match it with क्षितिम् and त्रिविष्टपम् (வையகமும் வானகமும்) when he tries to arrogantly do  செய்யாமற் செய்த உதவி to Vamana, who in the guise of a Brahmana, had not rendered any direct favors to Bali either; given Valluvar’s allusions to the Trivikrama episode elsewhere this connection is definitely worth noting, despite not being the primary meaning of the kural. 
-    • Subhāṣita (track source) collection:
-        ◦ उपकारपरः प्रवरः प्रत्युपकारं करोति मध्यमः । नीचस्तदपि न कुरुते उपकारवशाद्भवति शत्रुः सः ॥ It distinguishes the person naturally devoted to helping others from the person who helps only in reciprocation.
-        ◦ Places செய்யாமற் செய்த உதவி as supreme, while identifying return favor as middling, and not returning a favor is lowly and adopting an enemy-like behavior
-
-| [2](#verse-2) | காலத்தி னாற்செய்த நன்றி சிறிதெனினு <br> ஞாலத்தின் மாணப் பெரிது | |
-
-    • Yoga Vasishtha 1.7.26 
-        ◦ कार्यं अण्वपि काले तु कृतमेत्युपकारताम् । महदप्युपकारोऽपि रिक्ततामेत्यकालतः ॥
-        ◦ Even a small task, when performed at the appropriate time, becomes a great benefit. Conversely, even substantial assistance becomes ineffective when rendered at the wrong time.
-        ◦ Correspondence is almost exact:
-            ▪ காலத்தினால் செய்த	= काले कृतम्
-            ▪ நன்றி = उपकार
-            ▪ சிறிதெனினும்	= अण्वपि
-            ▪ மாணப் பெரிது = उपकारताम्
-        ◦ Valluvar emphasizes that even a small benefit rendered at the right time is immensely valuable and leaves the converse implicit; Yoga Vasishtha additionally makes explicit the converse that a substantial benefit rendered at the wrong time loses its value.
-    • Niti Shatakam 73 — the characteristics of a true friend
-        ◦ पापान्निवारयति योजयते हिताय गुह्यं निगूहति गुणान् प्रकटिकरोति । आपद्गतं च न जहाति ददाति काले सन्मित्रलक्षणमिदं प्रवदन्ति सन्तः ॥
-        ◦ A true friend:
-- Prevents one from doing wrong and directs one towards what is beneficial.
-- Keeps one's secrets and brings one's virtues to light.
-- Does not abandon one in adversity.
-- Gives assistance at the appropriate time.
-        ◦ The expression ददाति काले captures the importance of timely assistance, resonating with காலத்தி னாற்செய்த நன்றி, but Bhartrihari frames it as a characteristic of a true friend, whereas Valluvar extols the greatness of even a small amount of timely assistance. 
+        
 | [3](#verse-3) | பயன்றூக்கார் செய்த வுதவி நயன்றூக்கி <br> னன்மை கடலிற் பெரிது | |
 
     • Mahabharata, Shanti Parva 12.138.82
@@ -257,6 +234,7 @@ Manakkudavar order: 6,8,1,3,2,4,7,5,9,10
         ◦ One should always remember benefactions and forget injuries; one should be prompt in doing what is good, and deliberate in undertaking what is bad.
     • Rāmāyaṇa (Ayodhyākāṇḍa, Sarga 1, Śloka 11—or 16 in some recensions), where Vālmīki describes the character of Rāma:
         ◦ कथञ्चिदुपकारेण कृतेनैकेन तुष्यति ।न स्मरत्यपकाराणां शतमप्यात्मवत्तया ॥ He is satisfied by even a single favor done to him in any way, and out of self-mastery (ātmavattayā), he does not remember even a hundred wrongs done against him." 
+        
 | [9](#verse-9) | கொன்றன்ன வின்னா செயினு மவர்செய்த <br> வொன்றுநன் றுள்ளக் கெடும் | |
 
 
@@ -280,6 +258,7 @@ Manakkudavar order: 6,8,1,3,2,4,7,5,9,10
             ▪ पूर्वं कृतार्थः introduces the idea of a person who has previously received a benefit. This resonates with ஒன்றுநன்று உள்ள, but the Ramayana is concerned with reciprocating that benefit rather than remembering it in the face of subsequent injury.
             ▪ स वध्यः introduces the idea that an ungrateful person deserves to be slain. This is an interesting lexical resonance with கொன்றன்ன, but the two verses use the idea of killing in entirely different ways. Valluvar describes the magnitude of the injury; Valmiki describes the punishment deserved by the ungrateful person.
             ▪ This verse belongs to Sugriva's confrontation with his failure to fulfil his obligation to Rama. It is part of the same larger admonition that culminates in Kishkindha Kanda 4.33.12 that parallels the next kural (எந்நன்றி கொன்றார்க்கு) closely.
+            
 | [10](#verse-10) | எந்நன்றி கொன்றார்க்கு முய்வுண்டா முய்வில்லை <br> செய்ந்நன்றி கொன்ற மகற்கு | |
 
     • Valmiki Ramayanam Kishkinda Kandam <br> (Baroda Critical Edition) 4.33.12 |
