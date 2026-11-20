@@ -63,9 +63,11 @@ A complementary ethical perspective appears in Bhartrihari's Niti Shatakam 73, w
 
 ### Verse 10
 
-<!--
-The kural is more general as to what is forgivable, whereas the Ramayanam lists specific examples. The match between कृतघ्ने नास्ति निष्कृति and உய்வில்லை செய்ந்நன்றி கொன்ற மகற்கு is quite close. A slight variation of the shloka appears as 4.34.12 in the Southern Rescension of the text (has गो घ्ने च एव instead of ब्रह्मघ्ने च). Neither the kural nor the shloka is condoning the other sins here.
--->
+I propose Valmiki Ramayanam, Kishkindha Kandam 4.33.12 as the primary parallel for this kural. The correspondence is remarkably close: செய்ந்நன்றி கொன்ற மகற்கு finds its direct equivalent in कृतघ्ने, while உய்வில்லை is expressed almost verbatim as नास्ति निष्कृतिः; correspondingly, உய்வுண்டாம் is answered by निष्कृतिर्विहिता सद्भिः. Valluvar generalizes the question to those who destroy all forms of goodness, எல்லா நன்மைகளையுஞ் சிதைத்தார்க்கும் in Mankkudavar's gloss, whereas the Ramayana enumerates particular grave transgressions for which expiation is prescribed — ब्रह्मघ्ने च सुरापे च चोरे भग्नव्रते तथा — before singling out ingratitude as beyond expiation. Neither text, of course, condones the other transgressions; the contrast serves to emphasize the exceptional gravity of कृतघ्नता. A slight textual variation occurs in the Southern Recension at 4.34.12, which reads गो घ्ने च एव in place of ब्रह्मघ्ने च. The central formulation, कृतघ्ने नास्ति निष्कृतिः, remains unchanged.
+
+The surrounding verses provide valuable contextual corroboration.  The sequence begins with the general condemnation of one who fails to repay the assistance of friends: पूर्वं कृतार्थो मित्राणां न तत् प्रतिकरोति यः \| कृतघ्नः सर्वभूतानां स वध्यः प्लवगेश्वर \|\| (4.33.10). This is followed by the introduction of the celebrated verse attributed to Brahma: गीतोऽयं ब्रह्मणा श्लोकः सर्वलोकनमस्कृतः \| दृष्ट्वा कृतघ्नं क्रुद्धेन तं निबोध प्लवंगम \|\| (4.33.11), leading directly to the primary parallel quoted above. The admonition then becomes personal and explicit: अनार्यस्त्वं कृतघ्नश्च मिथ्यावादी च वानर \| पूर्वं कृतार्थो रामस्य न तत्प्रतिकरोषि यत् \|\| (4.33.13). Sugriva is being admonished for failing to reciprocate Rama's assistance after having obtained his own desired end.
+
+The Mahabharata independently corroborates the same formulation in Shanti Parva 12.167.19 (BORI), with a parallel occurrence in Udyoga Parva 5.105.10 (BORI): कुतः कृतघ्नस्य यशः कुतः स्थानं कुतः सुखम् \| अश्रद्धेयः कृतघ्नो हि कृतघ्ने नास्ति निष्कृतिः \|\|. The verse asks how an ungrateful person can have fame, standing, or happiness, declaring such a person untrustworthy and reiterating that there is no expiation for ingratitude. The concluding phrase कृतघ्ने नास्ति निष्कृतिः directly corroborates Valluvar's உய்வில்லை செய்ந்நன்றி கொன்ற மகற்கு. 
 
 
 ### Chapter Summary
@@ -259,20 +261,6 @@ Manakkudavar order: 6,8,1,3,2,4,7,5,9,10
             ▪ स वध्यः introduces the idea that an ungrateful person deserves to be slain. This is an interesting lexical resonance with கொன்றன்ன, but the two verses use the idea of killing in entirely different ways. Valluvar describes the magnitude of the injury; Valmiki describes the punishment deserved by the ungrateful person.
             ▪ This verse belongs to Sugriva's confrontation with his failure to fulfil his obligation to Rama. It is part of the same larger admonition that culminates in Kishkindha Kanda 4.33.12 that parallels the next kural (எந்நன்றி கொன்றார்க்கு) closely.
             
-| [10](#verse-10) | எந்நன்றி கொன்றார்க்கு முய்வுண்டா முய்வில்லை <br> செய்ந்நன்றி கொன்ற மகற்கு | |
 
-    • Valmiki Ramayanam Kishkinda Kandam <br> (Baroda Critical Edition) 4.33.12 |
-        ◦ ब्रह्मघ्ने च सुरापे च चोरे भग्नव्रते तथा  \|<br>  निष्कृतिर्विहिता सद्भि: कृतघ्ने नास्ति निष्कृतिः  \|\| 
-        ◦ The correspondence is remarkably close: செய்ந்நன்றி கொன்ற மகற்கு —  कृतघ्ने; முய்வில்லை —  नास्ति निष्कृतिः ; முய்வுண்டா ம - निष्कृतिर्विहिता सद्भि: ; The kural is more general as to what has expiation எந்நன்றி கொன்றார்க்கு, whereas the Ramayanam lists specific examples of extreme sins for which there is expiation, ब्रह्मघ्ने च सुरापे च चोरे भग्नव्रते तथा. 
-        ◦  A slight variation of the shloka appears as 4.34.12 in the Southern Rescension of the text (has गो घ्ने च एव instead of ब्रह्मघ्ने च). Neither the kural nor the shloka is condoning the other sins here.
-        ◦ Surrounding verses 4.33.10-13 further corrobotate the kural: the conetxt is Sugriva being reminded of his obligations to Rama 
-            ▪ पूर्वं कृतार्थो मित्राणां न तत् प्रतिकरोति यः । कृतघ्नः सर्वभूतानां स वध्यः प्लवगेश्वर ॥
-            ▪ गीतोऽयं ब्रह्मणा श्लोकः सर्वलोकनमस्कृतः । दृष्ट्वा कृतघ्नं क्रुद्धेन तं निबोध प्लवंगम ॥ 
-            ▪ ब्रह्मघ्ने च सुरापे च चोरे भग्नव्रते तथा । निष्कृतिर्विहिता सद्भिः कृतघ्ने नास्ति निष्कृतिः ॥
-            ▪ अनार्यस्त्वं कृतघ्नश्च मिथ्यावादी च वानर । पूर्वं कृतार्थो रामस्य न तत्प्रतिकरोषि यत् ॥
-    • Mahabharata Shanti Parva 12.167.19, also Udyoga Parva 5.105.10
-        ◦ कुतः कृतघ्नस्य यशः कुतः स्थानं कुतः सुखम् । अश्रद्धेयः कृतघ्नो हि कृतघ्ने नास्ति निष्कृतिः ॥
-        ◦ How can an ungrateful person have fame, standing, or happiness? The ungrateful person is untrustworthy; there is no expiation for such a person. 
-        ◦ कृतघ्ने नास्ति निष्कृतिः corroborates முய்வில்லை செய்ந்நன்றி கொன்ற மகற்கு 
 
 -->
