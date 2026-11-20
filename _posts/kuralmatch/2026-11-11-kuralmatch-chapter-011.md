@@ -15,10 +15,9 @@ tags: [kuralmatch]
 | [5](#verse-5) | உதவி வரைத்தன் றுதவி யுதவி <br> செயப்பட்டார் சால்பின் வரைத்து |  |
 | [6](#verse-6) | மறவற்க மாசற்றார் கேண்மை துறவற்க <br> துன்பத்துட் டுப்பாயார் நட்பு |  |
 | [7](#verse-7) | எழுமை யெழுபிறப்பு முள்ளுவர் தங்கண் <br> விழுமந் துடைத்தவர் நட்பு |  |
-| [8](#verse-8) | நன்றி மறப்பது நன்றன்று நன்றல்ல <br> தன்றே மறப்பது நன்று |  |
+| [8](#verse-8) | நன்றி மறப்பது நன்றன்று நன்றல்ல <br> தன்றே மறப்பது நன்று |  **उपकारान् स्मरेन्नित्यम् अपकारांश्च विस्मरेत्** \| शुभे शीघ्रं प्रकुर्वीत अशुभे दीर्घसूत्रता \|\| <br> Subhashita xx |
 | [9](#verse-9) | கொன்றன்ன வின்னா செயினு மவர்செய்த <br> வொன்றுநன் றுள்ளக் கெடும் |  |
 | [10](#verse-10) | எந்நன்றி கொன்றார்க்கு முய்வுண்டா முய்வில்லை <br> செய்ந்நன்றி கொன்ற மகற்கு | **ब्रह्मघ्ने च सुरापे च चोरे भग्नव्रते तथा** \|<br> **निष्कृतिर्विहिता सद्भि: कृतघ्ने नास्ति निष्कृतिः** \|\| <br> Valmiki Ramayanam Kishkinda Kandam <br> (Baroda Critical Edition) 4.33.12 |
-
 
 
 ## Comments and Research Notes
@@ -67,8 +66,11 @@ The Mahabharata offers a complementary corroboration in Anushasana Parva 13.182.
 ### Verse 7
 
 
-### Verse 
+### Verse 8
 
+I propose the popular Subhashita as the primary parallel for this kural. The correspondence is remarkably direct. நன்றி மறப்பது நன்றன்று finds its counterpart in उपकारान् स्मरेन्नित्यम् (one should always remember benefactions), while நன்றல்ல தன்றே மறப்பது நன்று corresponds to अपकारांश्च विस्मरेत् (one should forget harmful offences). Both verses formulate the same two complementary injunctions: to retain the memory of good received and to let go of wrongs suffered. Valluvar expresses these as a contrast between what ought not to be forgotten and what ought to be forgotten; the Subhashita states them as direct prescriptions. Its second half, शुभे शीघ्रं प्रकुर्वीत अशुभे दीर्घसूत्रता, adds the distinct counsel to act promptly in good matters and be slow in undertaking bad ones.
+
+The same principle is exemplified in Valmiki's description of Rama in the Ramayana Ayodhya Kanda 2.1.11: कथञ्चिदुपकारेण कृतेनैकेन तुष्यति \| न स्मरत्यपकाराणां शतमप्यात्मवत्तया \|\|. நன்றி corresponds to उपकार, and நன்றல்லது to अपकार; மறப்பது finds its counterpart in न स्मरति. Rama is pleased even by a single benefaction, however modestly rendered (कथञ्चिदुपकारेण कृतेनैकेन तुष्यति), and, through his self-mastery (आत्मवत्तया), does not retain in memory even a hundred injuries (न स्मरत्यपकाराणां शतमपि). The expression तुष्यति adds a further dimension to Valluvar's injunction: Rama's remembrance of a benefaction is imbued with contentment and joy, rather than being a grudging acknowledgment of an obligation to be repaid.
 
 ### Verse 9
 
@@ -123,9 +125,8 @@ Manakkudavar order: 6,8,1,3,2,4,7,5,9,10
         ◦ उपकारेण वीरस्तु प्रतिकारेण युज्यते । अकृतज्ञोऽप्रतिकृतो हन्ति सत्त्ववतां मनः ॥
         ◦ The idea is that a virtuous person responds to assistance with reciprocal assistance; failure to reciprocate wounds the hearts of the virtuous.
         ◦ उपकारेण वीरस्तु प्रतिकारेण युज्यते matches the உதவி வரைத்தன் றுதவி யுதவி, but the cheyyappattar salbu is only obliquely referenced in the negative case where the ingratitude and non-reciprocity is condemned. 
-    • The Sudāmā episode in the *Śrīmad Bhāgavata* (10.81.3, 6–7) offers an illuminating narrative corroboration. Kṛṣṇa asks Sudāmā what gift he has brought and declares: **किमुपायनमानीतं ब्रह्मन्मे भवता गृहात् । अण्वप्युपाहृतं भक्तैः प्रेम्णा भूर्येव मे भवेत् । भूर्यप्यभक्तोपहृतं न मे तोषाय कल्पते ॥** (10.81.3)—even the smallest offering, when presented with love by a devotee, becomes great to Him, whereas even a substantial offering made without devotion does not please Him. Sudāmā's humble offering of flattened rice, made not from any desire for material wealth but out of affection, thus reveals his own disposition. Kṛṣṇa, recognising this, understands that Sudāmā has never approached Him seeking prosperity and has now come out of affection for his devoted wife: सर्वभूतात्मदृक् साक्षात् तस्यागमनकारणम् । ज्ञायाचिन्तयन्नायं श्रीकामो माभजत्पुरा ॥ पत्न्याः पतिव्रतायास्तु सखा प्रियचिकीर्षया । प्राप्तो मामस्य दास्यामि सम्पदोऽमर्त्यदुर्लभाः ॥. The important part is **श्रीकामो नाभजत्पूर्वं ...  प्राप्तो मामस्य दास्यामि सम्पदोऽमर्त्यदुर्लभाः. Krishna resolves to bestow upon him riches beyond the reach of the immortals. The smallness of Sudāmā's offering and the immensity of Kṛṣṇa's reciprocation are thus not measures of material exchange, but expressions of their respective natures. This illuminates Valluvar's **உதவி வரைத்தன்று உதவி**: the return is not bounded by the magnitude of the original benefit, but is **செயப்பட்டார் சால்பின் வரைத்து**—measured by the character of the one who reciprocates. This episode beautifully brings both dimensions together. 
-        ◦ Sudāma's offering is materially small, but his love and absence of material expectation reveal the quality of his disposition.
-        ◦ Krishna recognises this and resolves to bestow immense wealth, revealing the boundless generosity of the reciprocator.
+    • The Sudāmā episode in the *Śrīmad Bhāgavata* (10.81.3, 6–7) offers an illuminating narrative corroboration. Kṛṣṇa asks Sudāmā what gift he has brought and declares: **किमुपायनमानीतं ब्रह्मन्मे भवता गृहात् । अण्वप्युपाहृतं भक्तैः प्रेम्णा भूर्येव मे भवेत् । भूर्यप्यभक्तोपहृतं न मे तोषाय कल्पते ॥** (10.81.3)—even the smallest offering, when presented with love by a devotee, becomes great to Him, whereas even a substantial offering made without devotion does not please Him. Sudāmā's humble offering of flattened rice, made not from any desire for material wealth but out of affection, thus reveals his own disposition. Kṛṣṇa, recognising this, understands that Sudāmā has never approached Him seeking prosperity and has now come out of affection for his devoted wife: सर्वभूतात्मदृक् साक्षात् तस्यागमनकारणम् । ज्ञायाचिन्तयन्नायं श्रीकामो माभजत्पुरा ॥ पत्न्याः पतिव्रतायास्तु सखा प्रियचिकीर्षया । प्राप्तो मामस्य दास्यामि सम्पदोऽमर्त्यदुर्लभाः ॥. The important part is **श्रीकामो नाभजत्पूर्वं ...  प्राप्तो मामस्य दास्यामि सम्पदोऽमर्त्यदुर्लभाः. Krishna resolves to bestow upon him riches beyond the reach of the immortals. The smallness of Sudāmā's offering and the immensity of Kṛṣṇa's reciprocation are thus not measures of material exchange, but expressions of their respective natures. This illuminates Valluvar's **உதவி வரைத்தன்று உதவி**: the return is not bounded by the magnitude of the original benefit, but is **செயப்பட்டார் சால்பின் வரைத்து**—measured by the character of the one who reciprocates. This episode beautifully brings both dimensions together.  A theme here is the close connection between gratitude and friendship that is seen repeatedly across several kurals in this chapter.
+      
 
 | [6](#verse-6) | மறவற்க மாசற்றார் கேண்மை துறவற்க <br> துன்பத்துட் டுப்பாயார் நட்பு | |
 
@@ -207,17 +208,8 @@ Manakkudavar order: 6,8,1,3,2,4,7,5,9,10
         ◦ While these verses do not convey the message of the kural, they corroborate karmic accounting across seven births; also suggests that Valluvar’s ezhumai could have multiple interpretations
     • We can acknowledge that no single Sanskrit verse exactly matches the Kural, without diminishing the strength of the combined evidence.I think we can refine the research note this way. Let us present Katahsaritasagara as the primary parallel. In the correspondence note, we can introduce the other verses that provide the narrative context that strengthens the essence of the kural and also note that the Jimutavahana/Vasudatta story is part of a much older Brihat Katha tradition and the story is also mentioned in Nagananda. Then we provide doctrinal corroboration, first via the Yogini Tantra where the remembrance is ritualistic offerings, and through the Bodhisattvabhumi where the remembrance is literal as with Jimutavahana. Then we present the Mahbharata and Guru Gita as other corroborations. Then we do the excursus on ezhumai and ezhu pirappu with Parimelazhakar, Valaiyapathi, and Skanda Purana. We can also note that while multiple interpretations of these words are possible, the exact lexical interpretation is not central to the message of the kural, which is about remembering a friend who helped in adversity not just in this life, but across multiple lifetimes
 
-
-| [8](#verse-8) | நன்றி மறப்பது நன்றன்று நன்றல்ல <br> தன்றே மறப்பது நன்று | |
-
-    • Subhashita, need to find source to cite properly
-        ◦ उपकारान् स्मरेन्नित्यम् अपकारांश्च विस्मरेत् । शुभे शीघ्रं प्रकुर्वीत अशुभे दीर्घसूत्रता ॥
-        ◦ One should always remember benefactions and forget injuries; one should be prompt in doing what is good, and deliberate in undertaking what is bad.
-    • Rāmāyaṇa (Ayodhyākāṇḍa, Sarga 1, Śloka 11—or 16 in some recensions), where Vālmīki describes the character of Rāma:
-        ◦ कथञ्चिदुपकारेण कृतेनैकेन तुष्यति ।न स्मरत्यपकाराणां शतमप्यात्मवत्तया ॥ He is satisfied by even a single favor done to him in any way, and out of self-mastery (ātmavattayā), he does not remember even a hundred wrongs done against him." 
         
 | [9](#verse-9) | கொன்றன்ன வின்னா செயினு மவர்செய்த <br> வொன்றுநன் றுள்ளக் கெடும் | |
-
 
     • Valmiki Ramayana — Ayodhya Kanda 2.1.16 (Baroda Critical Edition)
         ◦ कथञ्चिदुपकारेण कृतेनैकेन तुष्यति । न स्मरत्यपकाराणां शतमप्यात्मवत्तया ॥
