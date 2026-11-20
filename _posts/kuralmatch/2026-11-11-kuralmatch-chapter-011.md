@@ -11,7 +11,7 @@ tags: [kuralmatch]
 | [1](#verse-1) | செய்யாமற் செய்த உதவிக்கு வையகமும் <br> வானகமு மாற்ற லரிது | **प्रत्युपकुर्वन्बह्वपि न भाति पूर्वोपकारिणा तुल्यः** \| <br> एकः करोति हि कृते निष्कारणमेव कुरुतेऽन्यः \|\| <br> Mahabharata, Shanti Parva 12.138.82 (Gita Press) |
 | [2](#verse-2) | காலத்தி னாற்செய்த நன்றி சிறிதெனினு <br> ஞாலத்தின் மாணப் பெரிது | **कार्यं अण्वपि काले तु कृतमेत्युपकारताम्** \| <br> महदप्युपकारोऽपि रिक्ततामेत्यकालतः \|\| <br> Yoga Vasishtha 1.7.26 |
 | [3](#verse-3) | பயன்றூக்கார் செய்த வுதவி நயன்றூக்கி <br> னன்மை கடலிற் பெரிது |  |
-| [4](#verse-4) | தினைத்துணை நன்றி செயினும் பனைத்துணையாக் <br> கொள்வர் பயன்றெரி வார் |  |
+| [4](#verse-4) | தினைத்துணை நன்றி செயினும் பனைத்துணையாக் <br> கொள்வர் பயன்றெரி வார் | **तिलमात्रमप्युपकारं शैलमात्रं मन्यते साधुः** \|\| <br> Chanakya Niti Sutra 6.29 |
 | [5](#verse-5) | உதவி வரைத்தன் றுதவி யுதவி <br> செயப்பட்டார் சால்பின் வரைத்து |  |
 | [6](#verse-6) | மறவற்க மாசற்றார் கேண்மை துறவற்க <br> துன்பத்துட் டுப்பாயார் நட்பு |  |
 | [7](#verse-7) | எழுமை யெழுபிறப்பு முள்ளுவர் தங்கண் <br> விழுமந் துடைத்தவர் நட்பு |  |
@@ -43,7 +43,39 @@ A complementary ethical perspective appears in Bhartrihari's Niti Shatakam 73, w
 ### Verse 3
 
 
+<!--
+
+| [3](#verse-3) | பயன்றூக்கார் செய்த வுதவி நயன்றூக்கி <br> னன்மை கடலிற் பெரிது | |
+
+    • Mahabharata, Shanti Parva 12.138.82
+        ◦ प्रत्युपकुर्वन्बह्वपि न भाति पूर्वोपकारिणा तुल्यः । एकः करोति हि कृते निष्कारणमेव कुरुतेऽन्यः ॥
+        ◦ Even one who renders abundant repayment does not equal the original benefactor. For one acts in return for a favour received, while the other performed the benefaction without any such motive.
+        ◦ This occurs in the Mārjāra–Mūṣika dialogue, the story of the cat and the mouse. The cat, having been rescued by the mouse, promises to repay him. Bhishma then states this principle: the repayment, however generous, cannot equal the original benefaction, because the first act was निष्कारणम्—without an expectation or prior cause. 
+    • Vallabhadeva's Subhāṣitāvali, as verse 224:
+        ◦ अपेक्षन्ते न च स्नेहं न पात्रं न दशान्तरं । सदा लोकहिते युक्ता रत्नदीपा इवोत्तमाः ॥
+        ◦ Excellent people, like luminous jewel-lamps, remain devoted to the welfare of the world; they do not look for affection, nor [weigh] the recipient's worthiness, nor the circumstances.
+        ◦ Further corroboration in verse 226:
+            ▪ नालोकः क्रियते सूर्ये भूः प्रतीपं न धार्यते । नहि प्रत्युपकाराणामपेक्षा सत्सु विद्यते ॥
+            ▪ The sun does not withhold its light, nor does the earth turn away; the good have no expectation of reciprocation.
+            ▪ नहि प्रत्युपकाराणामपेक्षा further corroborates the பயன்றூக்கார் செய்த வுதவி
+    • Sarasvatīkaṇṭhābharaṇa 
+        ◦ विरला उपकृत्यैव निरपेक्षा जलधरा इव वर्तन्ते। क्षीयन्ते तेषां विरहे विरला एव सरित्प्रवाहा इव॥
+        ◦ It goes on to show the consequence of their absence: the streams themselves dwindle. The benefactors' importance is thus conveyed through the dependence of others upon their benefaction
+    • Subhāṣitaratnabhāṇḍāgāra, Sāmānya-prakaraṇa, Sajjana-praśaṃsā 184 
+        ◦ न चन्द्रमाः प्रत्युपकारलिप्सया करोति भाभिः कुमुदावबोधनम् । स्वभाव एवोन्नतचेतसामयं परोपकारव्यसनं हि जीवितम् ॥
+        ◦ The moon does not awaken the water-lilies with its rays out of a desire for reciprocal benefit. Beneficence towards others is simply the nature of the noble-minded; indeed, it is their very way of life.
+    • Subhāṣitaratnabhāṇḍāgāra — Ratnākara and the wealth of the noble
+        ◦ रत्नाकरः किं कुरुते स्वरत्नैः विन्ध्याचलः किं करिभिः करोति। श्रीखण्डखण्डैर्मलयाचलः किं परोपकाराय सतां विभूतयः॥
+        ◦ Meaning: What does the ocean do with its own jewels? What does the Vindhya mountain do with its elephants? What does the Malaya mountain do with its sandalwood? The riches of the noble exist for the benefit of others.
+        ◦ General corroboration of paropakara without expecting benefit, mentions oceans, but not a parallel to the kural as it does not explicitly say that help without expectation as great.
+
+-->
+
 ### Verse 4
+
+I propose Chanakya Niti Sutra 6.29 as the primary parallel for this kural. The correspondence is remarkably close in both thought and imagery: தினைத்துணை finds its counterpart in तिलमात्रम्  (a sesame seed, just as தினை denotes a small millet seed), while பனைத்துணையாகக் கொள்வர் is expressed as शैलमात्रं मन्यते  (regarding it as a mountain, just as பனை denotes a palm tree); similarly, பயன்றெரி வார் corresponds to साधुः, the virtuous person who recognizes the worth of a benefaction. Both verses extol the disposition to magnify even the smallest assistance received. The minor variation in imagery serves the respective poetic expressions and rhyme; it does not affect the close correspondence in thought.
+
+The Mahabharata offers a complementary corroboration in Anushasana Parva 13.182.12 (Gita Press): अल्पोऽपि तादृशो न्यासो भवत्युत महाफलः \| तृषिताय च यद्दत्तं हृदयेनानसूयता \|\|. The correspondence with the kural can be drawn more finely through the description of the recipient and the disposition involved: திணைத்துணை நன்றி செயினும் corresponds to अल्पोऽपि तादृशो न्यासः, while பயன்றெரி வார் finds a suggestive counterpart in तृषिताय ... हृदयेनानसूयता — one who recognizes the worth of a small benefit is here understood through the example of a thirsty person receiving a gift offered with a heart free from envy or ill will. The verse occurs in the dialogue between Vyasa and Maitreya, narrated by Bhishma in response to Yudhishthira's question as to which is superior among learning, austerity, and giving (13.182.1–2). Vyasa, traveling incognito in Varanasi, is received by Maitreya, who honors him and offers him food (13.182.3–5). Pleased by the reception, Vyasa smiles, prompting Maitreya to ask the reason. Vyasa explains that he is reflecting on the extraordinary merit of a seemingly modest act of giving. The subsequent discussion establishes the greatness of giving and the importance of the disposition with which it is performed. Both the Mahbharata verse and the Kural convey that even an apparently small benefaction may be of great value, as discerned by the recipient.
 
 
 ### Verse 5
@@ -55,7 +87,7 @@ A complementary ethical perspective appears in Bhartrihari's Niti Shatakam 73, w
 ### Verse 7
 
 
-### Verse 8
+### Verse 
 
 
 ### Verse 9
@@ -91,40 +123,7 @@ Mahabharata Shantui Parva matches 1 and 3; Bhartrihar Nitshatakam matches 2,6,7;
 
 Manakkudavar order: 6,8,1,3,2,4,7,5,9,10
 
-        
-| [3](#verse-3) | பயன்றூக்கார் செய்த வுதவி நயன்றூக்கி <br> னன்மை கடலிற் பெரிது | |
 
-    • Mahabharata, Shanti Parva 12.138.82
-        ◦ प्रत्युपकुर्वन्बह्वपि न भाति पूर्वोपकारिणा तुल्यः । एकः करोति हि कृते निष्कारणमेव कुरुतेऽन्यः ॥
-        ◦ Even one who renders abundant repayment does not equal the original benefactor. For one acts in return for a favour received, while the other performed the benefaction without any such motive.
-        ◦ This occurs in the Mārjāra–Mūṣika dialogue, the story of the cat and the mouse. The cat, having been rescued by the mouse, promises to repay him. Bhishma then states this principle: the repayment, however generous, cannot equal the original benefaction, because the first act was निष्कारणम्—without an expectation or prior cause. 
-    • Vallabhadeva's Subhāṣitāvali, as verse 224:
-        ◦ अपेक्षन्ते न च स्नेहं न पात्रं न दशान्तरं । सदा लोकहिते युक्ता रत्नदीपा इवोत्तमाः ॥
-        ◦ Excellent people, like luminous jewel-lamps, remain devoted to the welfare of the world; they do not look for affection, nor [weigh] the recipient's worthiness, nor the circumstances.
-        ◦ Further corroboration in verse 226:
-            ▪ नालोकः क्रियते सूर्ये भूः प्रतीपं न धार्यते । नहि प्रत्युपकाराणामपेक्षा सत्सु विद्यते ॥
-            ▪ The sun does not withhold its light, nor does the earth turn away; the good have no expectation of reciprocation.
-            ▪ नहि प्रत्युपकाराणामपेक्षा further corroborates the பயன்றூக்கார் செய்த வுதவி
-    • Sarasvatīkaṇṭhābharaṇa 
-        ◦ विरला उपकृत्यैव निरपेक्षा जलधरा इव वर्तन्ते। क्षीयन्ते तेषां विरहे विरला एव सरित्प्रवाहा इव॥
-        ◦ It goes on to show the consequence of their absence: the streams themselves dwindle. The benefactors' importance is thus conveyed through the dependence of others upon their benefaction
-    • Subhāṣitaratnabhāṇḍāgāra, Sāmānya-prakaraṇa, Sajjana-praśaṃsā 184 
-        ◦ न चन्द्रमाः प्रत्युपकारलिप्सया करोति भाभिः कुमुदावबोधनम् । स्वभाव एवोन्नतचेतसामयं परोपकारव्यसनं हि जीवितम् ॥
-        ◦ The moon does not awaken the water-lilies with its rays out of a desire for reciprocal benefit. Beneficence towards others is simply the nature of the noble-minded; indeed, it is their very way of life.
-    • Subhāṣitaratnabhāṇḍāgāra — Ratnākara and the wealth of the noble
-        ◦ रत्नाकरः किं कुरुते स्वरत्नैः विन्ध्याचलः किं करिभिः करोति। श्रीखण्डखण्डैर्मलयाचलः किं परोपकाराय सतां विभूतयः॥
-        ◦ Meaning: What does the ocean do with its own jewels? What does the Vindhya mountain do with its elephants? What does the Malaya mountain do with its sandalwood? The riches of the noble exist for the benefit of others.
-        ◦ General corroboration of paropakara without expecting benefit, mentions oceans, but not a parallel to the kural as it does not explicitly say that help without expectation as great.
-
-| [4](#verse-4) | தினைத்துணை நன்றி செயினும் பனைத்துணையாக் <br> கொள்வர் பயன்றெரி வார் | |
-    • Chanakya Nīti Sūtra 6.29 — a remarkably close parallel
-        ◦ तिलमात्रमप्युपकारं शैलमात्रं मन्यते साधुः ॥
-        ◦ A virtuous person regards even a benefaction as small as a sesame seed to be as great as a mountain.
-    • Mahabharata, Anushasana Parva 13.182.12 (Gita Press?):
-        ◦ अल्पोऽपि तादृशो न्यासो भवत्युत महाफलः । तृषिताय च यद्दत्तं हृदयेनानसूयता ॥
-        ◦ Even a small gift of that kind yields a great fruit when given to a thirsty person, with a heart free from envy.
-        ◦ The chapter is a dialogue between Vyasa and Maitreya, introduced by Bhishma in response to Yudhishthira’s question on  which is superior among learning, austerity and giving.  Vyasa visits Maitreya, who receives him and offers him food. Vyasa is pleased and smiles. Maitreya asks why. The dialogue then turns to the extraordinary merit of a seemingly small act of giving.
-        ◦ 
 | [5](#verse-5) | உதவி வரைத்தன் றுதவி யுதவி <br> செயப்பட்டார் சால்பின் வரைத்து | |
 
     • I am thinking Chanakya Niti should be the primary parallel. In fact we can explain the nature of both matter in this kural. Then we present the Nala episode saying the size of the reciprocity depends on the means. Sudama corroborates both viewpoints -- the size of the favor depends on the means and intention; the size of the reciprocity depends on the means of the reciprocator. 
