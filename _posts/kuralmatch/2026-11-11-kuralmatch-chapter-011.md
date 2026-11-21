@@ -10,13 +10,13 @@ tags: [kuralmatch]
 |--|--|--|
 | [1](#verse-1) | செய்யாமற் செய்த உதவிக்கு வையகமும் <br> வானகமு மாற்ற லரிது | **प्रत्युपकुर्वन्बह्वपि न भाति पूर्वोपकारिणा तुल्यः** \| <br> एकः करोति हि कृते निष्कारणमेव कुरुतेऽन्यः \|\| <br> Mahabharata, Shanti Parva 12.138.82 (Gita Press) |
 | [2](#verse-2) | காலத்தி னாற்செய்த நன்றி சிறிதெனினு <br> ஞாலத்தின் மாணப் பெரிது | **कार्यं अण्वपि काले तु कृतमेत्युपकारताम्** \| <br> महदप्युपकारोऽपि रिक्ततामेत्यकालतः \|\| <br> Yoga Vasishtha 1.7.26 |
-| [3](#verse-3) | பயன்றூக்கார் செய்த வுதவி நயன்றூக்கி <br> னன்மை கடலிற் பெரிது | प्रत्युपकुर्व**न्बह्वपि न भाति** पूर्वोपकारिणा तुल्यः** \| <br> एकः करोति हि कृते **निष्कारणमेव कुरुते**ऽन्यः \|\| <br> Mahabharata, Shanti Parva 12.138.82 (Gita Press) |
+| [3](#verse-3) | பயன்றூக்கார் செய்த வுதவி நயன்றூக்கி <br> னன்மை கடலிற் பெரிது | प्रत्युपकुर्व**न्बह्वपि न भाति** पूर्वोपकारिणा तुल्यः** \| <br> एकः करोति हि कृते **निष्कारणमेव कुरुते**ऽन्यः \|\| <br> Mahabharata, Shanti Parva <br> 12.138.82 (Gita Press) |
 | [4](#verse-4) | தினைத்துணை நன்றி செயினும் பனைத்துணையாக் <br> கொள்வர் பயன்றெரி வார் | **तिलमात्रमप्युपकारं शैलमात्रं मन्यते साधुः** \|\| <br> Chanakya Niti Sutra 6.29 |
-| [5](#verse-5) | உதவி வரைத்தன் றுதவி யுதவி <br> செயப்பட்டார் சால்பின் வரைத்து |  |
+| [5](#verse-5) | உதவி வரைத்தன் றுதவி யுதவி <br> செயப்பட்டார் சால்பின் வரைத்து | **स्वल्पोपकारकृतेऽपि प्रत्युपकारं कर्तुमार्यो जागर्ति** \|\| Chanakya Niti Sutra 6.32 |
 | [6](#verse-6) | மறவற்க மாசற்றார் கேண்மை துறவற்க <br> துன்பத்துட் டுப்பாயார் நட்பு |  |
-| [7](#verse-7) | எழுமை யெழுபிறப்பு முள்ளுவர் தங்கண் <br> விழுமந் துடைத்தவர் நட்பு |  |
+| [7](#verse-7) | எழுமை யெழுபிறப்பு முள்ளுவர் தங்கண் <br> விழுமந் துடைத்தவர் நட்பு | **त्वं च तत्रैव मे जातो द्वितीयं हृदयं सुहृत्** \| <br> **जातिस्मरोऽस्म्यहं सर्वं पूर्वजन्म स्मरामि तत्** \|\| <br> Somadeva’s Kathasaritasagara <br> Lambaka IV, Taranga 2, Verse 53 |
 | [8](#verse-8) | நன்றி மறப்பது நன்றன்று நன்றல்ல <br> தன்றே மறப்பது நன்று | **उपकारान् स्मरेन्नित्यम् अपकारांश्च विस्मरेत्** \| <br> शुभे शीघ्रं प्रकुर्वीत अशुभे दीर्घसूत्रता \|\| <br> Subhashita xx |
-| [9](#verse-9) | கொன்றன்ன வின்னா செயினு மவர்செய்த <br> வொன்றுநன் றுள்ளக் கெடும் |  |
+| [9](#verse-9) | கொன்றன்ன வின்னா செயினு மவர்செய்த <br> வொன்றுநன் றுள்ளக் கெடும் | **कथञ्चिदुपकारेण कृतेनैकेन तुष्यति** \| <br> **न स्मरत्यपकाराणां शतमप्यात्मवत्तया** \|\| <br>  Valmiki Ramayanam Ayodhya Kanda <br> 2.1.16 (Baroda Critical Edition) |
 | [10](#verse-10) | எந்நன்றி கொன்றார்க்கு முய்வுண்டா முய்வில்லை <br> செய்ந்நன்றி கொன்ற மகற்கு | **ब्रह्मघ्ने च सुरापे च चोरे भग्नव्रते तथा** \|<br> **निष्कृतिर्विहिता सद्भि: कृतघ्ने नास्ति निष्कृतिः** \|\| <br> Valmiki Ramayanam Kishkinda Kandam <br> (Baroda Critical Edition) 4.33.12 |
 
 
@@ -59,11 +59,54 @@ The Mahabharata offers a complementary corroboration in Anushasana Parva 13.182.
 
 ### Verse 5
 
+I propose Chanakya Nīti Sūtra 6.32 as the primary parallel for this kural. The expression உதவி வரைத்தன்று உதவி corresponds to स्वल्पोपकारकृतेऽपि: प्रत्युपकारम् even when the original benefit is small, it calls for reciprocation. Valluvar expresses the dependence on the reciprocity on the character of the original beneficiary as உதவி செயப்பட்டார் சால்பின் வரைத்து, which Chanakya conveys through the readiness of the noble person to reciprocate (कर्तुमार्यो जागर्ति); आर्यः resonates closely with சால்பு. The preceding sutra 6.29 further corroborates the kural's message: तिलमात्रमप्युपकारं शैलमात्रं मन्यते साधुः — a virtuous person regards even a benefaction as small as a sesame seed to be as great as a mountain. The use of साधुः here, like आर्यः in 6.32, evokes the nobility of character expressed by சால்பு. Such a person values even a small benefit greatly, and this appreciation is reflected in the readiness to reciprocate described in 6.32.
+
+A further nuance is developed in Sriharsha's Naishadhiyacarita, Sarga II, verse 14: अचिरादुपकर्तुराचरेदथवात्मौपयिकीमुपक्रियाम् \| पृथुरित्थमथाणुरस्तु सा न विशेषविदुषामिह ग्रहः \|\| — one should promptly render a reciprocal service to one's benefactor, suited to one's own means; whether that service be great or small is of no consequence to the discerning. In other words, the character of the beneficiary (சால்பு), rather than the magnitude of the original benefaction or the material means available for reciprocation  (உதவி வரைத்தன்று உதவி), determines the impulse to return the benefit. The verse occurs in the episode of the swan's gratitude to Nala. In the preceding verse, the swan acknowledges that, although it is only a bird and cannot adequately repay Nala, it is nevertheless impelled to return the benefit. The expression आत्मौपयिकीमुपक्रियाम्, a reciprocal service suited to one's own capacity, illuminates the principle that the magnitude of reciprocation is governed by the means of the reciprocator, rather than by the scale of the original benefit. The qualification पृथुरित्थमथाणुरस्तु सा makes explicit that the return may be great or small without diminishing its worth.
+
+A related formulation occurs in Valmiki Ramayanam, Kishkindha Kanda 4.27.45: उपकारेण वीरस्तु प्रतिकारेण युज्यते \| अकृतज्ञोऽप्रतिकृतो हन्ति सत्त्ववतां मनः \|\| — a virtuous person responds to assistance with reciprocal assistance; one who fails to reciprocate, being ungrateful, wounds the hearts of the noble. The expression उपकारेण वीरः corresponds to உதவி செயப்பட்டார் சால்பு, characterizing the recipient of a benefit by his nobility, while प्रतिकारेण युज्यते captures the reciprocation expressed in உதவி வரைத்தன்று உதவி. Both Valluvar and Valmiki thus connect reciprocation to the character of the person who has received the benefit. Valluvar further qualifies this relationship by making the measure of reciprocation dependent on that person's சால்பு, a nuance not explicitly expressed in Valmiki's formulation.
+
+The Sudama episode in the Srimad Bhagavata (10.81.3, 6–7) offers an especially illuminating narrative corroboration, bringing together both dimensions of the kural. When Krishna asks Sudama what gift he has brought, he declares: किमुपायनमानीतं ब्रह्मन्मे भवता गृहात् \| अण्वप्युपाहृतं भक्तैः प्रेम्णा भूर्येव मे भवेत् \| भूर्यप्यभक्तोपहृतं न मे तोषाय कल्पते \|\| (10.81.3) — even the smallest offering, when presented with love by a devotee, becomes great to Him, whereas even a substantial offering made without devotion does not please Him. Sudama's humble offering of flattened rice, made out of affection rather than any desire for material gain, thus illustrates how the worth of a benefit depends on the disposition of the giver, not its material value. Krishna, recognizing Sudama's disposition, understands that he has never approached Him seeking prosperity and has now come out of affection for his devoted wife: सर्वभूतात्मदृक् साक्षात् तस्यागमनकारणम् \| ज्ञात्वाचिन्तयन्नायं श्रीकामो मां भजेत्पुरा \|\| पत्न्याः पतिव्रतायास्तु सखा प्रियचिकीर्षया \| प्राप्तो मामस्य दास्यामि सम्पदोऽमर्त्यदुर्लभाः \|\| (10.81.6-7). Krishna resolves to bestow upon him riches beyond the reach of the immortals. The smallness of Sudama's offering and the immensity of Krishna's reciprocation are thus not measures of material exchange, but expressions of their respective dispositions and capacities. The episode illuminates உதவி வரைத்தன்று உதவி: the return is not bounded by the magnitude of the original benefit, but is செயப்பட்டார் சால்பின் வரைத்து — measured by the character of the one who reciprocates. It also brings out the complementary point that the magnitude of the original offering itself is measured by the giver's love and intention, rather than by its material worth. 
+
+In addition to illustrating the kural's principle that reciprocation is determined by the character of the recipient rather than their material means, the Sudama episode also connects gratitude, assistance in times of distress, and reciprocation with friendship, a recurrent theme throughout this chapter.
+
 
 ### Verse 6
 
 
 ### Verse 7
+
+I propose Somadeva's Kathasaritasagara, Lambaka IV, Taranga 2, verse 53 as the primary parallel for this kural. Jimutavahana, recognizing Mitravasu, tells him that they had been friends in a previous birth: त्वं च तत्रैव मे जातो द्वितीयं हृदयं सुहृत् \| जातिस्मरोऽस्म्यहं सर्वं पूर्वजन्म स्मरामि तत् — you too were my friend there, as though my second heart; I remember everything from my previous birth. The correspondence is particularly close: सुहृत् corresponds to நட்பு, and स्मरामि to உள்ளுவர்; जाति and जन्म to பிறப்பு. Although the number seven is not reproduced literally, जातिस्मरः and पूर्वजन्म convey the idea of recollection across successive births expressed in எழுமை யெழுபிறப்பு.
+
+The preceding account, in which Jimutavahana recounts his former birth as the merchant Vasudatta, explains why this friendship is remembered and gives விழுமந் துடைத்தவர் நட்பு its concrete content. Captured by robbers, Vasudatta is brought before their chieftain Pulindaka as a sacrificial offering to the goddess: तत्राहमुपहारार्थमुपनीतो निजस्य तैः \| प्रभोः पुलिन्दकाख्यस्य देवीं पूजयतोऽन्तिकम् \|\| (4.2.64). On seeing him, Pulindaka is overcome with compassion, as the affection arising from a former birth manifests itself: स दृष्ट्वैवार्द्रहृदयः शबरोऽप्यभवन्मयि \| व्यक्तिं जन्मान्तरप्रीतिर्मनःस्निग्धवशाद्गता \|\| (4.2.65). He releases Vasudatta from death and then wishes to complete the sacrifice by offering himself: ततो मां मोचयित्वैव बभाषे शबराधिपः \| ऐच्छदात्मोपहारेण कर्तुं पूजासमापनम् \|\| (4.2.66). When the goddess offers him a boon, Pulindaka asks for nothing other than the continuation of this friendship in another birth: त्वं प्रसन्ना वरः कोऽन्यस्तथाप्येतावदर्थये \| जन्मान्तरेऽपि मे सख्यमनेन वणिजास्त्विति \|\| (4.2.68). In the present birth, Jimutavahana learns that Mitravasu, formerly Pulindaka, has been captured and faces punishment. He secures his release by paying a substantial ransom, thereby reciprocating the life-saving assistance he had received in his former birth. The text explicitly describes this as प्राणदानोपकारस्य कृत्वैवं प्रत्युपक्रियाम् (4.2.73), reciprocating the benefit of having been granted life. Interestingly, Pulindaka himself had earlier considered even the gift he could offer inadequate as a return for the benefit he had received: तत्र प्रत्युपकारार्थं चिन्तयन्प्राभृतं मम \| स्वल्पं स मेने स्वाधीनं मुक्ताकस्तूरिकाद्यपि \|\| (4.2.75). Pulindaka's affection, arising from a former birth, leads him to rescue Vasudatta from mortal danger; his boon secures the continuation of their friendship in another birth; and Jimutavahana, remembering that friendship, reciprocates the life-saving assistance he had received. The narrative thus gives concrete expression to the kural's injunction to remember, across successive births, the friendship of those who have removed one's distress: எழுமை யெழுபிறப்பு முள்ளுவர் விழுமந் துடைத்தவர் நட்பு.”
+
+While the precise former-birth episode of Vasudatta and Pulindaka is preserved in the Kathasaritasagara account, the Jimutavahana legend belongs to the older Brihatkatha story tradition, and its better-known self-sacrifice episode is also dramatized in Harsha's Nagananda. 
+
+#### Doctrinal corroboration of remembrance of friendship across births
+
+A doctrinal expression of remembrance across births occurs in the Yogini Tantra (133): मित्राणि सख्यः सुहृदश्च सर्वे स्वपक्षाश्च तथाश्च कृतोपकाराः \| जन्मान्तरे ये मम संगताश्च तेभ्योऽन्तिमं पिण्डमहं ददामि \|\| — to all friends, companions, well-wishers, those who have stood by me, those who have rendered me assistance, and those who were associated with me in another birth, I offer this final pinda. Here the remembrance of relationships from previous births is expressed through the ritual offering of pinda. Particularly noteworthy is the explicit inclusion of those who have rendered assistance, कृतोपकाराः, alongside friends and well-wishers. The verse thus provides a ritual corroboration of the enduring remembrance of relationships and benefits extending beyond the present birth.
+
+The Bodhisattvabhumi offers an even more explicit doctrinal formulation through the expression पूर्वजन्मसुहृत्संज्ञा, the perception of beings as friends from previous births. It enumerates five perceptions cultivated by the Bodhisattva, the first being पूर्वजन्मसुहृत्संज्ञा. It then explains how the Bodhisattva cultivates this perception even toward those who cause injury: कथञ्च बोधिसत्त्वोऽपकारिषु सत्त्वेषु सुहृत्संज्ञां भावयति \| इह बोधिसत्त्व इदं प्रतिसंशिक्षते \| नासौ सत्त्वः सुलभरूपो यो मे न दीर्घस्याध्वनोऽत्ययात् पूर्वमन्यासु जातिषु माता वाभूत् पिता वा भ्राता वा भगिनी वा आचार्यो वा उपाध्यायो वा गुरुर्वा गुरुस्थानीयो वा \| The Bodhisattva reflects that, over the long course of previous births, there is scarcely any being who has not been his mother, father, brother, sister, teacher, or spiritual guide. The passage concludes: तस्यैवं योनिशो मनसिकुर्वतः प्रत्यर्थिकसंज्ञा अपकारिषु सत्त्वेषु अन्तर्धीयते सुहृत्संज्ञा च संतिष्ठते । स तां सुहृत्संज्ञां निश्रित्यापकारान् मर्षयति क्षमते \|\| — through this reflection, the perception of an adversary disappears and the perception of a friend remains; relying on this perception of friendship, he patiently endures injuries.
+
+Patanjali’s Yoga Sutra 3.18 provides a doctrinal corroboration for the kural’s premise that knowledge and remembrance of relationships formed in previous births can persist across successive births: संस्कारसाक्षात्करणात् पूर्वजातिज्ञानम् — “Through direct perception of latent impressions, knowledge of previous births arises.
+
+#### Partial corroborations
+
+The Mahabharata, Anushasana Parva 13.105.8 (verse numbering varies across editions), offers a broader reflection on friendship and gratitude. In the narrative of Gautama and the elephant he had rescued and raised, Gautama protests when Indra, disguised as Dhritarashtra, attempts to take the elephant away: मा मे हार्षीर्हस्तिनं पुत्रमेनं दुःखात्पुष्टं धृतराष्ट्राकृतज्ञ \| मित्रं सतां सप्तपदं वदन्ति मित्रद्रोहो नैव राजन्स्पृशेत्त्वाम् \|\| — Do not take away this elephant, whom I have raised through hardship, O ungrateful Dhritarashtra; the virtuous say that seven steps taken together establish friendship; may betrayal of a friend never touch you, O king. The passage corroborates the broader connection between friendship, gratitude, and fidelity. Its maxim मित्रं सतां सप्तपदं वदन्ति, interestingly, associates friendship with seven steps taken together, though this is distinct from the kural’s எழுமை யெழுபிறப்பு; likewise, दुःख here refers to hardship endured in raising the elephant, not to the விழுமம் removed by the benefactor in the kural. It is therefore a partial thematic corroboration, not a parallel.
+
+The Guru Gita offers an indirect corroboration through its teaching on remembrance of the guru. Verse 102 states: यावत्कल्पान्तको देहस्तावदेव गुरुं स्मरेत् \| गुरुलोपो न कर्तव्यः स्वच्छन्दो यदि वा भवेत् \|\| — Until the end of the cosmic cycle, one should remember the guru; one should never abandon the guru, even if one becomes independent. If कल्पान्त is understood as the end of the cosmic cycle, the injunction suggests remembrance extending across successive births, thus corroborating the kural’s emphasis on enduring remembrance of a bond formed with one who has dispelled one's distress. The Guru Gita further characterizes the guru through familial and relational terms in verse 66: स पिता स च मे माता स बन्धुः स च देवता \| संसारमोहनाशाय तस्मै श्रीगुरवे नमः \|\| — “He is my father, my mother, my kinsman, and my deity; homage to that guru who destroys the delusion of saṃsāra.” The expression स बन्धुः, together with संसारमोहनाशाय, offers a further resonance with the relational and salvific dimensions of விழுமந் துடைத்தவர் நட்பு.
+
+### On எழுமை and எழுபிறப்பு
+
+While the expressions எழுமை and எழுபிறப்பு admit multiple interpretations, their precise numerical and cosmological implications are not central to the correspondence. The kural's essential point is that the friendship of one who has removed our distress is to be remembered not merely throughout the present life, but across successive births. The Kathasaritasagara gives this principle a particularly vivid narrative expression: a life-saving act creates a bond that survives death, is remembered in another birth, and finds renewed expression in friendship and reciprocation. The doctrinal passages reinforce the same enduring conception of relationships, gratitude, and remembrance. 
+
+Parimelazhakar's commentary on this kural offers an interesting distinction between the two expressions: 'எழுமை' என்றது வினைப்பயன் தொடரும் ஏழு பிறப்பினை: அது வளையாபதியுள் கண்டது. எழுவகைப் பிறப்பு மேலே உரைத்தாம் (குறள் 62). He interprets எழுமை as the seven successive births through which the consequences of karma continue, citing Valaiyapathi, while எழுபிறப்பு refers to the seven kinds of embodied existence that he had previously enumerated in his commentary on kural 62:
+
+  - The surviving Valaiyapathi fragment (verse 5) supports the idea of successive births shaped by karma, although it does not specifically mention seven: <br> வினை பல வலியினாலே வேறுவேறு யாக்கை ஆகி  <br> நனி பல பிறவி தன்னுள் துன்புறூஉம் நல் உயிர்க்கு  <br> மனிதரின் அரியது ஆகும் தோன்றுதல் தோன்றினாலும்  <br> இனியவை நுகர எய்தும் செல்வமும் அன்னதேயாம்.
+    - Through the force of many karmic deeds, taking different bodies, the good soul suffers through numerous births. Even so, birth as a human being is difficult to obtain; and even when born, the prosperity needed to enjoy life's pleasures is equally difficult to attain. The fragment corroborates the conception of repeated births and the continuity of karmic consequences, but does not independently establish the number seven.
+  - Parimelazhakar's commentary on kural 62 supplies the seven categories of birth through the following venpa: <br> ஊர்வ பதினொன்றாம் ஒன்பது மானிடம்  <br> நீர்பறவை நாற்கால் ஓர் பப்பத்துச் — சீரிய  <br> பந்தமாம் தேவர் பதினாலு அயன்படைத்த <br> அந்தமில் சீர்த்தாவரம் நாலைந்து.
+    - These enumerate the seven categories as crawling beings, humans, aquatic creatures, birds, quadrupeds, celestial beings, and plants. Thus, in Parimelazhakar's interpretation, the two expressions invoke both the continuity of karmic existence through successive births and the different forms of embodied existence.
+
+The Skanda Purana, Kashi-khansa 4.51.77–80, offers further lexical corroboration for the association of seven with successive births, although the verses concern the accumulation and expiation of sin rather than friendship. Verse 77 states: स्नात्वोषसि नरो मौनी केशवादित्यपूजनात् \| सप्तजन्मार्जितात्पापान्मुक्तो भवति तत्क्षणात् \|\| — through the worship of Keshavaditya, a person is immediately freed from sins accumulated over seven births. Verse 78 has the devotee pray: यद्यज्जन्मकृतं पापं मया सप्तसु जन्मसु \| तन्मे रोगं च शोकं च माकरी हंतु सप्तमी \|\| — whatever sins I have committed in each of my seven births, may Makari Saptami destroy them, along with my disease and sorrow. Verse 79 further distinguishes sins committed in the present birth from those accumulated in other births: एतज्जन्मकृतं पापं यच्च जन्मांतरार्जितम् \| मनोवाक्कायजं यच्च ज्ञाताज्ञाते च ये पुनः \|\|. Verse 80 concludes by referring to सप्तविधं पापम्, a sevenfold sin. These passages demonstrate that expressions involving seven births and sevenfold categories could carry distinct but related meanings in Sanskrit religious literature.
 
 
 ### Verse 8
@@ -77,6 +120,14 @@ The Padma Purana, Uttarakhanda 6.217.36, offers the alternative reading of this 
 The principle matching the primary reading of the kural is exemplified in Valmiki's description of Rama in the Ramayana Ayodhya Kanda 2.1.11: कथञ्चिदुपकारेण कृतेनैकेन तुष्यति \| न स्मरत्यपकाराणां शतमप्यात्मवत्तया \|\|. நன்றி corresponds to उपकार, and நன்றல்லது to अपकार; மறப்பது finds its counterpart in न स्मरति. Rama is pleased even by a single benefaction, however modestly rendered (कथञ्चिदुपकारेण कृतेनैकेन तुष्यति), and, through his self-mastery (आत्मवत्तया), does not retain in memory even a hundred injuries (न स्मरत्यपकाराणां शतमपि). The expression तुष्यति adds a further dimension to Valluvar's injunction: Rama's remembrance of a benefaction is imbued with contentment and joy, rather than being a grudging acknowledgment of an obligation to be repaid.
 
 ### Verse 9
+
+I propose Valmiki Ramayanam, Ayodhya Kanda 2.1.16 as the primary parallel for this kural. The expression அவர்செய்த வொன்றுநன் றுள்ள corresponds to उपकारेण कृतेनैकेन, while கொன்றன்ன இன்னா செயினும் finds its counterpart in अपकाराणां शतमपि: even a hundred injuries are outweighed by a single benefit previously rendered. The concluding கெடும் is expressed through न स्मरति, with स्मरति also corresponding to உள்ள in the sense of remembering or keeping something in mind. The principal difference is in the magnitude used to characterize the subsequent injury: Valmiki speaks of अपकाराणां शतमपि, a hundred offenses, whereas Valluvar uses கொன்றன்ன, an injury equivalent to killing. Both thus convey the extraordinary magnanimity of remembering even a single benefit despite the gravity or multitude of subsequent injuries.
+
+The reading of கெடும் as न स्मरति is also supported by Parimelazhakar's gloss: தமக்கு முன் ஒரு நன்மை செய்தவர், பின் கொன்றால் ஒத்த இன்னாதவற்றைச் செய்தாராயினும்; அவையெல்லாம் அவர் செய்த நன்மை ஒன்றனையும் நினைக்க இல்லையாம். In particular, his explanation நினைக்க இல்லையாம் makes explicit the sense of not retaining the subsequent injuries in one's thought.
+
+A closely related formulation occurs in Mahabharata, Vana Parva 3.28.26 (Gita Press): पूर्वोपकारी यस्तु स्यादपराधे गरीयसि \| उपकारेण तत्तस्य क्षन्तव्यमपराधिनः \|\| — when someone has previously rendered assistance, even a grave offense committed by that person should be forgiven in consideration of the earlier benefit. The expression पूर्वोपकारी यस्तु स्यात् recalls the benefactor implicit in அவர்செய்த வொன்றுநன்று, while अपराधे गरीयसि corresponds to கொன்றன்ன இன்னா செயினும்: even when the subsequent offense is grave—Valluvar's specific illustration being an injury equivalent to killing—the earlier benefit remains the ground for forgiveness, उपकारेण तत्तस्य क्षन्तव्यम्. The Mahabharata thus articulates the same principle through the explicit prescription of forgiveness, उपकारेण तत्तस्य क्षन्तव्यम्, while Valluvar and Valmiki express it through the remembrance of a prior benefit and the consequent overlooking of subsequent offenses. *Note: There is a textual variation worth noting: the BORI Critical Edition reads अगरीयसि in place of गरीयसि in the Gita Press text. The Gita Press wording matches the text included with the Nilakantha commentary.*
+
+Another interesting, though more indirect, resonance occurs in Valmiki Ramayanam, Kishkindha Kanda 4.33.10: पूर्वं कृतार्थो मित्राणां न तत् प्रतिकरोति यः \| कृतघ्नः सर्वभूतानां स वध्यः प्लवगेश्वर\|\| — one who has previously received benefits from friends but does not reciprocate them is ungrateful and deserves to be slain, O lord of the Vanaras. The expression पूर्वं कृतार्थः introduces the idea of having previously received a benefit, recalling ஒன்றுநன்று உள்ள, although Valmiki's concern here is the reciprocation of that benefit rather than its remembrance in the face of subsequent injury. The expression स वध्यः also offers an interesting lexical resonance with கொன்றன்ன, but the two use the idea of killing in quite different ways: Valluvar invokes killing to convey the magnitude of the injury, whereas Valmiki invokes it as the punishment deserved by the ungrateful person. The verse occurs in Sugriva's confrontation with his failure to fulfill his obligation to Rama. It belongs to the same larger admonition that culminates in Kishkindha Kanda 4.33.12, which offers a much closer parallel to the following kural, எந்நன்றி கொன்றார்க்கும்.
 
 
 ### Verse 10
@@ -100,37 +151,13 @@ The Sanskrit keywords of relevance capture the themes:
     • செய்ந்நன்றி கொன்ற : कृतघ्न
     • காலத்தினால் செய்த நன்றி : काले कृतम् / ददाति काले
     • நட்பு : मित्रत्वं
-    • உதவி : उपकार 
-    • உதவி வரைத்தன் றுதவி प्रत्युपकार
+    • நன்றி / உதவி : उपकार 
+    • உதவி வரைத்தன் றுதவி : प्रत्युपकार
     • செய்யாமற் செய்த உதவி : पूर्वोपकारिणा / उपकारपरः    
     • பயன்றூக்கார் செய்த வுதவி :   कृते निष्कारणमेव / नहि प्रत्युपकाराणामपेक्षा / परोपकार 
 
-Mahabharata Shantui Parva matches 1 and 3; Bhartrihar Nitshatakam matches 2,6,7;  Mahabharata Shanti Parva captures 2.
+Ramayana gives us two clusters: one in terms of Rama's attributes and another in terms's Sugriva's gratitude. Yoga Vasishtha relates to Rama's character as it was Upadesha given to Rama. Bhartrihari Nitshatakam matches 2,6,7, in terms of characteristics of a good friend. Mahabharata Shanti Parva cat and mouse episode matches kurals 1 and 3, but Mahabharata corroborates several kurals. These are themes worth highlighting.  
 
-Manakkudavar order: 6,8,1,3,2,4,7,5,9,10
-
-
-| [5](#verse-5) | உதவி வரைத்தன் றுதவி யுதவி <br> செயப்பட்டார் சால்பின் வரைத்து | |
-
-    • I am thinking Chanakya Niti should be the primary parallel. In fact we can explain the nature of both matter in this kural. Then we present the Nala episode saying the size of the reciprocity depends on the means. Sudama corroborates both viewpoints -- the size of the favor depends on the means and intention; the size of the reciprocity depends on the means of the reciprocator. 
-    • Chanakya Nīti Sūtra 6.32,
-        ◦ स्वल्पोपकारकृतेऽपि प्रत्युपकारं कर्तुमार्यो जागर्ति ॥ 
-        ◦ A noble person is ever ready to reciprocate, even for a small benefaction. 
-        ◦ Earlier in 6.29
-            ▪ तिलमात्रमप्युपकारं शैलमात्रं मन्यते साधुः ॥
-            ▪ A virtuous person regards even a benefaction as small as a sesame seed to be as great as a mountain.
-        ◦ Read together they convey the kural’s idea that the reciprocation depends on the character of the recipient not the size of the original benefaction. 
-    • Śrīharṣa's Naiṣadhīyacarita, Sarga II, verse 14 
-        ◦ अचिरादुपकर्तुराचरेदथवात्मौपयिकीमुपक्रियाम् । पृथुरित्थमथाणुरस्तु सा न विशेष विदुषामिह ग्रहः ॥
-        ◦ It occurs in the episode of the swan's gratitude to Nala, and its language comes unusually close to the distinction we are investigating.
-        ◦ The preceding verse has the swan acknowledge that, although it is only a bird and cannot adequately repay Nala, it is nevertheless impelled to return the benefit. Verse 14 then says that one should promptly perform a reciprocal service to one's benefactor, suited to one's own means; whether that service is great or small is not a matter on which the wise insist. 
-        ◦ This illuminates செயப்பட்டார் சால்பின் வரைத்து from the perspective of the reciprocator's capacity and disposition. The size of the return is not an absolute measure of gratitude. 
-    • Ramayana 4.27.45
-        ◦ उपकारेण वीरस्तु प्रतिकारेण युज्यते । अकृतज्ञोऽप्रतिकृतो हन्ति सत्त्ववतां मनः ॥
-        ◦ The idea is that a virtuous person responds to assistance with reciprocal assistance; failure to reciprocate wounds the hearts of the virtuous.
-        ◦ उपकारेण वीरस्तु प्रतिकारेण युज्यते matches the உதவி வரைத்தன் றுதவி யுதவி, but the cheyyappattar salbu is only obliquely referenced in the negative case where the ingratitude and non-reciprocity is condemned. 
-    • The Sudāmā episode in the *Śrīmad Bhāgavata* (10.81.3, 6–7) offers an illuminating narrative corroboration. Kṛṣṇa asks Sudāmā what gift he has brought and declares: **किमुपायनमानीतं ब्रह्मन्मे भवता गृहात् । अण्वप्युपाहृतं भक्तैः प्रेम्णा भूर्येव मे भवेत् । भूर्यप्यभक्तोपहृतं न मे तोषाय कल्पते ॥** (10.81.3)—even the smallest offering, when presented with love by a devotee, becomes great to Him, whereas even a substantial offering made without devotion does not please Him. Sudāmā's humble offering of flattened rice, made not from any desire for material wealth but out of affection, thus reveals his own disposition. Kṛṣṇa, recognising this, understands that Sudāmā has never approached Him seeking prosperity and has now come out of affection for his devoted wife: सर्वभूतात्मदृक् साक्षात् तस्यागमनकारणम् । ज्ञायाचिन्तयन्नायं श्रीकामो माभजत्पुरा ॥ पत्न्याः पतिव्रतायास्तु सखा प्रियचिकीर्षया । प्राप्तो मामस्य दास्यामि सम्पदोऽमर्त्यदुर्लभाः ॥. The important part is **श्रीकामो नाभजत्पूर्वं ...  प्राप्तो मामस्य दास्यामि सम्पदोऽमर्त्यदुर्लभाः. Krishna resolves to bestow upon him riches beyond the reach of the immortals. The smallness of Sudāmā's offering and the immensity of Kṛṣṇa's reciprocation are thus not measures of material exchange, but expressions of their respective natures. This illuminates Valluvar's **உதவி வரைத்தன்று உதவி**: the return is not bounded by the magnitude of the original benefit, but is **செயப்பட்டார் சால்பின் வரைத்து**—measured by the character of the one who reciprocates. This episode beautifully brings both dimensions together.  A theme here is the close connection between gratitude and friendship that is seen repeatedly across several kurals in this chapter.
-      
 
 | [6](#verse-6) | மறவற்க மாசற்றார் கேண்மை துறவற்க <br> துன்பத்துட் டுப்பாயார் நட்பு | |
 
@@ -149,93 +176,7 @@ Manakkudavar order: 6,8,1,3,2,4,7,5,9,10
         ◦ स सुहृद् व्यसने यः स्यात् स पुत्रो यस्तु भक्तिमान् । स भृत्यो यो विधेयज्ञः सा भार्या यत्र निर्वृतिः ॥ He is a true friend who stands by one in adversity; he is a true son who is devoted, a true servant who is obedient, and a true wife who brings happiness.
         ◦ The context is the story of the crow, deer and other animals. The verses establish that friendship is demonstrated by conduct in adversity, not by outward association or convenience. The repeated स सुहृद् व्यसने यः स्यात् resonates with the kural’s துறவற்க துன்பத்துட் டுப்பாயார் நட்பு where the துறவற்க is implicit 
 
-
-| [7](#verse-7) | எழுமை யெழுபிறப்பு முள்ளுவர் தங்கண் <br> விழுமந் துடைத்தவர் நட்பு | |
-
-    • Somadeva’s Kathāsaritsāgara 4th Lambaka verse 53: narrative corroboration
-        ◦ त्वं च तत्रैव मे जातो द्वितीयं हृदयं सुहृत् । जातिस्मरोऽस्म्यहं सर्वं पूर्वजन्म स्मरामि तत् ।।
-        ◦ You too were my friend there, as though my second heart. I remember the events of my previous birth, for I possess recollection of former births. Jīmūtavāhana recognizes Mitrāvasu as his friend from a previous birth. This is a very good lexical and conceptual correspondence for நட்பு ... உள்ளுவர் ... எழுமை எழுபிறப்பு. 
-        ◦ The distress and the rescue — verses 64–66
-            ▪ तत्राहमुपहारार्थमुपनीतो निजस्य तैः । प्रभोः पुलिन्दकाख्यस्य देवीं पूजयतोऽन्तिकम् ॥स दृष्ट्वैवार्द्रहृदयः शबरोऽप्यभवन्मयि । व्यक्तिं जन्मान्तरप्रीतिर्मनःस्निग्धवशाद्गता ॥ ततो मां मोचयित्वैव बभाषे शबराधिपः । ऐच्छदात्मोपहारेण कर्तुं पूजासमापनम् ॥
-            ▪ Vasudatta (the former birth of Jīmūtavāhana) has been captured by robbers and brought to Pulindaka to be offered as a sacrifice. Pulindaka's heart melts with compassion at seeing him. He releases Vasudatta and then offers himself as the sacrificial victim. The remarkable expression in verse 65 is जन्मान्तरप्रीतिः: the spontaneous affection is understood as the manifestation of a relationship of love from a previous birth.
-            ▪ 
-        ◦ Wish for friendship in another birth — verses 67–69
-            ▪ मैवं कृथाः प्रसन्नास्मि तव याचस्व मां वरम् । इत्युक्तो दिव्यया वाचा प्रहृष्टश्च जगाद सः ॥ त्वं प्रसन्ना वरः कोऽन्यस्त्वत्प्राप्त्यानावयोर्द्वयोः । जन्मान्तरेऽपि मे सख्यमनेन वणिजास्त्विति ॥ एवमस्त्विति शान्तायां वाचि मां शबरोऽथ सः । प्रदत्तमविगण्यैवं प्रेषयामास निजं गृहम् ॥
-            ▪ When the goddess offers Pulindaka a boon, his request is not wealth, power, or personal reward. He asks that his friendship with this merchant continue in another birth: जन्मान्तरेऽपि मे सख्यम्.
-            ▪ The narrative then shows that this wish is fulfilled: Pulindaka is reborn as Mitrāvasu, and Vasudatta as Jīmūtavāhana. Jīmūtavāhana remembers their former relationship and tells Mitrāvasu that he had been his friend in the previous birth.
-            ▪ Though our parallel is from the later Katahsartiasagara text, the Jimutavahana story is part of the earlier Brihat Katha tradition and is also found in Nagananda.
-
-    • Yoginī Tantra 133:
-        ◦ मित्राणि सख्यः सुहृदश्च सर्वे स्वपक्षाश्च तथाश्च कृतोपकाराः । जन्मान्तरे ये मम संगताश्च तेभ्योऽन्तिमं पिण्डमहं ददामि ॥
-        ◦ All friends, companions and well-wishers, those who have been on my side, and those who have rendered me assistance; and those who were associated with me in another birth—to all of them I offer this final piṇḍa
-    • Bodhisattvabhūmi — पूर्वजन्मसुहृत्संज्ञा
-        ◦ The text enumerates five perceptions: पञ्च संज्ञाः कतमाः । पूर्वजन्मसुहृत्संज्ञा । धर्ममात्रानुसारिणीसंज्ञा । अनित्यसंज्ञा । दुःखसंज्ञा । परिग्रहसंज्ञा चेति ॥
-        ◦ It then explains the first: कथञ्च बोधिसत्त्वोऽपकारिषु सत्त्वेषु सुहृत्संज्ञां भावयति । इह बोधिसत्त्व इदं प्रतिसंशिक्षते । नासौ सत्त्वः सुलभरूपो यो मे न दीर्घस्याध्वनोऽत्ययात् पूर्वमन्यासु जातिषु माता वाभूत् पिता वा भ्राता वा भगिनी वा आचार्यो वा उपाध्यायो वा गुरुर्वा गुरुस्थानीयो वा ।
-        ◦ The Bodhisattva trains himself to regard even those who harm him as friends. He reflects that, over the long course of previous births, there is scarcely any being who has not been his mother, father, brother, sister, teacher, or spiritual guide.
-        ◦ The passage concludes: तस्यैवं योनिशो मनसिकुर्वतः प्रत्यर्थिकसंज्ञा अपकारिषु सत्त्वेषु अन्तर्धीयते सुहृत्संज्ञा च संतिष्ठते । स तां सुहृत्संज्ञां निश्रित्यापकारान् मर्षयति क्षमते ॥
-        ◦ Through this reflection, the perception of an adversary disappears and the perception of a friend remains. On that basis, the Bodhisattva patiently endures injuries. 
-    • Mahābhārata Anushasana Parva 13.105.8 — friendship and the number seven
-        ◦ मा मे हार्षीर्हस्तिनं पुत्रमेनं दुःखात्पुष्टं धृतराष्ट्राकृतज्ञ । मित्रं सतां सप्तपदं वदन्ति मित्रद्रोहो नैव राजन्स्पृशेत्त्वाम् ॥
-        ◦ The verse invokes the maxim मित्रं सतां सप्तपदं वदन्ति—the virtuous regard seven steps taken together as sufficient to establish friendship. It also addresses Dhṛtarāṣṭra as अकृतज्ञ, ungrateful, and warns against betraying a friend.
-        ◦ We can introduce the verse about मित्रं सतां सप्तपदम्, together with its narrative context of Gautama and the elephant. It offers a traditional reflection on friendship, gratitude, and the bond formed through companionship. We should explicitly acknowledge the possible wedding-rite resonance of saptapadam (the previous verse identifies who was his wife in a previous birth), and avoid interpreting it as seven births.
-    • Guru Gītā 102 — explicit remembrance through successive births
-        ◦ यावत् कल्पान्तको देहस्तावदेव गुरुं स्मरेत् । गुरुलोपो न कर्तव्यः स्वच्छन्दो यदि वा भवेत् ॥
-        ◦ To the end of the cosmic cycle, whenever one takes an embodied birth, one should remember the guru (can be seen as vizhumam thudaitthavar based on the Advayataraka Upanishad definition of guru); the verse further says even after attaining realization and becoming independent of the guru, one must not cease remembering him. 
-        ◦ Connect to kural fragments – does not say seven or friendship
-        ◦ Guru Gita 1.66 corroborates
-            ▪ स पिता स च मे माता स बन्धुः स च देवता । संसारमोहनाशाय तस्मै श्रीगुरवे नमः ॥ “He is my father, he is my mother, he is my kinsman, and he is my deity; homage to that guru who destroys the delusion of saṃsāra.”
-            ▪ guru is connected with bandhu, which resonates with friendship, and  संसारमोहनाशाय is one possible reading of vizhumai thudaippathu
-### On ezhumaiyum ezhu pirappum
-
-    • Parimelazhakar gloss: 'எழுமை' என்றது வினைப்பயன் தொடரும் ஏழு பிறப்பினை: அது வளையாபதியுள் கண்டது. எழுவகைப் பிறப்பு மேலே உரைத்தாம் [குறள் 62] [எழு பிறப்பு - எழுவகைப் பிறப்பு]
-        ◦ எழுமை is Seven successive births through which karmic consequences continue; எழுபிறப்பு is Seven kinds of embodied existence
-        ◦ The closest surviving passage is Valaiyapathi 5, particularly lines 1–2:
-            ▪ வினை பல வலியினாலே வேறுவேறு யாக்கை ஆகி 
-நனி பல பிறவி தன்னுள் துன்புறூஉம் நல் உயிர்க்கு
-மனிதரின் அரியது ஆகும் தோன்றுதல் தோன்றினாலும்
-இனியவை நுகர எய்தும் செல்வமும் அன்னதேயாம்
-            ▪ Through the force of many karmic deeds, taking different bodies, the good soul suffers within many births. Even so, birth as a human being is difficult to obtain; and even when born, the prosperity needed to enjoy life's pleasures is equally difficult to attain.”
-                • Seven is not corroborated
-        ◦ Parimelazhagar's commentary on Kural 62 gives the following venpa:
-ஊர்வ பதினொன்றாம் ஒன்பது மானிடம்
-நீர்பறவை நாற்கால் ஓர் பப்பத்துச் — சீரிய
-பந்தமாம் தேவர் பதினாலு அயன்படைத்த
-அந்தமில் சீர்த்தாவரம் நாலைந்து.
-            ▪ This enumerates the seven kinds of birth: Creeping/crawling beings; Human beings; Aquatic beings; Birds; Quadrupeds; Celestial beings / gods; Plants and vegetation 
-    • Skanda Purana, Kāśī-khaṇḍa 4.51.77–80
-        ◦ स्नात्वोषसि नरो मौनी केशवादित्यपूजनात् । सप्तजन्मार्जितात्पापान्मुक्तो भवति तत्क्षणात् ॥ यद्यज्जन्मकृतं पापं मया सप्तसु जन्मसु । तन्मे रोगं च शोकं च माकरी हंतु सप्तमी ॥ एतज्जन्मकृतं पापं यच्च जन्मांतरार्जितम् । मनोवाक्कायजं यच्च ज्ञाताज्ञाते च ये पुनः ॥ इति सप्तविधं पापं स्नानान्मे सप्तसप्तिके । सप्तव्याधिसमायुक्तं हर माकरि सप्तमि ॥
-        ◦ Ezhumai + ezhupirappum could have multiple interpretations
-            ▪ सप्तजन्मार्जितात् — accumulated over seven births.
-            ▪ सप्तसु जन्मसु — in seven births.
-            ▪ सप्तविधं पापम् — sevenfold sin.
-            ▪ सप्तसप्तिके — an address to the goddess in connection with the seven-horsed Sun.
-        ◦ While these verses do not convey the message of the kural, they corroborate karmic accounting across seven births; also suggests that Valluvar’s ezhumai could have multiple interpretations
-    • We can acknowledge that no single Sanskrit verse exactly matches the Kural, without diminishing the strength of the combined evidence.I think we can refine the research note this way. Let us present Katahsaritasagara as the primary parallel. In the correspondence note, we can introduce the other verses that provide the narrative context that strengthens the essence of the kural and also note that the Jimutavahana/Vasudatta story is part of a much older Brihat Katha tradition and the story is also mentioned in Nagananda. Then we provide doctrinal corroboration, first via the Yogini Tantra where the remembrance is ritualistic offerings, and through the Bodhisattvabhumi where the remembrance is literal as with Jimutavahana. Then we present the Mahbharata and Guru Gita as other corroborations. Then we do the excursus on ezhumai and ezhu pirappu with Parimelazhakar, Valaiyapathi, and Skanda Purana. We can also note that while multiple interpretations of these words are possible, the exact lexical interpretation is not central to the message of the kural, which is about remembering a friend who helped in adversity not just in this life, but across multiple lifetimes
-
-        
-| [9](#verse-9) | கொன்றன்ன வின்னா செயினு மவர்செய்த <br> வொன்றுநன் றுள்ளக் கெடும் | |
-
-    • Valmiki Ramayana — Ayodhya Kanda 2.1.16 (Baroda Critical Edition)
-        ◦ कथञ्चिदुपकारेण कृतेनैकेन तुष्यति । न स्मरत्यपकाराणां शतमप्यात्मवत्तया ॥
-        ◦ A person of noble self-command is satisfied even by a single benefit rendered; owing to his magnanimity, he does not remember even a hundred injuries.
-        ◦ Principal correspondence: மவர்செய்த வொன்றுநன் றுள்ளக்  — उपकारेण कृतेनैकेन ; கொன்றன்ன இன்னா செயினு ம — अपकाराणां शतमपि’ ; கெடும் — न स्मरति
-            ▪ smarati also matches the ulla in the sense of to remember or think
-        ◦ Parimelazhakar gloss: தமக்கு முன் ஒரு நன்மை செய்தவர், பின் கொன்றால் ஒத்த இன்னாதவற்றைச் செய்தாராயினும்; அவையெல்லாம் அவர் செய்த நன்மை ஒன்றனையும் நினைக்க இல்லையாம்.
-            ▪ Reading கெடும் as न स्मरति is corroborated  by நினைக்க இல்லையாம்.
-
-    • Mahabharata Vana Parva 3.28.26 (Gita Press)
-        ◦ पूर्वोपकारी यस्तु स्यादपराधे गरीयसि । उपकारेण तत्तस्य क्षन्तव्यमपराधिनः ॥
-        ◦ If a person has previously rendered assistance, then even when the offence is grave, that offence should be forgiven in consideration of the earlier benefit.
-        ◦ Connect to the kural wording
-        ◦ Note: The BORI edition has the opposite, agariyasi, a textual variation, but  
-    • Valmiki Ramayana 4.33.10
-        ◦ पूर्वं कृतार्थो मित्राणां न तत् प्रतिकरोति यः । कृतघ्नः सर्वभूतानां स वध्यः प्लवगेश्वर ॥
-        ◦ A person who has previously received benefits from friends but does not reciprocate them is ungrateful and deserves to be slain, O lord of the Vanaras.
-        ◦ This verse is interesting for these reasons: 
-            ▪ पूर्वं कृतार्थः introduces the idea of a person who has previously received a benefit. This resonates with ஒன்றுநன்று உள்ள, but the Ramayana is concerned with reciprocating that benefit rather than remembering it in the face of subsequent injury.
-            ▪ स वध्यः introduces the idea that an ungrateful person deserves to be slain. This is an interesting lexical resonance with கொன்றன்ன, but the two verses use the idea of killing in entirely different ways. Valluvar describes the magnitude of the injury; Valmiki describes the punishment deserved by the ungrateful person.
-            ▪ This verse belongs to Sugriva's confrontation with his failure to fulfil his obligation to Rama. It is part of the same larger admonition that culminates in Kishkindha Kanda 4.33.12 that parallels the next kural (எந்நன்றி கொன்றார்க்கு) closely.
-            
+        -->
 
 
--->
+
