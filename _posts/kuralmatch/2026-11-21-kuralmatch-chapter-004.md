@@ -71,7 +71,6 @@ tags: [kuralmatch]
 
 The verses in Manakkudavar order are: 1, 3, 6, 7, 9, 8, 10, 2, 5, 4
 
-
 | [1](#verse-1) | சிறப்பீனுஞ் செல்வமு மீனு மறத்தினூஉங் <br> காக்க மெவனோ வுயிர்க்கு |  |
 
     • Mahabharata Shanti Parva 12.109.10 (Gita Press and Nilakantha commentary):
@@ -103,7 +102,6 @@ The verses in Manakkudavar order are: 1, 3, 6, 7, 9, 8, 10, 2, 5, 4
     • Manusmṛti 8.15:
         ◦ धर्म एव हतो हन्ति धर्मो रक्षति रक्षितः । तस्माद्धर्मो न हन्तव्यो मा नो धर्मो हतोऽवधीत् ॥
         ◦ Dharma, when violated, destroys; when protected, it protects. Therefore, one must not violate dharma, lest violated dharma destroy us.
-
 
 | [3](#verse-3) | ஒல்லும் வகையா னறவினை யோவாதே <br> செல்லும்வா யெல்லாஞ் செயல் |  |
 
